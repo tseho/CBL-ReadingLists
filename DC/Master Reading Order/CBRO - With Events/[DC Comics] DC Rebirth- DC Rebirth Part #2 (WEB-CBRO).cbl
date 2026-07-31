@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Rebirth- DC Rebirth Part #2 (WEB-CBRO)</Name>
-<NumIssues>862</NumIssues>
+<NumIssues>861</NumIssues>
 <Books>
 <Book Series="Batman" Number="33" Volume="2016" Year="2017">
 <Database Name="cv" Series="91273" Issue="630485" />
@@ -2162,9 +2162,6 @@
 </Book>
 <Book Series="The Unexpected" Number="8" Volume="2018" Year="2019">
 <Database Name="cv" Series="111447" Issue="696935" />
-</Book>
-<Book Series="The Flash Annual" Number="2" Volume="2016" Year="2019">
-<Database Name="cv" Series="108248" Issue="699372" />
 </Book>
 <Book Series="The Silencer" Number="11" Volume="2018" Year="2019">
 <Database Name="cv" Series="108263" Issue="693446" />
