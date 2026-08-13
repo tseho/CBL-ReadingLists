@@ -3,7 +3,7 @@
 <Name>[Marvel] 2012-2015 Part 5.1 Mist Marvels (MG)</Name>
 <NumIssues>21</NumIssues>
 <Books>
-<Book Series="Inhumanity" Number="1" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="435583" />
 </Book>
 <Book Series="Captain Marvel" Number="17" Volume="2012" Year="2014">
@@ -24,10 +24,10 @@
 <Book Series="Ms. Marvel" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="71457" Issue="457643" />
 </Book>
-<Book Series="Inhumanity: The Awakening" Number="1" Volume="2013" Year="2014">
+<Book Series="Inhumanity: The Awakening" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69866" Issue="436199" />
 </Book>
-<Book Series="Inhumanity: The Awakening" Number="2" Volume="2013" Year="2014">
+<Book Series="Inhumanity: The Awakening" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69866" Issue="441415" />
 </Book>
 <Book Series="Uncanny X-Men" Number="15" Volume="2013" Year="2014">
@@ -63,7 +63,7 @@
 <Book Series="Mighty Avengers" Number="5" Volume="2013" Year="2014">
 <Database Name="cv" Series="67223" Issue="442926" />
 </Book>
-<Book Series="Inhumanity" Number="2" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="443983" />
 </Book>
 </Books>

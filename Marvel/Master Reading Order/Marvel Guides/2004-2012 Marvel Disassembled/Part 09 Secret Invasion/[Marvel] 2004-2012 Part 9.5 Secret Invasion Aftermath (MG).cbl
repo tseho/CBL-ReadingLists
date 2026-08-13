@@ -7,7 +7,7 @@
         <Book Series="Avengers: The Initiative" Number="19" Volume="2007" Year="2009">
             <Database Name="cv" Series="18419" Issue="146802" />
         </Book>
-        <Book Series="New Avengers" Number="47" Volume="2004" Year="2009">
+        <Book Series="New Avengers" Number="47" Volume="2005" Year="2009">
             <Database Name="cv" Series="11497" Issue="144345" />
         </Book>
         <Book Series="Secret Invasion: The Amazing Spider-Man" Number="3" Volume="2008" Year="2008">

@@ -48,19 +48,19 @@
     <Book Series="Black Panther" Number="4" Volume="1988" Year="1988">
       <Database Name="cv" Series="4045" Issue="30207" />
     </Book>
-    <Book Series="Black Panther: Panther's Quest" Number="1" Volume="2017" Year="2017">
+    <Book Series="Black Panther: Panther&apos;s Quest" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="107355" Issue="649727" />
     </Book>
-    <Book Series="Black Panther: Panther's Prey" Number="1" Volume="1991" Year="1991">
+    <Book Series="Black Panther: Panther&apos;s Prey" Number="1" Volume="1991" Year="1991">
       <Database Name="cv" Series="28441" Issue="175086" />
     </Book>
-    <Book Series="Black Panther: Panther's Prey" Number="2" Volume="1991" Year="1991">
+    <Book Series="Black Panther: Panther&apos;s Prey" Number="2" Volume="1991" Year="1991">
       <Database Name="cv" Series="28441" Issue="175089" />
     </Book>
-    <Book Series="Black Panther: Panther's Prey" Number="3" Volume="1991" Year="1991">
+    <Book Series="Black Panther: Panther&apos;s Prey" Number="3" Volume="1991" Year="1991">
       <Database Name="cv" Series="28441" Issue="175090" />
     </Book>
-    <Book Series="Black Panther: Panther's Prey" Number="4" Volume="1991" Year="1991">
+    <Book Series="Black Panther: Panther&apos;s Prey" Number="4" Volume="1991" Year="1991">
       <Database Name="cv" Series="28441" Issue="175093" />
     </Book>
     <Book Series="Marvel Fanfare" Number="60" Volume="1982" Year="1992">

@@ -57,19 +57,19 @@
 <Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
 <Database Name="cv" Series="18649" Issue="110030" />
 </Book>
-<Book Series="Origin II" Number="1" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="438379" />
 </Book>
-<Book Series="Origin II" Number="2" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="442927" />
 </Book>
-<Book Series="Origin II" Number="3" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="446487" />
 </Book>
-<Book Series="Origin II" Number="4" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="448974" />
 </Book>
-<Book Series="Origin II" Number="5" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="451771" />
 </Book>
 <Book Series="Captain America" Number="255" Volume="1968" Year="1981">
@@ -186,16 +186,16 @@
 <Book Series="Daredevil: The Man Without Fear" Number="5" Volume="1993" Year="1994">
 <Database Name="cv" Series="5000" Issue="38648" />
 </Book>
-<Book Series="Daredevil: Battlin' Jack Murdock" Number="1" Volume="2007" Year="2007">
+<Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18672" Issue="110276" />
 </Book>
-<Book Series="Daredevil: Battlin' Jack Murdock" Number="2" Volume="2007" Year="2007">
+<Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="2" Volume="2007" Year="2007">
 <Database Name="cv" Series="18672" Issue="111444" />
 </Book>
-<Book Series="Daredevil: Battlin' Jack Murdock" Number="3" Volume="2007" Year="2007">
+<Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="3" Volume="2007" Year="2007">
 <Database Name="cv" Series="18672" Issue="113103" />
 </Book>
-<Book Series="Daredevil: Battlin' Jack Murdock" Number="4" Volume="2007" Year="2007">
+<Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18672" Issue="114242" />
 </Book>
 <Book Series="Strange Tales" Number="110" Volume="1951" Year="1963">
@@ -462,7 +462,7 @@
 <Book Series="Tales to Astonish" Number="44" Volume="1959" Year="1963">
 <Database Name="cv" Series="2008" Issue="6556" />
 </Book>
-<Book Series="Avengers Origins: Ant-Man &#38; The Wasp" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Ant-Man &amp; The Wasp" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43841" Issue="301210" />
 </Book>
 <Book Series="Fantastic Four" Number="16" Volume="1961" Year="1963">
@@ -564,7 +564,7 @@
 <Book Series="The Avengers" Number="1" Volume="1963" Year="1963">
 <Database Name="cv" Series="2128" Issue="6686" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="1" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118075" />
 </Book>
 <Book Series="Tales to Astonish" Number="49" Volume="1959" Year="1963">
@@ -582,7 +582,7 @@
 <Book Series="Captain America: Man Out of Time" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36480" Issue="249331" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="2" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118080" />
 </Book>
 <Book Series="Fantastic Four" Number="25" Volume="1961" Year="1964">
@@ -597,7 +597,7 @@
 <Book Series="The Avengers" Number="6" Volume="1963" Year="1964">
 <Database Name="cv" Series="2128" Issue="7199" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="3" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118082" />
 </Book>
 <Book Series="Journey into Mystery" Number="101" Volume="1952" Year="1964">
@@ -624,7 +624,7 @@
 <Book Series="Captain America: Man Out of Time" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36480" Issue="266661" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="4" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118084" />
 </Book>
 <Book Series="The Avengers" Number="9" Volume="1963" Year="1964">
@@ -639,7 +639,7 @@
 <Book Series="The X-Men" Number="1" Volume="1963" Year="1963">
 <Database Name="cv" Series="2133" Issue="6694" />
 </Book>
-<Book Series="Mythos: X-Men" Number="1" Volume="2005" Year="2005">
+<Book Series="Mythos: X-Men" Number="1" Volume="2006" Year="2005">
 <Database Name="cv" Series="32098" Issue="201469" />
 </Book>
 <Book Series="X-Men Origins: Jean Grey" Number="1" Volume="2008" Year="2008">
@@ -945,7 +945,7 @@
 <Book Series="The X-Men" Number="13" Volume="1963" Year="1965">
 <Database Name="cv" Series="2133" Issue="8037" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="5" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118085" />
 </Book>
 <Book Series="The Avengers" Number="15" Volume="1963" Year="1965">
@@ -954,16 +954,16 @@
 <Book Series="The Avengers" Number="16" Volume="1963" Year="1965">
 <Database Name="cv" Series="2128" Issue="7774" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="6" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118086" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="7" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118087" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="8" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118089" />
 </Book>
-<Book Series="Avengers Origins: Scarlet Witch &#38; Quicksilver" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Scarlet Witch &amp; Quicksilver" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44148" Issue="303673" />
 </Book>
 <Book Series="Tales to Astonish" Number="60" Volume="1959" Year="1964">
@@ -1872,34 +1872,34 @@
 <Book Series="The Avengers" Number="58" Volume="1963" Year="1968">
 <Database Name="cv" Series="2128" Issue="113994" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="1" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="118621" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="2" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="2" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="119724" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="3" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="3" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="140966" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="4" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="141072" />
 </Book>
 <Book Series="The Avengers" Number="59" Volume="1963" Year="1968">
 <Database Name="cv" Series="2128" Issue="113995" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="5" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="5" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="143335" />
 </Book>
 <Book Series="The Avengers" Number="60" Volume="1963" Year="1969">
 <Database Name="cv" Series="2128" Issue="9987" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="6" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="141073" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="7" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="7" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="109767" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes II" Number="8" Volume="2007" Year="2007">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes II" Number="8" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="111119" />
 </Book>
 <Book Series="Avengers Origins: Vision" Number="1" Volume="2012" Year="2012">

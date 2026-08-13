@@ -18,16 +18,16 @@
 <Book Series="Silver Surfer Annual" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4069" Issue="30596" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29062" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30644" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30684" />
 </Book>
 <Book Series="X-Factor" Number="41" Volume="1986" Year="1989">

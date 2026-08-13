@@ -3,31 +3,31 @@
   <Name>Constantine 001</Name>
   <NumIssues>232</NumIssues>
   <Books>
-    <Book Series="Hellblazer: Original Sins" Number="1" Volume="2011" Year="2011">
+    <Book Series="John Constantine, Hellblazer: Original Sins" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="27495" Issue="167649" />
     </Book>
-    <Book Series="Hellblazer: The Devil You Know" Number="1" Volume="2007" Year="2007">
+    <Book Series="John Constantine, Hellblazer: The Devil You Know" Number="1" Volume="2007" Year="2007">
       <Database Name="cv" Series="27529" Issue="167825" />
     </Book>
-    <Book Series="Hellblazer: The Fear Machine" Number="1" Volume="2008" Year="2008">
+    <Book Series="John Constantine, Hellblazer: The Fear Machine" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="27536" Issue="167860" />
     </Book>
-    <Book Series="Hellblazer: The Family Man" Number="1" Volume="2008" Year="2008">
+    <Book Series="John Constantine, Hellblazer: The Family Man" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="27537" Issue="167867" />
     </Book>
     <Book Series="Hellblazer: Dangerous Habits" Number="1" Volume="1994" Year="1994">
       <Database Name="cv" Series="63565" Issue="413276" />
     </Book>
-    <Book Series="Hellblazer: Bloodlines" Number="1" Volume="2013" Year="2013">
+    <Book Series="John Constantine, Hellblazer: Bloodlines" Number="1" Volume="2013" Year="2013">
       <Database Name="cv" Series="66901" Issue="424033" />
     </Book>
-    <Book Series="Hellblazer: Tainted Love" Number="1" Volume="2013" Year="2013">
+    <Book Series="John Constantine, Hellblazer: Tainted Love" Number="1" Volume="2013" Year="2013">
       <Database Name="cv" Series="70518" Issue="440240" />
     </Book>
-    <Book Series="Hellblazer: Rake at the Gates of Hell" Number="1" Volume="2014" Year="2014">
+    <Book Series="John Constantine, Hellblazer: Rake at the Gates of Hell" Number="1" Volume="2014" Year="2014">
       <Database Name="cv" Series="74632" Issue="455775" />
     </Book>
-    <Book Series="Hellblazer: Critical Mass" Number="1" Volume="2014" Year="2014">
+    <Book Series="John Constantine, Hellblazer: Critical Mass" Number="1" Volume="2014" Year="2014">
       <Database Name="cv" Series="77612" Issue="468188" />
     </Book>
     <Book Series="Hellblazer" Number="97" Volume="1988" Year="1996">

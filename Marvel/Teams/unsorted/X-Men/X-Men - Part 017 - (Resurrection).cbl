@@ -42,22 +42,22 @@
     <Book Series="X-Men: Blue" Number="6" Volume="2017" Year="2017">
       <Database Name="cv" Series="100712" Issue="605139" />
     </Book>
-    <Book Series="All-New Wolverine" Number="19" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="19" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="590785" />
     </Book>
-    <Book Series="All-New Wolverine" Number="20" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="20" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="594954" />
     </Book>
-    <Book Series="All-New Wolverine" Number="21" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="21" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="601783" />
     </Book>
-    <Book Series="All-New Wolverine" Number="22" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="22" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="606616" />
     </Book>
-    <Book Series="All-New Wolverine" Number="23" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="23" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="613782" />
     </Book>
-    <Book Series="All-New Wolverine" Number="24" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="24" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="621655" />
     </Book>
     <Book Series="Generation X" Number="1" Volume="2017" Year="2017">
@@ -138,22 +138,22 @@
     <Book Series="Jean Grey" Number="6" Volume="2017" Year="2017">
       <Database Name="cv" Series="101195" Issue="617845" />
     </Book>
-    <Book Series="Deadpool" Number="28" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="28" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="583716" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="15" Volume="2016" Year="2017">
       <Database Name="cv" Series="87182" Issue="585093" />
     </Book>
-    <Book Series="Deadpool &#38; The Mercs For Money" Number="9" Volume="2016" Year="2017">
+    <Book Series="Deadpool &amp; The Mercs For Money" Number="9" Volume="2016" Year="2017">
       <Database Name="cv" Series="92360" Issue="589825" />
     </Book>
-    <Book Series="Deadpool" Number="29" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="29" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="592595" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="16" Volume="2016" Year="2017">
       <Database Name="cv" Series="87182" Issue="590805" />
     </Book>
-    <Book Series="Deadpool &#38; The Mercs For Money" Number="10" Volume="2016" Year="2017">
+    <Book Series="Deadpool &amp; The Mercs For Money" Number="10" Volume="2016" Year="2017">
       <Database Name="cv" Series="92360" Issue="591753" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="17" Volume="2016" Year="2017">
@@ -174,7 +174,7 @@
     <Book Series="Spider-Man/Deadpool" Number="22" Volume="2016" Year="2017">
       <Database Name="cv" Series="87182" Issue="626296" />
     </Book>
-    <Book Series="Deadpool" Number="30" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="30" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="594962" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="1.MU" Volume="2016" Year="2017">
@@ -207,7 +207,7 @@
     <Book Series="Uncanny Avengers" Number="23" Volume="2015" Year="2017">
       <Database Name="cv" Series="85318" Issue="594977" />
     </Book>
-    <Book Series="Deadpool" Number="31" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="31" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="598369" />
     </Book>
     <Book Series="Secret Empire" Number="0" Volume="2017" Year="2017">
@@ -228,10 +228,10 @@
     <Book Series="Secret Empire" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="100840" Issue="594120" />
     </Book>
-    <Book Series="Deadpool" Number="32" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="32" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="601791" />
     </Book>
-    <Book Series="Deadpool" Number="33" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="33" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="608241" />
     </Book>
     <Book Series="Secret Empire" Number="2" Volume="2017" Year="2017">
@@ -261,10 +261,10 @@
     <Book Series="Secret Empire" Number="7" Volume="2017" Year="2017">
       <Database Name="cv" Series="100840" Issue="610534" />
     </Book>
-    <Book Series="Deadpool" Number="34" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="34" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="610522" />
     </Book>
-    <Book Series="Deadpool" Number="35" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="35" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="617837" />
     </Book>
     <Book Series="Secret Empire" Number="8" Volume="2017" Year="2017">
@@ -300,13 +300,13 @@
     <Book Series="Champions" Number="12" Volume="2016" Year="2017">
       <Database Name="cv" Series="94612" Issue="619618" />
     </Book>
-    <Book Series="Deadpool" Number="36" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="36" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="621660" />
     </Book>
-    <Book Series="Generations: Phoenix &#38; Jean Grey" Number="1" Volume="2017" Year="2017">
+    <Book Series="Generations: Phoenix &amp; Jean Grey" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="103386" Issue="613790" />
     </Book>
-    <Book Series="Generations: Wolverine &#38; All-New Wolverine" Number="1" Volume="2017" Year="2017">
+    <Book Series="Generations: Wolverine &amp; All-New Wolverine" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="103514" Issue="615019" />
     </Book>
     <Book Series="Marvel Legacy" Number="1" Volume="2017" Year="2017">
@@ -501,19 +501,19 @@
     <Book Series="Despicable Deadpool" Number="291" Volume="2017" Year="2018">
       <Database Name="cv" Series="104999" Issue="649729" />
     </Book>
-    <Book Series="Rogue &#38; Gambit" Number="1" Volume="2018" Year="2018">
+    <Book Series="Rogue &amp; Gambit" Number="1" Volume="2018" Year="2018">
       <Database Name="cv" Series="107513" Issue="650924" />
     </Book>
-    <Book Series="Rogue &#38; Gambit" Number="2" Volume="2018" Year="2018">
+    <Book Series="Rogue &amp; Gambit" Number="2" Volume="2018" Year="2018">
       <Database Name="cv" Series="107513" Issue="658728" />
     </Book>
-    <Book Series="Rogue &#38; Gambit" Number="3" Volume="2018" Year="2018">
+    <Book Series="Rogue &amp; Gambit" Number="3" Volume="2018" Year="2018">
       <Database Name="cv" Series="107513" Issue="662094" />
     </Book>
-    <Book Series="Rogue &#38; Gambit" Number="4" Volume="2018" Year="2018">
+    <Book Series="Rogue &amp; Gambit" Number="4" Volume="2018" Year="2018">
       <Database Name="cv" Series="107513" Issue="664920" />
     </Book>
-    <Book Series="Rogue &#38; Gambit" Number="5" Volume="2018" Year="2018">
+    <Book Series="Rogue &amp; Gambit" Number="5" Volume="2018" Year="2018">
       <Database Name="cv" Series="107513" Issue="668780" />
     </Book>
     <Book Series="Jean Grey" Number="7" Volume="2017" Year="2017">
@@ -525,25 +525,25 @@
     <Book Series="Jean Grey" Number="9" Volume="2017" Year="2018">
       <Database Name="cv" Series="101195" Issue="643031" />
     </Book>
-    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2017" Year="2018">
+    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2018" Year="2018">
       <Database Name="cv" Series="107368" Issue="649740" />
     </Book>
     <Book Series="Jean Grey" Number="10" Volume="2017" Year="2018">
       <Database Name="cv" Series="101195" Issue="646189" />
     </Book>
-    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2017" Year="2018">
+    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2018" Year="2018">
       <Database Name="cv" Series="107368" Issue="650922" />
     </Book>
-    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2017" Year="2018">
+    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2018" Year="2018">
       <Database Name="cv" Series="107368" Issue="652635" />
     </Book>
-    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2017" Year="2018">
+    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2018" Year="2018">
       <Database Name="cv" Series="107368" Issue="655510" />
     </Book>
     <Book Series="Jean Grey" Number="11" Volume="2017" Year="2018">
       <Database Name="cv" Series="101195" Issue="656706" />
     </Book>
-    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2017" Year="2018">
+    <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2018" Year="2018">
       <Database Name="cv" Series="107368" Issue="656712" />
     </Book>
     <Book Series="Astonishing X-Men" Number="1" Volume="2017" Year="2017">
@@ -591,7 +591,7 @@
     <Book Series="X-Men: Blue" Number="22" Volume="2017" Year="2018">
       <Database Name="cv" Series="100712" Issue="661168" />
     </Book>
-    <Book Series="Venom" Number="163" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="163" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="662102" />
     </Book>
     <Book Series="X-Men: Gold" Number="16" Volume="2017" Year="2018">

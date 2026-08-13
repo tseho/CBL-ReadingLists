@@ -141,112 +141,112 @@
 <Book Series="Thors" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="82716" Issue="505528" />
 </Book>
-<Book Series="Mighty Thor" Number="1" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="506175" />
 </Book>
-<Book Series="Mighty Thor" Number="2" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="508434" />
 </Book>
-<Book Series="Mighty Thor" Number="3" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="510948" />
 </Book>
-<Book Series="Mighty Thor" Number="4" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="516086" />
 </Book>
-<Book Series="Mighty Thor" Number="5" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="518860" />
 </Book>
-<Book Series="Mighty Thor" Number="6" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="526060" />
 </Book>
-<Book Series="Mighty Thor" Number="7" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="531891" />
 </Book>
-<Book Series="Mighty Thor" Number="8" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="537237" />
 </Book>
-<Book Series="Mighty Thor" Number="9" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="541211" />
 </Book>
-<Book Series="Mighty Thor" Number="10" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="544988" />
 </Book>
-<Book Series="Mighty Thor" Number="11" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="550365" />
 </Book>
-<Book Series="Mighty Thor" Number="12" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="553961" />
 </Book>
-<Book Series="Mighty Thor" Number="13" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="558971" />
 </Book>
-<Book Series="Mighty Thor" Number="14" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="571674" />
 </Book>
-<Book Series="Mighty Thor" Number="15" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="575875" />
 </Book>
-<Book Series="Mighty Thor" Number="16" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="581561" />
 </Book>
-<Book Series="Mighty Thor" Number="17" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="587411" />
 </Book>
-<Book Series="Mighty Thor" Number="18" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="593265" />
 </Book>
-<Book Series="The Unworthy Thor" Number="1" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="556484" />
 </Book>
-<Book Series="The Unworthy Thor" Number="2" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="563729" />
 </Book>
-<Book Series="The Unworthy Thor" Number="3" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="574880" />
 </Book>
-<Book Series="The Unworthy Thor" Number="4" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="580767" />
 </Book>
-<Book Series="The Unworthy Thor" Number="5" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="588579" />
 </Book>
-<Book Series="Mighty Thor" Number="19" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="595694" />
 </Book>
-<Book Series="Mighty Thor" Number="20" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="603128" />
 </Book>
-<Book Series="Mighty Thor" Number="21" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="609350" />
 </Book>
-<Book Series="Mighty Thor" Number="22" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="615025" />
 </Book>
-<Book Series="Mighty Thor" Number="23" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="625316" />
 </Book>
-<Book Series="Generations: The Unworthy Thor &#38; The Mighty Thor" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: The Unworthy Thor &amp; The Mighty Thor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103605" Issue="616191" />
 </Book>
-<Book Series="Mighty Thor" Number="700" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="700" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="630529" />
 </Book>
-<Book Series="Mighty Thor" Number="701" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="701" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="638601" />
 </Book>
-<Book Series="Mighty Thor" Number="702" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="702" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="647948" />
 </Book>
-<Book Series="Mighty Thor" Number="703" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="703" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="654056" />
 </Book>
-<Book Series="Mighty Thor" Number="704" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="704" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="660667" />
 </Book>
-<Book Series="Mighty Thor" Number="705" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="705" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="663579" />
 </Book>
-<Book Series="Mighty Thor" Number="706" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="706" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="667649" />
 </Book>
 <Book Series="Mighty Thor: At the Gates of Valhalla" Number="1" Volume="2018" Year="2018">
@@ -309,7 +309,7 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="710702" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="709720" />
 </Book>
 <Book Series="Asgardians of the Galaxy" Number="8" Volume="2018" Year="2019">
@@ -351,13 +351,13 @@
 <Book Series="Asgardians of the Galaxy" Number="9" Volume="2018" Year="2019">
 <Database Name="cv" Series="113217" Issue="709713" />
 </Book>
-<Book Series="Venom" Number="13" Volume="2021" Year="2023">
+<Book Series="Venom" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
-<Book Series="Venom" Number="14" Volume="2021" Year="2023">
+<Book Series="Venom" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="961963" />
 </Book>
-<Book Series="Venom" Number="15" Volume="2021" Year="2023">
+<Book Series="Venom" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="964958" />
 </Book>
 <Book Series="War of the Realms: Punisher" Number="1" Volume="2019" Year="2019">
@@ -369,10 +369,10 @@
 <Book Series="War of the Realms: Punisher" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="118401" Issue="712559" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
-<Book Series="Fantastic Four" Number="10" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="1004328" />
 </Book>
 <Book Series="Giant-Man" Number="1" Volume="2019" Year="2019">
@@ -423,19 +423,19 @@
 <Book Series="Champions" Number="6" Volume="2020" Year="2021">
 <Database Name="cv" Series="130979" Issue="844970" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
 <Book Series="War of the Realms" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="709218" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">

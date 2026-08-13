@@ -19,34 +19,34 @@
         <Book Series="Return of Wolverine" Number="5" Volume="2018" Year="2019">
             <Database Name="cv" Series="113726" Issue="701321" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="692088" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="2" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="692562" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="3" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="693475" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="4" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="694151" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="5" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="694932" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="6" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="6" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="695668" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="7" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="7" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="695923" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="8" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="8" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="696371" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="9" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="9" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="696961" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="10" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="10" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="697647" />
         </Book>
         <Book Series="Wolverine: Infinity Watch" Number="1" Volume="2019" Year="2019">
@@ -148,19 +148,19 @@
         <Book Series="Wolverine Annual" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="121588" Issue="720181" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="11" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="11" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="700153" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="12" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="12" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="701327" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="13" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="13" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="702477" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="14" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="14" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="703956" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="15" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="15" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="705488" />
         </Book>
     </Books>

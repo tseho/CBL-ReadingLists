@@ -174,19 +174,19 @@
 <Book Series="Astonishing Thor" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36955" Issue="277878" />
 </Book>
-<Book Series="Thunderstrike" Number="1" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="246473" />
 </Book>
-<Book Series="Thunderstrike" Number="2" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="251476" />
 </Book>
-<Book Series="Thunderstrike" Number="3" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="261664" />
 </Book>
-<Book Series="Thunderstrike" Number="4" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="266017" />
 </Book>
-<Book Series="Thunderstrike" Number="5" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="269048" />
 </Book>
 <Book Series="Invincible Iron Man Annual" Number="1" Volume="2010" Year="2010">

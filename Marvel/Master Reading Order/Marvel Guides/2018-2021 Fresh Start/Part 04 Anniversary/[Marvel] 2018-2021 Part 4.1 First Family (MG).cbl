@@ -16,13 +16,13 @@
         <Book Series="Fantastic Four" Number="4" Volume="2018" Year="2019">
             <Database Name="cv" Series="112685" Issue="693461" />
         </Book>
-        <Book Series="Marvel Two-In-One" Number="11" Volume="2017" Year="2018">
+        <Book Series="Marvel Two-In-One" Number="11" Volume="2018" Year="2018">
             <Database Name="cv" Series="107157" Issue="690813" />
         </Book>
-        <Book Series="Marvel Two-In-One" Number="12" Volume="2017" Year="2019">
+        <Book Series="Marvel Two-In-One" Number="12" Volume="2018" Year="2019">
             <Database Name="cv" Series="107157" Issue="693466" />
         </Book>
-        <Book Series="Fantastic Four: Wedding Special" Number="1" Volume="2018" Year="2019">
+        <Book Series="Fantastic Four: Wedding Special" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115881" Issue="694912" />
         </Book>
         <Book Series="Fantastic Four" Number="5" Volume="2018" Year="2019">
@@ -43,40 +43,40 @@
         <Book Series="Fantastic Four: 4 Yancy Street" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="120948" Issue="717517" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="31" Volume="2015" Year="2018">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="31" Volume="2016" Year="2018">
             <Database Name="cv" Series="86245" Issue="672289" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="32" Volume="2015" Year="2018">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="32" Volume="2016" Year="2018">
             <Database Name="cv" Series="86245" Issue="675144" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="33" Volume="2015" Year="2018">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="33" Volume="2016" Year="2018">
             <Database Name="cv" Series="86245" Issue="677968" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="34" Volume="2015" Year="2018">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="34" Volume="2016" Year="2018">
             <Database Name="cv" Series="86245" Issue="680731" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="35" Volume="2015" Year="2018">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="35" Volume="2016" Year="2018">
             <Database Name="cv" Series="86245" Issue="686385" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="36" Volume="2015" Year="2018">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="36" Volume="2016" Year="2018">
             <Database Name="cv" Series="86245" Issue="689868" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="37" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="37" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="692549" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="38" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="38" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="694140" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="39" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="39" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="698609" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="40" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="40" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="701942" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="41" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="41" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="704822" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="42" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="42" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="706955" />
         </Book>
         <Book Series="Fearless" Number="1" Volume="2019" Year="2019">

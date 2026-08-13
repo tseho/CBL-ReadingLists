@@ -447,31 +447,31 @@
 <Book Series="Avengers" Number="37" Volume="1998" Year="2001">
 <Database Name="cv" Series="7084" Issue="50796" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="1" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51614" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="2" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51615" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="3" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51616" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="4" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51617" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="5" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114254" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="6" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114255" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="7" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="7" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114256" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="8" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="8" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114257" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="9" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="9" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114258" />
 </Book>
 <Book Series="Sentry" Number="1" Volume="2000" Year="2000">
@@ -978,22 +978,22 @@
 <Book Series="Gambit and Bishop: Alpha" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="61164" Issue="136117" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="1" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94056" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="2" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94057" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="3" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94058" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="4" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94059" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="5" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94060" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="6" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94061" />
 </Book>
 <Book Series="Spider-Man: Blue" Number="1" Volume="2002" Year="2002">
@@ -1455,22 +1455,22 @@
 <Book Series="X-Force" Number="129" Volume="1991" Year="2002">
 <Database Name="cv" Series="4604" Issue="107076" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="10" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="10" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114259" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="11" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="11" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114260" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="12" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="12" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114261" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="13" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="13" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114262" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="14" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="14" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114263" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="15" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="15" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114264" />
 </Book>
 <Book Series="Citizen V and the V-Battalion: the Everlasting" Number="1" Volume="2002" Year="2002">
@@ -1650,25 +1650,25 @@
 <Book Series="Excalibur" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="22316" Issue="134200" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="16" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="16" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114265" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="17" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="17" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114266" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="18" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="18" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114267" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="19" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="19" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114268" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="20" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="20" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114269" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="21" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="21" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114270" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="22" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="22" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114271" />
 </Book>
 <Book Series="New X-Men" Number="114" Volume="2001" Year="2001">
@@ -2211,10 +2211,10 @@
 <Book Series="Daredevil" Number="55" Volume="1998" Year="2004">
 <Database Name="cv" Series="6209" Issue="93405" />
 </Book>
-<Book Series="Wolverine &#38; Doop" Number="1" Volume="2003" Year="2003">
+<Book Series="Wolverine &amp; Doop" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="18514" Issue="108701" />
 </Book>
-<Book Series="Wolverine &#38; Doop" Number="2" Volume="2003" Year="2003">
+<Book Series="Wolverine &amp; Doop" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="18514" Issue="108779" />
 </Book>
 <Book Series="Thunderbolts" Number="63" Volume="1997" Year="2002">

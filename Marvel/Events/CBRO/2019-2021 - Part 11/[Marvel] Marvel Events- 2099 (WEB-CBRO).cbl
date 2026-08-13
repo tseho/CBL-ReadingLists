@@ -12,25 +12,25 @@
 <Book Series="The Amazing Spider-Man" Number="34" Volume="2018" Year="2020">
 <Database Name="cv" Series="112161" Issue="728413" />
 </Book>
-<Book Series="2099 Alpha" Number="1" Volume="2019" Year="2020">
+<Book Series="2099 Alpha" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122984" Issue="728408" />
 </Book>
-<Book Series="Conan 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="Conan 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123122" Issue="728971" />
 </Book>
-<Book Series="Doom 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="Doom 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123409" Issue="730332" />
 </Book>
-<Book Series="Fantastic Four 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="Fantastic Four 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122988" Issue="728421" />
 </Book>
-<Book Series="Ghost Rider 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="Ghost Rider 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123266" Issue="729680" />
 </Book>
-<Book Series="The Punisher 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="The Punisher 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123124" Issue="728978" />
 </Book>
-<Book Series="Venom 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="Venom 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123276" Issue="729690" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="35" Volume="2018" Year="2020">
@@ -39,10 +39,10 @@
 <Book Series="The Amazing Spider-Man" Number="36" Volume="2018" Year="2020">
 <Database Name="cv" Series="112161" Issue="731503" />
 </Book>
-<Book Series="Spider-Man 2099" Number="1" Volume="2019" Year="2020">
+<Book Series="Spider-Man 2099" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123411" Issue="730344" />
 </Book>
-<Book Series="2099 Omega" Number="1" Volume="2019" Year="2020">
+<Book Series="2099 Omega" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123691" Issue="731422" />
 </Book>
 </Books>

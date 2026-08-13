@@ -3,7 +3,7 @@
 <Name>[2015-2016] Star Wars Vader Down (Marvel Comics)(LoCG)</Name>
 <NumIssues>6</NumIssues>
 <Books>
-<Book Series="Star Wars: Vader Down" Number="1" Volume="2015" Year="2016">
+<Book Series="Star Wars: Vader Down" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86131" Issue="506185" />
 </Book>
 <Book Series="Darth Vader" Number="13" Volume="2015" Year="2016">

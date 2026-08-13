@@ -498,7 +498,7 @@
 <Book Series="Superjhemp contra Superjhemp" Number="52" Volume="1993" Year="1952">
 <Database Name="cv" Series="1441" Issue="163982" />
 </Book>
-<Book Series="Bobby Benson's B-Bar-B Riders" Number="13" Volume="1950" Year="0">
+<Book Series="Bobby Benson&apos;s B-Bar-B Riders" Number="13" Volume="1950" Year="0">
 <Database Name="cv" Series="34059" Issue="222090" />
 </Book>
 <Book Series="Two Gun Western" Number="12" Volume="1950" Year="1952">
@@ -522,7 +522,7 @@
 <Book Series="Wild Western" Number="21" Volume="1948" Year="1952">
 <Database Name="cv" Series="1213" Issue="188746" />
 </Book>
-<Book Series="Bobby Benson's B-Bar-B Riders" Number="14" Volume="1950" Year="0">
+<Book Series="Bobby Benson&apos;s B-Bar-B Riders" Number="14" Volume="1950" Year="0">
 <Database Name="cv" Series="34059" Issue="222091" />
 </Book>
 <Book Series="Tim Holt" Number="29" Volume="1948" Year="1952">
@@ -552,7 +552,7 @@
 <Book Series="Texas Kid" Number="10" Volume="1951" Year="1952">
 <Database Name="cv" Series="30587" Issue="188709" />
 </Book>
-<Book Series="Bobby Benson's B-Bar-B Riders" Number="15" Volume="1950" Year="0">
+<Book Series="Bobby Benson&apos;s B-Bar-B Riders" Number="15" Volume="1950" Year="0">
 <Database Name="cv" Series="34059" Issue="222092" />
 </Book>
 <Book Series="Superjhemp contra Superjhemp" Number="59" Volume="1993" Year="1952">
@@ -1179,7 +1179,7 @@
 <Book Series="Rawhide Kid" Number="9" Volume="1955" Year="1956">
 <Database Name="cv" Series="1712" Issue="2565" />
 </Book>
-<Book Series="Two-Gun Western" Number="5" Volume="1956" Year="1956">
+<Book Series="Two Gun Western" Number="5" Volume="1956" Year="1956">
 <Database Name="cv" Series="1796" Issue="91109" />
 </Book>
 <Book Series="Wild Western" Number="50" Volume="1948" Year="1956">
@@ -1425,7 +1425,7 @@
 <Book Series="Wyatt Earp" Number="13" Volume="1955" Year="1957">
 <Database Name="cv" Series="1718" Issue="3240" />
 </Book>
-<Book Series="The Black Rider Rides Again!" Number="1" Volume="1957" Year="1957">
+<Book Series="Black Rider" Number="1" Volume="1957" Year="1957">
 <Database Name="cv" Series="30493" Issue="187606" />
 </Book>
 <Book Series="The Outlaw Kid" Number="19" Volume="1954" Year="1957">

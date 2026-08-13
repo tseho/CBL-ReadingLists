@@ -969,10 +969,10 @@
 <Book Series="Avengers: The Initiative" Number="31" Volume="2007" Year="2010">
 <Database Name="cv" Series="18419" Issue="189500" />
 </Book>
-<Book Series="New Avengers" Number="61" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="61" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="194421" />
 </Book>
-<Book Series="New Avengers" Number="62" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="62" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="198259" />
 </Book>
 <Book Series="Dark Avengers" Number="13" Volume="2009" Year="2010">
@@ -984,7 +984,7 @@
 <Book Series="Dark Avengers" Number="15" Volume="2009" Year="2010">
 <Database Name="cv" Series="25512" Issue="200762" />
 </Book>
-<Book Series="Origins of Siege" Number="1" Volume="2009" Year="2010">
+<Book Series="Origins of Siege" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30823" Issue="190503" />
 </Book>
 <Book Series="Siege: Storming Asgard –– Heroes &amp; Villains" Number="1" Volume="2010" Year="2010">
@@ -1044,7 +1044,7 @@
 <Book Series="Avengers: The Initiative" Number="34" Volume="2007" Year="2010">
 <Database Name="cv" Series="18419" Issue="201700" />
 </Book>
-<Book Series="New Avengers" Number="63" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="63" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="201704" />
 </Book>
 <Book Series="Siege: Captain America" Number="1" Volume="2010" Year="2010">
@@ -1074,7 +1074,7 @@
 <Book Series="Siege: Embedded" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="30906" Issue="213458" />
 </Book>
-<Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="64" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="210216" />
 </Book>
 <Book Series="New Avengers Finale" Number="1" Volume="2010" Year="2010">
@@ -1260,55 +1260,55 @@
 <Book Series="Thors" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="82716" Issue="505528" />
 </Book>
-<Book Series="Mighty Thor" Number="6" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="526060" />
 </Book>
-<Book Series="Mighty Thor" Number="7" Volume="2015" Year="2016">
+<Book Series="Mighty Thor" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86113" Issue="531891" />
 </Book>
-<Book Series="The Unworthy Thor" Number="1" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="556484" />
 </Book>
-<Book Series="The Unworthy Thor" Number="2" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="563729" />
 </Book>
-<Book Series="The Unworthy Thor" Number="3" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="574880" />
 </Book>
-<Book Series="The Unworthy Thor" Number="4" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="580767" />
 </Book>
-<Book Series="The Unworthy Thor" Number="5" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="588579" />
 </Book>
-<Book Series="Mighty Thor" Number="20" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="603128" />
 </Book>
-<Book Series="Mighty Thor" Number="21" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="609350" />
 </Book>
 <Book Series="Generations: The Unworthy Thor &amp; The Mighty Thor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103605" Issue="616191" />
 </Book>
-<Book Series="Mighty Thor" Number="700" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="700" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="630529" />
 </Book>
-<Book Series="Mighty Thor" Number="701" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="701" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="638601" />
 </Book>
-<Book Series="Mighty Thor" Number="702" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="702" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="647948" />
 </Book>
-<Book Series="Mighty Thor" Number="703" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="703" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="654056" />
 </Book>
-<Book Series="Mighty Thor" Number="704" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="704" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="660667" />
 </Book>
-<Book Series="Mighty Thor" Number="705" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="705" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="663579" />
 </Book>
-<Book Series="Mighty Thor" Number="706" Volume="2015" Year="2018">
+<Book Series="Mighty Thor" Number="706" Volume="2016" Year="2018">
 <Database Name="cv" Series="86113" Issue="667649" />
 </Book>
 <Book Series="Mighty Thor: At the Gates of Valhalla" Number="1" Volume="2018" Year="2018">
@@ -1425,13 +1425,13 @@
 <Book Series="War of the Realms Strikeforce: The Land of Giants" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119315" Issue="709738" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="709720" />
 </Book>
 <Book Series="War of the Realms: Journey Into Mystery" Number="2" Volume="2019" Year="2019">
@@ -1503,13 +1503,13 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="712558" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">
@@ -1563,7 +1563,7 @@
 <Book Series="Tarot" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123861" Issue="743451" />
 </Book>
-<Book Series="Thor: The Worthy" Number="1" Volume="2019" Year="2020">
+<Book Series="Thor: The Worthy" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123269" Issue="729689" />
 </Book>
 <Book Series="Thor" Number="1" Volume="2020" Year="2020">

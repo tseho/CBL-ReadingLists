@@ -69,7 +69,7 @@
 <Book Series="Thunderbolts" Number="20" Volume="1997" Year="1998">
 <Database Name="cv" Series="6020" Issue="69271" />
 </Book>
-<Book Series="Captain America / Citizen V '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Captain America / Citizen V &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60452" Issue="142566" />
 </Book>
 <Book Series="Thunderbolts" Number="21" Volume="1997" Year="1998">
@@ -132,40 +132,40 @@
 <Book Series="The Incredible Hulk" Number="474" Volume="1968" Year="1999">
 <Database Name="cv" Series="2406" Issue="80818" />
 </Book>
-<Book Series="Avengers Forever" Number="1" Volume="1998" Year="1998">
+<Book Series="Avengers: Forever" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="11015" Issue="96135" />
 </Book>
-<Book Series="Avengers Forever" Number="2" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="2" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96136" />
 </Book>
-<Book Series="Avengers Forever" Number="3" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="3" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96137" />
 </Book>
-<Book Series="Avengers Forever" Number="4" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="4" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96138" />
 </Book>
-<Book Series="Avengers Forever" Number="5" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="5" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96139" />
 </Book>
-<Book Series="Avengers Forever" Number="6" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="6" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96140" />
 </Book>
-<Book Series="Avengers Forever" Number="7" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="7" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96141" />
 </Book>
-<Book Series="Avengers Forever" Number="8" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="8" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96142" />
 </Book>
-<Book Series="Avengers Forever" Number="9" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="9" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96143" />
 </Book>
-<Book Series="Avengers Forever" Number="10" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="10" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96144" />
 </Book>
-<Book Series="Avengers Forever" Number="11" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="11" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96145" />
 </Book>
-<Book Series="Avengers Forever" Number="12" Volume="1998" Year="2000">
+<Book Series="Avengers: Forever" Number="12" Volume="1998" Year="2000">
 <Database Name="cv" Series="11015" Issue="96146" />
 </Book>
 <Book Series="Generation X" Number="47" Volume="1994" Year="1999">
@@ -201,7 +201,7 @@
 <Book Series="Generation X" Number="49" Volume="1994" Year="1999">
 <Database Name="cv" Series="5300" Issue="83114" />
 </Book>
-<Book Series="Iron Man / Captain America '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Iron Man / Captain America &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30391" Issue="138790" />
 </Book>
 <Book Series="Wolverine" Number="132" Volume="1988" Year="1998">
@@ -1509,7 +1509,7 @@
 <Book Series="Mutant X" Number="16" Volume="1998" Year="2000">
 <Database Name="cv" Series="6217" Issue="46235" />
 </Book>
-<Book Series="Captain Marvel" Number="0" Volume="2000" Year="1999">
+<Book Series="Captain Marvel" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="6458" Issue="46105" />
 </Book>
 <Book Series="Avengers" Number="26" Volume="1998" Year="2000">
@@ -1518,7 +1518,7 @@
 <Book Series="Avengers" Number="27" Volume="1998" Year="2000">
 <Database Name="cv" Series="7084" Issue="50786" />
 </Book>
-<Book Series="Captain Marvel" Number="1" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="1" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65843" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="379" Volume="1981" Year="2000">
@@ -1602,22 +1602,22 @@
 <Book Series="Mutant X" Number="17" Volume="1998" Year="2000">
 <Database Name="cv" Series="6217" Issue="46282" />
 </Book>
-<Book Series="Captain Marvel" Number="2" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="2" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="46250" />
 </Book>
-<Book Series="Captain Marvel" Number="3" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="3" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65844" />
 </Book>
-<Book Series="Captain Marvel" Number="4" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="4" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65845" />
 </Book>
-<Book Series="Captain Marvel" Number="5" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="5" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65846" />
 </Book>
-<Book Series="Captain Marvel" Number="6" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="6" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65847" />
 </Book>
-<Book Series="Captain Marvel" Number="7" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="7" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80545" />
 </Book>
 <Book Series="Captain America" Number="28" Volume="1998" Year="2000">
@@ -1632,16 +1632,16 @@
 <Book Series="Captain America" Number="31" Volume="1998" Year="2000">
 <Database Name="cv" Series="6206" Issue="66236" />
 </Book>
-<Book Series="Captain Marvel" Number="8" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="8" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80546" />
 </Book>
-<Book Series="Captain Marvel" Number="9" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="9" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80547" />
 </Book>
-<Book Series="Captain Marvel" Number="10" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="10" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80548" />
 </Book>
-<Book Series="Captain Marvel" Number="11" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="11" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80549" />
 </Book>
 <Book Series="X-Man" Number="61" Volume="1995" Year="2000">
@@ -2286,10 +2286,10 @@
 <Book Series="Peter Parker: Spider-Man" Number="24" Volume="1999" Year="2000">
 <Database Name="cv" Series="9142" Issue="68501" />
 </Book>
-<Book Series="Captain Marvel" Number="12" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="12" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80550" />
 </Book>
-<Book Series="Captain Marvel" Number="13" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="13" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80551" />
 </Book>
 <Book Series="Incredible Hulk" Number="21" Volume="2000" Year="2000">
@@ -2613,7 +2613,7 @@
 <Book Series="Fantastic Four" Number="45" Volume="1998" Year="2001">
 <Database Name="cv" Series="6211" Issue="52116" />
 </Book>
-<Book Series="Captain Marvel" Number="14" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="14" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80552" />
 </Book>
 <Book Series="Marvel Knights" Number="7" Volume="2000" Year="2001">
@@ -2673,10 +2673,10 @@
 <Book Series="Iron Man" Number="36" Volume="1998" Year="2001">
 <Database Name="cv" Series="6504" Issue="131882" />
 </Book>
-<Book Series="Captain Marvel" Number="15" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="15" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80553" />
 </Book>
-<Book Series="Captain Marvel" Number="16" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="16" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80554" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="26" Volume="1999" Year="2001">
@@ -2703,13 +2703,13 @@
 <Book Series="X-Men" Number="110" Volume="1991" Year="2001">
 <Database Name="cv" Series="4605" Issue="65809" />
 </Book>
-<Book Series="Captain Marvel" Number="17" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="17" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80555" />
 </Book>
-<Book Series="Captain Marvel" Number="18" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="18" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80556" />
 </Book>
-<Book Series="Captain Marvel" Number="19" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="19" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80557" />
 </Book>
 <Book Series="X-Force" Number="114" Volume="1991" Year="2001">
@@ -2745,10 +2745,10 @@
 <Book Series="X-Man" Number="74" Volume="1995" Year="2001">
 <Database Name="cv" Series="5567" Issue="132657" />
 </Book>
-<Book Series="Captain Marvel" Number="20" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="20" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80558" />
 </Book>
-<Book Series="Captain Marvel" Number="21" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="21" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80559" />
 </Book>
 <Book Series="Gambit" Number="25" Volume="1999" Year="2001">
@@ -2943,22 +2943,22 @@
 <Book Series="Gambit and Bishop: Alpha" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="61164" Issue="136117" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="1" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94056" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="2" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94057" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="3" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94058" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="4" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94059" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="5" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94060" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="6" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94061" />
 </Book>
 <Book Series="Black Panther" Number="31" Volume="1998" Year="2001">

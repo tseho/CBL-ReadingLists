@@ -33,13 +33,13 @@
 <Book Series="Thor" Number="81" Volume="1998" Year="2004">
 <Database Name="cv" Series="6226" Issue="99327" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="5" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="5" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94292" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="6" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="6" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94293" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="7" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="7" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94294" />
 </Book>
 <Book Series="Captain America" Number="29" Volume="2002" Year="2004">

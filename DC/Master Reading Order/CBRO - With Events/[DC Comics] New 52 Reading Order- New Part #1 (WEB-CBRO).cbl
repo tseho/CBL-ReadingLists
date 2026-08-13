@@ -291,7 +291,7 @@
 <Book Series="Earth 2" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="48505" Issue="355788" />
 </Book>
-<Book Series="Worlds' Finest" Number="0" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="355793" />
 </Book>
 <Book Series="Swamp Thing" Number="0" Volume="2011" Year="2012">
@@ -438,19 +438,19 @@
 <Book Series="Green Arrow" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42598" Issue="355787" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="1" Volume="2011" Year="2011">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43119" Issue="294136" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="2" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="2" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="301539" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="3" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="305633" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="4" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="309364" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="5" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="314714" />
 </Book>
 <Book Series="Teen Titans" Number="0" Volume="2011" Year="2012">
@@ -549,19 +549,19 @@
 <Book Series="Blue Beetle" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42970" Issue="302533" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="1" Volume="2011" Year="2011">
+<Book Series="Hawk &amp; Dove" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42556" Issue="291124" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="2" Volume="2011" Year="2011">
+<Book Series="Hawk &amp; Dove" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="42556" Issue="294058" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="3" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="301016" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="4" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="305590" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="5" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="309358" />
 </Book>
 <Book Series="Huntress" Number="1" Volume="2011" Year="2011">
@@ -1878,25 +1878,25 @@
 <Book Series="Earth 2" Number="7" Volume="2012" Year="2013">
 <Database Name="cv" Series="48505" Issue="371153" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="6" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="313686" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="7" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="319043" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="8" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="326840" />
 </Book>
-<Book Series="Worlds' Finest" Number="1" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="334195" />
 </Book>
-<Book Series="Worlds' Finest" Number="2" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="338475" />
 </Book>
-<Book Series="Worlds' Finest" Number="3" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="344043" />
 </Book>
-<Book Series="Worlds' Finest" Number="4" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="348041" />
 </Book>
 <Book Series="Detective Comics" Number="8" Volume="2011" Year="2012">
@@ -2025,7 +2025,7 @@
 <Book Series="Batman" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42721" Issue="349621" />
 </Book>
-<Book Series="Worlds' Finest" Number="5" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="359839" />
 </Book>
 <Book Series="The Phantom Stranger" Number="0" Volume="2012" Year="2012">

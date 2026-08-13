@@ -51,7 +51,7 @@
 <Book Series="The Spectacular Spider-Man" Number="241" Volume="1976" Year="1996">
 <Database Name="cv" Series="2870" Issue="43082" />
 </Book>
-<Book Series="Osborn Journals" Number="1" Volume="1996" Year="1997">
+<Book Series="Osborne Journals" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="27668" Issue="169250" />
 </Book>
 <Book Series="Spider-Man: Dead Man&apos;s Hand" Number="1" Volume="1997" Year="1997">

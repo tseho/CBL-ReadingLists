@@ -309,10 +309,10 @@
     <Book Series="Thunderbolts" Number="106" Volume="2006" Year="2006">
       <Database Name="cv" Series="18128" Issue="106311" />
     </Book>
-    <Book Series="Avengers Forever" Number="6" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="6" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96140" />
     </Book>
-    <Book Series="Avengers Forever" Number="10" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="10" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96144" />
     </Book>
   </Books>

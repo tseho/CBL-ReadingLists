@@ -30,7 +30,7 @@
 <Book Series="Final Crisis: Requiem" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22097" Issue="132930" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="133674" />
 </Book>
 <Book Series="Final Crisis" Number="2" Volume="2008" Year="2008">
@@ -45,7 +45,7 @@
 <Book Series="DC Universe: Last Will And Testament" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22764" Issue="136536" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="2" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="136522" />
 </Book>
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
@@ -69,7 +69,7 @@
 <Book Series="Final Crisis: Legion of Three Worlds" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22674" Issue="140458" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="3" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="140443" />
 </Book>
 <Book Series="Final Crisis: Submit" Number="1" Volume="2008" Year="2008">

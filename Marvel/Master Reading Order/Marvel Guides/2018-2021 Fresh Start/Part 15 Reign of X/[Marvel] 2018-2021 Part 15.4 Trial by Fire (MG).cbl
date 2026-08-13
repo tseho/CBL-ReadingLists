@@ -117,16 +117,16 @@
         <Book Series="Marauders" Number="27" Volume="2019" Year="2022">
             <Database Name="cv" Series="122218" Issue="902690" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="8" Volume="2020" Year="2021">
+        <Book Series="S.W.O.R.D." Number="8" Volume="2021" Year="2021">
             <Database Name="cv" Series="132511" Issue="886939" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="9" Volume="2020" Year="2021">
+        <Book Series="S.W.O.R.D." Number="9" Volume="2021" Year="2021">
             <Database Name="cv" Series="132511" Issue="891564" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="10" Volume="2020" Year="2022">
+        <Book Series="S.W.O.R.D." Number="10" Volume="2021" Year="2022">
             <Database Name="cv" Series="132511" Issue="894139" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="11" Volume="2020" Year="2022">
+        <Book Series="S.W.O.R.D." Number="11" Volume="2021" Year="2022">
             <Database Name="cv" Series="132511" Issue="899166" />
         </Book>
         <Book Series="Wolverine" Number="17" Volume="2020" Year="2021">

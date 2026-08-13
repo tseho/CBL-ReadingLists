@@ -15,46 +15,46 @@
         <Book Series="Hunger" Number="4" Volume="2013" Year="2013">
             <Database Name="cv" Series="65628" Issue="428861" />
         </Book>
-        <Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="69122" Issue="433170" />
         </Book>
-        <Book Series="Cataclysm: Ultimate X-Men" Number="1" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: Ultimate X-Men" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="69571" Issue="435050" />
         </Book>
-        <Book Series="Cataclysm: Ultimate X-Men" Number="2" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: Ultimate X-Men" Number="2" Volume="2014" Year="2014">
             <Database Name="cv" Series="69571" Issue="437486" />
         </Book>
-        <Book Series="Cataclysm: Ultimate X-Men" Number="3" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: Ultimate X-Men" Number="3" Volume="2014" Year="2014">
             <Database Name="cv" Series="69571" Issue="442918" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates' Last Stand" Number="1" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="68921" Issue="432326" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates" Number="1" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="69371" Issue="433843" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates' Last Stand" Number="2" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="2" Volume="2014" Year="2014">
             <Database Name="cv" Series="68921" Issue="435576" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates" Number="2" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates" Number="2" Volume="2014" Year="2014">
             <Database Name="cv" Series="69371" Issue="436196" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates" Number="3" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates" Number="3" Volume="2014" Year="2014">
             <Database Name="cv" Series="69371" Issue="442163" />
         </Book>
-        <Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2014" Year="2014">
             <Database Name="cv" Series="69122" Issue="436197" />
         </Book>
-        <Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2014" Year="2014">
             <Database Name="cv" Series="69122" Issue="441410" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates' Last Stand" Number="3" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="3" Volume="2014" Year="2014">
             <Database Name="cv" Series="68921" Issue="441409" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates' Last Stand" Number="4" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="4" Volume="2014" Year="2014">
             <Database Name="cv" Series="68921" Issue="443980" />
         </Book>
-        <Book Series="Cataclysm: The Ultimates' Last Stand" Number="5" Volume="2013" Year="2014">
+        <Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="5" Volume="2014" Year="2014">
             <Database Name="cv" Series="68921" Issue="446478" />
         </Book>
         <Book Series="Survive" Number="1" Volume="2014" Year="2014">

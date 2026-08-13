@@ -12,7 +12,7 @@
 <Book Series="The Amazing Spider-Man" Number="531" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="113518" />
 </Book>
-<Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
+<Book Series="New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18180" Issue="106482" />
 </Book>
 <Book Series="Fantastic Four" Number="536" Volume="1998" Year="2006">
@@ -45,10 +45,10 @@
 <Book Series="X-Factor" Number="8" Volume="2006" Year="2006">
 <Database Name="cv" Series="18109" Issue="106097" />
 </Book>
-<Book Series="New Avengers" Number="21" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="21" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107893" />
 </Book>
-<Book Series="New Avengers" Number="22" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="22" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107895" />
 </Book>
 <Book Series="New X-Men" Number="28" Volume="2004" Year="2006">
@@ -99,7 +99,7 @@
 <Book Series="Civil War: Front Line" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18245" Issue="107959" />
 </Book>
-<Book Series="Iron Man" Number="13" Volume="2004" Year="2006">
+<Book Series="Iron Man" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="18220" Issue="108773" />
 </Book>
 <Book Series="Ms. Marvel" Number="6" Volume="2006" Year="2006">
@@ -171,25 +171,25 @@
 <Book Series="Black Panther" Number="23" Volume="2005" Year="2007">
 <Database Name="cv" Series="11502" Issue="108954" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="30" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="30" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106444" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="31" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="31" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106445" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="32" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="32" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106446" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="1" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105339" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="2" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105344" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="3" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105345" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="4" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105346" />
 </Book>
 <Book Series="Daily Bugle Civil War Newspaper Special" Number="1" Volume="2006" Year="2006">
@@ -210,7 +210,7 @@
 <Book Series="Heroes for Hire" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18102" Issue="108882" />
 </Book>
-<Book Series="New Avengers" Number="23" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="23" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108038" />
 </Book>
 <Book Series="Iron Man/Captain America: Casualties of War" Number="1" Volume="2007" Year="2007">
@@ -225,13 +225,13 @@
 <Book Series="Wolverine" Number="47" Volume="2003" Year="2006">
 <Database Name="cv" Series="10809" Issue="108679" />
 </Book>
-<Book Series="Captain America" Number="22" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="22" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="108673" />
 </Book>
-<Book Series="Captain America" Number="23" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="23" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="108891" />
 </Book>
-<Book Series="Captain America" Number="24" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="24" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="108901" />
 </Book>
 <Book Series="Civil War: Front Line" Number="6" Volume="2006" Year="2006">
@@ -243,7 +243,7 @@
 <Book Series="Civil War: Choosing Sides" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18273" Issue="107009" />
 </Book>
-<Book Series="New Avengers" Number="24" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="24" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108039" />
 </Book>
 <Book Series="Fantastic Four" Number="540" Volume="1998" Year="2006">
@@ -270,7 +270,7 @@
 <Book Series="The Sensational Spider-Man" Number="34" Volume="2006" Year="2007">
 <Database Name="cv" Series="18177" Issue="113628" />
 </Book>
-<Book Series="New Avengers" Number="25" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="25" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108040" />
 </Book>
 <Book Series="Civil War: Front Line" Number="8" Volume="2006" Year="2006">
@@ -288,7 +288,7 @@
 <Book Series="Civil War: War Crimes" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18539" Issue="108953" />
 </Book>
-<Book Series="Iron Man" Number="14" Volume="2004" Year="2007">
+<Book Series="Iron Man" Number="14" Volume="2005" Year="2007">
 <Database Name="cv" Series="18220" Issue="111399" />
 </Book>
 <Book Series="Fantastic Four" Number="541" Volume="1998" Year="2007">
@@ -306,7 +306,7 @@
 <Book Series="Thunderbolts" Number="108" Volume="2006" Year="2007">
 <Database Name="cv" Series="18128" Issue="106313" />
 </Book>
-<Book Series="Winter Soldier:  Winter Kills" Number="1" Volume="2007" Year="2007">
+<Book Series="Winter Soldier: Winter Kills" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18125" Issue="106186" />
 </Book>
 <Book Series="Blade" Number="5" Volume="2006" Year="2007">
@@ -366,7 +366,7 @@
 <Book Series="Civil War: Front Line" Number="11" Volume="2006" Year="2007">
 <Database Name="cv" Series="18245" Issue="108968" />
 </Book>
-<Book Series="Captain America" Number="25" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="25" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="106788" />
 </Book>
 <Book Series="Punisher War Journal" Number="5" Volume="2007" Year="2007">

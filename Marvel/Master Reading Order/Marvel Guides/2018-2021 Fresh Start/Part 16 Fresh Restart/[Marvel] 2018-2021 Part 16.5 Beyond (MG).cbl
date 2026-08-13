@@ -25,7 +25,7 @@
         <Book Series="The Amazing Spider-Man" Number="88.BEY" Volume="2018" Year="2022">
             <Database Name="cv" Series="112161" Issue="906628" />
         </Book>
-        <Book Series="Mary Jane &#38; Black Cat: Beyond" Number="1" Volume="2022" Year="2022">
+        <Book Series="Mary Jane &amp; Black Cat: Beyond" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="141457" Issue="904764" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="87" Volume="2018" Year="2022">

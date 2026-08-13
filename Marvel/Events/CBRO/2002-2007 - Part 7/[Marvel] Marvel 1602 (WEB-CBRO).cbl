@@ -3,28 +3,28 @@
 <Name>[Marvel] Marvel 1602 (WEB-CBRO)</Name>
 <NumIssues>23</NumIssues>
 <Books>
-<Book Series="1602" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvel 1602" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="10946" Issue="93999" />
 </Book>
-<Book Series="1602" Number="2" Volume="2003" Year="2003">
+<Book Series="Marvel 1602" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="10946" Issue="94000" />
 </Book>
-<Book Series="1602" Number="3" Volume="2003" Year="2003">
+<Book Series="Marvel 1602" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="10946" Issue="94001" />
 </Book>
-<Book Series="1602" Number="4" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="4" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94002" />
 </Book>
-<Book Series="1602" Number="5" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="5" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94003" />
 </Book>
-<Book Series="1602" Number="6" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="6" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94004" />
 </Book>
-<Book Series="1602" Number="7" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="7" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94005" />
 </Book>
-<Book Series="1602" Number="8" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="8" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94006" />
 </Book>
 <Book Series="Marvel 1602: New World" Number="1" Volume="2005" Year="2005">

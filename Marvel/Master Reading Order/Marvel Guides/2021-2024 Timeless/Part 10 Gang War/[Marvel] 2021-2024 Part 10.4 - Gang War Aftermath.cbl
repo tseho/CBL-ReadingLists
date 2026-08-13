@@ -83,7 +83,7 @@
         <Book Series="Jackpot &amp; Black Cat" Number="4" Volume="2024" Year="2024">
             <Database Name="cv" Series="157398" Issue="1060857" />
         </Book>
-        <Book Series="Hallows' Eve: The Big Night" Number="1" Volume="2023" Year="2023">
+        <Book Series="Hallows&apos; Eve: The Big Night" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="154292" Issue="1026547" />
         </Book>
         <Book Series="Ghost Rider Annual" Number="1" Volume="2023" Year="2023">
@@ -212,13 +212,13 @@
         <Book Series="Spider-Society" Number="4" Volume="2024" Year="2025">
             <Database Name="cv" Series="159239" Issue="1076631" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="17" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="17" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1046269" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="18" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="18" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1049276" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="19" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="19" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1051497" />
         </Book>
         <Book Series="Deadpool" Number="1" Volume="2024" Year="2024">

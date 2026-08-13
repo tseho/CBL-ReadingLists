@@ -111,7 +111,7 @@
 <Book Series="Batman" Number="594" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="83262" />
 </Book>
-<Book Series="World's Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+<Book Series="World&apos;s Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="26553" Issue="158812" />
 </Book>
 <Book Series="Superman/Batman" Number="68" Volume="2003" Year="2010">

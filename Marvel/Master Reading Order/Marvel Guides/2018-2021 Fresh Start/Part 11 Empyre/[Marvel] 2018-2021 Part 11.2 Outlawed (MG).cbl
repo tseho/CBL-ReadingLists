@@ -12,10 +12,10 @@
         <Book Series="Outlawed" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="125811" Issue="742375" />
         </Book>
-        <Book Series="Power Pack" Number="1" Volume="2020" Year="2021">
+        <Book Series="Power Pack" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="132229" Issue="819488" />
         </Book>
-        <Book Series="Power Pack" Number="2" Volume="2020" Year="2021">
+        <Book Series="Power Pack" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="132229" Issue="823347" />
         </Book>
         <Book Series="The Magnificent Ms. Marvel" Number="14" Volume="2019" Year="2020">
@@ -48,13 +48,13 @@
         <Book Series="The Magnificent Ms. Marvel" Number="17" Volume="2019" Year="2021">
             <Database Name="cv" Series="117593" Issue="821498" />
         </Book>
-        <Book Series="Power Pack" Number="3" Volume="2020" Year="2021">
+        <Book Series="Power Pack" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="132229" Issue="828196" />
         </Book>
-        <Book Series="Power Pack" Number="4" Volume="2020" Year="2021">
+        <Book Series="Power Pack" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="132229" Issue="832868" />
         </Book>
-        <Book Series="Power Pack" Number="5" Volume="2020" Year="2021">
+        <Book Series="Power Pack" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="132229" Issue="842967" />
         </Book>
         <Book Series="Champions" Number="2" Volume="2020" Year="2021">
@@ -84,19 +84,19 @@
         <Book Series="Reptil" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="136391" Issue="885613" />
         </Book>
-        <Book Series="Ms. Marvel: Beyond the Limit" Number="1" Volume="2021" Year="2022">
+        <Book Series="Ms. Marvel: Beyond the Limit" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140533" Issue="899179" />
         </Book>
-        <Book Series="Ms. Marvel: Beyond the Limit" Number="2" Volume="2021" Year="2022">
+        <Book Series="Ms. Marvel: Beyond the Limit" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="140533" Issue="902702" />
         </Book>
-        <Book Series="Ms. Marvel: Beyond the Limit" Number="3" Volume="2021" Year="2022">
+        <Book Series="Ms. Marvel: Beyond the Limit" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="140533" Issue="908696" />
         </Book>
-        <Book Series="Ms. Marvel: Beyond the Limit" Number="4" Volume="2021" Year="2022">
+        <Book Series="Ms. Marvel: Beyond the Limit" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="140533" Issue="912256" />
         </Book>
-        <Book Series="Ms. Marvel: Beyond the Limit" Number="5" Volume="2021" Year="2022">
+        <Book Series="Ms. Marvel: Beyond the Limit" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="140533" Issue="919305" />
         </Book>
     </Books>

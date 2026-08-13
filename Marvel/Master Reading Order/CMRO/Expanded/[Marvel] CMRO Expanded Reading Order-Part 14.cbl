@@ -9,7 +9,7 @@
 <Book Series="What The--?!" Number="7" Volume="1988" Year="1990">
 <Database Name="cv" Series="4079" Issue="48871" />
 </Book>
-<Book Series="The 'Nam" Number="43" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="43" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132329" />
 </Book>
 <Book Series="Saga of the Original Human Torch" Number="1" Volume="1990" Year="1990">
@@ -153,13 +153,13 @@
 <Book Series="What If...?" Number="12" Volume="1989" Year="1990">
 <Database Name="cv" Series="4249" Issue="32649" />
 </Book>
-<Book Series="Destroyer" Number="8" Volume="1989" Year="1990">
+<Book Series="The Destroyer" Number="8" Volume="1989" Year="1990">
 <Database Name="cv" Series="4222" Issue="94534" />
 </Book>
 <Book Series="Marvel Age" Number="88" Volume="1983" Year="1990">
 <Database Name="cv" Series="19176" Issue="169017" />
 </Book>
-<Book Series="The 'Nam" Number="44" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="44" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132330" />
 </Book>
 <Book Series="Marvel Graphic Novel" Number="1" Volume="1982" Year="2004">
@@ -240,7 +240,7 @@
 <Book Series="Spider-Man and the New Mutants" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="22609" Issue="135700" />
 </Book>
-<Book Series="Destroyer" Number="9" Volume="1989" Year="1990">
+<Book Series="The Destroyer" Number="9" Volume="1989" Year="1990">
 <Database Name="cv" Series="4222" Issue="94535" />
 </Book>
 <Book Series="Heathcliff" Number="48" Volume="1985" Year="1990">
@@ -507,7 +507,7 @@
 <Book Series="Conan the Barbarian" Number="240" Volume="1970" Year="1991">
 <Database Name="cv" Series="2471" Issue="133884" />
 </Book>
-<Book Series="The 'Nam" Number="45" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="45" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132331" />
 </Book>
 <Book Series="The Transformers" Number="272" Volume="1984" Year="1990">
@@ -729,7 +729,7 @@
 <Book Series="The Transformers" Number="286" Volume="1984" Year="1990">
 <Database Name="cv" Series="20559" Issue="172880" />
 </Book>
-<Book Series="The 'Nam" Number="46" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="46" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132332" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="176" Volume="1974" Year="1990">
@@ -768,7 +768,7 @@
 <Book Series="Namor, the Sub-Mariner" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="4406" Issue="32633" />
 </Book>
-<Book Series="The 'Nam" Number="47" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="47" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132333" />
 </Book>
 <Book Series="Marvel Fanfare" Number="51" Volume="1982" Year="1990">
@@ -867,7 +867,7 @@
 <Book Series="What If...?" Number="17" Volume="1989" Year="1990">
 <Database Name="cv" Series="4249" Issue="33214" />
 </Book>
-<Book Series="The 'Nam" Number="48" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="48" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132334" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="265" Volume="1981" Year="1990">
@@ -993,16 +993,16 @@
 <Book Series="Web of Spider-Man" Number="70" Volume="1985" Year="1990">
 <Database Name="cv" Series="3519" Issue="33444" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="1" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175086" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="2" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="2" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175089" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="3" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="3" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175090" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="4" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="4" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175093" />
 </Book>
 <Book Series="Excalibur" Number="30" Volume="1988" Year="1990">
@@ -1017,13 +1017,13 @@
 <Book Series="Wolverine" Number="33" Volume="1988" Year="1990">
 <Database Name="cv" Series="4250" Issue="64296" />
 </Book>
-<Book Series="The 'Nam" Number="49" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="49" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132335" />
 </Book>
-<Book Series="The 'Nam" Number="50" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="50" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132336" />
 </Book>
-<Book Series="The 'Nam" Number="51" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="51" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132337" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="179" Volume="1974" Year="1990">
@@ -1431,10 +1431,10 @@
 <Book Series="Elektra Lives Again" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="22355" Issue="134346" />
 </Book>
-<Book Series="The 'Nam" Number="52" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="52" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="127977" />
 </Book>
-<Book Series="The 'Nam" Number="53" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="53" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="127981" />
 </Book>
 <Book Series="The Transformers" Number="300" Volume="1984" Year="1990">
@@ -1671,19 +1671,19 @@
 <Book Series="What If...?" Number="24" Volume="1989" Year="1991">
 <Database Name="cv" Series="4249" Issue="34113" />
 </Book>
-<Book Series="The 'Nam" Number="54" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="54" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132338" />
 </Book>
-<Book Series="The 'Nam" Number="55" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="55" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132341" />
 </Book>
-<Book Series="The 'Nam" Number="56" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="56" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132342" />
 </Book>
-<Book Series="The 'Nam" Number="57" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="57" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132343" />
 </Book>
-<Book Series="The 'Nam" Number="58" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="58" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132345" />
 </Book>
 <Book Series="The Punisher" Number="45" Volume="1987" Year="1991">
@@ -1896,7 +1896,7 @@
 <Book Series="Alpha Flight" Number="95" Volume="1983" Year="1991">
 <Database Name="cv" Series="3217" Issue="34085" />
 </Book>
-<Book Series="Destroyer" Number="1" Volume="1992" Year="1991">
+<Book Series="The Destroyer" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4591" Issue="94536" />
 </Book>
 <Book Series="Marvel Tales" Number="247" Volume="1966" Year="1991">
@@ -1968,7 +1968,7 @@
 <Book Series="Alpha Flight" Number="96" Volume="1983" Year="1991">
 <Database Name="cv" Series="3217" Issue="34191" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="2" Volume="1990" Year="1991">
+<Book Series="Marvel Year-In-Review" Number="2" Volume="1989" Year="1991">
 <Database Name="cv" Series="21201" Issue="150226" />
 </Book>
 <Book Series="Marvel Swimsuit Special" Number="1" Volume="1992" Year="1992">
@@ -2157,13 +2157,13 @@
 <Book Series="The Amazing Spider-Man" Number="348" Volume="1963" Year="1991">
 <Database Name="cv" Series="2127" Issue="34290" />
 </Book>
-<Book Series="The 'Nam" Number="59" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="59" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132346" />
 </Book>
-<Book Series="The 'Nam" Number="60" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="60" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132347" />
 </Book>
-<Book Series="The 'Nam" Number="61" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="61" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132349" />
 </Book>
 <Book Series="Ghost Rider" Number="13" Volume="1990" Year="1991">
@@ -2706,7 +2706,7 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="36" Volume="1988" Year="1991">
 <Database Name="cv" Series="4049" Issue="35026" />
 </Book>
-<Book Series="Night Raven: House of Cards" Number="1" Volume="1992" Year="1991">
+<Book Series="Night Raven House of Cards" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="20982" Issue="125621" />
 </Book>
 <Book Series="Marvel Age" Number="102" Volume="1983" Year="1991">
@@ -2739,13 +2739,13 @@
 <Book Series="Marvel Age" Number="103" Volume="1983" Year="1991">
 <Database Name="cv" Series="19176" Issue="157243" />
 </Book>
-<Book Series="The 'Nam" Number="62" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="62" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132351" />
 </Book>
-<Book Series="The 'Nam" Number="63" Volume="1986" Year="1991">
+<Book Series="The &apos;Nam" Number="63" Volume="1986" Year="1991">
 <Database Name="cv" Series="19757" Issue="132354" />
 </Book>
-<Book Series="The 'Nam" Number="64" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="64" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="126652" />
 </Book>
 <Book Series="The Incredible Hulk Annual" Number="17" Volume="1968" Year="1991">

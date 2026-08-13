@@ -162,7 +162,7 @@
 <Book Series="The Pulse" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="11310" Issue="105810" />
 </Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115271" />
 </Book>
 <Book Series="Black Panther" Number="7" Volume="2005" Year="2005">
@@ -177,7 +177,7 @@
 <Book Series="Exiles" Number="71" Volume="2001" Year="2005">
 <Database Name="cv" Series="6983" Issue="105981" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="17" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="17" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106394" />
 </Book>
 <Book Series="House of M" Number="6" Volume="2005" Year="2005">

@@ -825,10 +825,10 @@
 <Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108497" />
 </Book>
-<Book Series="Showcase '93" Number="7" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="7" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107456" />
 </Book>
-<Book Series="Showcase '93" Number="8" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="8" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107494" />
 </Book>
 <Book Series="Batman" Number="498" Volume="1940" Year="1993">
@@ -1002,7 +1002,7 @@
 <Book Series="Robin" Number="9" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="39471" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
 </Book>
 <Book Series="Batman" Number="512" Volume="1940" Year="1994">
@@ -1287,7 +1287,7 @@
 <Book Series="Detective Comics" Number="729" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113203" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131936" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="83" Volume="1992" Year="1999">
@@ -1356,7 +1356,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="55" Volume="1998" Year="1999">
 <Database Name="cv" Series="19721" Issue="123248" />
 </Book>
-<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Young Justice in No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873" />
 </Book>
 <Book Series="The Batman Chronicles" Number="17" Volume="1995" Year="1999">
@@ -1509,7 +1509,7 @@
 <Book Series="Robin" Number="73" Volume="1993" Year="2000">
 <Database Name="cv" Series="4975" Issue="46269" />
 </Book>
-<Book Series="Batman: No Man's Land Secret Files" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="33363" Issue="238533" />
 </Book>
 <Book Series="Azrael: Agent of the Bat" Number="59" Volume="1998" Year="1999">
@@ -1521,7 +1521,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="60" Volume="1998" Year="2000">
 <Database Name="cv" Series="19721" Issue="123294" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="0" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131872" />
 </Book>
 <Book Series="Batman" Number="573" Volume="1940" Year="2000">
@@ -2418,13 +2418,13 @@
 <Book Series="Superman/Batman" Number="26" Volume="2003" Year="2006">
 <Database Name="cv" Series="10938" Issue="111198" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167758" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167770" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167771" />
 </Book>
 <Book Series="Superman" Number="712" Volume="1939" Year="2011">
@@ -2613,13 +2613,13 @@
 <Book Series="Final Crisis" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="21712" Issue="131869" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="133674" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="2" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="136522" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="3" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="140443" />
 </Book>
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
@@ -2712,7 +2712,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="153443" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="153683" />
 </Book>
 <Book Series="Oracle: The Cure" Number="1" Volume="2009" Year="2009">
@@ -2727,7 +2727,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="155147" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="155917" />
 </Book>
 <Book Series="Oracle: The Cure" Number="2" Volume="2009" Year="2009">
@@ -2745,7 +2745,7 @@
 <Book Series="Batman: Battle for the Cowl: The Network" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26323" Issue="156624" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="157147" />
 </Book>
 <Book Series="Oracle: The Cure" Number="3" Volume="2009" Year="2009">
@@ -5145,7 +5145,7 @@
 <Book Series="Dark Nights: Death Metal Speed Metal" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130501" Issue="802694" />
 </Book>
-<Book Series="Dark Nights: Death Metal Multiverse's End" Number="1" Volume="2020" Year="2020">
+<Book Series="Dark Nights: Death Metal Multiverse&apos;s End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130656" Issue="804749" />
 </Book>
 <Book Series="Dark Nights: Death Metal" Number="4" Volume="2020" Year="2020">

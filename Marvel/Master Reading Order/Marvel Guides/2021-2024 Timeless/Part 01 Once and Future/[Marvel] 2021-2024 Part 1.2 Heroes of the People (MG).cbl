@@ -37,19 +37,19 @@
         <Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="939085" />
         </Book>
-        <Book Series="Captain America/Iron Man" Number="1" Volume="2021" Year="2022">
+        <Book Series="Captain America/Iron Man" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140358" Issue="897362" />
         </Book>
-        <Book Series="Captain America/Iron Man" Number="2" Volume="2021" Year="2022">
+        <Book Series="Captain America/Iron Man" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="140358" Issue="901343" />
         </Book>
-        <Book Series="Captain America/Iron Man" Number="3" Volume="2021" Year="2022">
+        <Book Series="Captain America/Iron Man" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="140358" Issue="904773" />
         </Book>
-        <Book Series="Captain America/Iron Man" Number="4" Volume="2021" Year="2022">
+        <Book Series="Captain America/Iron Man" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="140358" Issue="909680" />
         </Book>
-        <Book Series="Captain America/Iron Man" Number="5" Volume="2021" Year="2022">
+        <Book Series="Captain America/Iron Man" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="140358" Issue="912253" />
         </Book>
         <Book Series="Captain America Infinity Comic" Number="1" Volume="2021" Year="2021">
@@ -79,25 +79,25 @@
         <Book Series="America Chavez: Made In The USA" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="134219" Issue="878794" />
         </Book>
-        <Book Series="Hawkeye: Kate Bishop" Number="1" Volume="2021" Year="2022">
+        <Book Series="Hawkeye: Kate Bishop" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140220" Issue="895346" />
         </Book>
-        <Book Series="Hawkeye: Kate Bishop" Number="2" Volume="2021" Year="2022">
+        <Book Series="Hawkeye: Kate Bishop" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="140220" Issue="899172" />
         </Book>
-        <Book Series="Hawkeye: Kate Bishop" Number="3" Volume="2021" Year="2022">
+        <Book Series="Hawkeye: Kate Bishop" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="140220" Issue="902684" />
         </Book>
-        <Book Series="Hawkeye: Kate Bishop" Number="4" Volume="2021" Year="2022">
+        <Book Series="Hawkeye: Kate Bishop" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="140220" Issue="906632" />
         </Book>
-        <Book Series="Hawkeye: Kate Bishop" Number="5" Volume="2021" Year="2022">
+        <Book Series="Hawkeye: Kate Bishop" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="140220" Issue="910628" />
         </Book>
         <Book Series="Captain America" Number="0" Volume="2022" Year="2022">
             <Database Name="cv" Series="142485" Issue="918720" />
         </Book>
-        <Book Series="Marvel's Voices: Legacy" Number="1" Volume="2021" Year="2021">
+        <Book Series="Marvel&apos;s Voices: Legacy" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="134052" Issue="830030" />
         </Book>
         <Book Series="Women of Marvel" Number="1" Volume="2022" Year="2022">

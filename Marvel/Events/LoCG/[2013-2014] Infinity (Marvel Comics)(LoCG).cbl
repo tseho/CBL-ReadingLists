@@ -3,19 +3,19 @@
 <Name>[2013-2014] Infinity (Marvel Comics)(LoCG)</Name>
 <NumIssues>56</NumIssues>
 <Books>
-<Book Series="Avengers" Number="14" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="411825" />
 </Book>
 <Book Series="New Avengers" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="411831" />
 </Book>
-<Book Series="Avengers" Number="15" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="415233" />
 </Book>
-<Book Series="Avengers" Number="16" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="16" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="417831" />
 </Book>
-<Book Series="Avengers" Number="17" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="17" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="420634" />
 </Book>
 <Book Series="Infinity" Number="1" Volume="2013" Year="2013">
@@ -27,7 +27,7 @@
 <Book Series="New Avengers" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="423677" />
 </Book>
-<Book Series="Avengers" Number="18" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="18" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="422493" />
 </Book>
 <Book Series="Thunderbolts" Number="13" Volume="2013" Year="2013">
@@ -48,7 +48,7 @@
 <Book Series="New Avengers" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="425935" />
 </Book>
-<Book Series="Avengers" Number="19" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="19" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="425022" />
 </Book>
 <Book Series="Infinity: The Hunt" Number="1" Volume="2013" Year="2013">
@@ -63,7 +63,7 @@
 <Book Series="Infinity" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="66319" Issue="425933" />
 </Book>
-<Book Series="Avengers" Number="20" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="20" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="426871" />
 </Book>
 <Book Series="Thunderbolts" Number="15" Volume="2013" Year="2013">
@@ -99,7 +99,7 @@
 <Book Series="Fearless Defenders" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="56878" Issue="428296" />
 </Book>
-<Book Series="Avengers" Number="21" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="21" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="428855" />
 </Book>
 <Book Series="Avengers Assemble" Number="20" Volume="2012" Year="2013">
@@ -126,7 +126,7 @@
 <Book Series="Infinity" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="66319" Issue="431441" />
 </Book>
-<Book Series="Avengers" Number="22" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="22" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="431435" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="8" Volume="2013" Year="2013">
@@ -135,7 +135,7 @@
 <Book Series="Mighty Avengers" Number="3" Volume="2013" Year="2014">
 <Database Name="cv" Series="67223" Issue="432335" />
 </Book>
-<Book Series="Avengers" Number="23" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="433840" />
 </Book>
 <Book Series="Secret Avengers" Number="11" Volume="2013" Year="2014">
@@ -150,7 +150,7 @@
 <Book Series="Infinity: The Hunt" Number="4" Volume="2013" Year="2014">
 <Database Name="cv" Series="67222" Issue="435057" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Wolverine &amp; the X-Men Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69573" Issue="435070" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="9" Volume="2013" Year="2014">

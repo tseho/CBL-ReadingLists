@@ -33,19 +33,19 @@
 <Book Series="Genis-Vell: Captain Marvel" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="144206" Issue="956850" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="1" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="960022" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="2" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="963991" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="3" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="971879" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="4" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="978487" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="5" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="985707" />
 </Book>
 <Book Series="Women of Marvel" Number="1" Volume="2023" Year="2023">

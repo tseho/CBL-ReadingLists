@@ -117,7 +117,7 @@
 <Book Series="The Uncanny X-Men" Number="500" Volume="1981" Year="2008">
 <Database Name="cv" Series="3092" Issue="134012" />
 </Book>
-<Book Series="X-Men Pixies and Demons Director's Cut" Number="1" Volume="2008" Year="2008">
+<Book Series="X-Men Pixies and Demons Director&apos;s Cut" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="32114" Issue="201508" />
 </Book>
 <Book Series="X-Men: Manifest Destiny" Number="1" Volume="2008" Year="2008">
@@ -222,34 +222,34 @@
 <Book Series="Hulk Team-Up" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28067" Issue="172315" />
 </Book>
-<Book Series="X-Force Special: Ain't No Dog" Number="1" Volume="2008" Year="2008">
+<Book Series="X-Force Special: Ain&apos;t No Dog" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21817" Issue="131468" />
 </Book>
 <Book Series="New Avengers: Illuminati" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18113" Issue="106129" />
 </Book>
-<Book Series="New Avengers" Number="44" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="44" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="136523" />
 </Book>
-<Book Series="New Avengers" Number="27" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="27" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="106364" />
 </Book>
-<Book Series="New Avengers" Number="28" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="28" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="106902" />
 </Book>
-<Book Series="New Avengers" Number="29" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="29" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="108360" />
 </Book>
-<Book Series="New Avengers" Number="30" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="30" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="109267" />
 </Book>
-<Book Series="New Avengers" Number="31" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="31" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="110437" />
 </Book>
-<Book Series="New Avengers" Number="32" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="32" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="111511" />
 </Book>
-<Book Series="New Avengers" Number="36" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="36" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="117753" />
 </Book>
 <Book Series="New Avengers: Illuminati" Number="5" Volume="2007" Year="2008">
@@ -261,22 +261,22 @@
 <Book Series="Secret Invasion" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="21076" Issue="129598" />
 </Book>
-<Book Series="New Avengers" Number="41" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="41" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="130973" />
 </Book>
-<Book Series="New Avengers" Number="43" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="43" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="134066" />
 </Book>
 <Book Series="Secret Invasion" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="21076" Issue="131297" />
 </Book>
-<Book Series="New Avengers" Number="40" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="40" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="128969" />
 </Book>
-<Book Series="New Avengers" Number="42" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="42" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="131808" />
 </Book>
-<Book Series="New Avengers" Number="45" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="45" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="139334" />
 </Book>
 <Book Series="Secret Invasion" Number="4" Volume="2008" Year="2008">
@@ -306,7 +306,7 @@
 <Book Series="Secret Invasion" Number="8" Volume="2008" Year="2009">
 <Database Name="cv" Series="21076" Issue="144233" />
 </Book>
-<Book Series="New Avengers" Number="48" Volume="2004" Year="2009">
+<Book Series="New Avengers" Number="48" Volume="2005" Year="2009">
 <Database Name="cv" Series="11497" Issue="148641" />
 </Book>
 <Book Series="The Mighty Avengers" Number="20" Volume="2007" Year="2009">
@@ -336,13 +336,13 @@
 <Book Series="Uncanny X-Men Annual" Number="2" Volume="2006" Year="2009">
 <Database Name="cv" Series="18405" Issue="150498" />
 </Book>
-<Book Series="New Avengers" Number="49" Volume="2004" Year="2009">
+<Book Series="New Avengers" Number="49" Volume="2005" Year="2009">
 <Database Name="cv" Series="11497" Issue="150658" />
 </Book>
 <Book Series="Dark Avengers" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25512" Issue="150495" />
 </Book>
-<Book Series="New Avengers" Number="50" Volume="2004" Year="2009">
+<Book Series="New Avengers" Number="50" Volume="2005" Year="2009">
 <Database Name="cv" Series="11497" Issue="152604" />
 </Book>
 <Book Series="Dark Avengers" Number="2" Volume="2009" Year="2009">
@@ -360,13 +360,13 @@
 <Book Series="Dark Avengers" Number="6" Volume="2009" Year="2009">
 <Database Name="cv" Series="25512" Issue="161538" />
 </Book>
-<Book Series="X-Force: Sex &#38; Violence" Number="1" Volume="2010" Year="2010">
+<Book Series="X-Force: Sex &amp; Violence" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34411" Issue="224583" />
 </Book>
-<Book Series="X-Force: Sex &#38; Violence" Number="2" Volume="2010" Year="2010">
+<Book Series="X-Force: Sex &amp; Violence" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="34411" Issue="228876" />
 </Book>
-<Book Series="X-Force: Sex &#38; Violence" Number="3" Volume="2010" Year="2010">
+<Book Series="X-Force: Sex &amp; Violence" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="34411" Issue="233757" />
 </Book>
 <Book Series="X-Men: Kingbreaker" Number="1" Volume="2009" Year="2009">
@@ -609,13 +609,13 @@
 <Book Series="X-Force" Number="13" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="153653" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
+<Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="151439" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="2" Volume="2009" Year="2009">
+<Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="153992" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
+<Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="155782" />
 </Book>
 <Book Series="X-Force/Cable: Messiah War" Number="1" Volume="2009" Year="2009">

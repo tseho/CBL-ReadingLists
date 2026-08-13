@@ -9,10 +9,10 @@
 <Book Series="Siege Director&apos;s Cut" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32152" Issue="201651" />
 </Book>
-<Book Series="New Avengers" Number="61" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="61" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="194421" />
 </Book>
-<Book Series="New Avengers" Number="62" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="62" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="198259" />
 </Book>
 <Book Series="Siege" Number="2" Volume="2010" Year="2010">
@@ -21,13 +21,13 @@
 <Book Series="Siege" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30904" Issue="200744" />
 </Book>
-<Book Series="New Avengers" Number="63" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="63" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="201704" />
 </Book>
 <Book Series="Siege: Spider-Man" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32661" Issue="208654" />
 </Book>
-<Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="64" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="210216" />
 </Book>
 <Book Series="Siege" Number="4" Volume="2010" Year="2010">

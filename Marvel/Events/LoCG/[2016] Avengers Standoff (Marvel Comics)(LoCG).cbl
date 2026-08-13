@@ -15,7 +15,7 @@
 <Book Series="Uncanny Avengers" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="85318" Issue="518870" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="7" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="521327" />
 </Book>
 <Book Series="New Avengers" Number="8" Volume="2015" Year="2016">
@@ -33,13 +33,13 @@
 <Book Series="New Avengers" Number="9" Volume="2015" Year="2016">
 <Database Name="cv" Series="85301" Issue="523261" />
 </Book>
-<Book Series="Illuminati" Number="6" Volume="2015" Year="2016">
+<Book Series="Illuminati" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85951" Issue="525027" />
 </Book>
 <Book Series="Agents of S.H.I.E.L.D." Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87304" Issue="525015" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="8" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="525016" />
 </Book>
 <Book Series="New Avengers" Number="10" Volume="2015" Year="2016">
@@ -54,7 +54,7 @@
 <Book Series="Captain America: Sam Wilson" Number="9" Volume="2015" Year="2016">
 <Database Name="cv" Series="85274" Issue="528503" />
 </Book>
-<Book Series="Illuminati" Number="7" Volume="2015" Year="2016">
+<Book Series="Illuminati" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85951" Issue="529658" />
 </Book>
 </Books>

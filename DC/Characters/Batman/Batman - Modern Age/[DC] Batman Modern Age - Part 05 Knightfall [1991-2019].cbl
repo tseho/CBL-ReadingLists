@@ -114,10 +114,10 @@
 <Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108497" />
 </Book>
-<Book Series="Showcase '93" Number="7" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="7" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107456" />
 </Book>
-<Book Series="Showcase '93" Number="8" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="8" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107494" />
 </Book>
 <Book Series="Batman" Number="498" Volume="1940" Year="1993">
@@ -216,7 +216,7 @@
 <Book Series="Batman: Shadow of the Bat" Number="27" Volume="1992" Year="1994">
 <Database Name="cv" Series="4724" Issue="39122" />
 </Book>
-<Book Series="Showcase '94" Number="7" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="7" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="155532" />
 </Book>
 <Book Series="Detective Comics" Number="674" Volume="1937" Year="1994">
@@ -345,13 +345,13 @@
 <Book Series="Robin" Number="14" Volume="1993" Year="1995">
 <Database Name="cv" Series="4975" Issue="40423" />
 </Book>
-<Book Series="Nightwing: Alfred's Return" Number="1" Volume="1995" Year="1995">
+<Book Series="Nightwing: Alfred&apos;s Return" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="31190" Issue="194016" />
 </Book>
 <Book Series="Batman: Vengeance of Bane II" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="28220" Issue="173539" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
 </Book>
 <Book Series="Azrael" Number="1" Volume="1995" Year="1995">
@@ -387,16 +387,16 @@
 <Book Series="Batman" Number="469" Volume="1940" Year="1991">
 <Database Name="cv" Series="796" Issue="34690" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="1" Volume="1991" Year="1991">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4564" Issue="34736" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="2" Volume="1991" Year="1992">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="2" Volume="1991" Year="1992">
 <Database Name="cv" Series="4564" Issue="34849" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="3" Volume="1991" Year="1992">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="3" Volume="1991" Year="1992">
 <Database Name="cv" Series="4564" Issue="34929" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="4" Volume="1991" Year="1992">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="4" Volume="1991" Year="1992">
 <Database Name="cv" Series="4564" Issue="34972" />
 </Book>
 <Book Series="Robin III: Cry of the Huntress" Number="1" Volume="1992" Year="1992">

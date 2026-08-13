@@ -30,16 +30,16 @@
     <Book Series="Iron Man" Number="45" Volume="1998" Year="2001">
       <Database Name="cv" Series="6504" Issue="129888" />
     </Book>
-    <Book Series="Avengers Icons: Tigra" Number="1" Volume="2002" Year="2002">
+    <Book Series="Tigra" Number="1" Volume="2002" Year="2002">
       <Database Name="cv" Series="9378" Issue="128474" />
     </Book>
-    <Book Series="Avengers Icons: Tigra" Number="2" Volume="2002" Year="2002">
+    <Book Series="Tigra" Number="2" Volume="2002" Year="2002">
       <Database Name="cv" Series="9378" Issue="128475" />
     </Book>
-    <Book Series="Avengers Icons: Tigra" Number="3" Volume="2002" Year="2002">
+    <Book Series="Tigra" Number="3" Volume="2002" Year="2002">
       <Database Name="cv" Series="9378" Issue="128476" />
     </Book>
-    <Book Series="Avengers Icons: Tigra" Number="4" Volume="2002" Year="2002">
+    <Book Series="Tigra" Number="4" Volume="2002" Year="2002">
       <Database Name="cv" Series="9378" Issue="128477" />
     </Book>
     <Book Series="Iron Man 2001" Number="1" Volume="2001" Year="2001">
@@ -732,28 +732,28 @@
     <Book Series="Thor" Number="84" Volume="1998" Year="2004">
       <Database Name="cv" Series="6226" Issue="99330" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="1" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94288" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="2" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="2" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94289" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="3" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="3" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94290" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="4" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="4" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94291" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="5" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="5" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94292" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="6" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="6" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94293" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="7" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="7" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="94294" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="8" Volume="2004" Year="2004">
+    <Book Series="Captain America &amp; the Falcon" Number="8" Volume="2004" Year="2004">
       <Database Name="cv" Series="10973" Issue="100917" />
     </Book>
     <Book Series="Captain America" Number="29" Volume="2002" Year="2004">
@@ -795,22 +795,22 @@
     <Book Series="Thor" Number="85" Volume="1998" Year="2004">
       <Database Name="cv" Series="6226" Issue="99331" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="9" Volume="2004" Year="2005">
+    <Book Series="Captain America &amp; the Falcon" Number="9" Volume="2004" Year="2005">
       <Database Name="cv" Series="10973" Issue="100918" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="10" Volume="2004" Year="2005">
+    <Book Series="Captain America &amp; the Falcon" Number="10" Volume="2004" Year="2005">
       <Database Name="cv" Series="10973" Issue="100919" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="11" Volume="2004" Year="2005">
+    <Book Series="Captain America &amp; the Falcon" Number="11" Volume="2004" Year="2005">
       <Database Name="cv" Series="10973" Issue="100920" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="12" Volume="2004" Year="2005">
+    <Book Series="Captain America &amp; the Falcon" Number="12" Volume="2004" Year="2005">
       <Database Name="cv" Series="10973" Issue="100921" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="13" Volume="2004" Year="2005">
+    <Book Series="Captain America &amp; the Falcon" Number="13" Volume="2004" Year="2005">
       <Database Name="cv" Series="10973" Issue="100922" />
     </Book>
-    <Book Series="Captain America &#38; the Falcon" Number="14" Volume="2004" Year="2005">
+    <Book Series="Captain America &amp; the Falcon" Number="14" Volume="2004" Year="2005">
       <Database Name="cv" Series="10973" Issue="100923" />
     </Book>
     <Book Series="Spectacular Spider-Man" Number="15" Volume="2003" Year="2004">

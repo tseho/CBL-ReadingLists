@@ -6,10 +6,10 @@
 <Book Series="AVX: VS" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="48342" Issue="340399" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="13" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="338486" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="14" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="341738" />
 </Book>
 <Book Series="X-Men: Legacy" Number="268" Volume="2008" Year="2012">
@@ -36,13 +36,13 @@
 <Book Series="Avengers" Number="28" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="347231" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="15" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="344115" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="16" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="346273" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="17" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="352641" />
 </Book>
 <Book Series="Avengers" Number="29" Volume="2010" Year="2012">

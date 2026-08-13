@@ -133,16 +133,16 @@
         <Book Series="Captain America Annual" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="136939" Issue="861645" />
         </Book>
-        <Book Series="Death's Head" Number="1" Volume="2019" Year="2019">
+        <Book Series="Death&apos;s Head" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="120394" Issue="714660" />
         </Book>
-        <Book Series="Death's Head" Number="2" Volume="2019" Year="2019">
+        <Book Series="Death&apos;s Head" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="120394" Issue="716955" />
         </Book>
-        <Book Series="Death's Head" Number="3" Volume="2019" Year="2019">
+        <Book Series="Death&apos;s Head" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="120394" Issue="719436" />
         </Book>
-        <Book Series="Death's Head" Number="4" Volume="2019" Year="2019">
+        <Book Series="Death&apos;s Head" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="120394" Issue="725245" />
         </Book>
         <Book Series="Yondu" Number="1" Volume="2019" Year="2020">
@@ -160,19 +160,19 @@
         <Book Series="Yondu" Number="5" Volume="2019" Year="2020">
             <Database Name="cv" Series="122669" Issue="736502" />
         </Book>
-        <Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2019" Year="2020">
+        <Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="123712" Issue="731523" />
         </Book>
-        <Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2019" Year="2020">
+        <Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="123712" Issue="733826" />
         </Book>
-        <Book Series="Revenge of the Cosmic Ghost Rider" Number="3" Volume="2019" Year="2020">
+        <Book Series="Revenge of the Cosmic Ghost Rider" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="123712" Issue="737762" />
         </Book>
-        <Book Series="Revenge of the Cosmic Ghost Rider" Number="4" Volume="2019" Year="2020">
+        <Book Series="Revenge of the Cosmic Ghost Rider" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="123712" Issue="743446" />
         </Book>
-        <Book Series="Revenge of the Cosmic Ghost Rider" Number="5" Volume="2019" Year="2020">
+        <Book Series="Revenge of the Cosmic Ghost Rider" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="123712" Issue="766405" />
         </Book>
         <Book Series="Ghost Rider" Number="1" Volume="2019" Year="2019">

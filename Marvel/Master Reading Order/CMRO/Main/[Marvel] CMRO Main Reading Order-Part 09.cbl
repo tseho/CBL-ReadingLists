@@ -207,7 +207,7 @@
 <Book Series="The Punisher War Journal" Number="36" Volume="1988" Year="1991">
 <Database Name="cv" Series="4066" Issue="34888" />
 </Book>
-<Book Series="Marvel Collector's Edition" Number="1" Volume="1992" Year="1992">
+<Book Series="Marvel Collector&apos;s Edition" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="34491" Issue="225063" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="17" Volume="1990" Year="1991">
@@ -918,16 +918,16 @@
 <Book Series="Excalibur" Number="50" Volume="1988" Year="1992">
 <Database Name="cv" Series="4052" Issue="35676" />
 </Book>
-<Book Series="Death's Head II" Number="1" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114879" />
 </Book>
-<Book Series="Death's Head II" Number="2" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114881" />
 </Book>
-<Book Series="Death's Head II" Number="3" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114883" />
 </Book>
-<Book Series="Death's Head II" Number="4" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114884" />
 </Book>
 <Book Series="The New Warriors" Number="18" Volume="1990" Year="1991">
@@ -1197,7 +1197,7 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="41" Volume="1988" Year="1992">
 <Database Name="cv" Series="4049" Issue="35700" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="3" Volume="1990" Year="1992">
+<Book Series="Marvel Year-In-Review" Number="3" Volume="1989" Year="1992">
 <Database Name="cv" Series="21201" Issue="150227" />
 </Book>
 <Book Series="Ghost Rider" Number="25" Volume="1990" Year="1992">
@@ -1500,19 +1500,19 @@
 <Book Series="Warheads" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="20499" Issue="169027" />
 </Book>
-<Book Series="Hell's Angel" Number="1" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="245666" />
 </Book>
-<Book Series="Hell's Angel" Number="2" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251370" />
 </Book>
-<Book Series="Hell's Angel" Number="3" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251371" />
 </Book>
-<Book Series="Hell's Angel" Number="4" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251372" />
 </Book>
-<Book Series="Hell's Angel" Number="5" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251373" />
 </Book>
 <Book Series="Warheads" Number="3" Volume="1992" Year="1992">
@@ -1611,7 +1611,7 @@
 <Book Series="MyS-Tech Wars" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="20490" Issue="122679" />
 </Book>
-<Book Series="Death's Head II" Number="5" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="5" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122574" />
 </Book>
 <Book Series="Warheads" Number="11" Volume="1992" Year="1993">
@@ -1632,16 +1632,16 @@
 <Book Series="Dark Angel" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="20491" Issue="122934" />
 </Book>
-<Book Series="Death's Head II" Number="6" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="6" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122635" />
 </Book>
-<Book Series="Death's Head II" Number="7" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="7" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122637" />
 </Book>
-<Book Series="Death's Head II" Number="8" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="8" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122636" />
 </Book>
-<Book Series="Death's Head II" Number="9" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="9" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122634" />
 </Book>
 <Book Series="The Sensational She-Hulk" Number="40" Volume="1989" Year="1992">
@@ -1797,13 +1797,13 @@
 <Book Series="Silver Sable and the Wild Pack" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="4810" Issue="68444" />
 </Book>
-<Book Series="Death's Head II" Number="10" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="10" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122713" />
 </Book>
-<Book Series="Death's Head II" Number="11" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="11" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122714" />
 </Book>
-<Book Series="Death's Head II" Number="12" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122715" />
 </Book>
 <Book Series="Web of Spider-Man" Number="91" Volume="1985" Year="1992">
@@ -2631,7 +2631,7 @@
 <Book Series="The Uncanny X-Men" Number="297" Volume="1981" Year="1993">
 <Database Name="cv" Series="3092" Issue="107105" />
 </Book>
-<Book Series="Stryfe's Strike File" Number="1" Volume="1993" Year="1993">
+<Book Series="Stryfe&apos;s Strike File" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="18149" Issue="106316" />
 </Book>
 <Book Series="The Avengers" Number="355" Volume="1963" Year="1992">

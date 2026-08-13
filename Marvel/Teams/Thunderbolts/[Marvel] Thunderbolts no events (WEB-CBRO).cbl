@@ -846,7 +846,7 @@
 <Book Series="Thunderbolts" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="54429" Issue="417846" />
 </Book>
-<Book Series="Thunderbolts Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Thunderbolts Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="70061" Issue="437498" />
 </Book>
 <Book Series="Thunderbolts" Number="14" Volume="2013" Year="2013">

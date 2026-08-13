@@ -6,34 +6,34 @@
 <Book Series="X-Factor" Number="224.1" Volume="2006" Year="2011">
 <Database Name="cv" Series="18109" Issue="292537" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="1" Volume="2010" Year="2010">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34241" Issue="223380" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="2" Volume="2010" Year="2010">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="34241" Issue="232535" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="3" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="242038" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="4" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="254667" />
 </Book>
-<Book Series="Avengers: The Children's Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39371" Issue="266008" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="5" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="267533" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="6" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="276706" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="7" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="293355" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="8" Volume="2010" Year="2012">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="8" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="308624" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="9" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="319366" />
 </Book>
 <Book Series="Invincible Iron Man" Number="514" Volume="2008" Year="2012">

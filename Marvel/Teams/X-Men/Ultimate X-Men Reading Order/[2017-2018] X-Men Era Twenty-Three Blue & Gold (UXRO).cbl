@@ -108,7 +108,7 @@
 <Book Series="Weapon X" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="100709" Issue="594978" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="19" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="597204" />
 </Book>
 <Book Series="Weapon X" Number="4" Volume="2017" Year="2017">
@@ -117,19 +117,19 @@
 <Book Series="Weapons of Mutant Destruction" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="105566" Issue="632511" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="20" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="605135" />
 </Book>
 <Book Series="Weapon X" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="100709" Issue="608265" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="21" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="609364" />
 </Book>
 <Book Series="Weapon X" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="100709" Issue="610542" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="22" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="615034" />
 </Book>
 <Book Series="Generation X" Number="85" Volume="2017" Year="2018">
@@ -201,16 +201,16 @@
 <Book Series="Secret Warriors" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="101411" Issue="594971" />
 </Book>
-<Book Series="Ultimates 2" Number="7" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="595706" />
 </Book>
 <Book Series="Secret Warriors" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="101411" Issue="597200" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="6" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="605121" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="7" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="610529" />
 </Book>
 <Book Series="Captain America: Steve Rogers" Number="17" Volume="2016" Year="2017">
@@ -414,13 +414,13 @@
 <Book Series="X-Men: Blue" Number="21" Volume="2017" Year="2018">
 <Database Name="cv" Series="100712" Issue="660028" />
 </Book>
-<Book Series="Venom" Number="162" Volume="2016" Year="2018">
+<Book Series="Venom" Number="162" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="660673" />
 </Book>
 <Book Series="X-Men: Blue" Number="22" Volume="2017" Year="2018">
 <Database Name="cv" Series="100712" Issue="661168" />
 </Book>
-<Book Series="Venom" Number="163" Volume="2016" Year="2018">
+<Book Series="Venom" Number="163" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="662102" />
 </Book>
 <Book Series="X-Men: Gold" Number="21" Volume="2017" Year="2018">
@@ -495,19 +495,19 @@
 <Book Series="X-Men: Gold" Number="29" Volume="2017" Year="2018">
 <Database Name="cv" Series="100603" Issue="672296" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="1" Volume="2018" Year="2018">
+<Book Series="Rogue &amp; Gambit" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107513" Issue="650924" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="2" Volume="2018" Year="2018">
+<Book Series="Rogue &amp; Gambit" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="107513" Issue="658728" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="3" Volume="2018" Year="2018">
+<Book Series="Rogue &amp; Gambit" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="107513" Issue="662094" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="4" Volume="2018" Year="2018">
+<Book Series="Rogue &amp; Gambit" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="107513" Issue="664920" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="5" Volume="2018" Year="2018">
+<Book Series="Rogue &amp; Gambit" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="107513" Issue="668780" />
 </Book>
 <Book Series="Jean Grey" Number="6" Volume="2017" Year="2017">
@@ -525,19 +525,19 @@
 <Book Series="Jean Grey" Number="10" Volume="2017" Year="2018">
 <Database Name="cv" Series="101195" Issue="646189" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="649740" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="650922" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="652635" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="655510" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="656712" />
 </Book>
 <Book Series="X-Men: Red Annual" Number="1" Volume="2018" Year="2018">

@@ -61,19 +61,19 @@
         <Book Series="New Avengers" Number="7" Volume="2015" Year="2016">
             <Database Name="cv" Series="85301" Issue="516962" />
         </Book>
-        <Book Series="Squadron Supreme" Number="1" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="508437" />
         </Book>
-        <Book Series="Squadron Supreme" Number="2" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="509709" />
         </Book>
-        <Book Series="Squadron Supreme" Number="3" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="510953" />
         </Book>
-        <Book Series="Squadron Supreme" Number="4" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="516091" />
         </Book>
-        <Book Series="Squadron Supreme" Number="5" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="520212" />
         </Book>
         <Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2015">

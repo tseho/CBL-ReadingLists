@@ -39,7 +39,7 @@
 <Book Series="Superior Spider-Man" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="55552" Issue="447516" />
 </Book>
-<Book Series="Superior Spider-Man Annual" Number="2" Volume="2013" Year="2014">
+<Book Series="Superior Spider-Man Annual" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69348" Issue="448003" />
 </Book>
 <Book Series="Superior Spider-Man Team-Up" Number="11" Volume="2013" Year="2014">

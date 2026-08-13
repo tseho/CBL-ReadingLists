@@ -354,22 +354,22 @@
 <Book Series="X-Men: The Search For Cyclops" Number="4" Volume="2000" Year="2001">
 <Database Name="cv" Series="7198" Issue="51342" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="1" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94056" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="2" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94057" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="3" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94058" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="4" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94059" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="5" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94060" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="6" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94061" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="391" Volume="1981" Year="2001">

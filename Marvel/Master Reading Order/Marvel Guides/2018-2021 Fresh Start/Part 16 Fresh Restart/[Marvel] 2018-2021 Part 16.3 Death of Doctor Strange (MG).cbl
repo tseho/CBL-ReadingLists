@@ -28,17 +28,17 @@
         <Book Series="Death of Doctor Strange: The Avengers" Number="1" Volume="2021" Year="2022">
             <Database Name="cv" Series="139949" Issue="892245" />
         </Book>
-        <Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2021" Year="2022">
+        <Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140282" Issue="896132" />
         </Book>
         <Book Series="Strange Academy Presents: The Death of Doctor Strange" Number="1"
-            Volume="2021" Year="2022">
+            Volume="2022" Year="2022">
             <Database Name="cv" Series="139950" Issue="892246" />
         </Book>
-        <Book Series="Death of Doctor Strange: White Fox" Number="1" Volume="2021" Year="2022">
+        <Book Series="Death of Doctor Strange: White Fox" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140283" Issue="896133" />
         </Book>
-        <Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2021" Year="2022">
+        <Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140357" Issue="897359" />
         </Book>
         <Book Series="Death of Doctor Strange: Bloodstone" Number="1" Volume="2022" Year="2022">

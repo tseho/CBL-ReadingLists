@@ -243,7 +243,7 @@
         <Book Series="Daredevil" Number="14" Volume="2019" Year="2020">
             <Database Name="cv" Series="116964" Issue="729677" />
         </Book>
-        <Book Series="Incoming!" Number="1" Volume="2019" Year="2020">
+        <Book Series="Incoming!" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="123766" Issue="731666" />
         </Book>
         <Book Series="Daredevil" Number="15" Volume="2019" Year="2020">

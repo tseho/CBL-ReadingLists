@@ -60,7 +60,7 @@
 <Book Series="Black Widow: Venomous" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="159108" Issue="1065016" />
 </Book>
-<Book Series="Venom" Number="35" Volume="2024" Year="2013">
+<Book Series="Venom" Number="35" Volume="2022" Year="2013">
 <Database Name="cv" Series="140084" Issue="1061879" />
 </Book>
 <Book Series="Venom War: Carnage" Number="1" Volume="2024" Year="2024">
@@ -93,7 +93,7 @@
 <Book Series="Venom War: Wolverine" Number="3" Volume="2024" Year="2025">
 <Database Name="cv" Series="159704" Issue="1077652" />
 </Book>
-<Book Series="Venom" Number="36" Volume="2024" Year="2013">
+<Book Series="Venom" Number="36" Volume="2022" Year="2013">
 <Database Name="cv" Series="140084" Issue="1066708" />
 </Book>
 <Book Series="Venom War: Zombiotes!" Number="1" Volume="2024" Year="2024">
@@ -111,7 +111,7 @@
 <Book Series="Venom War" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="159190" Issue="1068664" />
 </Book>
-<Book Series="Venom" Number="37" Volume="2024" Year="2013">
+<Book Series="Venom" Number="37" Volume="2022" Year="2013">
 <Database Name="cv" Series="140084" Issue="1069424" />
 </Book>
 <Book Series="Venom War: Venomous" Number="2" Volume="2024" Year="2024">
@@ -135,7 +135,7 @@
 <Book Series="Venom War: Spider-Man" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="159241" Issue="1072224" />
 </Book>
-<Book Series="Venom" Number="38" Volume="2024" Year="2013">
+<Book Series="Venom" Number="38" Volume="2022" Year="2013">
 <Database Name="cv" Series="140084" Issue="1073276" />
 </Book>
 <Book Series="Venom War: Venomous" Number="3" Volume="2024" Year="2024">
@@ -144,7 +144,7 @@
 <Book Series="Venom War" Number="4" Volume="2024" Year="2025">
 <Database Name="cv" Series="159190" Issue="1076639" />
 </Book>
-<Book Series="Venom" Number="39" Volume="2025" Year="2013">
+<Book Series="Venom" Number="39" Volume="2022" Year="2013">
 <Database Name="cv" Series="140084" Issue="1077649" />
 </Book>
 <Book Series="Venom War: Spider-Man" Number="4" Volume="2024" Year="2025">
@@ -159,7 +159,7 @@
 <Book Series="Venom War: Deadpool" Number="3" Volume="2024" Year="2025">
 <Database Name="cv" Series="159813" Issue="1077651" />
 </Book>
-<Book Series="Venom War: It’s Jeff" Number="1" Volume="2025" Year="2025">
+<Book Series="Venom War: It&apos;s Jeff!" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="161144" Issue="1078509" />
 </Book>
 <Book Series="Venom War" Number="5" Volume="2024" Year="2025">

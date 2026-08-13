@@ -1323,13 +1323,13 @@
 <Book Series="Superman/Batman" Number="26" Volume="2003" Year="2006">
 <Database Name="cv" Series="10938" Issue="111198" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167758" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167770" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167771" />
 </Book>
 <Book Series="Superman" Number="712" Volume="1939" Year="2011">
@@ -1557,13 +1557,13 @@
 <Book Series="Final Crisis" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="21712" Issue="131869" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="133674" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="2" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="136522" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="3" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="140443" />
 </Book>
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
@@ -1638,7 +1638,7 @@
 <Book Series="Supergirl" Number="34" Volume="2005" Year="2008">
 <Database Name="cv" Series="18012" Issue="139678" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="23417" Issue="140459" />
 </Book>
 <Book Series="Superman: New Krypton Special" Number="1" Volume="2008" Year="2008">
@@ -1761,7 +1761,7 @@
 <Book Series="Superman" Number="691" Volume="1939" Year="2009">
 <Database Name="cv" Series="773" Issue="168291" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen Special" Number="2" Volume="2008" Year="2009">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen Special" Number="2" Volume="2008" Year="2009">
 <Database Name="cv" Series="23417" Issue="168672" />
 </Book>
 <Book Series="Superman: World of New Krypton" Number="7" Volume="2009" Year="2009">

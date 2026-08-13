@@ -105,7 +105,7 @@
 <Book Series="Guardians Team-Up" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="80454" Issue="482156" />
 </Book>
-<Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2014" Year="2015">
+<Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78716" Issue="472907" />
 </Book>
 <Book Series="Guardians Team-Up" Number="9" Volume="2015" Year="2015">
@@ -225,43 +225,43 @@
 <Book Series="Guardians of the Galaxy" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="514437" />
 </Book>
-<Book Series="Drax" Number="1" Volume="2015" Year="2016">
+<Book Series="Drax" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="504936" />
 </Book>
-<Book Series="Drax" Number="2" Volume="2015" Year="2016">
+<Book Series="Drax" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="509701" />
 </Book>
-<Book Series="Drax" Number="3" Volume="2015" Year="2016">
+<Book Series="Drax" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="511511" />
 </Book>
-<Book Series="Drax" Number="4" Volume="2015" Year="2016">
+<Book Series="Drax" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="516952" />
 </Book>
-<Book Series="Drax" Number="5" Volume="2015" Year="2016">
+<Book Series="Drax" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="522428" />
 </Book>
-<Book Series="Guardians of Infinity" Number="1" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="507181" />
 </Book>
-<Book Series="Guardians of Infinity" Number="2" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="510498" />
 </Book>
-<Book Series="Guardians of Infinity" Number="3" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="513648" />
 </Book>
-<Book Series="Guardians of Infinity" Number="4" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="517828" />
 </Book>
-<Book Series="Guardians of Infinity" Number="5" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="526052" />
 </Book>
-<Book Series="Guardians of Infinity" Number="6" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="529657" />
 </Book>
-<Book Series="Guardians of Infinity" Number="7" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="535353" />
 </Book>
-<Book Series="Guardians of Infinity" Number="8" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="540075" />
 </Book>
 <Book Series="Rocket Raccoon &amp; Groot" Number="1" Volume="2016" Year="2016">
@@ -273,22 +273,22 @@
 <Book Series="Rocket Raccoon &amp; Groot" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="518864" />
 </Book>
-<Book Series="Drax" Number="6" Volume="2015" Year="2016">
+<Book Series="Drax" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="527141" />
 </Book>
-<Book Series="Drax" Number="7" Volume="2015" Year="2016">
+<Book Series="Drax" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="531880" />
 </Book>
-<Book Series="Drax" Number="8" Volume="2015" Year="2016">
+<Book Series="Drax" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="537233" />
 </Book>
-<Book Series="Drax" Number="9" Volume="2015" Year="2016">
+<Book Series="Drax" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="541201" />
 </Book>
-<Book Series="Drax" Number="10" Volume="2015" Year="2016">
+<Book Series="Drax" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="546056" />
 </Book>
-<Book Series="Drax" Number="11" Volume="2015" Year="2016">
+<Book Series="Drax" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85753" Issue="551304" />
 </Book>
 <Book Series="Star-Lord" Number="6" Volume="2016" Year="2016">
@@ -351,19 +351,19 @@
 <Book Series="Guardians of the Galaxy" Number="15" Volume="2015" Year="2017">
 <Database Name="cv" Series="85290" Issue="566709" />
 </Book>
-<Book Series="Rocket Raccoon" Number="1" Volume="2016" Year="2017">
+<Book Series="Rocket Raccoon" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97430" Issue="571681" />
 </Book>
-<Book Series="Rocket Raccoon" Number="2" Volume="2016" Year="2017">
+<Book Series="Rocket Raccoon" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="97430" Issue="575880" />
 </Book>
-<Book Series="Rocket Raccoon" Number="3" Volume="2016" Year="2017">
+<Book Series="Rocket Raccoon" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="97430" Issue="582541" />
 </Book>
-<Book Series="Rocket Raccoon" Number="4" Volume="2016" Year="2017">
+<Book Series="Rocket Raccoon" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="97430" Issue="588573" />
 </Book>
-<Book Series="Rocket Raccoon" Number="5" Volume="2016" Year="2017">
+<Book Series="Rocket Raccoon" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97430" Issue="593271" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="16" Volume="2015" Year="2017">
@@ -399,19 +399,19 @@
 <Book Series="Star-Lord Annual" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="101638" Issue="597203" />
 </Book>
-<Book Series="Gamora" Number="1" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="569331" />
 </Book>
-<Book Series="Gamora" Number="2" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="576623" />
 </Book>
-<Book Series="Gamora" Number="3" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="581558" />
 </Book>
-<Book Series="Gamora" Number="4" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="588565" />
 </Book>
-<Book Series="Gamora" Number="5" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="598373" />
 </Book>
 <Book Series="Guardians of the Galaxy: Mission Breakout" Number="1" Volume="2017" Year="2017">
@@ -504,19 +504,19 @@
 <Book Series="All-New Guardians of the Galaxy" Number="12" Volume="2017" Year="2017">
 <Database Name="cv" Series="101158" Issue="630514" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="146" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="146" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="634534" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="147" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="147" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="638596" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="148" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="148" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="644506" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="149" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="149" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="647942" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="150" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="150" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="650916" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="1" Volume="2019" Year="2019">

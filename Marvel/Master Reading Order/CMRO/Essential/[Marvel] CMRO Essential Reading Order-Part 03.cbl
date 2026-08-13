@@ -354,28 +354,28 @@
 <Book Series="Thunderbolts" Number="75" Volume="1997" Year="2003">
 <Database Name="cv" Series="6020" Issue="128987" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="1" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128474" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="2" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128475" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="3" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128476" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="4" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128477" />
 </Book>
-<Book Series="Captain Marvel" Number="32" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="32" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80570" />
 </Book>
-<Book Series="Captain Marvel" Number="33" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="33" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80571" />
 </Book>
-<Book Series="Captain Marvel" Number="34" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="34" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="106951" />
 </Book>
-<Book Series="Captain Marvel" Number="35" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="35" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="106952" />
 </Book>
 <Book Series="New X-Men" Number="131" Volume="2001" Year="2002">
@@ -1455,22 +1455,22 @@
 <Book Series="X-23" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="18176" Issue="106498" />
 </Book>
-<Book Series="Captain America" Number="1" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101412" />
 </Book>
-<Book Series="Captain America" Number="2" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101413" />
 </Book>
-<Book Series="Captain America" Number="3" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101414" />
 </Book>
-<Book Series="Captain America" Number="4" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101415" />
 </Book>
-<Book Series="Captain America" Number="5" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115184" />
 </Book>
-<Book Series="Captain America" Number="6" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115187" />
 </Book>
 <Book Series="Wolverine" Number="20" Volume="2003" Year="2004">
@@ -1584,22 +1584,22 @@
 <Book Series="The Pulse" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="11310" Issue="105809" />
 </Book>
-<Book Series="New Avengers" Number="1" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="101407" />
 </Book>
-<Book Series="New Avengers" Number="2" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="101408" />
 </Book>
-<Book Series="New Avengers" Number="3" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="101409" />
 </Book>
-<Book Series="New Avengers" Number="4" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108304" />
 </Book>
-<Book Series="New Avengers" Number="5" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108305" />
 </Book>
-<Book Series="New Avengers" Number="6" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108306" />
 </Book>
 <Book Series="Spider-Man: Breakout" Number="1" Volume="2005" Year="2005">
@@ -1698,34 +1698,34 @@
 <Book Series="Runaways" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="11872" Issue="104256" />
 </Book>
-<Book Series="Iron Man" Number="1" Volume="2004" Year="2005">
+<Book Series="Iron Man" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18220" Issue="108913" />
 </Book>
-<Book Series="Iron Man" Number="2" Volume="2004" Year="2005">
+<Book Series="Iron Man" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18220" Issue="108914" />
 </Book>
-<Book Series="Iron Man" Number="3" Volume="2004" Year="2005">
+<Book Series="Iron Man" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18220" Issue="111259" />
 </Book>
-<Book Series="Iron Man" Number="4" Volume="2004" Year="2005">
+<Book Series="Iron Man" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18220" Issue="111395" />
 </Book>
-<Book Series="Iron Man" Number="5" Volume="2004" Year="2006">
+<Book Series="Iron Man" Number="5" Volume="2005" Year="2006">
 <Database Name="cv" Series="18220" Issue="111396" />
 </Book>
-<Book Series="Iron Man" Number="6" Volume="2004" Year="2006">
+<Book Series="Iron Man" Number="6" Volume="2005" Year="2006">
 <Database Name="cv" Series="18220" Issue="111397" />
 </Book>
-<Book Series="New Avengers" Number="7" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108307" />
 </Book>
-<Book Series="New Avengers" Number="8" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108308" />
 </Book>
-<Book Series="New Avengers" Number="9" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108309" />
 </Book>
-<Book Series="New Avengers" Number="10" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108312" />
 </Book>
 <Book Series="X-Men: Age of Apocalypse One Shot" Number="1" Volume="2005" Year="2005">
@@ -1908,25 +1908,25 @@
 <Book Series="New Thunderbolts" Number="11" Volume="2005" Year="2005">
 <Database Name="cv" Series="11298" Issue="99223" />
 </Book>
-<Book Series="Captain America" Number="8" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115268" />
 </Book>
-<Book Series="Captain America" Number="9" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115269" />
 </Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115271" />
 </Book>
-<Book Series="Captain America" Number="11" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="11" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115273" />
 </Book>
-<Book Series="Captain America" Number="12" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="12" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115303" />
 </Book>
-<Book Series="Captain America" Number="13" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="115308" />
 </Book>
-<Book Series="Captain America" Number="14" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="14" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="113175" />
 </Book>
 <Book Series="Giant-Size Ms. Marvel" Number="1" Volume="2006" Year="2006">
@@ -2070,19 +2070,19 @@
 <Book Series="Young Avengers" Number="12" Volume="2005" Year="2006">
 <Database Name="cv" Series="11870" Issue="105343" />
 </Book>
-<Book Series="New Avengers" Number="11" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="11" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108314" />
 </Book>
-<Book Series="New Avengers" Number="12" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="12" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108315" />
 </Book>
-<Book Series="New Avengers" Number="13" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108316" />
 </Book>
-<Book Series="New Avengers" Number="14" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="14" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108317" />
 </Book>
-<Book Series="New Avengers" Number="15" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="15" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108318" />
 </Book>
 <Book Series="Wolverine" Number="36" Volume="2003" Year="2006">
@@ -2271,19 +2271,19 @@
 <Book Series="Runaways" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="11872" Issue="106067" />
 </Book>
-<Book Series="New Avengers" Number="16" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105969" />
 </Book>
-<Book Series="New Avengers" Number="17" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="17" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105956" />
 </Book>
-<Book Series="New Avengers" Number="18" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="106195" />
 </Book>
-<Book Series="New Avengers" Number="19" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="19" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="106196" />
 </Book>
-<Book Series="New Avengers" Number="20" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="20" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107001" />
 </Book>
 <Book Series="New Avengers Annual" Number="1" Volume="2006" Year="2006">
@@ -2352,7 +2352,7 @@
 <Book Series="Black Panther" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11502" Issue="110528" />
 </Book>
-<Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
+<Book Series="New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18180" Issue="106482" />
 </Book>
 <Book Series="Fantastic Four" Number="536" Volume="1998" Year="2006">
@@ -2382,7 +2382,7 @@
 <Book Series="X-Factor" Number="8" Volume="2006" Year="2006">
 <Database Name="cv" Series="18109" Issue="106097" />
 </Book>
-<Book Series="New Avengers" Number="21" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="21" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107893" />
 </Book>
 <Book Series="Black Panther" Number="17" Volume="2005" Year="2006">
@@ -2418,7 +2418,7 @@
 <Book Series="Heroes for Hire" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18102" Issue="108695" />
 </Book>
-<Book Series="New Avengers" Number="22" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="22" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107895" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="28" Volume="2006" Year="2006">
@@ -2490,7 +2490,7 @@
 <Book Series="The Sensational Spider-Man" Number="31" Volume="2006" Year="2006">
 <Database Name="cv" Series="18177" Issue="113629" />
 </Book>
-<Book Series="New Avengers" Number="23" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="23" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108038" />
 </Book>
 <Book Series="Civil War" Number="3" Volume="2006" Year="2006">
@@ -2568,10 +2568,10 @@
 <Book Series="Wolverine" Number="45" Volume="2003" Year="2006">
 <Database Name="cv" Series="10809" Issue="108674" />
 </Book>
-<Book Series="Captain America" Number="22" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="22" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="108673" />
 </Book>
-<Book Series="Captain America" Number="23" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="23" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="108891" />
 </Book>
 <Book Series="Civil War: Front Line" Number="7" Volume="2006" Year="2006">
@@ -2610,7 +2610,7 @@
 <Book Series="Ms. Marvel" Number="8" Volume="2006" Year="2006">
 <Database Name="cv" Series="17990" Issue="108176" />
 </Book>
-<Book Series="New Avengers" Number="24" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="24" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108039" />
 </Book>
 <Book Series="Civil War: The Return" Number="1" Volume="2007" Year="2007">
@@ -2628,7 +2628,7 @@
 <Book Series="Black Panther" Number="23" Volume="2005" Year="2007">
 <Database Name="cv" Series="11502" Issue="108954" />
 </Book>
-<Book Series="Captain America" Number="24" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="24" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="108901" />
 </Book>
 <Book Series="Wolverine" Number="48" Volume="2003" Year="2007">
@@ -2664,10 +2664,10 @@
 <Book Series="The Amazing Spider-Man" Number="536" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="106138" />
 </Book>
-<Book Series="Iron Man" Number="13" Volume="2004" Year="2006">
+<Book Series="Iron Man" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="18220" Issue="108773" />
 </Book>
-<Book Series="Iron Man" Number="14" Volume="2004" Year="2007">
+<Book Series="Iron Man" Number="14" Volume="2005" Year="2007">
 <Database Name="cv" Series="18220" Issue="111399" />
 </Book>
 <Book Series="Friendly Neighborhood Spider-Man" Number="14" Volume="2005" Year="2007">
@@ -2691,10 +2691,10 @@
 <Book Series="The Sensational Spider-Man" Number="34" Volume="2006" Year="2007">
 <Database Name="cv" Series="18177" Issue="113628" />
 </Book>
-<Book Series="Winter Soldier:  Winter Kills" Number="1" Volume="2007" Year="2007">
+<Book Series="Winter Soldier: Winter Kills" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18125" Issue="106186" />
 </Book>
-<Book Series="New Avengers" Number="25" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="25" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108040" />
 </Book>
 <Book Series="Civil War" Number="6" Volume="2006" Year="2006">
@@ -2754,7 +2754,7 @@
 <Book Series="Fantastic Four" Number="543" Volume="1998" Year="2007">
 <Database Name="cv" Series="6211" Issue="106792" />
 </Book>
-<Book Series="Captain America" Number="25" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="25" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="106788" />
 </Book>
 <Book Series="Civil War: The Confession" Number="1" Volume="2007" Year="2007">
@@ -2952,7 +2952,7 @@
 <Book Series="Daredevil" Number="93" Volume="1998" Year="2007">
 <Database Name="cv" Series="6209" Issue="106289" />
 </Book>
-<Book Series="New Avengers" Number="26" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="26" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="108356" />
 </Book>
 <Book Series="Fallen Son: The Death of Captain America" Number="1" Volume="2007" Year="2007">
@@ -2970,7 +2970,7 @@
 <Book Series="Fallen Son: The Death of Captain America" Number="5" Volume="2007" Year="2007">
 <Database Name="cv" Series="18420" Issue="111251" />
 </Book>
-<Book Series="Captain America" Number="26" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="26" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="109835" />
 </Book>
 <Book Series="Black Panther" Number="26" Volume="2005" Year="2007">

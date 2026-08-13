@@ -7,7 +7,7 @@
         <Book Series="The Amazing Spider-Man" Number="12" Volume="2014" Year="2015">
             <Database Name="cv" Series="73420" Issue="475450" />
         </Book>
-        <Book Series="Scarlet Spiders" Number="3" Volume="2014" Year="2015">
+        <Book Series="Scarlet Spiders" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="78356" Issue="476793" />
         </Book>
         <Book Series="Spider-Man 2099" Number="7" Volume="2014" Year="2015">
@@ -16,10 +16,10 @@
         <Book Series="The Amazing Spider-Man" Number="13" Volume="2014" Year="2015">
             <Database Name="cv" Series="73420" Issue="476779" />
         </Book>
-        <Book Series="Spider-Verse Team-Up" Number="3" Volume="2014" Year="2015">
+        <Book Series="Spider-Verse Team-Up" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="77941" Issue="476794" />
         </Book>
-        <Book Series="Spider-Woman" Number="3" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="476795" />
         </Book>
         <Book Series="Spider-Man 2099" Number="8" Volume="2014" Year="2015">
@@ -28,7 +28,7 @@
         <Book Series="The Amazing Spider-Man" Number="14" Volume="2014" Year="2015">
             <Database Name="cv" Series="73420" Issue="479254" />
         </Book>
-        <Book Series="Spider-Woman" Number="4" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="4" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="479263" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="15" Volume="2014" Year="2015">

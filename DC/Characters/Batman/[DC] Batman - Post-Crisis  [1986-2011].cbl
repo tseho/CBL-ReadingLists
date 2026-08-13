@@ -378,13 +378,13 @@
 <Book Series="Legends of the Dark Knight" Number="10" Volume="1989" Year="1990">
 <Database Name="cv" Series="4200" Issue="33107" />
 </Book>
-<Book Series="World's Finest" Number="1" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199247" />
 </Book>
-<Book Series="World's Finest" Number="2" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="2" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199248" />
 </Book>
-<Book Series="World's Finest" Number="3" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="3" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199249" />
 </Book>
 <Book Series="Batman" Number="445" Volume="1940" Year="1990">
@@ -675,16 +675,16 @@
 <Book Series="Detective Comics" Number="643" Volume="1937" Year="1992">
 <Database Name="cv" Series="18058" Issue="113114" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="1" Volume="1991" Year="1991">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4564" Issue="34736" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="2" Volume="1991" Year="1992">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="2" Volume="1991" Year="1992">
 <Database Name="cv" Series="4564" Issue="34849" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="3" Volume="1991" Year="1992">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="3" Volume="1991" Year="1992">
 <Database Name="cv" Series="4564" Issue="34929" />
 </Book>
-<Book Series="Robin II: The Joker's Wild!" Number="4" Volume="1991" Year="1992">
+<Book Series="Robin II: The Joker&apos;s Wild!" Number="4" Volume="1991" Year="1992">
 <Database Name="cv" Series="4564" Issue="34972" />
 </Book>
 <Book Series="Legends of the Dark Knight" Number="24" Volume="1989" Year="1991">
@@ -1038,10 +1038,10 @@
 <Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108497" />
 </Book>
-<Book Series="Showcase '93" Number="7" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="7" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107456" />
 </Book>
-<Book Series="Showcase '93" Number="8" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="8" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107494" />
 </Book>
 <Book Series="Batman" Number="498" Volume="1940" Year="1993">
@@ -1122,13 +1122,13 @@
 <Book Series="Robin" Number="6" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="39042" />
 </Book>
-<Book Series="Legends of the World's Finest" Number="1" Volume="1994" Year="1994">
+<Book Series="Legends of the World&apos;s Finest" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199202" />
 </Book>
-<Book Series="Legends of the World's Finest" Number="2" Volume="1994" Year="1994">
+<Book Series="Legends of the World&apos;s Finest" Number="2" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199203" />
 </Book>
-<Book Series="Legends of the World's Finest" Number="3" Volume="1994" Year="1994">
+<Book Series="Legends of the World&apos;s Finest" Number="3" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199204" />
 </Book>
 <Book Series="Detective Comics" Number="671" Volume="1937" Year="1994">
@@ -1161,7 +1161,7 @@
 <Book Series="Batman: Shadow of the Bat" Number="27" Volume="1992" Year="1994">
 <Database Name="cv" Series="4724" Issue="39122" />
 </Book>
-<Book Series="Showcase '94" Number="7" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="7" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="155532" />
 </Book>
 <Book Series="Detective Comics" Number="674" Volume="1937" Year="1994">
@@ -1290,7 +1290,7 @@
 <Book Series="Catwoman" Number="13" Volume="1993" Year="1994">
 <Database Name="cv" Series="4955" Issue="39458" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
 </Book>
 <Book Series="The Huntress" Number="1" Volume="1994" Year="1994">
@@ -1392,7 +1392,7 @@
 <Book Series="Robin" Number="14" Volume="1993" Year="1995">
 <Database Name="cv" Series="4975" Issue="40423" />
 </Book>
-<Book Series="Nightwing: Alfred's Return" Number="1" Volume="1995" Year="1995">
+<Book Series="Nightwing: Alfred&apos;s Return" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="31190" Issue="194016" />
 </Book>
 <Book Series="Batman: Vengeance of Bane II" Number="1" Volume="1995" Year="1995">
@@ -1716,7 +1716,7 @@
 <Book Series="Azrael" Number="14" Volume="1995" Year="1996">
 <Database Name="cv" Series="5490" Issue="118240" />
 </Book>
-<Book Series="The Joker: Devil's Advocate" Number="1" Volume="1996" Year="1996">
+<Book Series="The Joker: Devil&apos;s Advocate" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="57814" Issue="388090" />
 </Book>
 <Book Series="Robin" Number="23" Volume="1993" Year="1995">
@@ -1776,7 +1776,7 @@
 <Book Series="Batman" Number="528" Volume="1940" Year="1996">
 <Database Name="cv" Series="796" Issue="42169" />
 </Book>
-<Book Series="Showcase '96" Number="3" Volume="1996" Year="1996">
+<Book Series="Showcase &apos;96" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="22889" Issue="137447" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="48" Volume="1992" Year="1996">
@@ -2058,16 +2058,16 @@
 <Book Series="Batman: Death of Innocents" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="36261" Issue="239240" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="1" Volume="1996" Year="1996">
+<Book Series="Batman: Gordon&apos;s Law" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="33178" Issue="214615" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="2" Volume="1996" Year="1997">
+<Book Series="Batman: Gordon&apos;s Law" Number="2" Volume="1996" Year="1997">
 <Database Name="cv" Series="33178" Issue="214616" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="3" Volume="1996" Year="1997">
+<Book Series="Batman: Gordon&apos;s Law" Number="3" Volume="1996" Year="1997">
 <Database Name="cv" Series="33178" Issue="214617" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="4" Volume="1996" Year="1997">
+<Book Series="Batman: Gordon&apos;s Law" Number="4" Volume="1996" Year="1997">
 <Database Name="cv" Series="33178" Issue="214618" />
 </Book>
 <Book Series="Birds of Prey: Revolution" Number="1" Volume="1997" Year="1997">
@@ -2874,7 +2874,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="50" Volume="1998" Year="1999">
 <Database Name="cv" Series="19721" Issue="123238" />
 </Book>
-<Book Series="Batman: No Man's Land Secret Files" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="33363" Issue="238533" />
 </Book>
 <Book Series="Birds of Prey" Number="1" Volume="1999" Year="1999">
@@ -2940,7 +2940,7 @@
 <Book Series="Nightwing" Number="31" Volume="1996" Year="1999">
 <Database Name="cv" Series="5755" Issue="45854" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="19706" Issue="118196" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="83" Volume="1992" Year="1999">
@@ -3102,7 +3102,7 @@
 <Book Series="Detective Comics" Number="734" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113208" />
 </Book>
-<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Young Justice in No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="120" Volume="1992" Year="1999">
@@ -3237,7 +3237,7 @@
 <Book Series="Nightwing" Number="39" Volume="1996" Year="2000">
 <Database Name="cv" Series="5755" Issue="46229" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="0" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131872" />
 </Book>
 <Book Series="Batman" Number="573" Volume="1940" Year="2000">
@@ -3597,7 +3597,7 @@
 <Book Series="Robin" Number="75" Volume="1993" Year="2000">
 <Database Name="cv" Series="4975" Issue="46324" />
 </Book>
-<Book Series="Sins of Youth:  Batboy and Robin" Number="1" Volume="2000" Year="2000">
+<Book Series="Sins of Youth: Batboy and Robin" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="33947" Issue="222438" />
 </Book>
 <Book Series="Robin" Number="76" Volume="1993" Year="2000">
@@ -4566,7 +4566,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="100" Volume="1998" Year="2003">
 <Database Name="cv" Series="19721" Issue="121365" />
 </Book>
-<Book Series="Catwoman: Selina's Big Score" Number="1" Volume="2002" Year="2002">
+<Book Series="Catwoman: Selina&apos;s Big Score" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="34842" Issue="228853" />
 </Book>
 <Book Series="Batman: Family" Number="1" Volume="2002" Year="2002">
@@ -5877,10 +5877,10 @@
 <Book Series="Detective Comics" Number="814" Volume="1937" Year="2006">
 <Database Name="cv" Series="18058" Issue="113410" />
 </Book>
-<Book Series="Year One: Batman/Ra's al Ghul" Number="1" Volume="2006" Year="2005">
+<Book Series="Year One: Batman/Ra&apos;s al Ghul" Number="1" Volume="2006" Year="2005">
 <Database Name="cv" Series="21686" Issue="130863" />
 </Book>
-<Book Series="Year One: Batman/Ra's al Ghul" Number="2" Volume="2006" Year="2005">
+<Book Series="Year One: Batman/Ra&apos;s al Ghul" Number="2" Volume="2006" Year="2005">
 <Database Name="cv" Series="21686" Issue="130902" />
 </Book>
 <Book Series="Superman/Batman" Number="20" Volume="2003" Year="2005">
@@ -7074,19 +7074,19 @@
 <Book Series="Batman and the Outsiders" Number="10" Volume="2007" Year="2008">
 <Database Name="cv" Series="19660" Issue="136027" />
 </Book>
-<Book Series="Joker's Asylum: The Joker" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: The Joker" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="33802" Issue="219769" />
 </Book>
-<Book Series="Joker's Asylum: Penguin" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Penguin" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22285" Issue="134004" />
 </Book>
-<Book Series="Joker's Asylum: Poison Ivy" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Poison Ivy" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22259" Issue="133775" />
 </Book>
-<Book Series="Joker's Asylum: Scarecrow" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Scarecrow" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="33803" Issue="219770" />
 </Book>
-<Book Series="Joker's Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22402" Issue="134589" />
 </Book>
 <Book Series="Trinity" Number="1" Volume="2008" Year="2008">
@@ -7485,7 +7485,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="153443" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="153683" />
 </Book>
 <Book Series="Batman: Battle for the Cowl: Commissioner Gordon" Number="1" Volume="2009" Year="2009">
@@ -7503,7 +7503,7 @@
 <Book Series="Oracle: The Cure" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26058" Issue="155508" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="155917" />
 </Book>
 <Book Series="Batman: Battle for the Cowl: Arkham Asylum" Number="1" Volume="2009" Year="2009">
@@ -7515,7 +7515,7 @@
 <Book Series="Batman: Battle for the Cowl: The Network" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26323" Issue="156624" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="157147" />
 </Book>
 <Book Series="Oracle: The Cure" Number="3" Volume="2009" Year="2009">
@@ -7608,7 +7608,7 @@
 <Book Series="Batman Confidential" Number="30" Volume="2007" Year="2009">
 <Database Name="cv" Series="18231" Issue="159843" />
 </Book>
-<Book Series="Batman in Barcelona: Dragon's Knight" Number="1" Volume="2009" Year="2009">
+<Book Series="Batman in Barcelona: Dragon&apos;s Knight" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26547" Issue="158707" />
 </Book>
 <Book Series="Batman and Robin" Number="1" Volume="2009" Year="2009">
@@ -8028,19 +8028,19 @@
 <Book Series="Birds of Prey" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="33087" Issue="241937" />
 </Book>
-<Book Series="Joker's Asylum II: The Riddler" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: The Riddler" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33553" Issue="217714" />
 </Book>
-<Book Series="Joker's Asylum II: Harley Quinn" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Harley Quinn" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33789" Issue="219658" />
 </Book>
-<Book Series="Joker's Asylum II: The Mad Hatter" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: The Mad Hatter" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33771" Issue="219508" />
 </Book>
-<Book Series="Joker's Asylum II: Killer Croc" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Killer Croc" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33915" Issue="220759" />
 </Book>
-<Book Series="Joker's Asylum II: Clayface" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Clayface" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34046" Issue="222048" />
 </Book>
 <Book Series="Batgirl" Number="9" Volume="2009" Year="2010">
@@ -8199,7 +8199,7 @@
 <Book Series="Bruce Wayne: The Road Home: Oracle" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36338" Issue="239802" />
 </Book>
-<Book Series="Bruce Wayne: The Road Home: Ra's al Ghul" Number="1" Volume="2010" Year="2010">
+<Book Series="Bruce Wayne: The Road Home: Ra&apos;s al Ghul" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36351" Issue="239843" />
 </Book>
 <Book Series="Batman and Robin" Number="15" Volume="2009" Year="2010">

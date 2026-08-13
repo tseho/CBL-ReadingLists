@@ -2247,7 +2247,7 @@
 <Book Series="Spider-Man: Legacy of Evil" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="20324" Issue="121394" />
 </Book>
-<Book Series="Wolverine '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Wolverine &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="27130" Issue="164831" />
 </Book>
 <Book Series="The Incredible Hulk" Number="429" Volume="1968" Year="1995">
@@ -2487,7 +2487,7 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="79" Volume="1988" Year="1995">
 <Database Name="cv" Series="4049" Issue="41140" />
 </Book>
-<Book Series="X-Men '95" Number="1" Volume="1995" Year="1995">
+<Book Series="X-Men &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="60462" Issue="178116" />
 </Book>
 <Book Series="Daredevil" Number="343" Volume="1964" Year="1995">
@@ -2895,7 +2895,7 @@
 <Book Series="Spider-Man: The Parker Years" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="20257" Issue="120918" />
 </Book>
-<Book Series="Uncanny X-Men '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Uncanny X-Men &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="60468" Issue="136045" />
 </Book>
 <Book Series="Daredevil" Number="345" Volume="1964" Year="1995">
@@ -2934,7 +2934,7 @@
 <Book Series="The New Warriors" Number="65" Volume="1990" Year="1995">
 <Database Name="cv" Series="4407" Issue="105500" />
 </Book>
-<Book Series="Generation X '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Generation X &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18594" Issue="109694" />
 </Book>
 <Book Series="Generation X" Number="10" Volume="1994" Year="1995">

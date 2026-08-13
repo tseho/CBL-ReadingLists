@@ -72,16 +72,16 @@
 <Book Series="The Uncanny X-Men" Number="517" Volume="1981" Year="2010">
 <Database Name="cv" Series="3092" Issue="184818" />
 </Book>
-<Book Series="Psylocke" Number="1" Volume="2009" Year="2010">
+<Book Series="Psylocke" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="29299" Issue="181096" />
 </Book>
-<Book Series="Psylocke" Number="2" Volume="2009" Year="2010">
+<Book Series="Psylocke" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="29299" Issue="186067" />
 </Book>
-<Book Series="Psylocke" Number="3" Volume="2009" Year="2010">
+<Book Series="Psylocke" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="29299" Issue="192324" />
 </Book>
-<Book Series="Psylocke" Number="4" Volume="2009" Year="2010">
+<Book Series="Psylocke" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="29299" Issue="197470" />
 </Book>
 <Book Series="Nation X" Number="1" Volume="2010" Year="2010">
@@ -183,7 +183,7 @@
 <Book Series="X-Force" Number="18" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="168465" />
 </Book>
-<Book Series="X-Necrosha" Number="1" Volume="2009" Year="2009">
+<Book Series="X Necrosha" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="29125" Issue="179203" />
 </Book>
 <Book Series="X-Force" Number="20" Volume="2008" Year="2009">
@@ -309,7 +309,7 @@
 <Book Series="The Uncanny X-Men" Number="522" Volume="1981" Year="2010">
 <Database Name="cv" Series="3092" Issue="201708" />
 </Book>
-<Book Series="Origins of Siege" Number="1" Volume="2009" Year="2010">
+<Book Series="Origins of Siege" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30823" Issue="190503" />
 </Book>
 <Book Series="Siege: The Cabal" Number="1" Volume="2010" Year="2010">
@@ -327,10 +327,10 @@
 <Book Series="Siege" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30904" Issue="200744" />
 </Book>
-<Book Series="New Avengers" Number="63" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="63" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="201704" />
 </Book>
-<Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="64" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="210216" />
 </Book>
 <Book Series="Siege" Number="4" Volume="2010" Year="2010">

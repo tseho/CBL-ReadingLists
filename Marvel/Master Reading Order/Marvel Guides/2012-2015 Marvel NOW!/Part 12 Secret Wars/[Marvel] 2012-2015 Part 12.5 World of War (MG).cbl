@@ -52,13 +52,13 @@
         <Book Series="Red Skull" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="82982" Issue="499752" />
         </Book>
-        <Book Series="Star-Lord &#38; Kitty Pryde" Number="1" Volume="2015" Year="2015">
+        <Book Series="Star-Lord &amp; Kitty Pryde" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="83469" Issue="495809" />
         </Book>
-        <Book Series="Star-Lord &#38; Kitty Pryde" Number="2" Volume="2015" Year="2015">
+        <Book Series="Star-Lord &amp; Kitty Pryde" Number="2" Volume="2015" Year="2015">
             <Database Name="cv" Series="83469" Issue="497401" />
         </Book>
-        <Book Series="Star-Lord &#38; Kitty Pryde" Number="3" Volume="2015" Year="2015">
+        <Book Series="Star-Lord &amp; Kitty Pryde" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="83469" Issue="499047" />
         </Book>
         <Book Series="Future Imperfect" Number="5" Volume="2015" Year="2015">

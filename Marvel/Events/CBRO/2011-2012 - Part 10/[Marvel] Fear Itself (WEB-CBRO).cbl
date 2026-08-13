@@ -9,7 +9,7 @@
 <Book Series="Fear Itself: Book of the Skull" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39363" Issue="265959" />
 </Book>
-<Book Series="Fear Itself: Sin's Past" Number="1" Volume="2011" Year="2011">
+<Book Series="Fear Itself: Sin&apos;s Past" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39847" Issue="268763" />
 </Book>
 <Book Series="Invincible Iron Man" Number="503" Volume="2008" Year="2011">

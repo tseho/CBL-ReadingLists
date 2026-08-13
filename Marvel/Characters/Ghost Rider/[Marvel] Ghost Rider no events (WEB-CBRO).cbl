@@ -375,19 +375,19 @@
 <Book Series="All-New Ghost Rider" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="72579" Issue="483341" />
 </Book>
-<Book Series="Ghost Rider" Number="1" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="562594" />
 </Book>
-<Book Series="Ghost Rider" Number="2" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="571666" />
 </Book>
-<Book Series="Ghost Rider" Number="3" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="578460" />
 </Book>
-<Book Series="Ghost Rider" Number="4" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="582530" />
 </Book>
-<Book Series="Ghost Rider" Number="5" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="589826" />
 </Book>
 <Book Series="Spirits of Vengeance" Number="1" Volume="2017" Year="2017">
@@ -483,7 +483,7 @@
 <Book Series="Spirits of Ghost Rider: Mother of Demons" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124990" Issue="737167" />
 </Book>
-<Book Series="Ghost Rider: Return of Vengeance" Number="1" Volume="2020" Year="2021">
+<Book Series="Ghost Rider: Return of Vengeance" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132912" Issue="823344" />
 </Book>
 <Book Series="King In Black: Ghost Rider" Number="1" Volume="2021" Year="2021">

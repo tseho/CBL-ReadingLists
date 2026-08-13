@@ -40,7 +40,7 @@
         <Book Series="Infinity: The Hunt" Number="4" Volume="2013" Year="2014">
             <Database Name="cv" Series="67222" Issue="435057" />
         </Book>
-        <Book Series="Avengers" Number="21" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="21" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="428855" />
         </Book>
         <Book Series="Infinity" Number="5" Volume="2013" Year="2013">
@@ -52,16 +52,16 @@
         <Book Series="Guardians of the Galaxy" Number="9" Volume="2013" Year="2014">
             <Database Name="cv" Series="57960" Issue="435580" />
         </Book>
-        <Book Series="Avengers" Number="22" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="22" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="431435" />
         </Book>
-        <Book Series="Avengers" Number="23" Volume="2012" Year="2014">
+        <Book Series="Avengers" Number="23" Volume="2013" Year="2014">
             <Database Name="cv" Series="54428" Issue="433840" />
         </Book>
         <Book Series="Infinity" Number="6" Volume="2013" Year="2014">
             <Database Name="cv" Series="66319" Issue="435055" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men Annual" Number="1" Volume="2013" Year="2014">
+        <Book Series="Wolverine &amp; the X-Men Annual" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="69573" Issue="435070" />
         </Book>
         <Book Series="New Avengers" Number="12" Volume="2013" Year="2014">
@@ -100,19 +100,19 @@
         <Book Series="Thunderbolts" Number="26" Volume="2013" Year="2014">
             <Database Name="cv" Series="54429" Issue="454107" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men" Number="38" Volume="2011" Year="2014">
+        <Book Series="Wolverine &amp; the X-Men" Number="38" Volume="2011" Year="2014">
             <Database Name="cv" Series="43539" Issue="435069" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men" Number="39" Volume="2011" Year="2014">
+        <Book Series="Wolverine &amp; the X-Men" Number="39" Volume="2011" Year="2014">
             <Database Name="cv" Series="43539" Issue="436210" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men" Number="40" Volume="2011" Year="2014">
+        <Book Series="Wolverine &amp; the X-Men" Number="40" Volume="2011" Year="2014">
             <Database Name="cv" Series="43539" Issue="442929" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men" Number="41" Volume="2011" Year="2014">
+        <Book Series="Wolverine &amp; the X-Men" Number="41" Volume="2011" Year="2014">
             <Database Name="cv" Series="43539" Issue="445187" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men" Number="42" Volume="2011" Year="2014">
+        <Book Series="Wolverine &amp; the X-Men" Number="42" Volume="2011" Year="2014">
             <Database Name="cv" Series="43539" Issue="446494" />
         </Book>
         <Book Series="Guardians of the Galaxy" Number="10" Volume="2013" Year="2014">
@@ -205,7 +205,7 @@
         <Book Series="Uncanny Avengers" Number="22" Volume="2012" Year="2014">
             <Database Name="cv" Series="52880" Issue="460973" />
         </Book>
-        <Book Series="Avengers" Number="24" Volume="2012" Year="2014">
+        <Book Series="Avengers" Number="24" Volume="2013" Year="2014">
             <Database Name="cv" Series="54428" Issue="438378" />
         </Book>
     </Books>

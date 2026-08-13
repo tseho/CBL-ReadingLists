@@ -84,16 +84,16 @@
 <Book Series="X-Force" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="726217" />
 </Book>
-<Book Series="Fallen Angels" Number="1" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="727257" />
 </Book>
-<Book Series="Fallen Angels" Number="2" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="728972" />
 </Book>
-<Book Series="Fallen Angels" Number="3" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="730333" />
 </Book>
-<Book Series="Fallen Angels" Number="4" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="731511" />
 </Book>
 <Book Series="Marauders" Number="2" Volume="2019" Year="2020">
@@ -144,10 +144,10 @@
 <Book Series="X-Force" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="735534" />
 </Book>
-<Book Series="Fallen Angels" Number="5" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="732878" />
 </Book>
-<Book Series="Fallen Angels" Number="6" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="735522" />
 </Book>
 <Book Series="Excalibur" Number="4" Volume="2019" Year="2020">
@@ -195,34 +195,34 @@
 <Book Series="Web of Venom: Wraith" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130189" Issue="797985" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="1" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="728979" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="2" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="731525" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="3" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="735528" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="4" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="738617" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="5" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="743448" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="6" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="766406" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="44" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="44" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="712539" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="45" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="45" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="714241" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="46" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="46" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="717525" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="47" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="47" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="720167" />
 </Book>
 <Book Series="Friendly Neighborhood Spider-Man" Number="11" Volume="2019" Year="2019">
@@ -489,16 +489,16 @@
 <Book Series="Spider-Man" Number="5" Volume="2019" Year="2021">
 <Database Name="cv" Series="121420" Issue="820749" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="1" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="726213" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="2" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="729685" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="3" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="731977" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="4" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="736496" />
 </Book>
 <Book Series="The Immortal Hulk" Number="24" Volume="2018" Year="2019">
@@ -516,7 +516,7 @@
 <Book Series="The Immortal Hulk" Number="28" Volume="2018" Year="2020">
 <Database Name="cv" Series="111425" Issue="730337" />
 </Book>
-<Book Series="Black Cat Annual" Number="1" Volume="2019" Year="2020">
+<Book Series="Black Cat Annual" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122813" Issue="727255" />
 </Book>
 <Book Series="Valkyrie: Jane Foster" Number="1" Volume="2019" Year="2019">
@@ -564,7 +564,7 @@
 <Book Series="Spider-Verse" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="121744" Issue="739566" />
 </Book>
-<Book Series="Fantastic Four: Negative Zone" Number="1" Volume="2019" Year="2020">
+<Book Series="Fantastic Four: Negative Zone" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123123" Issue="728973" />
 </Book>
 <Book Series="The Magnificent Ms. Marvel" Number="7" Volume="2019" Year="2019">
@@ -645,19 +645,19 @@
 <Book Series="Valkyrie: Jane Foster" Number="7" Volume="2019" Year="2020">
 <Database Name="cv" Series="120331" Issue="733829" />
 </Book>
-<Book Series="Morbius" Number="1" Volume="2019" Year="2020">
+<Book Series="Morbius" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122817" Issue="727264" />
 </Book>
-<Book Series="Morbius" Number="2" Volume="2019" Year="2020">
+<Book Series="Morbius" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122817" Issue="730340" />
 </Book>
-<Book Series="Morbius" Number="3" Volume="2019" Year="2020">
+<Book Series="Morbius" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122817" Issue="732886" />
 </Book>
-<Book Series="Morbius" Number="4" Volume="2019" Year="2020">
+<Book Series="Morbius" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122817" Issue="737164" />
 </Book>
-<Book Series="Morbius" Number="5" Volume="2019" Year="2020">
+<Book Series="Morbius" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122817" Issue="742374" />
 </Book>
 <Book Series="Captain America" Number="13" Volume="2018" Year="2019">
@@ -681,22 +681,22 @@
 <Book Series="Captain America" Number="19" Volume="2018" Year="2020">
 <Database Name="cv" Series="112027" Issue="737750" />
 </Book>
-<Book Series="Punisher: Soviet" Number="1" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="727265" />
 </Book>
-<Book Series="Punisher: Soviet" Number="2" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="730342" />
 </Book>
-<Book Series="Punisher: Soviet" Number="3" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="731976" />
 </Book>
-<Book Series="Punisher: Soviet" Number="4" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="738615" />
 </Book>
-<Book Series="Punisher: Soviet" Number="5" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="740823" />
 </Book>
-<Book Series="Punisher: Soviet" Number="6" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="743444" />
 </Book>
 <Book Series="Captain Marvel" Number="12" Volume="2019" Year="2020">
@@ -759,7 +759,7 @@
 <Book Series="Tony Stark: Iron Man" Number="19" Volume="2018" Year="2020">
 <Database Name="cv" Series="111704" Issue="731529" />
 </Book>
-<Book Series="Incoming!" Number="1" Volume="2019" Year="2020">
+<Book Series="Incoming!" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123766" Issue="731666" />
 </Book>
 <Book Series="Venom" Number="21" Volume="2018" Year="2020">
@@ -807,7 +807,7 @@
 <Book Series="Hawkeye: Freefall" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="123859" Issue="772336" />
 </Book>
-<Book Series="Thor: The Worthy" Number="1" Volume="2019" Year="2020">
+<Book Series="Thor: The Worthy" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123269" Issue="729689" />
 </Book>
 <Book Series="Sword Master" Number="7" Volume="2019" Year="2020">
@@ -846,19 +846,19 @@
 <Book Series="Nebula" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="124989" Issue="740821" />
 </Book>
-<Book Series="Spider-Ham" Number="1" Volume="2019" Year="2020">
+<Book Series="Spider-Ham" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123768" Issue="731668" />
 </Book>
-<Book Series="Spider-Ham" Number="2" Volume="2019" Year="2020">
+<Book Series="Spider-Ham" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123768" Issue="735476" />
 </Book>
-<Book Series="Spider-Ham" Number="3" Volume="2019" Year="2020">
+<Book Series="Spider-Ham" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123768" Issue="738618" />
 </Book>
-<Book Series="Spider-Ham" Number="4" Volume="2019" Year="2020">
+<Book Series="Spider-Ham" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123768" Issue="740824" />
 </Book>
-<Book Series="Spider-Ham" Number="5" Volume="2019" Year="2020">
+<Book Series="Spider-Ham" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123768" Issue="769754" />
 </Book>
 <Book Series="Ghost Rider" Number="5" Volume="2019" Year="2020">
@@ -1074,19 +1074,19 @@
 <Book Series="Captain Marvel" Number="17" Volume="2019" Year="2020">
 <Database Name="cv" Series="116365" Issue="779003" />
 </Book>
-<Book Series="Symbiote Spider-Man: Alien Reality" Number="1" Volume="2019" Year="2020">
+<Book Series="Symbiote Spider-Man: Alien Reality" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123412" Issue="730349" />
 </Book>
-<Book Series="Symbiote Spider-Man: Alien Reality" Number="2" Volume="2019" Year="2020">
+<Book Series="Symbiote Spider-Man: Alien Reality" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123412" Issue="732893" />
 </Book>
-<Book Series="Symbiote Spider-Man: Alien Reality" Number="3" Volume="2019" Year="2020">
+<Book Series="Symbiote Spider-Man: Alien Reality" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123412" Issue="737169" />
 </Book>
-<Book Series="Symbiote Spider-Man: Alien Reality" Number="4" Volume="2019" Year="2020">
+<Book Series="Symbiote Spider-Man: Alien Reality" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123412" Issue="740829" />
 </Book>
-<Book Series="Symbiote Spider-Man: Alien Reality" Number="5" Volume="2019" Year="2020">
+<Book Series="Symbiote Spider-Man: Alien Reality" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123412" Issue="784415" />
 </Book>
 <Book Series="Thor" Number="1" Volume="2020" Year="2020">
@@ -1143,22 +1143,22 @@
 <Book Series="Star" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="124127" Issue="772339" />
 </Book>
-<Book Series="Dr. Strange" Number="1" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="731665" />
 </Book>
-<Book Series="Dr. Strange" Number="2" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="735521" />
 </Book>
-<Book Series="Dr. Strange" Number="3" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="737155" />
 </Book>
-<Book Series="Dr. Strange" Number="4" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="739557" />
 </Book>
-<Book Series="Dr. Strange" Number="5" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="775008" />
 </Book>
-<Book Series="Dr. Strange" Number="6" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="787347" />
 </Book>
 <Book Series="Avengers" Number="32" Volume="2018" Year="2020">
@@ -1191,22 +1191,22 @@
 <Book Series="Spirits of Ghost Rider: Mother of Demons" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124990" Issue="737167" />
 </Book>
-<Book Series="Deadpool" Number="1" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="728419" />
 </Book>
-<Book Series="Deadpool" Number="2" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="732876" />
 </Book>
-<Book Series="Deadpool" Number="3" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="737754" />
 </Book>
-<Book Series="Deadpool" Number="4" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="742367" />
 </Book>
-<Book Series="Deadpool" Number="5" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="767929" />
 </Book>
-<Book Series="Deadpool" Number="6" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="787346" />
 </Book>
 <Book Series="Falcon &amp; Winter Soldier" Number="1" Volume="2020" Year="2020">
@@ -1272,19 +1272,19 @@
 <Book Series="The Amazing Spider-Man" Number="49" Volume="2018" Year="2020">
 <Database Name="cv" Series="112161" Issue="807566" />
 </Book>
-<Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2019" Year="2020">
+<Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123712" Issue="731523" />
 </Book>
-<Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2019" Year="2020">
+<Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123712" Issue="733826" />
 </Book>
-<Book Series="Revenge of the Cosmic Ghost Rider" Number="3" Volume="2019" Year="2020">
+<Book Series="Revenge of the Cosmic Ghost Rider" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123712" Issue="737762" />
 </Book>
-<Book Series="Revenge of the Cosmic Ghost Rider" Number="4" Volume="2019" Year="2020">
+<Book Series="Revenge of the Cosmic Ghost Rider" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123712" Issue="743446" />
 </Book>
-<Book Series="Revenge of the Cosmic Ghost Rider" Number="5" Volume="2019" Year="2020">
+<Book Series="Revenge of the Cosmic Ghost Rider" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123712" Issue="766405" />
 </Book>
 <Book Series="The Immortal Hulk" Number="29" Volume="2018" Year="2020">
@@ -1584,7 +1584,7 @@
 <Book Series="Daredevil" Number="21" Volume="2019" Year="2020">
 <Database Name="cv" Series="116964" Issue="781430" />
 </Book>
-<Book Series="Daredevil Annual" Number="1" Volume="2019" Year="2020">
+<Book Series="Daredevil Annual" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="129886" Issue="796294" />
 </Book>
 <Book Series="Daredevil" Number="22" Volume="2019" Year="2020">
@@ -1650,19 +1650,19 @@
 <Book Series="Champions" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="130979" Issue="838764" />
 </Book>
-<Book Series="Power Pack" Number="1" Volume="2020" Year="2021">
+<Book Series="Power Pack" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132229" Issue="819488" />
 </Book>
-<Book Series="Power Pack" Number="2" Volume="2020" Year="2021">
+<Book Series="Power Pack" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132229" Issue="823347" />
 </Book>
-<Book Series="Power Pack" Number="3" Volume="2020" Year="2021">
+<Book Series="Power Pack" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132229" Issue="828196" />
 </Book>
-<Book Series="Power Pack" Number="4" Volume="2020" Year="2021">
+<Book Series="Power Pack" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132229" Issue="832868" />
 </Book>
-<Book Series="Power Pack" Number="5" Volume="2020" Year="2021">
+<Book Series="Power Pack" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132229" Issue="842967" />
 </Book>
 <Book Series="Shang-Chi" Number="1" Volume="2020" Year="2020">
@@ -1752,7 +1752,7 @@
 <Book Series="Marvel Zombies: Resurrection" Number="4" Volume="2020" Year="2021">
 <Database Name="cv" Series="130060" Issue="817713" />
 </Book>
-<Book Series="Marvel&apos;s Voices: Indigenous Voices" Number="1" Volume="2020" Year="2021">
+<Book Series="Marvel&apos;s Voices: Indigenous Voices" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132129" Issue="819121" />
 </Book>
 <Book Series="Captain Marvel" Number="22" Volume="2019" Year="2020">
@@ -1794,13 +1794,13 @@
 <Book Series="Werewolf By Night" Number="4" Volume="2020" Year="2021">
 <Database Name="cv" Series="131352" Issue="826564" />
 </Book>
-<Book Series="Deadpool" Number="7" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="7" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="807569" />
 </Book>
-<Book Series="Deadpool" Number="8" Volume="2019" Year="2021">
+<Book Series="Deadpool" Number="8" Volume="2020" Year="2021">
 <Database Name="cv" Series="122987" Issue="816466" />
 </Book>
-<Book Series="Deadpool" Number="9" Volume="2019" Year="2021">
+<Book Series="Deadpool" Number="9" Volume="2020" Year="2021">
 <Database Name="cv" Series="122987" Issue="821493" />
 </Book>
 <Book Series="Heroes At Home" Number="1" Volume="2020" Year="2020">
@@ -1848,7 +1848,7 @@
 <Book Series="Black Widow: Widow&apos;s Sting" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="131524" Issue="814480" />
 </Book>
-<Book Series="Widowmakers: Red Guardian and Yelena Belova" Number="1" Volume="2020" Year="2021">
+<Book Series="Widowmakers: Red Guardian and Yelena Belova" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132131" Issue="819126" />
 </Book>
 <Book Series="Avengers" Number="38" Volume="2018" Year="2021">
@@ -1875,7 +1875,7 @@
 <Book Series="The Magnificent Ms. Marvel" Number="18" Volume="2019" Year="2021">
 <Database Name="cv" Series="117593" Issue="830029" />
 </Book>
-<Book Series="Ghost Rider: Return of Vengeance" Number="1" Volume="2020" Year="2021">
+<Book Series="Ghost Rider: Return of Vengeance" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132912" Issue="823344" />
 </Book>
 <Book Series="Fantastic Four" Number="24" Volume="2018" Year="2020">
@@ -1914,7 +1914,7 @@
 <Book Series="The Amazing Spider-Man" Number="59" Volume="2018" Year="2021">
 <Database Name="cv" Series="112161" Issue="828188" />
 </Book>
-<Book Series="Fantastic Four: Road Trip" Number="1" Volume="2020" Year="2021">
+<Book Series="Fantastic Four: Road Trip" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132375" Issue="820022" />
 </Book>
 <Book Series="Immortal Hulk: Flatline" Number="1" Volume="2021" Year="2021">
@@ -1962,7 +1962,7 @@
 <Book Series="Daredevil" Number="25" Volume="2019" Year="2021">
 <Database Name="cv" Series="116964" Issue="820021" />
 </Book>
-<Book Series="S.W.O.R.D." Number="1" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="820748" />
 </Book>
 </Books>

@@ -504,7 +504,7 @@
     <Book Series="Daredevil" Number="364" Volume="1964" Year="1997">
       <Database Name="cv" Series="2190" Issue="43681" />
     </Book>
-    <Book Series="Daredevil / Deadpool '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="Daredevil / Deadpool &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="26448" Issue="157856" />
     </Book>
     <Book Series="Daredevil" Number="365" Volume="1964" Year="1997">

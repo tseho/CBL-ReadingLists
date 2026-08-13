@@ -396,85 +396,85 @@
 <Book Series="Daredevil" Number="87" Volume="1998" Year="2006">
 <Database Name="cv" Series="6209" Issue="111435" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="1" Volume="2006" Year="2006">
+<Book Series="The Immortal Iron Fist" Number="1" Volume="2007" Year="2006">
 <Database Name="cv" Series="18206" Issue="106625" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="2" Volume="2006" Year="2006">
+<Book Series="The Immortal Iron Fist" Number="2" Volume="2007" Year="2006">
 <Database Name="cv" Series="18206" Issue="106958" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="3" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="3" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="106628" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="4" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="107998" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="5" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="5" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="109268" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="6" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="111103" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="7" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="7" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="112730" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="8" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="8" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="113760" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="9" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="9" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="114985" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="10" Volume="2006" Year="2007">
+<Book Series="The Immortal Iron Fist" Number="10" Volume="2007" Year="2007">
 <Database Name="cv" Series="18206" Issue="116919" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="11" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="11" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="120314" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="12" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="12" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="121662" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="13" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="13" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="126215" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="14" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="14" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="129003" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="15" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="15" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="131090" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="16" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="16" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="131809" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="17" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="17" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="134014" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="18" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="18" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="136631" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="19" Volume="2006" Year="2008">
+<Book Series="The Immortal Iron Fist" Number="19" Volume="2007" Year="2008">
 <Database Name="cv" Series="18206" Issue="141294" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="20" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="20" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="145088" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="21" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="21" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="148635" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="22" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="22" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="151120" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="23" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="23" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="153413" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="24" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="24" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="153962" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="25" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="25" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="155860" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="26" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="26" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="158793" />
 </Book>
-<Book Series="The Immortal Iron Fist" Number="27" Volume="2006" Year="2009">
+<Book Series="The Immortal Iron Fist" Number="27" Volume="2007" Year="2009">
 <Database Name="cv" Series="18206" Issue="161617" />
 </Book>
 <Book Series="New Avengers" Number="1" Volume="2010" Year="2010">
@@ -663,13 +663,13 @@
 <Book Series="Power Man and Iron Fist" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="88214" Issue="530734" />
 </Book>
-<Book Series="Deadpool" Number="13" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="533029" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="88214" Issue="537243" />
 </Book>
-<Book Series="Power Man and Iron Fist: Sweet Christmas Annual" Number="1" Volume="2016" Year="2017">
+<Book Series="Power Man and Iron Fist: Sweet Christmas Annual" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97066" Issue="569340" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="6" Volume="2016" Year="2016">
@@ -789,10 +789,10 @@
 <Book Series="Typhoid Fever: Spider-Man" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114097" Issue="687026" />
 </Book>
-<Book Series="Typhoid Fever: X-Men" Number="1" Volume="2018" Year="2019">
+<Book Series="Typhoid Fever: X-Men" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115090" Issue="691396" />
 </Book>
-<Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2018" Year="2019">
+<Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115914" Issue="694930" />
 </Book>
 <Book Series="Iron Fist" Number="1" Volume="2018" Year="2018">
@@ -837,13 +837,13 @@
 <Book Series="Iron Fist: Heart of the Dragon" Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="133355" Issue="857655" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="2" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="900390" />
 </Book>
 <Book Series="Devil&apos;s Reign: Moon Knight" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141844" Issue="910619" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="4" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="906630" />
 </Book>
 <Book Series="Devil&apos;s Reign: Omega" Number="1" Volume="2022" Year="2022">

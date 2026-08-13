@@ -2610,16 +2610,16 @@
 <Book Series="Punisher" Number="4" Volume="1995" Year="1996">
 <Database Name="cv" Series="18328" Issue="107372" />
 </Book>
-<Book Series="Spider-Man: The Final Adventure" Number="1" Volume="1996" Year="1995">
+<Book Series="Spider-Man: The Final Adventure" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="21004" Issue="125747" />
 </Book>
-<Book Series="Spider-Man: The Final Adventure" Number="2" Volume="1996" Year="1996">
+<Book Series="Spider-Man: The Final Adventure" Number="2" Volume="1995" Year="1996">
 <Database Name="cv" Series="21004" Issue="125769" />
 </Book>
-<Book Series="Spider-Man: The Final Adventure" Number="3" Volume="1996" Year="1996">
+<Book Series="Spider-Man: The Final Adventure" Number="3" Volume="1995" Year="1996">
 <Database Name="cv" Series="21004" Issue="125770" />
 </Book>
-<Book Series="Spider-Man: The Final Adventure" Number="4" Volume="1996" Year="1996">
+<Book Series="Spider-Man: The Final Adventure" Number="4" Volume="1995" Year="1996">
 <Database Name="cv" Series="21004" Issue="125771" />
 </Book>
 <Book Series="Excalibur" Number="93" Volume="1988" Year="1996">

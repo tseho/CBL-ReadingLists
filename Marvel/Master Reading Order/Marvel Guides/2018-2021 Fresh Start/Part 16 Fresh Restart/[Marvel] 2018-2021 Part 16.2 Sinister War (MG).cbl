@@ -55,7 +55,7 @@
         <Book Series="The Amazing Spider-Man" Number="65" Volume="2018" Year="2021">
             <Database Name="cv" Series="112161" Issue="847507" />
         </Book>
-        <Book Series="Giant-Size Amazing Spider-Man: King's Ransom" Number="1" Volume="2021"
+        <Book Series="Giant-Size Amazing Spider-Man: King&apos;s Ransom" Number="1" Volume="2021"
             Year="2021">
             <Database Name="cv" Series="136022" Issue="848850" />
         </Book>

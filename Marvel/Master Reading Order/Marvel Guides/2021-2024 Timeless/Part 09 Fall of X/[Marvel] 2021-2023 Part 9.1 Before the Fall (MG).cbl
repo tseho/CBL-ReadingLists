@@ -36,10 +36,10 @@
         <Book Series="Bishop: War College" Number="5" Volume="2023" Year="2023">
             <Database Name="cv" Series="148091" Issue="993226" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="6" Volume="2022" Year="2023">
+        <Book Series="The Invincible Iron Man" Number="6" Volume="2023" Year="2023">
             <Database Name="cv" Series="146873" Issue="988150" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="7" Volume="2022" Year="2023">
+        <Book Series="The Invincible Iron Man" Number="7" Volume="2023" Year="2023">
             <Database Name="cv" Series="146873" Issue="993233" />
         </Book>
         <Book Series="X-Men: Before the Fall – Mutant First Strike" Number="1" Volume="2023" Year="2023">

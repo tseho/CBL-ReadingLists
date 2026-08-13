@@ -15,7 +15,7 @@
 <Book Series="Avengers Vs. X-Men: Infinite" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="47625" Issue="327550" />
 </Book>
-<Book Series="Uncanny X-Men" Number="11" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="333449" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2010" Year="2012">
@@ -75,7 +75,7 @@
 <Book Series="Avengers" Number="26" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="335925" />
 </Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="336047" />
 </Book>
 <Book Series="Secret Avengers" Number="27" Volume="2010" Year="2012">
@@ -87,7 +87,7 @@
 <Book Series="Avengers Vs. X-Men" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="338525" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="13" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="338486" />
 </Book>
 <Book Series="AVX: VS" Number="3" Volume="2012" Year="2012">
@@ -111,7 +111,7 @@
 <Book Series="Secret Avengers" Number="28" Volume="2010" Year="2012">
 <Database Name="cv" Series="33350" Issue="341693" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="14" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="341738" />
 </Book>
 <Book Series="Wolverine &amp; the X-Men" Number="12" Volume="2011" Year="2012">
@@ -123,7 +123,7 @@
 <Book Series="Avengers Vs. X-Men" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="344114" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="15" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="344115" />
 </Book>
 <Book Series="AVX: VS" Number="4" Volume="2012" Year="2012">
@@ -141,7 +141,7 @@
 <Book Series="Avengers Vs. X-Men" Number="8" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="346240" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="16" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="346273" />
 </Book>
 <Book Series="Avengers" Number="28" Volume="2010" Year="2012">
@@ -168,7 +168,7 @@
 <Book Series="Avengers Vs. X-Men: Infinite" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="47625" Issue="351270" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="17" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="352641" />
 </Book>
 <Book Series="AVX: VS" Number="5" Volume="2012" Year="2012">
@@ -183,7 +183,7 @@
 <Book Series="New Avengers" Number="30" Volume="2010" Year="2012">
 <Database Name="cv" Series="33777" Issue="356773" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="18" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="356777" />
 </Book>
 <Book Series="Wolverine &amp; the X-Men" Number="16" Volume="2011" Year="2012">
@@ -195,7 +195,7 @@
 <Book Series="AVX: VS" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="48342" Issue="360037" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="19" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="360032" />
 </Book>
 <Book Series="Wolverine &amp; the X-Men" Number="18" Volume="2011" Year="2012">
@@ -204,7 +204,7 @@
 <Book Series="Avengers Vs. X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="359916" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="20" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="362220" />
 </Book>
 <Book Series="AVX: Consequences" Number="1" Volume="2012" Year="2012">

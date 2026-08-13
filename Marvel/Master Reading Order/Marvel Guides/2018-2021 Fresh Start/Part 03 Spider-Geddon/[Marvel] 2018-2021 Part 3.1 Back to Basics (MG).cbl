@@ -32,10 +32,10 @@
         <Book Series="Typhoid Fever: Spider-Man" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="114097" Issue="687026" />
         </Book>
-        <Book Series="Typhoid Fever: X-Men" Number="1" Volume="2018" Year="2019">
+        <Book Series="Typhoid Fever: X-Men" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115090" Issue="691396" />
         </Book>
-        <Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2018" Year="2019">
+        <Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115914" Issue="694930" />
         </Book>
         <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2018" Year="2018">
@@ -56,19 +56,19 @@
         <Book Series="Symbiote Spider-Man" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="118275" Issue="716377" />
         </Book>
-        <Book Series="Symbiote Spider-Man: Alien Reality" Number="1" Volume="2019" Year="2020">
+        <Book Series="Symbiote Spider-Man: Alien Reality" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="123412" Issue="730349" />
         </Book>
-        <Book Series="Symbiote Spider-Man: Alien Reality" Number="2" Volume="2019" Year="2020">
+        <Book Series="Symbiote Spider-Man: Alien Reality" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="123412" Issue="732893" />
         </Book>
-        <Book Series="Symbiote Spider-Man: Alien Reality" Number="3" Volume="2019" Year="2020">
+        <Book Series="Symbiote Spider-Man: Alien Reality" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="123412" Issue="737169" />
         </Book>
-        <Book Series="Symbiote Spider-Man: Alien Reality" Number="4" Volume="2019" Year="2020">
+        <Book Series="Symbiote Spider-Man: Alien Reality" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="123412" Issue="740829" />
         </Book>
-        <Book Series="Symbiote Spider-Man: Alien Reality" Number="5" Volume="2019" Year="2020">
+        <Book Series="Symbiote Spider-Man: Alien Reality" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="123412" Issue="784415" />
         </Book>
     </Books>

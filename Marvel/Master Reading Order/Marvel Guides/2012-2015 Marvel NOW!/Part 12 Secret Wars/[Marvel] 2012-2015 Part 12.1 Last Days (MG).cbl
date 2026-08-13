@@ -16,7 +16,7 @@
         <Book Series="Black Widow" Number="20" Volume="2014" Year="2015">
             <Database Name="cv" Series="70705" Issue="496386" />
         </Book>
-        <Book Series="Captain America &#38; the Mighty Avengers" Number="9" Volume="2014"
+        <Book Series="Captain America &amp; the Mighty Avengers" Number="9" Volume="2015"
             Year="2015">
             <Database Name="cv" Series="78045" Issue="491510" />
         </Book>

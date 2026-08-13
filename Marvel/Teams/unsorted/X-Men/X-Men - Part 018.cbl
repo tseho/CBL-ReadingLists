@@ -123,7 +123,7 @@
     <Book Series="Spider-Man/Deadpool" Number="39" Volume="2016" Year="2018">
       <Database Name="cv" Series="87182" Issue="686393" />
     </Book>
-    <Book Series="Venom" Number="161" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="161" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="658736" />
     </Book>
     <Book Series="Venomized" Number="1" Volume="2018" Year="2018">
@@ -141,37 +141,37 @@
     <Book Series="Venomized" Number="5" Volume="2018" Year="2018">
       <Database Name="cv" Series="109637" Issue="668788" />
     </Book>
-    <Book Series="All-New Wolverine" Number="25" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="25" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="628574" />
     </Book>
-    <Book Series="All-New Wolverine" Number="26" Volume="2015" Year="2017">
+    <Book Series="All-New Wolverine" Number="26" Volume="2016" Year="2017">
       <Database Name="cv" Series="85930" Issue="632487" />
     </Book>
-    <Book Series="All-New Wolverine" Number="27" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="27" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="641396" />
     </Book>
-    <Book Series="All-New Wolverine" Number="28" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="28" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="646178" />
     </Book>
-    <Book Series="All-New Wolverine" Number="29" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="29" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="654046" />
     </Book>
-    <Book Series="All-New Wolverine" Number="30" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="30" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="656694" />
     </Book>
-    <Book Series="All-New Wolverine" Number="31" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="31" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="661137" />
     </Book>
-    <Book Series="All-New Wolverine" Number="32" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="32" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="662735" />
     </Book>
-    <Book Series="All-New Wolverine" Number="33" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="33" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="664904" />
     </Book>
-    <Book Series="All-New Wolverine" Number="34" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="34" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="667629" />
     </Book>
-    <Book Series="All-New Wolverine" Number="35" Volume="2015" Year="2018">
+    <Book Series="All-New Wolverine" Number="35" Volume="2016" Year="2018">
       <Database Name="cv" Series="85930" Issue="670104" />
     </Book>
     <Book Series="Astonishing X-Men" Number="13" Volume="2017" Year="2018">
@@ -432,37 +432,37 @@
     <Book Series="X-23" Number="6" Volume="2018" Year="2019">
       <Database Name="cv" Series="112212" Issue="691398" />
     </Book>
-    <Book Series="Dead Man Logan" Number="1" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="1" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="693460" />
     </Book>
-    <Book Series="Dead Man Logan" Number="2" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="2" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="695630" />
     </Book>
-    <Book Series="Dead Man Logan" Number="3" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="3" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="699396" />
     </Book>
-    <Book Series="Dead Man Logan" Number="4" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="4" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="700664" />
     </Book>
-    <Book Series="Dead Man Logan" Number="5" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="5" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="703047" />
     </Book>
-    <Book Series="Dead Man Logan" Number="6" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="6" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="705917" />
     </Book>
-    <Book Series="Dead Man Logan" Number="7" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="7" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="707509" />
     </Book>
-    <Book Series="Dead Man Logan" Number="8" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="8" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="710678" />
     </Book>
-    <Book Series="Dead Man Logan" Number="9" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="9" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="713069" />
     </Book>
-    <Book Series="Dead Man Logan" Number="10" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="10" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="715304" />
     </Book>
-    <Book Series="Dead Man Logan" Number="11" Volume="2018" Year="2019">
+    <Book Series="Dead Man Logan" Number="11" Volume="2019" Year="2019">
       <Database Name="cv" Series="115566" Issue="719435" />
     </Book>
     <Book Series="Extermination" Number="1" Volume="2018" Year="2018">
@@ -483,34 +483,34 @@
     <Book Series="X-Men: The Exterminated" Number="1" Volume="2018" Year="2019">
       <Database Name="cv" Series="115775" Issue="694156" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="1" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="692088" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="2" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="2" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="692562" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="3" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="3" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="693475" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="4" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="4" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="694151" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="5" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="5" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="694932" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="6" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="6" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="695668" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="7" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="7" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="695923" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="8" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="8" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="696371" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="9" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="9" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="696961" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="10" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="10" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="697647" />
     </Book>
     <Book Series="X-Force" Number="1" Volume="2018" Year="2019">
@@ -627,40 +627,40 @@
     <Book Series="Uncanny X-Men Annual" Number="1" Volume="2019" Year="2019">
       <Database Name="cv" Series="116708" Issue="698618" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="11" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="11" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="700153" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="12" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="12" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="701327" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="13" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="13" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="702477" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="14" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="14" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="703956" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="15" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="15" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="705488" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="16" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="16" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="706426" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="17" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="17" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="707533" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="18" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="18" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="709217" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="19" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="19" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="710699" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="20" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="20" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="711963" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="21" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="21" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="713087" />
     </Book>
-    <Book Series="Uncanny X-Men" Number="22" Volume="2018" Year="2019">
+    <Book Series="Uncanny X-Men" Number="22" Volume="2019" Year="2019">
       <Database Name="cv" Series="115285" Issue="713870" />
     </Book>
     <Book Series="X-Force" Number="6" Volume="2018" Year="2019">

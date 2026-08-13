@@ -10,37 +10,37 @@
             Volume="2024" Year="2024">
             <Database Name="cv" Series="158037" Issue="1054297" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="50" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="50" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1056199" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="51" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="51" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1058718" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="52" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="52" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1060161" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="53" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="53" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1062558" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="54" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="54" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1065015" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="55" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="55" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1066696" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="56" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="56" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1067975" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="57" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="57" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1069411" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="58" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="58" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1071597" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="59" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="59" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1073264" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="60" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="60" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1075676" />
         </Book>
         <Book Series="Venomverse Reborn" Number="1" Volume="2024" Year="2024">
@@ -64,7 +64,7 @@
         <Book Series="Black Widow: Venomous" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="159108" Issue="1065016" />
         </Book>
-        <Book Series="Venom" Number="35" Volume="2021" Year="2024">
+        <Book Series="Venom" Number="35" Volume="2022" Year="2024">
             <Database Name="cv" Series="140084" Issue="1061879" />
         </Book>
     </Books>

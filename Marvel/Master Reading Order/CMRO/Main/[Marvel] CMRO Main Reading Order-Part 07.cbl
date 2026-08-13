@@ -744,10 +744,10 @@
 <Book Series="Alpha Flight" Number="60" Volume="1983" Year="1988">
 <Database Name="cv" Series="3217" Issue="29818" />
 </Book>
-<Book Series="Dragon's Claws" Number="1" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268523" />
 </Book>
-<Book Series="Dragon's Claws" Number="2" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="2" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268532" />
 </Book>
 <Book Series="The Avengers" Number="286" Volume="1963" Year="1987">
@@ -801,7 +801,7 @@
 <Book Series="Power Pack" Number="37" Volume="1984" Year="1988">
 <Database Name="cv" Series="3358" Issue="29593" />
 </Book>
-<Book Series="Dragon's Claws" Number="3" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268531" />
 </Book>
 <Book Series="The Punisher" Number="8" Volume="1987" Year="1988">
@@ -927,10 +927,10 @@
 <Book Series="Doctor Who Magazine" Number="135" Volume="1979" Year="1988">
 <Database Name="cv" Series="26877" Issue="171067" />
 </Book>
-<Book Series="Dragon's Claws" Number="4" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="4" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268530" />
 </Book>
-<Book Series="Dragon's Claws" Number="5" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="5" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268529" />
 </Book>
 <Book Series="Silver Surfer" Number="11" Volume="1987" Year="1988">
@@ -1029,10 +1029,10 @@
 <Book Series="The Incredible Hulk" Number="345" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="29827" />
 </Book>
-<Book Series="Dragon's Claws" Number="6" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="6" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268528" />
 </Book>
-<Book Series="Dragon's Claws" Number="7" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="7" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268527" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="301" Volume="1963" Year="1988">
@@ -1056,10 +1056,10 @@
 <Book Series="Marvel Fanfare" Number="39" Volume="1982" Year="1988">
 <Database Name="cv" Series="3143" Issue="29945" />
 </Book>
-<Book Series="Death's Head" Number="1" Volume="1988" Year="1988">
+<Book Series="Death&apos;s Head" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="20540" Issue="123042" />
 </Book>
-<Book Series="Death's Head" Number="2" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123080" />
 </Book>
 <Book Series="The Punisher" Number="10" Volume="1987" Year="1988">
@@ -1095,10 +1095,10 @@
 <Book Series="Classic X-Men" Number="27" Volume="1986" Year="1988">
 <Database Name="cv" Series="3626" Issue="47415" />
 </Book>
-<Book Series="Dragon's Claws" Number="8" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268526" />
 </Book>
-<Book Series="Dragon's Claws" Number="9" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="9" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268525" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="304" Volume="1963" Year="1988">
@@ -1113,7 +1113,7 @@
 <Book Series="Alpha Flight" Number="62" Volume="1983" Year="1988">
 <Database Name="cv" Series="3217" Issue="30047" />
 </Book>
-<Book Series="Dragon's Claws" Number="10" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268524" />
 </Book>
 <Book Series="Marvel Tales" Number="218" Volume="1966" Year="1988">
@@ -1938,10 +1938,10 @@
 <Book Series="The Punisher" Number="19" Volume="1987" Year="1989">
 <Database Name="cv" Series="3855" Issue="31218" />
 </Book>
-<Book Series="Death's Head" Number="3" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123081" />
 </Book>
-<Book Series="Death's Head" Number="4" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123086" />
 </Book>
 <Book Series="Wolfpack" Number="6" Volume="1988" Year="1989">
@@ -1959,7 +1959,7 @@
 <Book Series="Classic X-Men" Number="31" Volume="1986" Year="1989">
 <Database Name="cv" Series="3626" Issue="47418" />
 </Book>
-<Book Series="Marvel Graphic Novel: The Punisher, Assassins' Guild" Number="1" Volume="1988" Year="1988">
+<Book Series="Marvel Graphic Novel: The Punisher, Assassins&apos; Guild" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="30703" Issue="189636" />
 </Book>
 <Book Series="Wolfpack" Number="7" Volume="1988" Year="1989">
@@ -2097,7 +2097,7 @@
 <Book Series="Solo Avengers" Number="17" Volume="1987" Year="1989">
 <Database Name="cv" Series="3859" Issue="31112" />
 </Book>
-<Book Series="Death's Head" Number="5" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="5" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123089" />
 </Book>
 <Book Series="Wolfpack" Number="10" Volume="1988" Year="1989">
@@ -2118,7 +2118,7 @@
 <Book Series="Web of Spider-Man" Number="49" Volume="1985" Year="1989">
 <Database Name="cv" Series="3519" Issue="31118" />
 </Book>
-<Book Series="Death's Head" Number="6" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="6" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123091" />
 </Book>
 <Book Series="Speedball" Number="8" Volume="1988" Year="1989">
@@ -2139,7 +2139,7 @@
 <Book Series="Marc Spector: Moon Knight" Number="3" Volume="1989" Year="1989">
 <Database Name="cv" Series="4230" Issue="31542" />
 </Book>
-<Book Series="Death's Head" Number="7" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="7" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123092" />
 </Book>
 <Book Series="The Sensational She-Hulk in Ceremony" Number="1" Volume="1989" Year="1989">
@@ -2460,16 +2460,16 @@
 <Book Series="Marc Spector: Moon Knight" Number="7" Volume="1989" Year="1989">
 <Database Name="cv" Series="4230" Issue="31924" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29062" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30644" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30684" />
 </Book>
 <Book Series="The Avengers" Number="305" Volume="1963" Year="1989">
@@ -2790,16 +2790,16 @@
 <Book Series="Classic X-Men" Number="40" Volume="1986" Year="1989">
 <Database Name="cv" Series="3626" Issue="47427" />
 </Book>
-<Book Series="Death's Head" Number="8" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123093" />
 </Book>
-<Book Series="Death's Head" Number="9" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="9" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123094" />
 </Book>
-<Book Series="Death's Head" Number="10" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123095" />
 </Book>
-<Book Series="Death's Head: The Body in Question" Number="1" Volume="1991" Year="1990">
+<Book Series="Death&apos;s Head: The Body in Question" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="33702" Issue="219398" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="157" Volume="1976" Year="1989">
@@ -2814,7 +2814,7 @@
 <Book Series="Alpha Flight" Number="77" Volume="1983" Year="1989">
 <Database Name="cv" Series="3217" Issue="31915" />
 </Book>
-<Book Series="Doctor Strange &#38; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
+<Book Series="Doctor Strange &amp; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="23227" Issue="139720" />
 </Book>
 <Book Series="Classic Punisher" Number="1" Volume="1989" Year="1989">

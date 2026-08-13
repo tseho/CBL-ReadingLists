@@ -12,7 +12,7 @@
 <Book Series="Death of Doctor Strange" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="139125" Issue="895343" />
 </Book>
-<Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2021" Year="2022">
+<Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140282" Issue="896132" />
 </Book>
 <Book Series="Death of Doctor Strange" Number="4" Volume="2021" Year="2022">

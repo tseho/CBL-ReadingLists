@@ -549,7 +549,7 @@
 <Book Series="Krazy Komics" Number="24" Volume="1942" Year="1946">
 <Database Name="cv" Series="946" Issue="187384" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="1" Volume="1946" Year="1946">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="1" Volume="1946" Year="1946">
 <Database Name="cv" Series="1114" Issue="95200" />
 </Book>
 <Book Series="Movie Tunes Comics" Number="3" Volume="1946" Year="1946">
@@ -582,7 +582,7 @@
 <Book Series="Krazy Komics" Number="25" Volume="1942" Year="1946">
 <Database Name="cv" Series="946" Issue="94891" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="2" Volume="1946" Year="1946">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="2" Volume="1946" Year="1946">
 <Database Name="cv" Series="1114" Issue="95201" />
 </Book>
 <Book Series="Zoo Funnies" Number="9" Volume="1945" Year="0">
@@ -609,7 +609,7 @@
 <Book Series="Krazy Komics" Number="26" Volume="1942" Year="1947">
 <Database Name="cv" Series="946" Issue="94892" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="3" Volume="1946" Year="1947">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="3" Volume="1946" Year="1947">
 <Database Name="cv" Series="1114" Issue="95202" />
 </Book>
 <Book Series="Super Rabbit" Number="10" Volume="1944" Year="1947">
@@ -633,7 +633,7 @@
 <Book Series="Terry-Toons Comics" Number="57" Volume="1942" Year="1947">
 <Database Name="cv" Series="948" Issue="91188" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="4" Volume="1946" Year="1947">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="4" Volume="1946" Year="1947">
 <Database Name="cv" Series="1114" Issue="95203" />
 </Book>
 <Book Series="Wacky Duck" Number="6" Volume="1946" Year="1947">
@@ -684,19 +684,19 @@
 <Book Series="Wonder Duck" Number="3" Volume="1949" Year="1950">
 <Database Name="cv" Series="30599" Issue="188884" />
 </Book>
-<Book Series="It's a Duck's Life" Number="4" Volume="1950" Year="1950">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="4" Volume="1950" Year="1950">
 <Database Name="cv" Series="25707" Issue="151387" />
 </Book>
-<Book Series="It's a Duck's Life" Number="5" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="5" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151388" />
 </Book>
-<Book Series="It's a Duck's Life" Number="6" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="6" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151389" />
 </Book>
-<Book Series="It's a Duck's Life" Number="9" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="9" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151392" />
 </Book>
-<Book Series="It's a Duck's Life" Number="10" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="10" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151393" />
 </Book>
 </Books>

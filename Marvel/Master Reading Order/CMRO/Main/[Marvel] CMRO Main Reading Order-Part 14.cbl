@@ -156,7 +156,7 @@
 <Book Series="The New Warriors" Number="5" Volume="1999" Year="2000">
 <Database Name="cv" Series="6787" Issue="48482" />
 </Book>
-<Book Series="Ant-Man's Big Christmas" Number="1" Volume="2000" Year="2000">
+<Book Series="Ant-Man&apos;s Big Christmas" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="20128" Issue="120141" />
 </Book>
 <Book Series="Deathlok" Number="7" Volume="1999" Year="2000">
@@ -324,7 +324,7 @@
 <Book Series="Mutant X" Number="16" Volume="1998" Year="2000">
 <Database Name="cv" Series="6217" Issue="46235" />
 </Book>
-<Book Series="Captain Marvel" Number="0" Volume="2000" Year="1999">
+<Book Series="Captain Marvel" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="6458" Issue="46105" />
 </Book>
 <Book Series="Avengers" Number="26" Volume="1998" Year="2000">
@@ -333,7 +333,7 @@
 <Book Series="Avengers" Number="27" Volume="1998" Year="2000">
 <Database Name="cv" Series="7084" Issue="50786" />
 </Book>
-<Book Series="Captain Marvel" Number="1" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="1" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65843" />
 </Book>
 <Book Series="The Astonishing Spider-Man" Number="57" Volume="1995" Year="2000">
@@ -384,16 +384,16 @@
 <Book Series="The New Warriors" Number="8" Volume="1999" Year="2000">
 <Database Name="cv" Series="6787" Issue="48485" />
 </Book>
-<Book Series="X-Men: The Hellfire Club" Number="1" Volume="2000" Year="2000">
+<Book Series="X-Men: Hellfire Club" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="22614" Issue="135742" />
 </Book>
-<Book Series="X-Men: The Hellfire Club" Number="2" Volume="2000" Year="2000">
+<Book Series="X-Men: Hellfire Club" Number="2" Volume="2000" Year="2000">
 <Database Name="cv" Series="22614" Issue="135746" />
 </Book>
-<Book Series="X-Men: The Hellfire Club" Number="3" Volume="2000" Year="2000">
+<Book Series="X-Men: Hellfire Club" Number="3" Volume="2000" Year="2000">
 <Database Name="cv" Series="22614" Issue="135747" />
 </Book>
-<Book Series="X-Men: The Hellfire Club" Number="4" Volume="2000" Year="2000">
+<Book Series="X-Men: Hellfire Club" Number="4" Volume="2000" Year="2000">
 <Database Name="cv" Series="22614" Issue="135748" />
 </Book>
 <Book Series="The Punisher" Number="1" Volume="2000" Year="2000">
@@ -447,22 +447,22 @@
 <Book Series="Mutant X" Number="17" Volume="1998" Year="2000">
 <Database Name="cv" Series="6217" Issue="46282" />
 </Book>
-<Book Series="Captain Marvel" Number="2" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="2" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="46250" />
 </Book>
-<Book Series="Captain Marvel" Number="3" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="3" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65844" />
 </Book>
-<Book Series="Captain Marvel" Number="4" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="4" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65845" />
 </Book>
-<Book Series="Captain Marvel" Number="5" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="5" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65846" />
 </Book>
-<Book Series="Captain Marvel" Number="6" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="6" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="65847" />
 </Book>
-<Book Series="Captain Marvel" Number="7" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="7" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80545" />
 </Book>
 <Book Series="X-Men: Phoenix" Number="1" Volume="1999" Year="1999">
@@ -486,16 +486,16 @@
 <Book Series="Captain America" Number="31" Volume="1998" Year="2000">
 <Database Name="cv" Series="6206" Issue="66236" />
 </Book>
-<Book Series="Captain Marvel" Number="8" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="8" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80546" />
 </Book>
-<Book Series="Captain Marvel" Number="9" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="9" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80547" />
 </Book>
-<Book Series="Captain Marvel" Number="10" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="10" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80548" />
 </Book>
-<Book Series="Captain Marvel" Number="11" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="11" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80549" />
 </Book>
 <Book Series="X-Man" Number="61" Volume="1995" Year="2000">
@@ -1314,10 +1314,10 @@
 <Book Series="Peter Parker: Spider-Man" Number="24" Volume="1999" Year="2000">
 <Database Name="cv" Series="9142" Issue="68501" />
 </Book>
-<Book Series="Captain Marvel" Number="12" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="12" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80550" />
 </Book>
-<Book Series="Captain Marvel" Number="13" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="13" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80551" />
 </Book>
 <Book Series="Incredible Hulk" Number="21" Volume="2000" Year="2000">
@@ -1686,7 +1686,7 @@
 <Book Series="Fantastic Four" Number="45" Volume="1998" Year="2001">
 <Database Name="cv" Series="6211" Issue="52116" />
 </Book>
-<Book Series="Captain Marvel" Number="14" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="14" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80552" />
 </Book>
 <Book Series="Marvel Knights" Number="7" Volume="2000" Year="2001">
@@ -1746,10 +1746,10 @@
 <Book Series="Iron Man" Number="36" Volume="1998" Year="2001">
 <Database Name="cv" Series="6504" Issue="131882" />
 </Book>
-<Book Series="Captain Marvel" Number="15" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="15" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80553" />
 </Book>
-<Book Series="Captain Marvel" Number="16" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="16" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80554" />
 </Book>
 <Book Series="Killraven" Number="1" Volume="2001" Year="2001">
@@ -1782,13 +1782,13 @@
 <Book Series="X-Men" Number="110" Volume="1991" Year="2001">
 <Database Name="cv" Series="4605" Issue="65809" />
 </Book>
-<Book Series="Captain Marvel" Number="17" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="17" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80555" />
 </Book>
-<Book Series="Captain Marvel" Number="18" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="18" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80556" />
 </Book>
-<Book Series="Captain Marvel" Number="19" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="19" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80557" />
 </Book>
 <Book Series="Spidey/Marrow" Number="1" Volume="2001" Year="2001">
@@ -1827,10 +1827,10 @@
 <Book Series="X-Man" Number="74" Volume="1995" Year="2001">
 <Database Name="cv" Series="5567" Issue="132657" />
 </Book>
-<Book Series="Captain Marvel" Number="20" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="20" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80558" />
 </Book>
-<Book Series="Captain Marvel" Number="21" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="21" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80559" />
 </Book>
 <Book Series="Gambit" Number="25" Volume="1999" Year="2001">
@@ -2130,13 +2130,13 @@
 <Book Series="Citizen V and the V-Battalion" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="26375" Issue="157061" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="1" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51614" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="2" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51615" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="3" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51616" />
 </Book>
 <Book Series="Deadpool" Number="56" Volume="1997" Year="2001">
@@ -2154,7 +2154,7 @@
 <Book Series="X-Treme X-Men" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="9411" Issue="76561" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="4" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51617" />
 </Book>
 <Book Series="Incredible Hulk" Number="27" Volume="2000" Year="2001">
@@ -2247,10 +2247,10 @@
 <Book Series="Exiles" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="6983" Issue="50746" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="5" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114254" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="6" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114255" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="394" Volume="1981" Year="2001">
@@ -2292,40 +2292,40 @@
 <Book Series="Daredevil" Number="25" Volume="1998" Year="2001">
 <Database Name="cv" Series="6209" Issue="66273" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="1" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187354" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="2" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187368" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="3" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187369" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="4" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187371" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="5" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187372" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="6" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187373" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="7" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="7" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187374" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="8" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="8" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187375" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="9" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="9" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187382" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="10" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="10" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187386" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="11" Volume="2001" Year="2001">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="11" Volume="2001" Year="2001">
 <Database Name="cv" Series="30423" Issue="187393" />
 </Book>
-<Book Series="Fantastic Four: The World's Greatest Comics Magazine" Number="12" Volume="2001" Year="2002">
+<Book Series="Fantastic Four: The World&apos;s Greatest Comics Magazine" Number="12" Volume="2001" Year="2002">
 <Database Name="cv" Series="30423" Issue="187399" />
 </Book>
 <Book Series="Deadpool" Number="57" Volume="1997" Year="2001">
@@ -2727,22 +2727,22 @@
 <Book Series="Wolverine" Number="176" Volume="1988" Year="2002">
 <Database Name="cv" Series="4250" Issue="114943" />
 </Book>
-<Book Series="Captain Marvel" Number="22" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="22" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80560" />
 </Book>
-<Book Series="Captain Marvel" Number="23" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="23" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80561" />
 </Book>
-<Book Series="Captain Marvel" Number="24" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="24" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80562" />
 </Book>
-<Book Series="Captain Marvel" Number="25" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="25" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80563" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="37" Volume="1999" Year="2002">
 <Database Name="cv" Series="9142" Issue="68514" />
 </Book>
-<Book Series="Captain Marvel" Number="26" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="26" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80564" />
 </Book>
 <Book Series="Iron Man" Number="50" Volume="1998" Year="2002">
@@ -2907,19 +2907,19 @@
 <Book Series="Elektra and Wolverine: The Redeemer" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="23040" Issue="139181" />
 </Book>
-<Book Series="Captain Marvel" Number="27" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="27" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80565" />
 </Book>
-<Book Series="Captain Marvel" Number="28" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="28" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80566" />
 </Book>
-<Book Series="Captain Marvel" Number="29" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="29" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80567" />
 </Book>
-<Book Series="Captain Marvel" Number="30" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="30" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80568" />
 </Book>
-<Book Series="Captain Marvel" Number="31" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="31" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80569" />
 </Book>
 <Book Series="JLA/Avengers" Number="1" Volume="2003" Year="2003">
@@ -2934,13 +2934,13 @@
 <Book Series="JLA/Avengers" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="10941" Issue="105427" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="7" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="7" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114256" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="8" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="8" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114257" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="9" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="9" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114258" />
 </Book>
 <Book Series="Fantastic Four: 1 2 3 4" Number="1" Volume="2001" Year="2001">

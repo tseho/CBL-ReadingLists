@@ -660,7 +660,7 @@
 <Book Series="Spectacular Spider-Girl" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="33063" Issue="228974" />
 </Book>
-<Book Series="Spider-Girl:  The End!" Number="1" Volume="2010" Year="2010">
+<Book Series="Spider-Girl: The End!" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35111" Issue="231684" />
 </Book>
 <Book Series="Captain America Corps" Number="1" Volume="2011" Year="2011">

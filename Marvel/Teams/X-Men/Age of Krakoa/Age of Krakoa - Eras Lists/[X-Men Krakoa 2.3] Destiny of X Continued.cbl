@@ -27,7 +27,7 @@
 <Book Series="Marauders" Number="8" Volume="2022" Year="2023">
 <Database Name="cv" Series="142135" Issue="953976" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="1" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="954280" />
 </Book>
 <Book Series="Immortal X-Men" Number="8" Volume="2022" Year="2023">
@@ -72,19 +72,19 @@
 <Book Series="Deadpool" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="960024" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="964964" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="1" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="960009" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="2" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="960981" />
 </Book>
 <Book Series="Wolverine" Number="28" Volume="2020" Year="2023">
@@ -114,22 +114,22 @@
 <Book Series="X-Men" Number="18" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="963985" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="2" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="964966" />
 </Book>
 <Book Series="Deadpool" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="964961" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="3" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="966425" />
 </Book>
 <Book Series="X-Terminators" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145163" Issue="966432" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="4" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="973028" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="5" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="979429" />
 </Book>
 <Book Series="Immortal X-Men" Number="9" Volume="2022" Year="2023">

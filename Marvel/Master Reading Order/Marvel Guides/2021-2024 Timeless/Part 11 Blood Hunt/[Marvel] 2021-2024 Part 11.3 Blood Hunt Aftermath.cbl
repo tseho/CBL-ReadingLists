@@ -96,25 +96,25 @@
         <Book Series="Werewolf by Night: Red Band" Number="10" Volume="2024" Year="2025">
             <Database Name="cv" Series="159242" Issue="1112971" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="23" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="23" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1066700" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="24" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="24" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1068656" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="25" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="25" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1073886" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="26" Volume="2022" Year="2025">
+        <Book Series="Miles Morales: Spider-Man" Number="26" Volume="2023" Year="2025">
             <Database Name="cv" Series="146734" Issue="1078497" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="27" Volume="2022" Year="2025">
+        <Book Series="Miles Morales: Spider-Man" Number="27" Volume="2023" Year="2025">
             <Database Name="cv" Series="146734" Issue="1080274" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="28" Volume="2022" Year="2025">
+        <Book Series="Miles Morales: Spider-Man" Number="28" Volume="2023" Year="2025">
             <Database Name="cv" Series="146734" Issue="1088572" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="29" Volume="2022" Year="2025">
+        <Book Series="Miles Morales: Spider-Man" Number="29" Volume="2023" Year="2025">
             <Database Name="cv" Series="146734" Issue="1090272" />
         </Book>
         <Book Series="Deadpool" Number="7" Volume="2024" Year="2024">
@@ -132,13 +132,13 @@
         <Book Series="Deadpool" Number="11" Volume="2024" Year="2025">
             <Database Name="cv" Series="157504" Issue="1095598" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="30" Volume="2022" Year="2025">
+        <Book Series="Miles Morales: Spider-Man" Number="30" Volume="2023" Year="2025">
             <Database Name="cv" Series="146734" Issue="1096441" />
         </Book>
         <Book Series="Deadpool" Number="12" Volume="2024" Year="2025">
             <Database Name="cv" Series="157504" Issue="1098340" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="31" Volume="2022" Year="2025">
+        <Book Series="Miles Morales: Spider-Man" Number="31" Volume="2023" Year="2025">
             <Database Name="cv" Series="146734" Issue="1099502" />
         </Book>
         <Book Series="Captain America" Number="15" Volume="2023" Year="2025">

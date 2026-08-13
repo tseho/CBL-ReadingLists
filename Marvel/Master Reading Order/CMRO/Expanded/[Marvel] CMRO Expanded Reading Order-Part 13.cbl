@@ -36,7 +36,7 @@
 <Book Series="D.P.7" Number="28" Volume="1986" Year="1989">
 <Database Name="cv" Series="3627" Issue="30886" />
 </Book>
-<Book Series="The 'Nam" Number="23" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="23" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132236" />
 </Book>
 <Book Series="The Transformers" Number="196" Volume="1984" Year="1988">
@@ -132,10 +132,10 @@
 <Book Series="Silver Surfer" Number="21" Volume="1987" Year="1989">
 <Database Name="cv" Series="3857" Issue="30999" />
 </Book>
-<Book Series="The 'Nam" Number="24" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="24" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132237" />
 </Book>
-<Book Series="The 'Nam" Number="25" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="25" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132232" />
 </Book>
 <Book Series="ALF* Annual" Number="1" Volume="1988" Year="1988">
@@ -480,7 +480,7 @@
 <Book Series="Doctor Zero" Number="5" Volume="1988" Year="1988">
 <Database Name="cv" Series="4050" Issue="30428" />
 </Book>
-<Book Series="The 'Nam" Number="26" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="26" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132239" />
 </Book>
 <Book Series="Captain America" Number="350" Volume="1968" Year="1989">
@@ -519,7 +519,7 @@
 <Book Series="Powerline" Number="6" Volume="1988" Year="1989">
 <Database Name="cv" Series="4063" Issue="95562" />
 </Book>
-<Book Series="Doctor Doom's Revenge" Number="1" Volume="1989" Year="1989">
+<Book Series="Doctor Doom&apos;s Revenge" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="19482" Issue="116592" />
 </Book>
 <Book Series="Thor" Number="401" Volume="1966" Year="1989">
@@ -666,10 +666,10 @@
 <Book Series="The Punisher" Number="19" Volume="1987" Year="1989">
 <Database Name="cv" Series="3855" Issue="31218" />
 </Book>
-<Book Series="Death's Head" Number="3" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123081" />
 </Book>
-<Book Series="Death's Head" Number="4" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123086" />
 </Book>
 <Book Series="Wolfpack" Number="6" Volume="1988" Year="1989">
@@ -693,7 +693,7 @@
 <Book Series="Conan the King" Number="55" Volume="1984" Year="1989">
 <Database Name="cv" Series="3336" Issue="77795" />
 </Book>
-<Book Series="The 'Nam" Number="27" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="27" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132242" />
 </Book>
 <Book Series="Power Pack" Number="46" Volume="1984" Year="1989">
@@ -708,7 +708,7 @@
 <Book Series="Classic X-Men" Number="31" Volume="1986" Year="1989">
 <Database Name="cv" Series="3626" Issue="47418" />
 </Book>
-<Book Series="Marvel Graphic Novel: The Punisher, Assassins' Guild" Number="1" Volume="1988" Year="1988">
+<Book Series="Marvel Graphic Novel: The Punisher, Assassins&apos; Guild" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="30703" Issue="189636" />
 </Book>
 <Book Series="Wolfpack" Number="7" Volume="1988" Year="1989">
@@ -870,7 +870,7 @@
 <Book Series="Marvel Age" Number="72" Volume="1983" Year="1989">
 <Database Name="cv" Series="19176" Issue="157234" />
 </Book>
-<Book Series="Death's Head" Number="5" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="5" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123089" />
 </Book>
 <Book Series="Wolfpack" Number="10" Volume="1988" Year="1989">
@@ -891,10 +891,10 @@
 <Book Series="Web of Spider-Man" Number="49" Volume="1985" Year="1989">
 <Database Name="cv" Series="3519" Issue="31118" />
 </Book>
-<Book Series="Death's Head" Number="6" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="6" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123091" />
 </Book>
-<Book Series="The 'Nam" Number="28" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="28" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132243" />
 </Book>
 <Book Series="Conan the Barbarian" Number="217" Volume="1970" Year="1989">
@@ -924,7 +924,7 @@
 <Book Series="Marc Spector: Moon Knight" Number="3" Volume="1989" Year="1989">
 <Database Name="cv" Series="4230" Issue="31542" />
 </Book>
-<Book Series="Death's Head" Number="7" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="7" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123092" />
 </Book>
 <Book Series="The Sensational She-Hulk in Ceremony" Number="1" Volume="1989" Year="1989">
@@ -942,7 +942,7 @@
 <Book Series="The Savage Sword of Conan" Number="159" Volume="1974" Year="1989">
 <Database Name="cv" Series="2701" Issue="135253" />
 </Book>
-<Book Series="The 'Nam" Number="29" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="29" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132244" />
 </Book>
 <Book Series="Classic X-Men" Number="35" Volume="1986" Year="1989">
@@ -1014,10 +1014,10 @@
 <Book Series="Justice" Number="32" Volume="1986" Year="1989">
 <Database Name="cv" Series="3640" Issue="51731" />
 </Book>
-<Book Series="The 'Nam" Number="30" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="30" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132245" />
 </Book>
-<Book Series="The 'Nam" Number="31" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="31" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132310" />
 </Book>
 <Book Series="The Transformers" Number="200" Volume="1984" Year="1989">
@@ -1122,7 +1122,7 @@
 <Book Series="The Transformers" Number="207" Volume="1984" Year="1989">
 <Database Name="cv" Series="20559" Issue="123675" />
 </Book>
-<Book Series="The 'Nam" Number="32" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="32" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132311" />
 </Book>
 <Book Series="Marvel Tales" Number="224" Volume="1966" Year="1989">
@@ -1206,7 +1206,7 @@
 <Book Series="Conan the Barbarian" Number="221" Volume="1970" Year="1989">
 <Database Name="cv" Series="2471" Issue="186458" />
 </Book>
-<Book Series="The 'Nam" Number="33" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="33" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132312" />
 </Book>
 <Book Series="Heathcliff" Number="36" Volume="1985" Year="1989">
@@ -1413,16 +1413,16 @@
 <Book Series="The Transformers" Number="215" Volume="1984" Year="1989">
 <Database Name="cv" Series="20559" Issue="172713" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29062" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30644" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30684" />
 </Book>
 <Book Series="The Avengers" Number="305" Volume="1963" Year="1989">
@@ -1455,7 +1455,7 @@
 <Book Series="The Savage Sword of Conan" Number="164" Volume="1974" Year="1989">
 <Database Name="cv" Series="2701" Issue="122372" />
 </Book>
-<Book Series="The 'Nam" Number="34" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="34" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132313" />
 </Book>
 <Book Series="What If...?" Number="3" Volume="1989" Year="1989">
@@ -1488,10 +1488,10 @@
 <Book Series="The Transformers" Number="217" Volume="1984" Year="1989">
 <Database Name="cv" Series="20559" Issue="172715" />
 </Book>
-<Book Series="The 'Nam" Number="35" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="35" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132314" />
 </Book>
-<Book Series="The 'Nam" Number="36" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="36" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132316" />
 </Book>
 <Book Series="Marvel Tales" Number="227" Volume="1966" Year="1989">
@@ -1734,10 +1734,10 @@
 <Book Series="Marvel Age" Number="80" Volume="1983" Year="1989">
 <Database Name="cv" Series="19176" Issue="138982" />
 </Book>
-<Book Series="Destroyer" Number="1" Volume="1989" Year="1989">
+<Book Series="The Destroyer" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="4222" Issue="94528" />
 </Book>
-<Book Series="Destroyer" Number="2" Volume="1989" Year="1989">
+<Book Series="The Destroyer" Number="2" Volume="1989" Year="1989">
 <Database Name="cv" Series="4222" Issue="94529" />
 </Book>
 <Book Series="The Transformers" Number="222" Volume="1984" Year="1989">
@@ -1782,10 +1782,10 @@
 <Book Series="The Transformers" Number="223" Volume="1984" Year="1989">
 <Database Name="cv" Series="20559" Issue="172720" />
 </Book>
-<Book Series="The 'Nam" Number="37" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="37" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132321" />
 </Book>
-<Book Series="The 'Nam" Number="38" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="38" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132324" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="166" Volume="1974" Year="1989">
@@ -1875,16 +1875,16 @@
 <Book Series="Marvel Age" Number="82" Volume="1983" Year="1989">
 <Database Name="cv" Series="19176" Issue="157237" />
 </Book>
-<Book Series="Death's Head" Number="8" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123093" />
 </Book>
-<Book Series="Death's Head" Number="9" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="9" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123094" />
 </Book>
-<Book Series="Death's Head" Number="10" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123095" />
 </Book>
-<Book Series="Death's Head: The Body in Question" Number="1" Volume="1991" Year="1990">
+<Book Series="Death&apos;s Head: The Body in Question" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="33702" Issue="219398" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="157" Volume="1976" Year="1989">
@@ -1914,7 +1914,7 @@
 <Book Series="Marvel Age" Number="83" Volume="1983" Year="1989">
 <Database Name="cv" Series="19176" Issue="172206" />
 </Book>
-<Book Series="Doctor Strange &#38; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
+<Book Series="Doctor Strange &amp; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="23227" Issue="139720" />
 </Book>
 <Book Series="Classic Punisher" Number="1" Volume="1989" Year="1989">
@@ -1947,7 +1947,7 @@
 <Book Series="What If...?" Number="7" Volume="1989" Year="1989">
 <Database Name="cv" Series="4249" Issue="32020" />
 </Book>
-<Book Series="The 'Nam" Number="39" Volume="1986" Year="1989">
+<Book Series="The &apos;Nam" Number="39" Volume="1986" Year="1989">
 <Database Name="cv" Series="19757" Issue="132325" />
 </Book>
 <Book Series="Marvel Age" Number="84" Volume="1983" Year="1990">
@@ -2499,13 +2499,13 @@
 <Book Series="Conan the Barbarian" Number="229" Volume="1970" Year="1990">
 <Database Name="cv" Series="2471" Issue="186521" />
 </Book>
-<Book Series="The 'Nam" Number="40" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="40" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132326" />
 </Book>
-<Book Series="Destroyer" Number="3" Volume="1989" Year="1989">
+<Book Series="The Destroyer" Number="3" Volume="1989" Year="1989">
 <Database Name="cv" Series="4222" Issue="94530" />
 </Book>
-<Book Series="Destroyer" Number="4" Volume="1989" Year="1990">
+<Book Series="The Destroyer" Number="4" Volume="1989" Year="1990">
 <Database Name="cv" Series="4222" Issue="94531" />
 </Book>
 <Book Series="What The--?!" Number="6" Volume="1988" Year="1990">
@@ -2604,10 +2604,10 @@
 <Book Series="Conan the Barbarian: The Horn of Azoth" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="30316" Issue="186689" />
 </Book>
-<Book Series="The 'Nam" Number="41" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="41" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132327" />
 </Book>
-<Book Series="Destroyer" Number="5" Volume="1989" Year="1990">
+<Book Series="The Destroyer" Number="5" Volume="1989" Year="1990">
 <Database Name="cv" Series="4222" Issue="94532" />
 </Book>
 <Book Series="Ghost Rider" Number="1" Volume="1990" Year="1990">
@@ -2664,7 +2664,7 @@
 <Book Series="The Sensational She-Hulk" Number="12" Volume="1989" Year="1990">
 <Database Name="cv" Series="4243" Issue="32431" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="1" Volume="1990" Year="1989">
+<Book Series="Marvel Year-In-Review" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="21201" Issue="150225" />
 </Book>
 <Book Series="Iron Man" Number="253" Volume="1968" Year="1990">
@@ -2823,7 +2823,7 @@
 <Book Series="Power Pack" Number="55" Volume="1984" Year="1990">
 <Database Name="cv" Series="3358" Issue="32637" />
 </Book>
-<Book Series="The 'Nam" Number="42" Volume="1986" Year="1990">
+<Book Series="The &apos;Nam" Number="42" Volume="1986" Year="1990">
 <Database Name="cv" Series="19757" Issue="132328" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="171" Volume="1974" Year="1990">
@@ -2871,7 +2871,7 @@
 <Book Series="Adventures in Reading Starring the Amazing Spider-Man" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="27998" Issue="171667" />
 </Book>
-<Book Series="Destroyer" Number="6" Volume="1989" Year="1990">
+<Book Series="The Destroyer" Number="6" Volume="1989" Year="1990">
 <Database Name="cv" Series="4222" Issue="132925" />
 </Book>
 <Book Series="Marvel Age" Number="86" Volume="1983" Year="1990">
@@ -2997,7 +2997,7 @@
 <Book Series="The Transformers" Number="259" Volume="1984" Year="1990">
 <Database Name="cv" Series="20559" Issue="172760" />
 </Book>
-<Book Series="Destroyer" Number="7" Volume="1989" Year="1990">
+<Book Series="The Destroyer" Number="7" Volume="1989" Year="1990">
 <Database Name="cv" Series="4222" Issue="94533" />
 </Book>
 </Books>

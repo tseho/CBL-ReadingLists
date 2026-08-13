@@ -108,10 +108,10 @@
 <Book Series="Alpha Flight" Number="9" Volume="1997" Year="1998">
 <Database Name="cv" Series="11291" Issue="99070" />
 </Book>
-<Book Series="Cable / Machine Man '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Cable / Machine Man &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="18365" Issue="117675" />
 </Book>
-<Book Series="Machine Man / Bastion '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Machine Man / Bastion &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="26009" Issue="153754" />
 </Book>
 <Book Series="X-Force" Number="77" Volume="1991" Year="1998">
@@ -195,7 +195,7 @@
 <Book Series="The Uncanny X-Men" Number="359" Volume="1981" Year="1998">
 <Database Name="cv" Series="3092" Issue="45332" />
 </Book>
-<Book Series="Uncanny X-Men / Fantastic Four '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Uncanny X-Men / Fantastic Four &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30468" Issue="187571" />
 </Book>
 <Book Series="X-Men" Number="79" Volume="1991" Year="1998">
@@ -270,10 +270,10 @@
 <Book Series="X-Men Unlimited" Number="22" Volume="1993" Year="1999">
 <Database Name="cv" Series="5066" Issue="45718" />
 </Book>
-<Book Series="X-Men / Dr. Doom '98" Number="1" Volume="1998" Year="1998">
+<Book Series="X-Men / Dr. Doom &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="26316" Issue="178128" />
 </Book>
-<Book Series="X-Force / Champions '98" Number="1" Volume="1998" Year="1998">
+<Book Series="X-Force / Champions &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="34173" Issue="222916" />
 </Book>
 <Book Series="X-Force" Number="85" Volume="1991" Year="1999">
@@ -516,7 +516,7 @@
 <Book Series="Generation X 1999" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="60446" Issue="123625" />
 </Book>
-<Book Series="Generation X / Dracula '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Generation X / Dracula &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60445" Issue="123569" />
 </Book>
 <Book Series="Generation X" Number="59" Volume="1994" Year="2000">

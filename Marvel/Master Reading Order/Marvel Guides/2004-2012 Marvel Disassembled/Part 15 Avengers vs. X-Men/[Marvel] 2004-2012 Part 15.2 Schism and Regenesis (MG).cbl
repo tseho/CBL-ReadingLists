@@ -150,16 +150,16 @@
 <Book Series="Avengers Academy" Number="22" Volume="2010" Year="2012">
 <Database Name="cv" Series="33633" Issue="302682" />
 </Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="301011" />
 </Book>
-<Book Series="Uncanny X-Men" Number="2" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="304473" />
 </Book>
-<Book Series="Uncanny X-Men" Number="3" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="308437" />
 </Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="309467" />
 </Book>
 <Book Series="X-Men: Legacy" Number="260.1" Volume="2008" Year="2012">
@@ -381,16 +381,16 @@
 <Book Series="Age of Apocalypse" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="46347" Issue="386131" />
 </Book>
-<Book Series="Uncanny X-Men" Number="5" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="311756" />
 </Book>
-<Book Series="Uncanny X-Men" Number="6" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="313845" />
 </Book>
-<Book Series="Uncanny X-Men" Number="7" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="315783" />
 </Book>
-<Book Series="Uncanny X-Men" Number="8" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="8" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="319363" />
 </Book>
 <Book Series="Wolverine &amp; the X-Men" Number="4" Volume="2011" Year="2012">
@@ -717,10 +717,10 @@
 <Book Series="Deadpool" Number="63" Volume="2008" Year="2012">
 <Database Name="cv" Series="22955" Issue="363155" />
 </Book>
-<Book Series="Uncanny X-Men" Number="9" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="322747" />
 </Book>
-<Book Series="Uncanny X-Men" Number="10" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="329216" />
 </Book>
 </Books>

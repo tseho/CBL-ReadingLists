@@ -498,22 +498,22 @@
 <Book Series="Night of the Living Deadpool" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="70900" Issue="446994" />
 </Book>
-<Book Series="Deadpool" Number="1" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="365760" />
 </Book>
-<Book Series="Deadpool" Number="2" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="369057" />
 </Book>
-<Book Series="Deadpool" Number="3" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="371106" />
 </Book>
-<Book Series="Deadpool" Number="4" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="381412" />
 </Book>
-<Book Series="Deadpool" Number="5" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="387257" />
 </Book>
-<Book Series="Deadpool" Number="6" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="394707" />
 </Book>
 <Book Series="Thunderbolts" Number="1" Volume="2013" Year="2013">
@@ -549,22 +549,22 @@
 <Book Series="Thunderbolts" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="54429" Issue="411833" />
 </Book>
-<Book Series="Deadpool" Number="7" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="395701" />
 </Book>
-<Book Series="Deadpool" Number="8" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="398981" />
 </Book>
-<Book Series="Deadpool" Number="9" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="401205" />
 </Book>
-<Book Series="Deadpool" Number="10" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="404695" />
 </Book>
-<Book Series="Deadpool" Number="11" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="410319" />
 </Book>
-<Book Series="Deadpool" Number="12" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="413656" />
 </Book>
 <Book Series="Thunderbolts" Number="12" Volume="2013" Year="2013">
@@ -603,25 +603,25 @@
 <Book Series="Thunderbolts" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="54429" Issue="448005" />
 </Book>
-<Book Series="Deadpool" Number="13" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="417834" />
 </Book>
-<Book Series="Deadpool" Number="14" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="421688" />
 </Book>
-<Book Series="Deadpool" Number="15" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="423673" />
 </Book>
-<Book Series="Deadpool" Number="16" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="16" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="425025" />
 </Book>
-<Book Series="Deadpool" Number="17" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="17" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="426873" />
 </Book>
-<Book Series="Deadpool" Number="18" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="18" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="428295" />
 </Book>
-<Book Series="Deadpool" Number="19" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="19" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="433171" />
 </Book>
 <Book Series="Thunderbolts" Number="24" Volume="2013" Year="2014">
@@ -633,31 +633,31 @@
 <Book Series="Thunderbolts" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="54429" Issue="454107" />
 </Book>
-<Book Series="Deadpool" Number="20" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="435578" />
 </Book>
-<Book Series="Deadpool" Number="21" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="437488" />
 </Book>
-<Book Series="Deadpool" Number="22" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="22" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="441412" />
 </Book>
-<Book Series="Deadpool" Number="23" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="445177" />
 </Book>
-<Book Series="Deadpool" Number="24" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="446479" />
 </Book>
-<Book Series="Deadpool" Number="25" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="447508" />
 </Book>
-<Book Series="Deadpool" Number="26" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="448965" />
 </Book>
-<Book Series="Deadpool" Number="27" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="450073" />
 </Book>
-<Book Series="Deadpool" Number="28" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="452851" />
 </Book>
 <Book Series="Thunderbolts" Number="27" Volume="2013" Year="2014">
@@ -678,55 +678,55 @@
 <Book Series="Thunderbolts" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="54429" Issue="468914" />
 </Book>
-<Book Series="Deadpool" Number="29" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="454095" />
 </Book>
-<Book Series="Deadpool" Number="30" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="456022" />
 </Book>
-<Book Series="Deadpool" Number="31" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="459169" />
 </Book>
-<Book Series="Deadpool" Number="32" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="460311" />
 </Book>
-<Book Series="Deadpool" Number="33" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="462248" />
 </Book>
-<Book Series="Deadpool" Number="34" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="34" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="464977" />
 </Book>
-<Book Series="Deadpool" Number="35" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="35" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="466325" />
 </Book>
-<Book Series="Deadpool" Number="36" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="36" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="468461" />
 </Book>
-<Book Series="Deadpool" Number="37" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="37" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="470424" />
 </Book>
-<Book Series="Deadpool" Number="38" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="471962" />
 </Book>
-<Book Series="Deadpool" Number="39" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="474626" />
 </Book>
-<Book Series="Deadpool" Number="40" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="475937" />
 </Book>
-<Book Series="Deadpool" Number="41" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="477848" />
 </Book>
-<Book Series="Deadpool" Number="42" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="42" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="480671" />
 </Book>
-<Book Series="Deadpool" Number="43" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="43" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="482154" />
 </Book>
-<Book Series="Deadpool" Number="44" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="44" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="483347" />
 </Book>
-<Book Series="Deadpool" Number="45" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="45" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="485511" />
 </Book>
 <Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">
@@ -741,22 +741,22 @@
 <Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="85318" Issue="510957" />
 </Book>
-<Book Series="Deadpool" Number="1" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="504934" />
 </Book>
-<Book Series="Deadpool" Number="2" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="506167" />
 </Book>
-<Book Series="Deadpool" Number="3" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="507770" />
 </Book>
-<Book Series="Deadpool" Number="4" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="508889" />
 </Book>
-<Book Series="Deadpool" Number="5" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="510493" />
 </Book>
-<Book Series="Uncanny Avengers Annual" Number="1" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86135" Issue="506186" />
 </Book>
 <Book Series="Deadpool: Masacre" Number="1" Volume="2016" Year="2016">
@@ -786,25 +786,25 @@
 <Book Series="Spider-Man/Deadpool" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="87182" Issue="543757" />
 </Book>
-<Book Series="Deadpool" Number="6" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="511510" />
 </Book>
-<Book Series="Deadpool" Number="7" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="514435" />
 </Book>
-<Book Series="Deadpool" Number="8" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="517827" />
 </Book>
-<Book Series="Deadpool" Number="9" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="523253" />
 </Book>
-<Book Series="Deadpool" Number="10" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="526047" />
 </Book>
-<Book Series="Deadpool" Number="11" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="529655" />
 </Book>
-<Book Series="Deadpool" Number="12" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="531878" />
 </Book>
 <Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2016">
@@ -849,7 +849,7 @@
 <Book Series="Deadpool: Bad Blood" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="101476" Issue="595686" />
 </Book>
-<Book Series="Deadpool" Number="13" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="533029" />
 </Book>
 <Book Series="Deadpool v Gambit" Number="1" Volume="2016" Year="2016">
@@ -912,19 +912,19 @@
 <Book Series="Deadpool Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="94415" Issue="551302" />
 </Book>
-<Book Series="Deadpool" Number="14" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="14" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="535352" />
 </Book>
-<Book Series="Deadpool" Number="15" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="15" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="539241" />
 </Book>
-<Book Series="Deadpool" Number="16" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="16" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="542618" />
 </Book>
-<Book Series="Deadpool" Number="17" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="17" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="546054" />
 </Book>
-<Book Series="Deadpool" Number="18" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="18" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="549516" />
 </Book>
 <Book Series="Uncanny Avengers" Number="13" Volume="2015" Year="2016">
@@ -942,31 +942,31 @@
 <Book Series="Uncanny Avengers" Number="17" Volume="2015" Year="2017">
 <Database Name="cv" Series="85318" Issue="566727" />
 </Book>
-<Book Series="Deadpool" Number="19" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="19" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="551301" />
 </Book>
-<Book Series="Deadpool" Number="20" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="20" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="553007" />
 </Book>
-<Book Series="Deadpool" Number="21" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="21" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="555516" />
 </Book>
-<Book Series="Deadpool" Number="22" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="558414" />
 </Book>
-<Book Series="Deadpool" Number="23" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="563720" />
 </Book>
-<Book Series="Deadpool" Number="24" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="575863" />
 </Book>
-<Book Series="Deadpool" Number="25" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="25" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="578456" />
 </Book>
-<Book Series="Deadpool" Number="26" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="26" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="579312" />
 </Book>
-<Book Series="Deadpool" Number="27" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="27" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="581552" />
 </Book>
 <Book Series="Deadpool the Duck" Number="1" Volume="2017" Year="2017">
@@ -984,7 +984,7 @@
 <Book Series="Deadpool the Duck" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97745" Issue="587405" />
 </Book>
-<Book Series="Deadpool" Number="28" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="28" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="583716" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="15" Volume="2016" Year="2017">
@@ -999,10 +999,10 @@
 <Book Series="Deadpool &amp; The Mercs For Money" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="591753" />
 </Book>
-<Book Series="Deadpool" Number="29" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="29" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="592595" />
 </Book>
-<Book Series="Deadpool" Number="30" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="30" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="594962" />
 </Book>
 <Book Series="Deadpool vs. The Punisher" Number="1" Volume="2017" Year="2017">
@@ -1302,34 +1302,34 @@
 <Book Series="Deadpool: The End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124679" Issue="735519" />
 </Book>
-<Book Series="Deadpool" Number="1" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="728419" />
 </Book>
-<Book Series="Deadpool" Number="2" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="732876" />
 </Book>
-<Book Series="Deadpool" Number="3" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="737754" />
 </Book>
-<Book Series="Deadpool" Number="4" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="742367" />
 </Book>
-<Book Series="Deadpool" Number="5" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="767929" />
 </Book>
-<Book Series="Deadpool" Number="6" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="787346" />
 </Book>
-<Book Series="Deadpool" Number="7" Volume="2019" Year="2020">
+<Book Series="Deadpool" Number="7" Volume="2020" Year="2020">
 <Database Name="cv" Series="122987" Issue="807569" />
 </Book>
-<Book Series="Deadpool" Number="8" Volume="2019" Year="2021">
+<Book Series="Deadpool" Number="8" Volume="2020" Year="2021">
 <Database Name="cv" Series="122987" Issue="816466" />
 </Book>
-<Book Series="Deadpool" Number="9" Volume="2019" Year="2021">
+<Book Series="Deadpool" Number="9" Volume="2020" Year="2021">
 <Database Name="cv" Series="122987" Issue="821493" />
 </Book>
-<Book Series="Deadpool" Number="10" Volume="2019" Year="2021">
+<Book Series="Deadpool" Number="10" Volume="2020" Year="2021">
 <Database Name="cv" Series="122987" Issue="826555" />
 </Book>
 <Book Series="Deadpool Nerdy 30" Number="1" Volume="2021" Year="2021">
@@ -1566,13 +1566,13 @@
 <Book Series="Deadpool" Number="11" Volume="2024" Year="2025">
 <Database Name="cv" Series="157504" Issue="1095598" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="30" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="30" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1096441" />
 </Book>
 <Book Series="Deadpool" Number="12" Volume="2024" Year="2025">
 <Database Name="cv" Series="157504" Issue="1098340" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="31" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="31" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1099502" />
 </Book>
 <Book Series="Deadpool vs. Wolverine: Slash &apos;Em Up" Number="1" Volume="2025" Year="2025">

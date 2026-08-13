@@ -3,61 +3,61 @@
 <Name>[Marvel] [2015-2016] Secret Wars (Simplified) (CBH) </Name>
 <NumIssues>60</NumIssues>
 <Books>
-<Book Series="Avengers" Number="35" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="35" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="465837" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="466332" />
 </Book>
-<Book Series="Avengers" Number="36" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="36" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="467647" />
 </Book>
 <Book Series="New Avengers" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="468084" />
 </Book>
-<Book Series="Avengers" Number="37" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="37" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="468457" />
 </Book>
 <Book Series="New Avengers" Number="26" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="470433" />
 </Book>
-<Book Series="Avengers" Number="38" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="470417" />
 </Book>
 <Book Series="New Avengers" Number="27" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="471318" />
 </Book>
-<Book Series="Avengers" Number="39" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="472900" />
 </Book>
 <Book Series="New Avengers" Number="28" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="474632" />
 </Book>
-<Book Series="Avengers" Number="40" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="475932" />
 </Book>
 <Book Series="New Avengers" Number="29" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="477851" />
 </Book>
-<Book Series="Avengers" Number="41" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="478606" />
 </Book>
 <Book Series="New Avengers" Number="30" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="480676" />
 </Book>
-<Book Series="Avengers" Number="42" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="42" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="481605" />
 </Book>
 <Book Series="New Avengers" Number="31" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="482160" />
 </Book>
-<Book Series="Avengers" Number="43" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="43" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="484889" />
 </Book>
 <Book Series="New Avengers" Number="32" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="483355" />
 </Book>
-<Book Series="Avengers" Number="44" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="44" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="487201" />
 </Book>
 <Book Series="New Avengers" Number="33" Volume="2013" Year="2015">
@@ -84,10 +84,10 @@
 <Book Series="Thors" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82716" Issue="496400" />
 </Book>
-<Book Series="A-Force" Number="1" Volume="2015" Year="2016">
+<Book Series="A-Force" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="510488" />
 </Book>
-<Book Series="A-Force" Number="2" Volume="2015" Year="2016">
+<Book Series="A-Force" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="513637" />
 </Book>
 <Book Series="Secret Wars Journal" Number="1" Volume="2015" Year="2015">
@@ -159,10 +159,10 @@
 <Book Series="Siege" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="83322" Issue="502131" />
 </Book>
-<Book Series="A-Force" Number="3" Volume="2015" Year="2016">
+<Book Series="A-Force" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="517822" />
 </Book>
-<Book Series="A-Force" Number="4" Volume="2015" Year="2016">
+<Book Series="A-Force" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="525014" />
 </Book>
 <Book Series="Marvel Zombies" Number="3" Volume="2015" Year="2015">
@@ -180,7 +180,7 @@
 <Book Series="Secret Wars" Number="9" Volume="2015" Year="2016">
 <Database Name="cv" Series="81833" Issue="510951" />
 </Book>
-<Book Series="A-Force" Number="5" Volume="2015" Year="2016">
+<Book Series="A-Force" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="528496" />
 </Book>
 </Books>

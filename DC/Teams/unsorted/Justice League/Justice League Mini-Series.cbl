@@ -6,19 +6,19 @@
     <Book Series="Amazing Adventures of the JLA" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="28069" Issue="172319" />
     </Book>
-    <Book Series="DC Retroactive: JLA - The '70s" Number="1" Volume="2011" Year="2011">
+    <Book Series="DC Retroactive: JLA - The &apos;70s" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41531" Issue="281524" />
     </Book>
-    <Book Series="DC Retroactive: JLA - The '80s" Number="1" Volume="2011" Year="2011">
+    <Book Series="DC Retroactive: JLA - The &apos;80s" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41927" Issue="285341" />
     </Book>
-    <Book Series="DC Retroactive: JLA - The '90s" Number="1" Volume="2011" Year="2011">
+    <Book Series="DC Retroactive: JLA - The &apos;90s" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="42360" Issue="289269" />
     </Book>
     <Book Series="DC Universe Special: Justice League of America" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="21815" Issue="131464" />
     </Book>
-    <Book Series="JLA/Cyber Force" Number="1" Volume="2005" Year="2005">
+    <Book Series="JLA/Cyberforce" Number="1" Volume="2005" Year="2005">
       <Database Name="cv" Series="20265" Issue="121000" />
     </Book>
     <Book Series="JLA/Haven: Anathema" Number="1" Volume="2002" Year="2002">
@@ -36,7 +36,7 @@
     <Book Series="JLA/JSA: Virtue and Vice" Number="1" Volume="2002" Year="2003">
       <Database Name="cv" Series="25964" Issue="153471" />
     </Book>
-    <Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
+    <Book Series="JLA/JSA Secret Files &amp; Origins" Number="1" Volume="2003" Year="2003">
       <Database Name="cv" Series="28479" Issue="175485" />
     </Book>
     <Book Series="JLA/Spectre: Soul War" Number="1" Volume="2003" Year="2003">
@@ -126,7 +126,7 @@
     <Book Series="JLA: Gods and Monsters" Number="1" Volume="2001" Year="2001">
       <Database Name="cv" Series="31759" Issue="199179" />
     </Book>
-    <Book Series="JLA: Heaven's Ladder" Number="1" Volume="2000" Year="2000">
+    <Book Series="JLA: Heaven&apos;s Ladder" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="27724" Issue="169587" />
     </Book>
     <Book Series="JLA: Liberty and Justice" Number="1" Volume="2003" Year="2004">

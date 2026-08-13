@@ -3,10 +3,10 @@
 <Name>[Spider-Man] 57 - Inhumanity</Name>
 <NumIssues>5</NumIssues>
 <Books>
-<Book Series="Inhumanity" Number="1" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="435583" />
 </Book>
-<Book Series="Inhumanity" Number="2" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="443983" />
 </Book>
 <Book Series="Inhumanity: Superior Spider-Man" Number="1" Volume="2014" Year="2014">

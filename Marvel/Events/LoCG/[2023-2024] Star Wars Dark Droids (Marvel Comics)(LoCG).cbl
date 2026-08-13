@@ -48,7 +48,7 @@
 <Book Series="Star Wars" Number="39" Volume="2020" Year="2023">
 <Database Name="cv" Series="123860" Issue="1025166" />
 </Book>
-<Book Series="Star Wars: Dark Droids - D-Squad" Number="2" Volume="2024" Year="2023">
+<Book Series="Star Wars: Dark Droids: D-Squad" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="153630" Issue="1026555" />
 </Book>
 <Book Series="Star Wars: Doctor Aphra" Number="37" Volume="2020" Year="2023">
@@ -69,10 +69,10 @@
 <Book Series="Star Wars: Bounty Hunters" Number="40" Volume="2020" Year="2024">
 <Database Name="cv" Series="125679" Issue="1030787" />
 </Book>
-<Book Series="Star Wars: Dark Droids - D-Squad" Number="3" Volume="2024" Year="2024">
+<Book Series="Star Wars: Dark Droids: D-Squad" Number="3" Volume="2023" Year="2024">
 <Database Name="cv" Series="153630" Issue="1030790" />
 </Book>
-<Book Series="Star Wars: Dark Droids - D-Squad" Number="4" Volume="2024" Year="2024">
+<Book Series="Star Wars: Dark Droids: D-Squad" Number="4" Volume="2023" Year="2024">
 <Database Name="cv" Series="153630" Issue="1033211" />
 </Book>
 <Book Series="Star Wars: Dark Droids" Number="5" Volume="2023" Year="2024">

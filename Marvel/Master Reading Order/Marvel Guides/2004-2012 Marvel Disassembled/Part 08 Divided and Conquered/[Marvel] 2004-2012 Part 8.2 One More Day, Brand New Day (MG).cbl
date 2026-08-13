@@ -76,13 +76,13 @@
         <Book Series="The Amazing Spider-Man" Number="545" Volume="1963" Year="2008">
             <Database Name="cv" Series="2127" Issue="120557" />
         </Book>
-        <Book Series="Spider-Man: Swing Shift Director's Cut" Number="1" Volume="2008" Year="2008">
+        <Book Series="Spider-Man: Swing Shift Director&apos;s Cut" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="31249" Issue="194425" />
         </Book>
-        <Book Series="New Avengers" Number="38" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="38" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="122774" />
         </Book>
-        <Book Series="New Avengers" Number="39" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="39" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="125975" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="546" Volume="1963" Year="2008">
@@ -169,7 +169,7 @@
         <Book Series="The Amazing Spider-Man" Number="573" Volume="1963" Year="2008">
             <Database Name="cv" Series="2127" Issue="140465" />
         </Book>
-        <Book Series="The Amazing Spider-Man:  EXTRA!" Number="1" Volume="2008" Year="2008">
+        <Book Series="The Amazing Spider-Man: EXTRA!" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="22405" Issue="134597" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="574" Volume="1963" Year="2008">

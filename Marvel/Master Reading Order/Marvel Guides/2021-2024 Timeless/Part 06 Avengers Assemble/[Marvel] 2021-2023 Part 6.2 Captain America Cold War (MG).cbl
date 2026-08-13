@@ -21,7 +21,7 @@
 <Book Series="Captain America: Sentinel of Liberty" Number="6" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="953982" />
 </Book>
-<Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2022" Year="2023">
+<Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146087" Issue="954939" />
 </Book>
 <Book Series="Captain America: Symbol of Truth" Number="6" Volume="2022" Year="2022">

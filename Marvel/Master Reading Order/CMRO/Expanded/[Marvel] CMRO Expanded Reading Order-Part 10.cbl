@@ -549,7 +549,7 @@
 <Book Series="Master of Kung Fu" Number="122" Volume="1974" Year="1983">
 <Database Name="cv" Series="2697" Issue="22958" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="29" Volume="1977" Year="1984">
+<Book Series="Marvel Super Special" Number="29" Volume="1978" Year="1984">
 <Database Name="cv" Series="2909" Issue="22746" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="81" Volume="1974" Year="1982">
@@ -2622,7 +2622,7 @@
 <Book Series="The Incredible Hulk" Number="301" Volume="1968" Year="1984">
 <Database Name="cv" Series="2406" Issue="24890" />
 </Book>
-<Book Series="The Adventures of Quik bunny" Number="1" Volume="1984" Year="1984">
+<Book Series="The Adventures of Quik Bunny" Number="1" Volume="1984" Year="1984">
 <Database Name="cv" Series="32242" Issue="202289" />
 </Book>
 <Book Series="Kull the Conqueror" Number="6" Volume="1983" Year="1984">
@@ -2661,7 +2661,7 @@
 <Book Series="Marvel Team-Up" Number="144" Volume="1972" Year="1984">
 <Database Name="cv" Series="2576" Issue="24608" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="35" Volume="1977" Year="1984">
+<Book Series="Marvel Super Special" Number="35" Volume="1978" Year="1984">
 <Database Name="cv" Series="2909" Issue="25000" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="110" Volume="1978" Year="1984">
@@ -2910,7 +2910,7 @@
 <Book Series="Conan the King" Number="26" Volume="1984" Year="1985">
 <Database Name="cv" Series="3336" Issue="77767" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="37" Volume="1977" Year="1985">
+<Book Series="Marvel Super Special" Number="37" Volume="1978" Year="1985">
 <Database Name="cv" Series="2909" Issue="25039" />
 </Book>
 <Book Series="The New Mutants Annual" Number="1" Volume="1984" Year="1984">

@@ -510,61 +510,61 @@
 <Book Series="Nova" Number="31" Volume="2013" Year="2015">
 <Database Name="cv" Series="57535" Issue="489909" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="1" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="505511" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="2" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="507173" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="3" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="510932" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="4" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="512415" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="5" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="514428" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="6" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="516944" />
 </Book>
-<Book Series="Nova" Number="1" Volume="2015" Year="2016">
+<Book Series="Nova" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="504947" />
 </Book>
-<Book Series="Nova" Number="2" Volume="2015" Year="2016">
+<Book Series="Nova" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="507184" />
 </Book>
-<Book Series="Nova" Number="3" Volume="2015" Year="2016">
+<Book Series="Nova" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="510103" />
 </Book>
-<Book Series="Nova" Number="4" Volume="2015" Year="2016">
+<Book Series="Nova" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="513652" />
 </Book>
-<Book Series="Nova" Number="5" Volume="2015" Year="2016">
+<Book Series="Nova" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="517833" />
 </Book>
-<Book Series="Nova" Number="6" Volume="2015" Year="2016">
+<Book Series="Nova" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="526063" />
 </Book>
-<Book Series="Nova" Number="7" Volume="2015" Year="2016">
+<Book Series="Nova" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="528514" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="9" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="529647" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="10" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="533024" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="11" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="537928" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="12" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="541193" />
 </Book>
-<Book Series="Nova" Number="10" Volume="2015" Year="2016">
+<Book Series="Nova" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="547288" />
 </Book>
-<Book Series="Nova" Number="11" Volume="2015" Year="2016">
+<Book Series="Nova" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="551313" />
 </Book>
 <Book Series="Champions" Number="1" Volume="2016" Year="2016">
@@ -582,25 +582,25 @@
 <Book Series="Champions" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
-<Book Series="Nova" Number="1" Volume="2016" Year="2017">
+<Book Series="Nova" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="563723" />
 </Book>
-<Book Series="Nova" Number="2" Volume="2016" Year="2017">
+<Book Series="Nova" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="574872" />
 </Book>
-<Book Series="Nova" Number="3" Volume="2016" Year="2017">
+<Book Series="Nova" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="579320" />
 </Book>
-<Book Series="Nova" Number="4" Volume="2016" Year="2017">
+<Book Series="Nova" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="585088" />
 </Book>
-<Book Series="Nova" Number="5" Volume="2016" Year="2017">
+<Book Series="Nova" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="590801" />
 </Book>
-<Book Series="Nova" Number="6" Volume="2016" Year="2017">
+<Book Series="Nova" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="594119" />
 </Book>
-<Book Series="Nova" Number="7" Volume="2016" Year="2017">
+<Book Series="Nova" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="599870" />
 </Book>
 <Book Series="Champions" Number="6" Volume="2016" Year="2017">
@@ -624,37 +624,37 @@
 <Book Series="Champions" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="619618" />
 </Book>
-<Book Series="Avengers" Number="672" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="672" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="626276" />
 </Book>
 <Book Series="Champions" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="630518" />
 </Book>
-<Book Series="Avengers" Number="673" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="673" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="634525" />
 </Book>
 <Book Series="Champions" Number="14" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="638591" />
 </Book>
-<Book Series="Avengers" Number="674" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="674" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="644497" />
 </Book>
 <Book Series="Champions" Number="15" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="647936" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="146" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="146" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="634534" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="147" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="147" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="638596" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="148" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="148" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="644506" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="149" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="149" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="647942" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="150" Volume="2017" Year="2018">
+<Book Series="Guardians of the Galaxy" Number="150" Volume="2018" Year="2018">
 <Database Name="cv" Series="105759" Issue="650916" />
 </Book>
 <Book Series="Champions" Number="16" Volume="2016" Year="2018">
@@ -693,7 +693,7 @@
 <Book Series="Champions" Number="27" Volume="2016" Year="2019">
 <Database Name="cv" Series="94612" Issue="694908" />
 </Book>
-<Book Series="Champions Annual" Number="1" Volume="2018" Year="2019">
+<Book Series="Champions Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116065" Issue="695627" />
 </Book>
 <Book Series="Champions" Number="1" Volume="2019" Year="2019">
@@ -747,13 +747,13 @@
 <Book Series="Champions" Number="10" Volume="2019" Year="2019">
 <Database Name="cv" Series="116243" Issue="721147" />
 </Book>
-<Book Series="Annihilation - Scourge Alpha" Number="1" Volume="2019" Year="2020">
+<Book Series="Annihilation - Scourge Alpha" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122986" Issue="728414" />
 </Book>
-<Book Series="Annihilation - Scourge: Nova" Number="1" Volume="2019" Year="2020">
+<Book Series="Annihilation - Scourge: Nova" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123264" Issue="729674" />
 </Book>
-<Book Series="Annihilation - Scourge Omega" Number="1" Volume="2019" Year="2020">
+<Book Series="Annihilation - Scourge Omega" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123709" Issue="731504" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="1" Volume="2020" Year="2020">
@@ -843,13 +843,13 @@
 <Book Series="Champions" Number="10" Volume="2020" Year="2021">
 <Database Name="cv" Series="130979" Issue="888645" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="4" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="906630" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="5" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="910627" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="6" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="914649" />
 </Book>
 <Book Series="X-Men: Red" Number="4" Volume="2022" Year="2022">

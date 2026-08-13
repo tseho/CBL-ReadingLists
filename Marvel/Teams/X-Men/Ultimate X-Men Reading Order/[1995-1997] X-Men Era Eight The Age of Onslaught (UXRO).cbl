@@ -9,7 +9,7 @@
 <Book Series="Cable" Number="22" Volume="1993" Year="1995">
 <Database Name="cv" Series="4993" Issue="41282" />
 </Book>
-<Book Series="Wolverine '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Wolverine &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="27130" Issue="164831" />
 </Book>
 <Book Series="X-Force" Number="45" Volume="1991" Year="1995">
@@ -45,7 +45,7 @@
 <Book Series="X-Man" Number="7" Volume="1995" Year="1995">
 <Database Name="cv" Series="5567" Issue="41390" />
 </Book>
-<Book Series="X-Men '95" Number="1" Volume="1995" Year="1995">
+<Book Series="X-Men &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="60462" Issue="178116" />
 </Book>
 <Book Series="Wolverine" Number="93" Volume="1988" Year="1995">
@@ -135,10 +135,10 @@
 <Book Series="X-Men: ClanDestine" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="5797" Issue="42995" />
 </Book>
-<Book Series="Uncanny X-Men '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Uncanny X-Men &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="60468" Issue="136045" />
 </Book>
-<Book Series="Generation X '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Generation X &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18594" Issue="109694" />
 </Book>
 <Book Series="Generation X" Number="10" Volume="1994" Year="1995">
@@ -156,7 +156,7 @@
 <Book Series="X-Force" Number="50" Volume="1991" Year="1996">
 <Database Name="cv" Series="4604" Issue="64524" />
 </Book>
-<Book Series="X-Force / Cable '95" Number="1" Volume="1995" Year="1995">
+<Book Series="X-Force / Cable &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="20136" Issue="120182" />
 </Book>
 <Book Series="X-Men" Number="46" Volume="1991" Year="1995">
@@ -276,7 +276,7 @@
 <Book Series="Generation X" Number="17" Volume="1994" Year="1996">
 <Database Name="cv" Series="5300" Issue="42602" />
 </Book>
-<Book Series="Uncanny X-Men '96" Number="1" Volume="1996" Year="1996">
+<Book Series="Uncanny X-Men &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="60469" Issue="136046" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="333" Volume="1981" Year="1996">

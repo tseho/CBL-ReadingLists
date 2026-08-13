@@ -123,7 +123,7 @@
 <Book Series="The Amazing Spider-Man" Number="583" Volume="1963" Year="2009">
 <Database Name="cv" Series="2127" Issue="149908" />
 </Book>
-<Book Series="New Avengers" Number="38" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="38" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="122774" />
 </Book>
 </Books>

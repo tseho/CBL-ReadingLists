@@ -3,10 +3,10 @@
 <Name>[DC Comics] Zero Hour (WEB-CBRO)</Name>
 <NumIssues>51</NumIssues>
 <Books>
-<Book Series="Showcase '94" Number="8" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="8" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134773" />
 </Book>
-<Book Series="Showcase '94" Number="9" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="9" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134774" />
 </Book>
 <Book Series="Outsiders" Number="10" Volume="1993" Year="1994">
@@ -132,7 +132,7 @@
 <Book Series="Catwoman" Number="14" Volume="1993" Year="1994">
 <Database Name="cv" Series="4955" Issue="39692" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
 </Book>
 <Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">

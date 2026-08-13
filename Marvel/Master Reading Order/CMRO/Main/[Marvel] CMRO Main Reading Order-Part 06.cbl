@@ -2088,7 +2088,7 @@
 <Book Series="Captain America" Number="320" Volume="1968" Year="1986">
 <Database Name="cv" Series="2400" Issue="27078" />
 </Book>
-<Book Series="Howard the Duck" Number="32" Volume="1975" Year="1986">
+<Book Series="Howard the Duck" Number="32" Volume="1976" Year="1986">
 <Database Name="cv" Series="2859" Issue="265972" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="124" Volume="1978" Year="1986">
@@ -2235,7 +2235,7 @@
 <Book Series="Iron Man" Number="209" Volume="1968" Year="1986">
 <Database Name="cv" Series="2407" Issue="27085" />
 </Book>
-<Book Series="Howard the Duck" Number="33" Volume="1975" Year="1986">
+<Book Series="Howard the Duck" Number="33" Volume="1976" Year="1986">
 <Database Name="cv" Series="2859" Issue="265973" />
 </Book>
 <Book Series="Daredevil" Number="235" Volume="1964" Year="1986">

@@ -324,7 +324,7 @@
 <Book Series="X-23" Number="16" Volume="2010" Year="2012">
 <Database Name="cv" Series="35496" Issue="301079" />
 </Book>
-<Book Series="The Iron Age: Alpha" Number="1" Volume="2011" Year="2011">
+<Book Series="Iron Age: Alpha" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="40537" Issue="273141" />
 </Book>
 <Book Series="Iron Age" Number="1" Volume="2011" Year="2011">
@@ -336,7 +336,7 @@
 <Book Series="Iron Age" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41042" Issue="285554" />
 </Book>
-<Book Series="The Iron Age: Omega" Number="1" Volume="2011" Year="2011">
+<Book Series="Iron Age: Omega" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42369" Issue="289466" />
 </Book>
 <Book Series="Herc" Number="1" Volume="2011" Year="2011">
@@ -360,34 +360,34 @@
 <Book Series="Captain America Corps" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="40712" Issue="297691" />
 </Book>
-<Book Series="Captain America" Number="611" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="611" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="238923" />
 </Book>
-<Book Series="Captain America" Number="612" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="612" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="246465" />
 </Book>
-<Book Series="Captain America" Number="613" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="613" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="253003" />
 </Book>
-<Book Series="Captain America" Number="614" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="614" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="259190" />
 </Book>
-<Book Series="Captain America" Number="615" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="615" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="263731" />
 </Book>
-<Book Series="Captain America" Number="615.1" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="615.1" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="266624" />
 </Book>
-<Book Series="Captain America" Number="616" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="616" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="267208" />
 </Book>
-<Book Series="Captain America" Number="617" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="617" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="269012" />
 </Book>
-<Book Series="Captain America" Number="618" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="618" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="271548" />
 </Book>
-<Book Series="Captain America" Number="619" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="619" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="275794" />
 </Book>
 <Book Series="Silver Surfer" Number="1" Volume="2011" Year="2011">

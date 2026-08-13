@@ -30,7 +30,7 @@
 <Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
 <Database Name="cv" Series="125121" Issue="863865" />
 </Book>
-<Book Series="S.W.O.R.D." Number="6" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="863852" />
 </Book>
 <Book Series="Way of X" Number="3" Volume="2021" Year="2021">

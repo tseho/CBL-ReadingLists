@@ -7,7 +7,7 @@
         <Book Series="New Avengers" Number="10" Volume="2013" Year="2013">
             <Database Name="cv" Series="55330" Issue="425935" />
         </Book>
-        <Book Series="Avengers" Number="19" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="19" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="425022" />
         </Book>
         <Book Series="Thunderbolts" Number="16" Volume="2013" Year="2013">
@@ -22,7 +22,7 @@
         <Book Series="Avengers Assemble" Number="19" Volume="2012" Year="2013">
             <Database Name="cv" Series="46569" Issue="426872" />
         </Book>
-        <Book Series="Avengers" Number="20" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="20" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="426871" />
         </Book>
         <Book Series="New Avengers" Number="11" Volume="2013" Year="2013">

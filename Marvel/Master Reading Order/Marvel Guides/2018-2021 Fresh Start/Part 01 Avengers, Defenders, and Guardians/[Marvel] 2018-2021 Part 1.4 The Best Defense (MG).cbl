@@ -70,19 +70,19 @@
         <Book Series="Silver Surfer Annual" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="113258" Issue="683834" />
         </Book>
-        <Book Series="Immortal Hulk: The Best Defense" Number="1" Volume="2018" Year="2019">
+        <Book Series="Immortal Hulk: The Best Defense" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115743" Issue="694131" />
         </Book>
-        <Book Series="Doctor Strange: The Best Defense" Number="1" Volume="2018" Year="2019">
+        <Book Series="Doctor Strange: The Best Defense" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115877" Issue="694911" />
         </Book>
-        <Book Series="Silver Surfer: The Best Defense" Number="1" Volume="2018" Year="2019">
+        <Book Series="Silver Surfer: The Best Defense" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115905" Issue="694921" />
         </Book>
-        <Book Series="Namor: The Best Defense" Number="1" Volume="2018" Year="2019">
+        <Book Series="Namor: The Best Defense" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115754" Issue="694141" />
         </Book>
-        <Book Series="Defenders: The Best Defense" Number="1" Volume="2018" Year="2019">
+        <Book Series="Defenders: The Best Defense" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="116067" Issue="695631" />
         </Book>
         <Book Series="The Immortal Hulk" Number="9" Volume="2018" Year="2019">

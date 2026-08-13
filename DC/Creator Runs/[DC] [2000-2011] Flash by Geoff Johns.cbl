@@ -204,13 +204,13 @@
 <Book Series="The Flash" Number="225" Volume="1987" Year="2005">
 <Database Name="cv" Series="3790" Issue="131560" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="133674" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="2" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="136522" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="3" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="140443" />
 </Book>
 <Book Series="The Flash: Rebirth" Number="1" Volume="2009" Year="2009">

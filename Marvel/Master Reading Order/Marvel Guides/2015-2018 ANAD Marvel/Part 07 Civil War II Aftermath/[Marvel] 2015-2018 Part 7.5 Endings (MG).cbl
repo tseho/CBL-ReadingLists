@@ -4,22 +4,22 @@
     <Name>[Marvel] 2015-2018 Part 7.5 Endings (MG)</Name>
     <NumIssues>36</NumIssues>
     <Books>
-        <Book Series="Spider-Woman" Number="12" Volume="2015" Year="2016">
+        <Book Series="Spider-Woman" Number="12" Volume="2016" Year="2016">
             <Database Name="cv" Series="86127" Issue="553970" />
         </Book>
-        <Book Series="Spider-Woman" Number="13" Volume="2015" Year="2017">
+        <Book Series="Spider-Woman" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="86127" Issue="556479" />
         </Book>
-        <Book Series="Spider-Woman" Number="14" Volume="2015" Year="2017">
+        <Book Series="Spider-Woman" Number="14" Volume="2016" Year="2017">
             <Database Name="cv" Series="86127" Issue="571684" />
         </Book>
-        <Book Series="Spider-Woman" Number="15" Volume="2015" Year="2017">
+        <Book Series="Spider-Woman" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="86127" Issue="578474" />
         </Book>
-        <Book Series="Spider-Woman" Number="16" Volume="2015" Year="2017">
+        <Book Series="Spider-Woman" Number="16" Volume="2016" Year="2017">
             <Database Name="cv" Series="86127" Issue="582546" />
         </Book>
-        <Book Series="Spider-Woman" Number="17" Volume="2015" Year="2017">
+        <Book Series="Spider-Woman" Number="17" Volume="2016" Year="2017">
             <Database Name="cv" Series="86127" Issue="589837" />
         </Book>
         <Book Series="Spider-Man 2099" Number="17" Volume="2015" Year="2017">
@@ -49,49 +49,49 @@
         <Book Series="Spider-Man 2099" Number="25" Volume="2015" Year="2017">
             <Database Name="cv" Series="85312" Issue="609361" />
         </Book>
-        <Book Series="Scarlet Witch" Number="10" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="549523" />
         </Book>
-        <Book Series="Scarlet Witch" Number="11" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="11" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="552168" />
         </Book>
-        <Book Series="Scarlet Witch" Number="12" Volume="2015" Year="2017">
+        <Book Series="Scarlet Witch" Number="12" Volume="2016" Year="2017">
             <Database Name="cv" Series="86552" Issue="556477" />
         </Book>
-        <Book Series="Scarlet Witch" Number="13" Volume="2015" Year="2017">
+        <Book Series="Scarlet Witch" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="86552" Issue="563724" />
         </Book>
-        <Book Series="Scarlet Witch" Number="14" Volume="2015" Year="2017">
+        <Book Series="Scarlet Witch" Number="14" Volume="2016" Year="2017">
             <Database Name="cv" Series="86552" Issue="574874" />
         </Book>
-        <Book Series="Scarlet Witch" Number="15" Volume="2015" Year="2017">
+        <Book Series="Scarlet Witch" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="86552" Issue="582542" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="9" Volume="2015" Year="2016">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="9" Volume="2016" Year="2016">
             <Database Name="cv" Series="86780" Issue="546064" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="10" Volume="2015" Year="2016">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="86780" Issue="550366" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="11" Volume="2015" Year="2016">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="11" Volume="2016" Year="2016">
             <Database Name="cv" Series="86780" Issue="553964" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="12" Volume="2015" Year="2017">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="12" Volume="2016" Year="2017">
             <Database Name="cv" Series="86780" Issue="558420" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="13" Volume="2015" Year="2017">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="86780" Issue="569338" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="14" Volume="2015" Year="2017">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="14" Volume="2016" Year="2017">
             <Database Name="cv" Series="86780" Issue="576631" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="15" Volume="2015" Year="2017">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="86780" Issue="581564" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="16" Volume="2015" Year="2017">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="16" Volume="2016" Year="2017">
             <Database Name="cv" Series="86780" Issue="587414" />
         </Book>
-        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="17" Volume="2015" Year="2017">
+        <Book Series="Patsy Walker, A.K.A. Hellcat!" Number="17" Volume="2016" Year="2017">
             <Database Name="cv" Series="86780" Issue="593270" />
         </Book>
         <Book Series="Power Man and Iron Fist" Number="10" Volume="2016" Year="2017">

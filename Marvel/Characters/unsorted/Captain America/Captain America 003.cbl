@@ -555,7 +555,7 @@
     <Book Series="Captain America" Number="12" Volume="1998" Year="1998">
       <Database Name="cv" Series="6206" Issue="66217" />
     </Book>
-    <Book Series="Captain America / Citizen V '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Captain America / Citizen V &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="60452" Issue="142566" />
     </Book>
     <Book Series="Captain America" Number="13" Volume="1998" Year="1999">

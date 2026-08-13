@@ -285,7 +285,7 @@
 <Book Series="Marvel Holiday Special" Number="1993" Volume="1991" Year="1994">
 <Database Name="cv" Series="18442" Issue="119962" />
 </Book>
-<Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1993" Year="1994">
+<Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="18771" Issue="110894" />
 </Book>
 <Book Series="The Incredible Hulk" Number="413" Volume="1968" Year="1994">
@@ -429,7 +429,7 @@
 <Book Series="The Incredible Hulk" Number="450" Volume="1968" Year="1997">
 <Database Name="cv" Series="2406" Issue="43384" />
 </Book>
-<Book Series="The Incredible Hulk '97" Number="1" Volume="1997" Year="1997">
+<Book Series="The Incredible Hulk &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60432" Issue="138335" />
 </Book>
 <Book Series="The Incredible Hulk" Number="451" Volume="1968" Year="1997">
@@ -594,19 +594,19 @@
 <Book Series="Maestro" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="129650" Issue="822350" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="1" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="825508" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="2" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="830028" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="3" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="839796" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="4" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="842965" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="5" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="855624" />
 </Book>
 </Books>

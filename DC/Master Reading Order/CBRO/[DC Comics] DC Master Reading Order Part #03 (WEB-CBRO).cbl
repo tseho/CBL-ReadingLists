@@ -201,16 +201,16 @@
 <Book Series="Mister Miracle" Number="28" Volume="1989" Year="1991">
 <Database Name="cv" Series="4203" Issue="156420" />
 </Book>
-<Book Series="Lobo's Back" Number="1" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107638" />
 </Book>
-<Book Series="Lobo's Back" Number="2" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107704" />
 </Book>
-<Book Series="Lobo's Back" Number="3" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107705" />
 </Book>
-<Book Series="Lobo's Back" Number="4" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107706" />
 </Book>
 <Book Series="Hawkworld" Number="17" Volume="1990" Year="1991">
@@ -1821,7 +1821,7 @@
 <Book Series="Thrillkiller" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="5987" Issue="43469" />
 </Book>
-<Book Series="Thrillkiller '62" Number="1" Volume="1998" Year="1998">
+<Book Series="Thrillkiller &apos;62" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="39769" Issue="268385" />
 </Book>
 <Book Series="Birds of Prey: Manhunt" Number="1" Volume="1996" Year="1996">
@@ -1839,13 +1839,13 @@
 <Book Series="Martian Manhunter Special" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="33010" Issue="212619" />
 </Book>
-<Book Series="Justice League: A Midsummer's Nightmare" Number="1" Volume="1996" Year="1996">
+<Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18945" Issue="112156" />
 </Book>
-<Book Series="Justice League: A Midsummer's Nightmare" Number="2" Volume="1996" Year="1996">
+<Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="18945" Issue="112202" />
 </Book>
-<Book Series="Justice League: A Midsummer's Nightmare" Number="3" Volume="1996" Year="1996">
+<Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="18945" Issue="112203" />
 </Book>
 <Book Series="Nightwing" Number="7" Volume="1996" Year="1997">

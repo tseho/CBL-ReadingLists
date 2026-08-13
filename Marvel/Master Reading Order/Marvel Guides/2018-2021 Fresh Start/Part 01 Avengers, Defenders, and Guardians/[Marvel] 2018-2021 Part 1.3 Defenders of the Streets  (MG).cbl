@@ -85,19 +85,19 @@
         <Book Series="Cloak and Dagger: Negative Exposure" Number="3" Volume="2018" Year="2019">
             <Database Name="cv" Series="116202" Issue="701933" />
         </Book>
-        <Book Series="Winter Soldier" Number="1" Volume="2018" Year="2019">
+        <Book Series="Winter Soldier" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115772" Issue="694154" />
         </Book>
-        <Book Series="Winter Soldier" Number="2" Volume="2018" Year="2019">
+        <Book Series="Winter Soldier" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115772" Issue="696372" />
         </Book>
-        <Book Series="Winter Soldier" Number="3" Volume="2018" Year="2019">
+        <Book Series="Winter Soldier" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="115772" Issue="700692" />
         </Book>
-        <Book Series="Winter Soldier" Number="4" Volume="2018" Year="2019">
+        <Book Series="Winter Soldier" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="115772" Issue="703071" />
         </Book>
-        <Book Series="Winter Soldier" Number="5" Volume="2018" Year="2019">
+        <Book Series="Winter Soldier" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="115772" Issue="705940" />
         </Book>
         <Book Series="The Punisher" Number="1" Volume="2018" Year="2018">

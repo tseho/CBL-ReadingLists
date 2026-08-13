@@ -65,10 +65,10 @@
         <Book Series="Spine-Tingling Spider-Man" Number="4" Volume="2023" Year="2024">
             <Database Name="cv" Series="153485" Issue="1042835" />
         </Book>
-        <Book Series="Fantastic Four" Number="14" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="14" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1033203" />
         </Book>
-        <Book Series="Fantastic Four" Number="15" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="15" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1038986" />
         </Book>
         <Book Series="Sensational She-Hulk" Number="1" Volume="2023" Year="2023">
@@ -110,19 +110,19 @@
         <Book Series="Spider-Boy" Number="3" Volume="2024" Year="2024">
             <Database Name="cv" Series="154415" Issue="1042834" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="8" Volume="2022" Year="2023">
+        <Book Series="Miles Morales: Spider-Man" Number="8" Volume="2023" Year="2023">
             <Database Name="cv" Series="146734" Issue="1000233" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="9" Volume="2022" Year="2023">
+        <Book Series="Miles Morales: Spider-Man" Number="9" Volume="2023" Year="2023">
             <Database Name="cv" Series="146734" Issue="1006437" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="10" Volume="2022" Year="2023">
+        <Book Series="Miles Morales: Spider-Man" Number="10" Volume="2023" Year="2023">
             <Database Name="cv" Series="146734" Issue="1013496" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="11" Volume="2022" Year="2023">
+        <Book Series="Miles Morales: Spider-Man" Number="11" Volume="2023" Year="2023">
             <Database Name="cv" Series="146734" Issue="1025159" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="12" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="12" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1031694" />
         </Book>
         <Book Series="Giant-Size Spider-Man" Number="1" Volume="2024" Year="2024">

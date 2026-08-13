@@ -142,40 +142,40 @@
         <Book Series="Alpha Flight" Number="12" Volume="2004" Year="2005">
             <Database Name="cv" Series="10818" Issue="113396" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="1" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="1" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105801" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="2" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="2" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105828" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="3" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="3" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105829" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="4" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="4" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105831" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="5" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="5" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105830" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="6" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="6" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105832" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="7" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="7" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105842" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="8" Volume="2004" Year="2004">
+        <Book Series="Cable &amp; Deadpool" Number="8" Volume="2004" Year="2004">
             <Database Name="cv" Series="18070" Issue="105843" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="9" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="9" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="105851" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="10" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="10" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="105863" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="11" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="11" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="105862" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="12" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="12" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="105864" />
         </Book>
         <Book Series="X-Men" Number="161" Volume="2004" Year="2004">
@@ -370,19 +370,19 @@
         <Book Series="Captain Universe / Silver Surfer" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="18638" Issue="109938" />
         </Book>
-        <Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="1" Volume="2005" Year="2005">
+        <Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="1" Volume="2005" Year="2005">
             <Database Name="cv" Series="20131" Issue="120170" />
         </Book>
-        <Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="2" Volume="2005" Year="2005">
+        <Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="2" Volume="2005" Year="2005">
             <Database Name="cv" Series="20131" Issue="120189" />
         </Book>
-        <Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="3" Volume="2005" Year="2005">
+        <Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="3" Volume="2005" Year="2005">
             <Database Name="cv" Series="20131" Issue="120192" />
         </Book>
-        <Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="4" Volume="2005" Year="2005">
+        <Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="4" Volume="2005" Year="2005">
             <Database Name="cv" Series="20131" Issue="120190" />
         </Book>
-        <Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="5" Volume="2005" Year="2005">
+        <Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="5" Volume="2005" Year="2005">
             <Database Name="cv" Series="20131" Issue="120193" />
         </Book>
         <Book Series="X-Men/Fantastic Four" Number="1" Volume="2005" Year="2005">

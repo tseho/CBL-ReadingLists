@@ -546,7 +546,7 @@
 <Book Series="Amazing Fantasy" Number="19" Volume="2004" Year="2006">
 <Database Name="cv" Series="18663" Issue="117223" />
 </Book>
-<Book Series="New Avengers" Number="16" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105969" />
 </Book>
 </Books>

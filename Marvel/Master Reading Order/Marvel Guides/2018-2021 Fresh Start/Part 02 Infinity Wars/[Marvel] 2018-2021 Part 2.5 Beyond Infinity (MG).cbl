@@ -4,19 +4,19 @@
     <Name>[Marvel] 2018-2021 Part 2.5 Beyond Infinity (MG)</Name>
     <NumIssues>37</NumIssues>
     <Books>
-        <Book Series="Black Order" Number="1" Volume="2018" Year="2019">
+        <Book Series="Black Order" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115237" Issue="692058" />
         </Book>
-        <Book Series="Black Order" Number="2" Volume="2018" Year="2019">
+        <Book Series="Black Order" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115237" Issue="694905" />
         </Book>
-        <Book Series="Black Order" Number="3" Volume="2018" Year="2019">
+        <Book Series="Black Order" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="115237" Issue="696940" />
         </Book>
-        <Book Series="Black Order" Number="4" Volume="2018" Year="2019">
+        <Book Series="Black Order" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="115237" Issue="701302" />
         </Book>
-        <Book Series="Black Order" Number="5" Volume="2018" Year="2019">
+        <Book Series="Black Order" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="115237" Issue="702457" />
         </Book>
         <Book Series="Cosmic Ghost Rider" Number="1" Volume="2018" Year="2018">
@@ -76,19 +76,19 @@
         <Book Series="Champions" Number="27" Volume="2016" Year="2019">
             <Database Name="cv" Series="94612" Issue="694908" />
         </Book>
-        <Book Series="Killmonger" Number="1" Volume="2018" Year="2019">
+        <Book Series="Killmonger" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115745" Issue="694135" />
         </Book>
-        <Book Series="Killmonger" Number="2" Volume="2018" Year="2019">
+        <Book Series="Killmonger" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115745" Issue="695638" />
         </Book>
-        <Book Series="Killmonger" Number="3" Volume="2018" Year="2019">
+        <Book Series="Killmonger" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="115745" Issue="696357" />
         </Book>
-        <Book Series="Killmonger" Number="4" Volume="2018" Year="2019">
+        <Book Series="Killmonger" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="115745" Issue="700141" />
         </Book>
-        <Book Series="Killmonger" Number="5" Volume="2018" Year="2019">
+        <Book Series="Killmonger" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="115745" Issue="702467" />
         </Book>
         <Book Series="Black Panther" Number="16" Volume="2018" Year="2019">

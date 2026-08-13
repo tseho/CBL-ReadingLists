@@ -12,13 +12,13 @@
 <Book Series="X-Men" Number="7" Volume="2021" Year="2022">
 <Database Name="cv" Series="137402" Issue="904779" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="1" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="903910" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="2" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="909677" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="3" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="912248" />
 </Book>
 <Book Series="Marauders Annual" Number="1" Volume="2022" Year="2022">

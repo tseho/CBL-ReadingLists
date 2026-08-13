@@ -849,13 +849,13 @@
     <Book Series="Alpha Flight" Number="100" Volume="1983" Year="1991">
       <Database Name="cv" Series="3217" Issue="34636" />
     </Book>
-    <Book Series="Punisher/Captain America: Blood &#38; Glory" Number="1" Volume="1992" Year="1992">
+    <Book Series="Punisher/Captain America: Blood &amp; Glory" Number="1" Volume="1992" Year="1992">
       <Database Name="cv" Series="25894" Issue="201359" />
     </Book>
-    <Book Series="Punisher/Captain America: Blood &#38; Glory" Number="2" Volume="1992" Year="1992">
+    <Book Series="Punisher/Captain America: Blood &amp; Glory" Number="2" Volume="1992" Year="1992">
       <Database Name="cv" Series="25894" Issue="201360" />
     </Book>
-    <Book Series="Punisher/Captain America: Blood &#38; Glory" Number="3" Volume="1992" Year="1992">
+    <Book Series="Punisher/Captain America: Blood &amp; Glory" Number="3" Volume="1992" Year="1992">
       <Database Name="cv" Series="25894" Issue="153042" />
     </Book>
     <Book Series="Namor, the Sub-Mariner" Number="13" Volume="1990" Year="1991">

@@ -429,7 +429,7 @@
 <Book Series="The Sensational She-Hulk" Number="12" Volume="1989" Year="1990">
 <Database Name="cv" Series="4243" Issue="32431" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="1" Volume="1990" Year="1989">
+<Book Series="Marvel Year-In-Review" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="21201" Issue="150225" />
 </Book>
 <Book Series="Iron Man" Number="253" Volume="1968" Year="1990">
@@ -1398,16 +1398,16 @@
 <Book Series="Web of Spider-Man" Number="70" Volume="1985" Year="1990">
 <Database Name="cv" Series="3519" Issue="33444" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="1" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175086" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="2" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="2" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175089" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="3" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="3" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175090" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="4" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="4" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175093" />
 </Book>
 <Book Series="Excalibur" Number="30" Volume="1988" Year="1990">
@@ -2199,7 +2199,7 @@
 <Book Series="Alpha Flight" Number="96" Volume="1983" Year="1991">
 <Database Name="cv" Series="3217" Issue="34191" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="2" Volume="1990" Year="1991">
+<Book Series="Marvel Year-In-Review" Number="2" Volume="1989" Year="1991">
 <Database Name="cv" Series="21201" Issue="150226" />
 </Book>
 <Book Series="Nick Fury, Agent of SHIELD" Number="24" Volume="1989" Year="1991">
@@ -2826,7 +2826,7 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="36" Volume="1988" Year="1991">
 <Database Name="cv" Series="4049" Issue="35026" />
 </Book>
-<Book Series="Night Raven: House of Cards" Number="1" Volume="1992" Year="1991">
+<Book Series="Night Raven House of Cards" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="20982" Issue="125621" />
 </Book>
 <Book Series="The Punisher" Number="50" Volume="1987" Year="1991">

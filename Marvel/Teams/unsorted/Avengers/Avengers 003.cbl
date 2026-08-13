@@ -759,7 +759,7 @@
     <Book Series="Marvel Two-in-One" Number="39" Volume="1974" Year="1978">
       <Database Name="cv" Series="2696" Issue="18504" />
     </Book>
-    <Book Series="Daredevil &#38; Captain America: Dead On Arrival" Number="1" Volume="2009" Year="2009">
+    <Book Series="Daredevil &amp; Captain America: Dead On Arrival" Number="1" Volume="2009" Year="2009">
       <Database Name="cv" Series="23671" Issue="141799" />
     </Book>
     <Book Series="The Avengers" Number="170" Volume="1963" Year="1978">

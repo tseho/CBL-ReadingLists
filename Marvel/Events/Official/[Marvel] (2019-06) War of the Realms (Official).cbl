@@ -70,13 +70,13 @@
         <Book Series="Giant-Man" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="119141" Issue="710105" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="709720" />
         </Book>
-        <Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+        <Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="119169" Issue="709219" />
         </Book>
-        <Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+        <Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="119169" Issue="710123" />
         </Book>
         <Book Series="Thor" Number="13" Volume="2018" Year="2019">
@@ -151,13 +151,13 @@
         <Book Series="Giant-Man" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="119141" Issue="711317" />
         </Book>
-        <Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+        <Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="119169" Issue="711967" />
         </Book>
-        <Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+        <Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
             <Database Name="cv" Series="116160" Issue="711332" />
         </Book>
-        <Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+        <Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
             <Database Name="cv" Series="116160" Issue="712551" />
         </Book>
         <Book Series="Thor" Number="14" Volume="2018" Year="2019">

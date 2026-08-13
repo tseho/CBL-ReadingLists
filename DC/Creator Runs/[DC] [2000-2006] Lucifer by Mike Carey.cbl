@@ -3,13 +3,13 @@
 <Name>[DC] [2000-2006] Lucifer by Mike Carey</Name>
 <NumIssues>79</NumIssues>
 <Books>
-<Book Series="The Sandman Presents: Lucifer" Number="1" Volume="1999" Year="1999">
+<Book Series="Sandman Presents: Lucifer" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="6341" Issue="45750" />
 </Book>
-<Book Series="The Sandman Presents: Lucifer" Number="2" Volume="1999" Year="1999">
+<Book Series="Sandman Presents: Lucifer" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="6341" Issue="45800" />
 </Book>
-<Book Series="The Sandman Presents: Lucifer" Number="3" Volume="1999" Year="1999">
+<Book Series="Sandman Presents: Lucifer" Number="3" Volume="1999" Year="1999">
 <Database Name="cv" Series="6341" Issue="45848" />
 </Book>
 <Book Series="Lucifer" Number="1" Volume="2000" Year="2000">

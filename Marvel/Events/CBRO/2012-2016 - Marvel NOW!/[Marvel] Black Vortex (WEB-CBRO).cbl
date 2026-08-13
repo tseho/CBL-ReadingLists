@@ -3,7 +3,7 @@
 <Name>[Marvel] Black Vortex (WEB-CBRO)</Name>
 <NumIssues>13</NumIssues>
 <Books>
-<Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
+<Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79860" Issue="478607" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="24" Volume="2013" Year="2015">
@@ -12,10 +12,10 @@
 <Book Series="Legendary Star-Lord" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="479972" />
 </Book>
-<Book Series="All-New X-Men" Number="38" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="480667" />
 </Book>
-<Book Series="All-New X-Men" Number="39" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="482678" />
 </Book>
 <Book Series="Guardians Team-Up" Number="3" Volume="2015" Year="2015">
@@ -39,7 +39,7 @@
 <Book Series="Legendary Star-Lord" Number="11" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="486148" />
 </Book>
-<Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
+<Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81482" Issue="486723" />
 </Book>
 </Books>

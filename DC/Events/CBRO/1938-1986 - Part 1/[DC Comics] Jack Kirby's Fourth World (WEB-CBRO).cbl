@@ -3,49 +3,49 @@
 <Name>[DC Comics] Jack Kirby's Fourth World (WEB-CBRO)</Name>
 <NumIssues>56</NumIssues>
 <Books>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">
 <Database Name="cv" Series="19172" Issue="131243" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="134" Volume="1954" Year="1970">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="134" Volume="1954" Year="1970">
 <Database Name="cv" Series="19172" Issue="115210" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="135" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="135" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131289" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="136" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="136" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131333" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="137" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="137" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131416" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="138" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="138" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131449" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="139" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="139" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131500" />
 </Book>
 <Book Series="The Forever People" Number="1" Volume="1971" Year="1971">
 <Database Name="cv" Series="2501" Issue="11255" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="141" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="141" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131616" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="142" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="142" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131679" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="144" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="144" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131744" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="145" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="145" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131775" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="146" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="146" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131823" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="147" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="147" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131913" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="148" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="148" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131941" />
 </Book>
 <Book Series="The Forever People" Number="2" Volume="1971" Year="1971">

@@ -522,55 +522,55 @@
 <Book Series="Avengers Arena" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="54622" Issue="435048" />
 </Book>
-<Book Series="All-New X-Men" Number="20" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="437482" />
 </Book>
-<Book Series="All-New X-Men" Number="21" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="442161" />
 </Book>
-<Book Series="All-New X-Men" Number="22" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="22" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="442912" />
 </Book>
-<Book Series="All-New X-Men" Number="23" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="445174" />
 </Book>
-<Book Series="All-New X-Men" Number="24" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="447504" />
 </Book>
-<Book Series="All-New X-Men" Number="25" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="450068" />
 </Book>
-<Book Series="All-New X-Men" Number="26" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="451763" />
 </Book>
-<Book Series="All-New X-Men" Number="27" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="452845" />
 </Book>
-<Book Series="All-New X-Men" Number="28" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="456017" />
 </Book>
-<Book Series="All-New X-Men" Number="29" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="459161" />
 </Book>
-<Book Series="All-New X-Men" Number="30" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="462241" />
 </Book>
-<Book Series="All-New X-Men" Number="31" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="463476" />
 </Book>
-<Book Series="All-New X-Men" Number="32" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="465836" />
 </Book>
-<Book Series="All-New X-Men" Number="33" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="468900" />
 </Book>
-<Book Series="All-New X-Men" Number="34" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="34" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="473638" />
 </Book>
-<Book Series="All-New X-Men" Number="35" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="35" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="476778" />
 </Book>
-<Book Series="All-New X-Men" Number="36" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="36" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="479253" />
 </Book>
 <Book Series="Wolverines" Number="1" Volume="2015" Year="2015">
@@ -612,19 +612,19 @@
 <Book Series="Wolverines" Number="13" Volume="2015" Year="2015">
 <Database Name="cv" Series="79270" Issue="484910" />
 </Book>
-<Book Series="All-New X-Men" Number="37" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="37" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="482149" />
 </Book>
-<Book Series="All-New X-Men" Number="38" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="480667" />
 </Book>
-<Book Series="All-New X-Men" Number="39" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="482678" />
 </Book>
-<Book Series="All-New X-Men" Number="40" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="486715" />
 </Book>
-<Book Series="All-New X-Men" Number="41" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="490874" />
 </Book>
 <Book Series="Wolverines" Number="14" Volume="2015" Year="2015">
@@ -648,100 +648,100 @@
 <Book Series="Wolverines" Number="20" Volume="2015" Year="2015">
 <Database Name="cv" Series="79270" Issue="490896" />
 </Book>
-<Book Series="All-New Wolverine" Number="1" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="505513" />
 </Book>
-<Book Series="All-New Wolverine" Number="2" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="506646" />
 </Book>
-<Book Series="All-New Wolverine" Number="3" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="509695" />
 </Book>
-<Book Series="All-New Wolverine" Number="4" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="510934" />
 </Book>
-<Book Series="All-New Wolverine" Number="5" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="514430" />
 </Book>
-<Book Series="All-New Wolverine" Number="6" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="518850" />
 </Book>
-<Book Series="All-New Wolverine" Number="7" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="527130" />
 </Book>
 <Book Series="All-New Wolverine Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="93642" Issue="547267" />
 </Book>
-<Book Series="All-New Wolverine" Number="8" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="530722" />
 </Book>
-<Book Series="All-New Wolverine" Number="9" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="533025" />
 </Book>
-<Book Series="All-New Wolverine" Number="10" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="540068" />
 </Book>
-<Book Series="All-New Wolverine" Number="11" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="544978" />
 </Book>
-<Book Series="All-New Wolverine" Number="12" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="550343" />
 </Book>
-<Book Series="All-New Wolverine" Number="13" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="552151" />
 </Book>
-<Book Series="All-New Wolverine" Number="14" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="558407" />
 </Book>
-<Book Series="All-New Wolverine" Number="15" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="563715" />
 </Book>
-<Book Series="All-New Wolverine" Number="16" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="575855" />
 </Book>
-<Book Series="All-New Wolverine" Number="17" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="580739" />
 </Book>
-<Book Series="All-New Wolverine" Number="18" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="585074" />
 </Book>
-<Book Series="All-New Wolverine" Number="19" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="590785" />
 </Book>
-<Book Series="All-New Wolverine" Number="20" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="594954" />
 </Book>
-<Book Series="All-New Wolverine" Number="21" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="601783" />
 </Book>
-<Book Series="All-New Wolverine" Number="22" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="606616" />
 </Book>
-<Book Series="All-New Wolverine" Number="23" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="613782" />
 </Book>
-<Book Series="All-New Wolverine" Number="24" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="621655" />
 </Book>
 <Book Series="Generations: Wolverine &amp; All-New Wolverine" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103514" Issue="615019" />
 </Book>
-<Book Series="All-New Wolverine" Number="25" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="25" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="628574" />
 </Book>
-<Book Series="All-New Wolverine" Number="26" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="26" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="632487" />
 </Book>
-<Book Series="All-New Wolverine" Number="27" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="27" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="641396" />
 </Book>
-<Book Series="All-New Wolverine" Number="28" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="28" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="646178" />
 </Book>
-<Book Series="All-New Wolverine" Number="29" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="29" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="654046" />
 </Book>
-<Book Series="All-New Wolverine" Number="30" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="30" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="656694" />
 </Book>
 <Book Series="Cable" Number="150" Volume="2017" Year="2017">
@@ -759,19 +759,19 @@
 <Book Series="Cable" Number="154" Volume="2017" Year="2018">
 <Database Name="cv" Series="101767" Issue="660010" />
 </Book>
-<Book Series="All-New Wolverine" Number="31" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="31" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="661137" />
 </Book>
-<Book Series="All-New Wolverine" Number="32" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="32" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="662735" />
 </Book>
-<Book Series="All-New Wolverine" Number="33" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="33" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="664904" />
 </Book>
-<Book Series="All-New Wolverine" Number="34" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="34" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="667629" />
 </Book>
-<Book Series="All-New Wolverine" Number="35" Volume="2015" Year="2018">
+<Book Series="All-New Wolverine" Number="35" Volume="2016" Year="2018">
 <Database Name="cv" Series="85930" Issue="670104" />
 </Book>
 <Book Series="Hunt For Wolverine: Adamantium Agenda" Number="1" Volume="2018" Year="2018">
@@ -843,22 +843,22 @@
 <Book Series="Age of X-Man Omega" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120236" Issue="713851" />
 </Book>
-<Book Series="Fallen Angels" Number="1" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="727257" />
 </Book>
-<Book Series="Fallen Angels" Number="2" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="728972" />
 </Book>
-<Book Series="Fallen Angels" Number="3" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="730333" />
 </Book>
-<Book Series="Fallen Angels" Number="4" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="731511" />
 </Book>
-<Book Series="Fallen Angels" Number="5" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="732878" />
 </Book>
-<Book Series="Fallen Angels" Number="6" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="735522" />
 </Book>
 <Book Series="X-Men" Number="5" Volume="2019" Year="2020">

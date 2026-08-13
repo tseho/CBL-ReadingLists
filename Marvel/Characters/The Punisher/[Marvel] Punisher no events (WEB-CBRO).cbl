@@ -777,7 +777,7 @@
 <Book Series="The Punisher" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="41758" Issue="321301" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="6" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="329213" />
 </Book>
 <Book Series="The Punisher" Number="10" Volume="2011" Year="2012">
@@ -1227,22 +1227,22 @@
 <Book Series="Ravencroft" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="124681" Issue="772338" />
 </Book>
-<Book Series="Punisher: Soviet" Number="1" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="727265" />
 </Book>
-<Book Series="Punisher: Soviet" Number="2" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="730342" />
 </Book>
-<Book Series="Punisher: Soviet" Number="3" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="731976" />
 </Book>
-<Book Series="Punisher: Soviet" Number="4" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="738615" />
 </Book>
-<Book Series="Punisher: Soviet" Number="5" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="740823" />
 </Book>
-<Book Series="Punisher: Soviet" Number="6" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="743444" />
 </Book>
 <Book Series="Punisher" Number="1" Volume="2022" Year="2022">

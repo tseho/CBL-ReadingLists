@@ -36,7 +36,7 @@
 <Book Series="Doctor Strange" Number="78" Volume="1974" Year="1986">
 <Database Name="cv" Series="2676" Issue="27080" />
 </Book>
-<Book Series="The 'Nam" Number="1" Volume="1986" Year="1986">
+<Book Series="The &apos;Nam" Number="1" Volume="1986" Year="1986">
 <Database Name="cv" Series="19757" Issue="118617" />
 </Book>
 <Book Series="Action Force" Number="7" Volume="1987" Year="1987">
@@ -93,7 +93,7 @@
 <Book Series="The Transformers" Number="81" Volume="1984" Year="1986">
 <Database Name="cv" Series="20559" Issue="172037" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="1" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="1" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211940" />
 </Book>
 <Book Series="Action Force" Number="9" Volume="1987" Year="1987">
@@ -177,7 +177,7 @@
 <Book Series="Strikeforce: Morituri" Number="2" Volume="1986" Year="1987">
 <Database Name="cv" Series="3654" Issue="27689" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="2" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="2" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211939" />
 </Book>
 <Book Series="Action Force" Number="11" Volume="1987" Year="1987">
@@ -282,7 +282,7 @@
 <Book Series="The Transformers" Number="86" Volume="1984" Year="1986">
 <Database Name="cv" Series="20559" Issue="172042" />
 </Book>
-<Book Series="The 'Nam" Number="2" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="2" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132113" />
 </Book>
 <Book Series="X-Factor" Number="13" Volume="1986" Year="1987">
@@ -705,10 +705,10 @@
 <Book Series="The Transformers" Number="100" Volume="1984" Year="1987">
 <Database Name="cv" Series="20559" Issue="172057" />
 </Book>
-<Book Series="The 'Nam" Number="3" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="3" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132114" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="3" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="3" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211938" />
 </Book>
 <Book Series="Marvel Age" Number="54" Volume="1983" Year="1987">
@@ -879,7 +879,7 @@
 <Book Series="West Coast Avengers" Number="25" Volume="1985" Year="1987">
 <Database Name="cv" Series="3521" Issue="28702" />
 </Book>
-<Book Series="The 'Nam" Number="4" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="4" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132115" />
 </Book>
 <Book Series="Daredevil" Number="245" Volume="1964" Year="1987">
@@ -954,7 +954,7 @@
 <Book Series="Strikeforce: Morituri" Number="5" Volume="1986" Year="1987">
 <Database Name="cv" Series="3654" Issue="28021" />
 </Book>
-<Book Series="The 'Nam" Number="5" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="5" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132116" />
 </Book>
 <Book Series="Alpha Flight" Number="51" Volume="1983" Year="1987">
@@ -969,7 +969,7 @@
 <Book Series="The Savage Sword of Conan" Number="137" Volume="1974" Year="1987">
 <Database Name="cv" Series="2701" Issue="135230" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="4" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="4" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211937" />
 </Book>
 <Book Series="Marvel Tales" Number="205" Volume="1966" Year="1987">
@@ -1035,7 +1035,7 @@
 <Book Series="Captain America" Number="334" Volume="1968" Year="1987">
 <Database Name="cv" Series="2400" Issue="28684" />
 </Book>
-<Book Series="The 'Nam" Number="6" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="6" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132117" />
 </Book>
 <Book Series="The Transformers" Number="107" Volume="1984" Year="1987">
@@ -1224,7 +1224,7 @@
 <Book Series="The Punisher" Number="3" Volume="1987" Year="1987">
 <Database Name="cv" Series="3855" Issue="28693" />
 </Book>
-<Book Series="The 'Nam" Number="7" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="7" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132118" />
 </Book>
 <Book Series="Classic X-Men" Number="12" Volume="1986" Year="1987">
@@ -1314,7 +1314,7 @@
 <Book Series="The Transformers" Number="125" Volume="1984" Year="1987">
 <Database Name="cv" Series="20559" Issue="172077" />
 </Book>
-<Book Series="The 'Nam" Number="8" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="8" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132119" />
 </Book>
 <Book Series="Web of Spider-Man" Number="31" Volume="1985" Year="1987">
@@ -1359,7 +1359,7 @@
 <Book Series="The Transformers" Number="126" Volume="1984" Year="1987">
 <Database Name="cv" Series="20559" Issue="172078" />
 </Book>
-<Book Series="The 'Nam" Number="9" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="9" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132120" />
 </Book>
 <Book Series="Strikeforce: Morituri" Number="10" Volume="1986" Year="1987">
@@ -1404,7 +1404,7 @@
 <Book Series="The Savage Sword of Conan" Number="141" Volume="1974" Year="1987">
 <Database Name="cv" Series="2701" Issue="135226" />
 </Book>
-<Book Series="The 'Nam" Number="10" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="10" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132121" />
 </Book>
 <Book Series="West Coast Avengers" Number="26" Volume="1985" Year="1987">
@@ -1497,7 +1497,7 @@
 <Book Series="Strikeforce: Morituri" Number="14" Volume="1986" Year="1988">
 <Database Name="cv" Series="3654" Issue="29155" />
 </Book>
-<Book Series="The 'Nam" Number="11" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="11" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132158" />
 </Book>
 <Book Series="Strange Tales" Number="8" Volume="1987" Year="1987">
@@ -1533,7 +1533,7 @@
 <Book Series="The Savage Sword of Conan" Number="142" Volume="1974" Year="1987">
 <Database Name="cv" Series="2701" Issue="28809" />
 </Book>
-<Book Series="The 'Nam" Number="12" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="12" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132159" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="221" Volume="1981" Year="1987">
@@ -1572,7 +1572,7 @@
 <Book Series="Psi-Force" Number="16" Volume="1986" Year="1988">
 <Database Name="cv" Series="11495" Issue="101381" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="5" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="5" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211936" />
 </Book>
 <Book Series="Marvel Age" Number="58" Volume="1983" Year="1988">
@@ -1602,7 +1602,7 @@
 <Book Series="The Incredible Hulk" Number="339" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="29144" />
 </Book>
-<Book Series="The 'Nam" Number="13" Volume="1986" Year="1987">
+<Book Series="The &apos;Nam" Number="13" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132160" />
 </Book>
 <Book Series="Superman" Number="11" Volume="1987" Year="1987">
@@ -1659,7 +1659,7 @@
 <Book Series="D.P.7" Number="17" Volume="1986" Year="1988">
 <Database Name="cv" Series="3627" Issue="29369" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="6" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="6" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211935" />
 </Book>
 <Book Series="Marvel Age" Number="60" Volume="1983" Year="1988">
@@ -1887,10 +1887,10 @@
 <Book Series="Marvel Tales" Number="211" Volume="1966" Year="1988">
 <Database Name="cv" Series="2293" Issue="64984" />
 </Book>
-<Book Series="The 'Nam" Number="14" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="14" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132162" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="7" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="7" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211934" />
 </Book>
 <Book Series="Strikeforce: Morituri" Number="15" Volume="1986" Year="1988">
@@ -1950,10 +1950,10 @@
 <Book Series="Marvel Age" Number="62" Volume="1983" Year="1988">
 <Database Name="cv" Series="19176" Issue="157232" />
 </Book>
-<Book Series="Dragon's Claws" Number="1" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268523" />
 </Book>
-<Book Series="Dragon's Claws" Number="2" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="2" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268532" />
 </Book>
 <Book Series="The Avengers" Number="286" Volume="1963" Year="1987">
@@ -1977,7 +1977,7 @@
 <Book Series="The Transformers" Number="147" Volume="1984" Year="1988">
 <Database Name="cv" Series="20559" Issue="123651" />
 </Book>
-<Book Series="The 'Nam" Number="15" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="15" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132165" />
 </Book>
 <Book Series="Strikeforce: Morituri" Number="16" Volume="1986" Year="1988">
@@ -1995,7 +1995,7 @@
 <Book Series="Action Force" Number="50" Volume="1987" Year="1988">
 <Database Name="cv" Series="22813" Issue="137264" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="8" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="8" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211933" />
 </Book>
 <Book Series="Marvel Age" Number="63" Volume="1983" Year="1988">
@@ -2061,7 +2061,7 @@
 <Book Series="Power Pack" Number="37" Volume="1984" Year="1988">
 <Database Name="cv" Series="3358" Issue="29593" />
 </Book>
-<Book Series="Dragon's Claws" Number="3" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268531" />
 </Book>
 <Book Series="The Punisher" Number="8" Volume="1987" Year="1988">
@@ -2100,7 +2100,7 @@
 <Book Series="Iron Man" Number="232" Volume="1968" Year="1988">
 <Database Name="cv" Series="2407" Issue="29828" />
 </Book>
-<Book Series="The 'Nam" Number="16" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="16" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132225" />
 </Book>
 <Book Series="The Transformers" Number="149" Volume="1984" Year="1988">
@@ -2196,10 +2196,10 @@
 <Book Series="The Transformers" Number="159" Volume="1984" Year="1988">
 <Database Name="cv" Series="20559" Issue="172656" />
 </Book>
-<Book Series="The 'Nam" Number="17" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="17" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132226" />
 </Book>
-<Book Series="The 'Nam" Number="18" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="18" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132228" />
 </Book>
 <Book Series="Doctor Zero" Number="2" Volume="1988" Year="1988">
@@ -2208,7 +2208,7 @@
 <Book Series="Doctor Zero" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="4050" Issue="29941" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="9" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="9" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211932" />
 </Book>
 <Book Series="Conan Saga" Number="14" Volume="1987" Year="1988">
@@ -2271,10 +2271,10 @@
 <Book Series="Doctor Who Magazine" Number="135" Volume="1979" Year="1988">
 <Database Name="cv" Series="26877" Issue="171067" />
 </Book>
-<Book Series="Dragon's Claws" Number="4" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="4" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268530" />
 </Book>
-<Book Series="Dragon's Claws" Number="5" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="5" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268529" />
 </Book>
 <Book Series="Silver Surfer" Number="11" Volume="1987" Year="1988">
@@ -2436,10 +2436,10 @@
 <Book Series="The Incredible Hulk" Number="345" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="29827" />
 </Book>
-<Book Series="Dragon's Claws" Number="6" Volume="1988" Year="1988">
+<Book Series="Dragon&apos;s Claws" Number="6" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268528" />
 </Book>
-<Book Series="Dragon's Claws" Number="7" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="7" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268527" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="301" Volume="1963" Year="1988">
@@ -2475,7 +2475,7 @@
 <Book Series="Justice" Number="27" Volume="1986" Year="1989">
 <Database Name="cv" Series="3640" Issue="51726" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="10" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="10" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211931" />
 </Book>
 <Book Series="Marvel Age" Number="68" Volume="1983" Year="1988">
@@ -2493,10 +2493,10 @@
 <Book Series="Marvel Fanfare" Number="39" Volume="1982" Year="1988">
 <Database Name="cv" Series="3143" Issue="29945" />
 </Book>
-<Book Series="Death's Head" Number="1" Volume="1988" Year="1988">
+<Book Series="Death&apos;s Head" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="20540" Issue="123042" />
 </Book>
-<Book Series="Death's Head" Number="2" Volume="1988" Year="1989">
+<Book Series="Death&apos;s Head" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="20540" Issue="123080" />
 </Book>
 <Book Series="The Punisher" Number="10" Volume="1987" Year="1988">
@@ -2511,7 +2511,7 @@
 <Book Series="What The--?!" Number="4" Volume="1988" Year="1988">
 <Database Name="cv" Series="4079" Issue="48869" />
 </Book>
-<Book Series="The 'Nam" Number="19" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="19" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132229" />
 </Book>
 <Book Series="What If? Special" Number="1" Volume="1988" Year="1988">
@@ -2565,10 +2565,10 @@
 <Book Series="Classic X-Men" Number="27" Volume="1986" Year="1988">
 <Database Name="cv" Series="3626" Issue="47415" />
 </Book>
-<Book Series="Dragon's Claws" Number="8" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268526" />
 </Book>
-<Book Series="Dragon's Claws" Number="9" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="9" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268525" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="304" Volume="1963" Year="1988">
@@ -2583,7 +2583,7 @@
 <Book Series="Alpha Flight" Number="62" Volume="1983" Year="1988">
 <Database Name="cv" Series="3217" Issue="30047" />
 </Book>
-<Book Series="Dragon's Claws" Number="10" Volume="1988" Year="1989">
+<Book Series="Dragon&apos;s Claws" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268524" />
 </Book>
 <Book Series="D.P.7" Number="24" Volume="1986" Year="1988">
@@ -2592,7 +2592,7 @@
 <Book Series="D.P.7" Number="25" Volume="1986" Year="1988">
 <Database Name="cv" Series="3627" Issue="30305" />
 </Book>
-<Book Series="The 'Nam" Number="20" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="20" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132230" />
 </Book>
 <Book Series="The Transformers" Number="181" Volume="1984" Year="1988">
@@ -2763,7 +2763,7 @@
 <Book Series="Web of Spider-Man" Number="43" Volume="1985" Year="1988">
 <Database Name="cv" Series="3519" Issue="30195" />
 </Book>
-<Book Series="The 'Nam" Number="21" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="21" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132233" />
 </Book>
 <Book Series="The Transformers" Number="187" Volume="1984" Year="1988">
@@ -2829,7 +2829,7 @@
 <Book Series="Strikeforce: Morituri" Number="21" Volume="1986" Year="1988">
 <Database Name="cv" Series="3654" Issue="30068" />
 </Book>
-<Book Series="The 'Nam" Number="22" Volume="1986" Year="1988">
+<Book Series="The &apos;Nam" Number="22" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132234" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="155" Volume="1974" Year="1988">

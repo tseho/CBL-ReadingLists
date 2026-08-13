@@ -216,7 +216,7 @@
 <Book Series="Earth 2" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="48505" Issue="355788" />
 </Book>
-<Book Series="Worlds' Finest" Number="0" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="355793" />
 </Book>
 <Book Series="Swamp Thing" Number="0" Volume="2011" Year="2012">
@@ -1788,16 +1788,16 @@
 <Book Series="Hawk &amp; Dove" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="326840" />
 </Book>
-<Book Series="Worlds' Finest" Number="1" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="334195" />
 </Book>
-<Book Series="Worlds' Finest" Number="2" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="338475" />
 </Book>
-<Book Series="Worlds' Finest" Number="3" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="344043" />
 </Book>
-<Book Series="Worlds' Finest" Number="4" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="348041" />
 </Book>
 <Book Series="Detective Comics" Number="8" Volume="2011" Year="2012">
@@ -1881,7 +1881,7 @@
 <Book Series="Batman" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42721" Issue="349621" />
 </Book>
-<Book Series="Worlds' Finest" Number="5" Volume="2012" Year="2012">
+<Book Series="Worlds&apos; Finest" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="48417" Issue="359839" />
 </Book>
 <Book Series="The Phantom Stranger" Number="0" Volume="2012" Year="2012">

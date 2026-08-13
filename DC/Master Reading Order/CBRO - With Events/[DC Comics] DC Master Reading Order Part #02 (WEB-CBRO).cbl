@@ -2325,13 +2325,13 @@
 <Book Series="Wonder Woman" Number="44" Volume="1987" Year="1990">
 <Database Name="cv" Series="3824" Issue="63508" />
 </Book>
-<Book Series="World's Finest" Number="1" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199247" />
 </Book>
-<Book Series="World's Finest" Number="2" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="2" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199248" />
 </Book>
-<Book Series="World's Finest" Number="3" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="3" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199249" />
 </Book>
 <Book Series="Doom Patrol" Number="30" Volume="1987" Year="1990">
@@ -2529,7 +2529,7 @@
 <Book Series="Suicide Squad" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3815" Issue="33915" />
 </Book>
-<Book Series="Batman &#38; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
+<Book Series="Batman &amp; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="19168" Issue="114715" />
 </Book>
 <Book Series="Batman: Bloodstorm" Number="1" Volume="1994" Year="1995">

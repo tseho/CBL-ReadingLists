@@ -9,7 +9,7 @@
 <Book Series="Marvel Mystery Comics" Number="39" Volume="1939" Year="1943">
 <Database Name="cv" Series="19137" Issue="132195" />
 </Book>
-<Book Series="Young Allies Comics" Number="6" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="6" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139053" />
 </Book>
 <Book Series="Captain America Comics" Number="23" Volume="1941" Year="1943">
@@ -24,7 +24,7 @@
 <Book Series="Kid Komics" Number="2" Volume="1943" Year="1943">
 <Database Name="cv" Series="19029" Issue="129308" />
 </Book>
-<Book Series="All Winners Comics" Number="8" Volume="1941" Year="1943">
+<Book Series="All-Winners Comics" Number="8" Volume="1941" Year="1943">
 <Database Name="cv" Series="18581" Issue="166042" />
 </Book>
 <Book Series="Captain America Comics" Number="24" Volume="1941" Year="1943">
@@ -48,7 +48,7 @@
 <Book Series="Captain America Comics" Number="26" Volume="1941" Year="1943">
 <Database Name="cv" Series="1628" Issue="117570" />
 </Book>
-<Book Series="Young Allies Comics" Number="7" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="7" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139054" />
 </Book>
 <Book Series="Marvel Mystery Comics" Number="42" Volume="1939" Year="1943">
@@ -60,7 +60,7 @@
 <Book Series="Marvel Mystery Comics" Number="43" Volume="1939" Year="1943">
 <Database Name="cv" Series="19137" Issue="135474" />
 </Book>
-<Book Series="All Winners Comics" Number="9" Volume="1941" Year="1943">
+<Book Series="All-Winners Comics" Number="9" Volume="1941" Year="1943">
 <Database Name="cv" Series="18581" Issue="166043" />
 </Book>
 <Book Series="Captain America Comics" Number="27" Volume="1941" Year="1943">
@@ -84,7 +84,7 @@
 <Book Series="USA Comics" Number="9" Volume="1941" Year="1943">
 <Database Name="cv" Series="18990" Issue="112818" />
 </Book>
-<Book Series="Young Allies Comics" Number="8" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="8" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139055" />
 </Book>
 <Book Series="Captain America Comics" Number="29" Volume="1941" Year="1943">

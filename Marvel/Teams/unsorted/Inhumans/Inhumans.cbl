@@ -177,7 +177,7 @@
     <Book Series="Inhumans" Number="12" Volume="2003" Year="2004">
       <Database Name="cv" Series="18639" Issue="110003" />
     </Book>
-    <Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
+    <Book Series="New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="18180" Issue="106482" />
     </Book>
     <Book Series="New Avengers: Illuminati" Number="1" Volume="2007" Year="2007">
@@ -303,16 +303,16 @@
     <Book Series="Realm of Kings Inhumans" Number="5" Volume="2010" Year="2010">
       <Database Name="cv" Series="29913" Issue="202680" />
     </Book>
-    <Book Series="Inhumanity" Number="1" Volume="2013" Year="2014">
+    <Book Series="Inhumanity" Number="1" Volume="2014" Year="2014">
       <Database Name="cv" Series="69688" Issue="435583" />
     </Book>
-    <Book Series="Inhumanity: The Awakening" Number="1" Volume="2013" Year="2014">
+    <Book Series="Inhumanity: The Awakening" Number="1" Volume="2014" Year="2014">
       <Database Name="cv" Series="69866" Issue="436199" />
     </Book>
-    <Book Series="Inhumanity: The Awakening" Number="2" Volume="2013" Year="2014">
+    <Book Series="Inhumanity: The Awakening" Number="2" Volume="2014" Year="2014">
       <Database Name="cv" Series="69866" Issue="441415" />
     </Book>
-    <Book Series="Inhumanity" Number="2" Volume="2013" Year="2014">
+    <Book Series="Inhumanity" Number="2" Volume="2014" Year="2014">
       <Database Name="cv" Series="69688" Issue="443983" />
     </Book>
   </Books>

@@ -123,22 +123,22 @@
     <Book Series="Avengers" Number="6" Volume="2010" Year="2010">
       <Database Name="cv" Series="33227" Issue="239856" />
     </Book>
-    <Book Series="Hawkeye &#38; Mockingbird" Number="1" Volume="2010" Year="2010">
+    <Book Series="Hawkeye &amp; Mockingbird" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="33513" Issue="217486" />
     </Book>
-    <Book Series="Hawkeye &#38; Mockingbird" Number="2" Volume="2010" Year="2010">
+    <Book Series="Hawkeye &amp; Mockingbird" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="33513" Issue="223278" />
     </Book>
-    <Book Series="Hawkeye &#38; Mockingbird" Number="3" Volume="2010" Year="2010">
+    <Book Series="Hawkeye &amp; Mockingbird" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="33513" Issue="227822" />
     </Book>
-    <Book Series="Hawkeye &#38; Mockingbird" Number="4" Volume="2010" Year="2010">
+    <Book Series="Hawkeye &amp; Mockingbird" Number="4" Volume="2010" Year="2010">
       <Database Name="cv" Series="33513" Issue="232565" />
     </Book>
-    <Book Series="Hawkeye &#38; Mockingbird" Number="5" Volume="2010" Year="2010">
+    <Book Series="Hawkeye &amp; Mockingbird" Number="5" Volume="2010" Year="2010">
       <Database Name="cv" Series="33513" Issue="237169" />
     </Book>
-    <Book Series="Hawkeye &#38; Mockingbird" Number="6" Volume="2010" Year="2011">
+    <Book Series="Hawkeye &amp; Mockingbird" Number="6" Volume="2010" Year="2011">
       <Database Name="cv" Series="33513" Issue="240964" />
     </Book>
     <Book Series="Iron Man/Thor" Number="1" Volume="2011" Year="2011">
@@ -186,19 +186,19 @@
     <Book Series="Thor: The Deviants Saga" Number="5" Volume="2012" Year="2012">
       <Database Name="cv" Series="43818" Issue="319380" />
     </Book>
-    <Book Series="Captain America" Number="602" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="602" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="193414" />
     </Book>
-    <Book Series="Captain America" Number="603" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="603" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="197668" />
     </Book>
-    <Book Series="Captain America" Number="604" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="604" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="201710" />
     </Book>
-    <Book Series="Captain America" Number="605" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="605" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="210223" />
     </Book>
-    <Book Series="Captain America: Who Won't Wield the Shield?" Number="1" Volume="2010" Year="2010">
+    <Book Series="Captain America: Who Won&apos;t Wield the Shield?" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="32672" Issue="208752" />
     </Book>
     <Book Series="Captain America and Batroc" Number="1" Volume="2011" Year="2011">
@@ -267,37 +267,37 @@
     <Book Series="New Avengers" Number="6" Volume="2010" Year="2011">
       <Database Name="cv" Series="33777" Issue="242246" />
     </Book>
-    <Book Series="Captain America" Number="606" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="606" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="218588" />
     </Book>
-    <Book Series="Captain America" Number="607" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="607" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="222132" />
     </Book>
-    <Book Series="Captain America" Number="608" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="608" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="227787" />
     </Book>
-    <Book Series="Captain America" Number="609" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="609" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="231702" />
     </Book>
-    <Book Series="Captain America" Number="610" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="610" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="236323" />
     </Book>
-    <Book Series="Captain America" Number="611" Volume="2004" Year="2010">
+    <Book Series="Captain America" Number="611" Volume="2005" Year="2010">
       <Database Name="cv" Series="11499" Issue="238923" />
     </Book>
-    <Book Series="Captain America" Number="612" Volume="2004" Year="2011">
+    <Book Series="Captain America" Number="612" Volume="2005" Year="2011">
       <Database Name="cv" Series="11499" Issue="246465" />
     </Book>
-    <Book Series="Captain America" Number="613" Volume="2004" Year="2011">
+    <Book Series="Captain America" Number="613" Volume="2005" Year="2011">
       <Database Name="cv" Series="11499" Issue="253003" />
     </Book>
-    <Book Series="Captain America" Number="614" Volume="2004" Year="2011">
+    <Book Series="Captain America" Number="614" Volume="2005" Year="2011">
       <Database Name="cv" Series="11499" Issue="259190" />
     </Book>
-    <Book Series="Captain America" Number="615" Volume="2004" Year="2011">
+    <Book Series="Captain America" Number="615" Volume="2005" Year="2011">
       <Database Name="cv" Series="11499" Issue="263731" />
     </Book>
-    <Book Series="Captain America" Number="615.1" Volume="2004" Year="2011">
+    <Book Series="Captain America" Number="615.1" Volume="2005" Year="2011">
       <Database Name="cv" Series="11499" Issue="266624" />
     </Book>
     <Book Series="Secret Avengers" Number="1" Volume="2010" Year="2010">
@@ -354,7 +354,7 @@
     <Book Series="Namor: The First Mutant Annual" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="40215" Issue="270428" />
     </Book>
-    <Book Series="The Iron Age: Alpha" Number="1" Volume="2011" Year="2011">
+    <Book Series="Iron Age: Alpha" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="40537" Issue="273141" />
     </Book>
     <Book Series="Iron Age" Number="1" Volume="2011" Year="2011">
@@ -366,7 +366,7 @@
     <Book Series="Iron Age" Number="3" Volume="2011" Year="2011">
       <Database Name="cv" Series="41042" Issue="285554" />
     </Book>
-    <Book Series="The Iron Age: Omega" Number="1" Volume="2011" Year="2011">
+    <Book Series="Iron Age: Omega" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="42369" Issue="289466" />
     </Book>
     <Book Series="I am An Avenger" Number="1" Volume="2010" Year="2010">
@@ -402,46 +402,46 @@
     <Book Series="Secret Avengers" Number="12" Volume="2010" Year="2011">
       <Database Name="cv" Series="33350" Issue="269020" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="1" Volume="2010" Year="2010">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="34241" Issue="223380" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="2" Volume="2010" Year="2010">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="34241" Issue="232535" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="3" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="3" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="242038" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="4" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="4" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="254667" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="39371" Issue="266008" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="5" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="5" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="267533" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="6" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="6" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="276706" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="7" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="7" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="293355" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="8" Volume="2010" Year="2012">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="8" Volume="2010" Year="2012">
       <Database Name="cv" Series="34241" Issue="308624" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="9" Volume="2010" Year="2012">
       <Database Name="cv" Series="34241" Issue="319366" />
     </Book>
-    <Book Series="Thor: Heaven &#38; Earth" Number="1" Volume="2011" Year="2011">
+    <Book Series="Thor: Heaven &amp; Earth" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41511" Issue="281357" />
     </Book>
-    <Book Series="Thor: Heaven &#38; Earth" Number="2" Volume="2011" Year="2011">
+    <Book Series="Thor: Heaven &amp; Earth" Number="2" Volume="2011" Year="2011">
       <Database Name="cv" Series="41511" Issue="283867" />
     </Book>
-    <Book Series="Thor: Heaven &#38; Earth" Number="3" Volume="2011" Year="2011">
+    <Book Series="Thor: Heaven &amp; Earth" Number="3" Volume="2011" Year="2011">
       <Database Name="cv" Series="41511" Issue="288832" />
     </Book>
-    <Book Series="Thor: Heaven &#38; Earth" Number="4" Volume="2011" Year="2011">
+    <Book Series="Thor: Heaven &amp; Earth" Number="4" Volume="2011" Year="2011">
       <Database Name="cv" Series="41511" Issue="291624" />
     </Book>
     <Book Series="Invincible Iron Man" Number="25" Volume="2008" Year="2010">

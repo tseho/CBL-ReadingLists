@@ -399,19 +399,19 @@
 <Book Series="DC Infinite Halloween Special" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19596" Issue="117519" />
 </Book>
-<Book Series="Joker's Asylum: The Joker" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: The Joker" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="33802" Issue="219769" />
 </Book>
-<Book Series="Joker's Asylum: Penguin" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Penguin" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22285" Issue="134004" />
 </Book>
-<Book Series="Joker's Asylum: Poison Ivy" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Poison Ivy" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22259" Issue="133775" />
 </Book>
-<Book Series="Joker's Asylum: Scarecrow" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Scarecrow" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="33803" Issue="219770" />
 </Book>
-<Book Series="Joker's Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22402" Issue="134589" />
 </Book>
 <Book Series="Nightwing" Number="133" Volume="1996" Year="2007">

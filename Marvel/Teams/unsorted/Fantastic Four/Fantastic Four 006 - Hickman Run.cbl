@@ -357,40 +357,40 @@
     <Book Series="Secret Wars" Number="9" Volume="2015" Year="2016">
       <Database Name="cv" Series="81833" Issue="510951" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="1" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="1" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="647947" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="2" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="2" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="655507" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="3" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="3" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="660018" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="4" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="4" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="662747" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="5" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="5" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="664915" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="6" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="6" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="671334" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="7" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="7" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="675143" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="8" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="8" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="677967" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="9" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="9" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="682659" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="10" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="10" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="686384" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="11" Volume="2017" Year="2018">
+    <Book Series="Marvel Two-In-One" Number="11" Volume="2018" Year="2018">
       <Database Name="cv" Series="107157" Issue="690813" />
     </Book>
-    <Book Series="Marvel Two-In-One" Number="12" Volume="2017" Year="2019">
+    <Book Series="Marvel Two-In-One" Number="12" Volume="2018" Year="2019">
       <Database Name="cv" Series="107157" Issue="693466" />
     </Book>
     <Book Series="Marvel Two-In-One Annual" Number="1" Volume="2018" Year="2018">

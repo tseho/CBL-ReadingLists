@@ -30,7 +30,7 @@
 <Book Series="Knight Terrors: Robin" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152095" Issue="1000087" />
 </Book>
-<Book Series="Knight Terrors: The  Flash" Number="1" Volume="2023" Year="2023">
+<Book Series="Knight Terrors: The Flash" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152093" Issue="1000083" />
 </Book>
 <Book Series="Knight Terrors: Zatanna" Number="1" Volume="2023" Year="2023">
@@ -96,7 +96,7 @@
 <Book Series="Knight Terrors: Robin" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="152095" Issue="1006529" />
 </Book>
-<Book Series="Knight Terrors: The  Flash" Number="2" Volume="2023" Year="2023">
+<Book Series="Knight Terrors: The Flash" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="152093" Issue="1006525" />
 </Book>
 <Book Series="Knight Terrors: Zatanna" Number="2" Volume="2023" Year="2023">
@@ -141,7 +141,7 @@
 <Book Series="Knight Terrors" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="152092" Issue="1010066" />
 </Book>
-<Book Series="Knight Terrors: Night's End" Number="1" Volume="2023" Year="2023">
+<Book Series="Knight Terrors: Night&apos;s End" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153239" Issue="1011356" />
 </Book>
 </Books>

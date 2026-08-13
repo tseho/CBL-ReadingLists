@@ -30,10 +30,10 @@
 <Book Series="The Amazing Spider-Man" Number="667" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="285544" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="285497" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="668" Volume="0" Year="2011">
+<Book Series="The Amazing Spider-Man" Number="668" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="290665" />
 </Book>
 <Book Series="Spider-Island: Deadly Hands of Kung Fu" Number="1" Volume="2011" Year="2011">
@@ -69,7 +69,7 @@
 <Book Series="Spider-Island: The Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42663" Issue="292003" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="669" Volume="0" Year="2011">
+<Book Series="The Amazing Spider-Man" Number="669" Volume="1999" Year="2011">
 <Database Name="cv" Series="78701" Issue="292609" />
 </Book>
 <Book Series="Venom" Number="6" Volume="2011" Year="2011">
@@ -81,19 +81,19 @@
 <Book Series="Spider-Island: Spider-Woman" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42978" Issue="293441" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="670" Volume="1999" Year="2011">
+<Book Series="The Amazing Spider-Man" Number="670" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="293619" />
 </Book>
 <Book Series="Venom" Number="7" Volume="2011" Year="2011">
 <Database Name="cv" Series="39301" Issue="293634" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="2" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="293399" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="3" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="299872" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="671" Volume="1999" Year="2011">
+<Book Series="The Amazing Spider-Man" Number="671" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="294956" />
 </Book>
 <Book Series="Venom" Number="8" Volume="2011" Year="2011">
@@ -102,10 +102,10 @@
 <Book Series="Spider-Island: The Amazing Spider-Girl" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="42131" Issue="299759" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="672" Volume="0" Year="2011">
+<Book Series="The Amazing Spider-Man" Number="672" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="299744" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="673" Volume="0" Year="2012">
+<Book Series="The Amazing Spider-Man" Number="673" Volume="1963" Year="2012">
 <Database Name="cv" Series="2127" Issue="301042" />
 </Book>
 </Books>

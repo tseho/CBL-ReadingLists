@@ -10,16 +10,16 @@
         <Book Series="Thor: God of Thunder" Number="20" Volume="2013" Year="2014">
             <Database Name="cv" Series="53920" Issue="448004" />
         </Book>
-        <Book Series="Avengers" Number="14" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="14" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="411825" />
         </Book>
-        <Book Series="Avengers" Number="15" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="15" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="415233" />
         </Book>
-        <Book Series="Avengers" Number="16" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="16" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="417831" />
         </Book>
-        <Book Series="Avengers" Number="17" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="17" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="420634" />
         </Book>
         <Book Series="Infinity: Against the Tide" Number="1" Volume="2013" Year="2013">
@@ -79,7 +79,7 @@
         <Book Series="Infinity: Heist" Number="1" Volume="2013" Year="2013">
             <Database Name="cv" Series="67698" Issue="426877" />
         </Book>
-        <Book Series="Avengers" Number="18" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="18" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="422493" />
         </Book>
         <Book Series="Avengers Assemble" Number="18" Volume="2012" Year="2013">

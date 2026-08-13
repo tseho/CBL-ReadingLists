@@ -315,7 +315,7 @@
     <Book Series="X-Men" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="34221" Issue="228872" />
     </Book>
-    <Book Series="X-Men: Curse of the Mutants - Storm &#38; Gambit" Number="1" Volume="2010" Year="2010">
+    <Book Series="X-Men: Curse of the Mutants - Storm &amp; Gambit" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="35104" Issue="231617" />
     </Book>
     <Book Series="X-Men: Curse of the Mutants - Smoke and Blood" Number="1" Volume="2010" Year="2010">
@@ -591,22 +591,22 @@
     <Book Series="Uncanny X-Force" Number="7" Volume="2010" Year="2011">
       <Database Name="cv" Series="35835" Issue="268219" />
     </Book>
-    <Book Series="Astonishing Spider-Man &#38; Wolverine" Number="1" Volume="2010" Year="2010">
+    <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="32931" Issue="212014" />
     </Book>
-    <Book Series="Astonishing Spider-Man &#38; Wolverine" Number="2" Volume="2010" Year="2010">
+    <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="32931" Issue="224649" />
     </Book>
-    <Book Series="Astonishing Spider-Man &#38; Wolverine" Number="3" Volume="2010" Year="2010">
+    <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="32931" Issue="234675" />
     </Book>
-    <Book Series="Astonishing Spider-Man &#38; Wolverine" Number="4" Volume="2010" Year="2011">
+    <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="4" Volume="2010" Year="2011">
       <Database Name="cv" Series="32931" Issue="252999" />
     </Book>
-    <Book Series="Astonishing Spider-Man &#38; Wolverine" Number="5" Volume="2010" Year="2011">
+    <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="5" Volume="2010" Year="2011">
       <Database Name="cv" Series="32931" Issue="266503" />
     </Book>
-    <Book Series="Astonishing Spider-Man &#38; Wolverine" Number="6" Volume="2010" Year="2011">
+    <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="6" Volume="2010" Year="2011">
       <Database Name="cv" Series="32931" Issue="271595" />
     </Book>
     <Book Series="X-Factor" Number="220" Volume="2006" Year="2011">
@@ -624,43 +624,43 @@
     <Book Series="X-Factor" Number="224" Volume="2006" Year="2011">
       <Database Name="cv" Series="18109" Issue="286685" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="1" Volume="2010" Year="2010">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="34241" Issue="223380" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="2" Volume="2010" Year="2010">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="34241" Issue="232535" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="3" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="3" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="242038" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="4" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="4" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="254667" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="39371" Issue="266008" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="5" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="5" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="267533" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="6" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="6" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="276706" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="7" Volume="2010" Year="2011">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="7" Volume="2010" Year="2011">
       <Database Name="cv" Series="34241" Issue="293355" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="8" Volume="2010" Year="2012">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="8" Volume="2010" Year="2012">
       <Database Name="cv" Series="34241" Issue="308624" />
     </Book>
-    <Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
+    <Book Series="Avengers: The Children&apos;s Crusade" Number="9" Volume="2010" Year="2012">
       <Database Name="cv" Series="34241" Issue="319366" />
     </Book>
-    <Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="1" Volume="2011" Year="2011">
+    <Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41136" Issue="277526" />
     </Book>
-    <Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="2" Volume="2011" Year="2011">
+    <Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="2" Volume="2011" Year="2011">
       <Database Name="cv" Series="41136" Issue="286960" />
     </Book>
-    <Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="3" Volume="2011" Year="2011">
+    <Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="3" Volume="2011" Year="2011">
       <Database Name="cv" Series="41136" Issue="294781" />
     </Book>
     <Book Series="Uncanny X-Men Annual" Number="3" Volume="2006" Year="2011">
@@ -948,7 +948,7 @@
     <Book Series="X-Men: Prelude to Schism" Number="4" Volume="2011" Year="2011">
       <Database Name="cv" Series="39952" Issue="276447" />
     </Book>
-    <Book Series="Fear Itself: Sin's Past" Number="1" Volume="2011" Year="2011">
+    <Book Series="Fear Itself: Sin&apos;s Past" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="39847" Issue="268763" />
     </Book>
     <Book Series="Fear Itself: Book of the Skull" Number="1" Volume="2011" Year="2011">

@@ -444,16 +444,16 @@
 <Book Series="Wonder Woman" Number="39" Volume="2006" Year="2010">
 <Database Name="cv" Series="18208" Issue="189533" />
 </Book>
-<Book Series="Joker's Asylum: Penguin" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Penguin" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22285" Issue="134004" />
 </Book>
-<Book Series="Joker's Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22402" Issue="134589" />
 </Book>
-<Book Series="Joker's Asylum II: Killer Croc" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Killer Croc" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33915" Issue="220759" />
 </Book>
-<Book Series="Joker's Asylum II: Clayface" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Clayface" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34046" Issue="222048" />
 </Book>
 <Book Series="Wednesday Comics" Number="1" Volume="2009" Year="2009">
@@ -1083,7 +1083,7 @@
 <Book Series="Bruce Wayne: The Road Home: Oracle" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36338" Issue="239802" />
 </Book>
-<Book Series="Bruce Wayne: The Road Home: Ra's al Ghul" Number="1" Volume="2010" Year="2010">
+<Book Series="Bruce Wayne: The Road Home: Ra&apos;s al Ghul" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36351" Issue="239843" />
 </Book>
 <Book Series="Batman: The Return" Number="1" Volume="2011" Year="2011">

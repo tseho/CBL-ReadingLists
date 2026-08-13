@@ -4,34 +4,34 @@
     <Name>[Marvel] 2018-2021 Part 13.2 Red and Black (MG)</Name>
     <NumIssues>60</NumIssues>
     <Books>
-        <Book Series="Falcon &#38; Winter Soldier" Number="1" Volume="2020" Year="2020">
+        <Book Series="Falcon &amp; Winter Soldier" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="125300" Issue="738609" />
         </Book>
-        <Book Series="Falcon &#38; Winter Soldier" Number="2" Volume="2020" Year="2020">
+        <Book Series="Falcon &amp; Winter Soldier" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="125300" Issue="743437" />
         </Book>
-        <Book Series="Falcon &#38; Winter Soldier" Number="3" Volume="2020" Year="2020">
+        <Book Series="Falcon &amp; Winter Soldier" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="125300" Issue="805090" />
         </Book>
-        <Book Series="Falcon &#38; Winter Soldier" Number="4" Volume="2020" Year="2020">
+        <Book Series="Falcon &amp; Winter Soldier" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="125300" Issue="813280" />
         </Book>
-        <Book Series="Falcon &#38; Winter Soldier" Number="5" Volume="2020" Year="2021">
+        <Book Series="Falcon &amp; Winter Soldier" Number="5" Volume="2020" Year="2021">
             <Database Name="cv" Series="125300" Issue="819484" />
         </Book>
-        <Book Series="U.S.Agent" Number="1" Volume="2020" Year="2021">
+        <Book Series="U.S.Agent" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="131732" Issue="816470" />
         </Book>
-        <Book Series="U.S.Agent" Number="2" Volume="2020" Year="2021">
+        <Book Series="U.S.Agent" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="131732" Issue="822353" />
         </Book>
-        <Book Series="U.S.Agent" Number="3" Volume="2020" Year="2021">
+        <Book Series="U.S.Agent" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="131732" Issue="830033" />
         </Book>
-        <Book Series="U.S.Agent" Number="4" Volume="2020" Year="2021">
+        <Book Series="U.S.Agent" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="131732" Issue="840959" />
         </Book>
-        <Book Series="U.S.Agent" Number="5" Volume="2020" Year="2021">
+        <Book Series="U.S.Agent" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="131732" Issue="846093" />
         </Book>
         <Book Series="Hawkeye: Freefall" Number="1" Volume="2020" Year="2020">
@@ -64,7 +64,7 @@
         <Book Series="Daredevil" Number="20" Volume="2019" Year="2020">
             <Database Name="cv" Series="116964" Issue="767928" />
         </Book>
-        <Book Series="Daredevil Annual" Number="1" Volume="2019" Year="2020">
+        <Book Series="Daredevil Annual" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="129886" Issue="796294" />
         </Book>
         <Book Series="Daredevil" Number="21" Volume="2019" Year="2020">
@@ -82,22 +82,22 @@
         <Book Series="Daredevil" Number="25" Volume="2019" Year="2021">
             <Database Name="cv" Series="116964" Issue="820021" />
         </Book>
-        <Book Series="Taskmaster" Number="1" Volume="2020" Year="2021">
+        <Book Series="Taskmaster" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="131881" Issue="817716" />
         </Book>
-        <Book Series="Taskmaster" Number="2" Volume="2020" Year="2021">
+        <Book Series="Taskmaster" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="131881" Issue="821502" />
         </Book>
-        <Book Series="Taskmaster" Number="3" Volume="2020" Year="2021">
+        <Book Series="Taskmaster" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="131881" Issue="828198" />
         </Book>
-        <Book Series="Taskmaster" Number="4" Volume="2020" Year="2021">
+        <Book Series="Taskmaster" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="131881" Issue="836305" />
         </Book>
-        <Book Series="Taskmaster" Number="5" Volume="2020" Year="2021">
+        <Book Series="Taskmaster" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="131881" Issue="839799" />
         </Book>
-        <Book Series="Widowmakers: Red Guardian and Yelena Belova" Number="1" Volume="2020"
+        <Book Series="Widowmakers: Red Guardian and Yelena Belova" Number="1" Volume="2021"
             Year="2021">
             <Database Name="cv" Series="132131" Issue="819126" />
         </Book>

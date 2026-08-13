@@ -21,19 +21,19 @@
 <Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
 <Database Name="cv" Series="18649" Issue="110030" />
 </Book>
-<Book Series="Origin II" Number="1" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="438379" />
 </Book>
-<Book Series="Origin II" Number="2" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="442927" />
 </Book>
-<Book Series="Origin II" Number="3" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="446487" />
 </Book>
-<Book Series="Origin II" Number="4" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="448974" />
 </Book>
-<Book Series="Origin II" Number="5" Volume="2013" Year="2014">
+<Book Series="Origin II" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="70218" Issue="451771" />
 </Book>
 <Book Series="Logan: Path of the Warlord" Number="1" Volume="1996" Year="1996">
@@ -297,16 +297,16 @@
 <Book Series="Wolverine" Number="16" Volume="1988" Year="1989">
 <Database Name="cv" Series="4250" Issue="64281" />
 </Book>
-<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
 </Book>
-<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29062" />
 </Book>
-<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30644" />
 </Book>
-<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30684" />
 </Book>
 <Book Series="Wolverine" Number="17" Volume="1988" Year="1989">
@@ -1179,40 +1179,40 @@
 <Book Series="Wolverine: Infinity Watch" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117231" Issue="711970" />
 </Book>
-<Book Series="Uncanny X-Men" Number="11" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="11" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="700153" />
 </Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="12" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="701327" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="13" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="702477" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="14" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="703956" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="15" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="705488" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="16" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="706426" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="17" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="707533" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="18" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="709217" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="19" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="710699" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="20" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="711963" />
 </Book>
-<Book Series="Uncanny X-Men" Number="21" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="21" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="713087" />
 </Book>
-<Book Series="Uncanny X-Men" Number="22" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="22" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="713870" />
 </Book>
 <Book Series="House of X" Number="1" Volume="2019" Year="2019">

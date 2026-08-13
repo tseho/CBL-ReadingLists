@@ -4,7 +4,7 @@
     <Name>[Marvel] 2004-2012 Part 9.3 Battle of Manhattan (MG)</Name>
     <NumIssues>25</NumIssues>
     <Books>
-        <Book Series="New Avengers" Number="42" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="42" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="131808" />
         </Book>
         <Book Series="The Mighty Avengers" Number="16" Volume="2007" Year="2008">
@@ -52,7 +52,7 @@
         <Book Series="Secret Invasion" Number="4" Volume="2008" Year="2008">
             <Database Name="cv" Series="21076" Issue="132926" />
         </Book>
-        <Book Series="New Avengers" Number="43" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="43" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="134066" />
         </Book>
         <Book Series="Secret Invasion: Runaways/Young Avengers" Number="3" Volume="2008" Year="2008">
@@ -64,7 +64,7 @@
         <Book Series="Avengers: The Initiative" Number="16" Volume="2007" Year="2008">
             <Database Name="cv" Series="18419" Issue="136535" />
         </Book>
-        <Book Series="Iron Man" Number="33" Volume="2004" Year="2008">
+        <Book Series="Iron Man" Number="33" Volume="2005" Year="2008">
             <Database Name="cv" Series="18220" Issue="138979" />
         </Book>
         <Book Series="Nova" Number="16" Volume="2007" Year="2008">

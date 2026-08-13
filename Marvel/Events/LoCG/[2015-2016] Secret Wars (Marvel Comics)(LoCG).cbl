@@ -21,7 +21,7 @@
 <Book Series="Loki: Agent of Asgard" Number="15" Volume="2014" Year="2015">
 <Database Name="cv" Series="71432" Issue="493045" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="9" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="9" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="491510" />
 </Book>
 <Book Series="Ms. Marvel" Number="16" Volume="2014" Year="2015">
@@ -237,17 +237,29 @@
 <Book Series="Where Monsters Dwell" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82217" Issue="504349" />
 </Book>
-<Book Series="X-Men '92" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="493055" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="490022" />
 </Book>
-<Book Series="X-Men '92" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="496401" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="2" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="491677" />
 </Book>
-<Book Series="X-Men '92" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="498402" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="3" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="493191" />
 </Book>
-<Book Series="X-Men '92" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="501620" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="4" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="494669" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="5" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="496003" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="6" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="497032" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="7" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="498098" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="8" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="499200" />
 </Book>
 <Book Series="Years of Future Past" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82382" Issue="490898" />
@@ -369,16 +381,16 @@
 <Book Series="1602 Witch Hunter Angela" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82472" Issue="502106" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="1" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="491511" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="2" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="495267" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="3" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="498383" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="4" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="501017" />
 </Book>
 <Book Series="Mrs. Deadpool and the Howling Commandos" Number="1" Volume="2015" Year="2015">
@@ -471,13 +483,13 @@
 <Book Series="Secret Wars" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="81833" Issue="493798" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="1" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="495809" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="2" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="497401" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="3" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="499047" />
 </Book>
 <Book Series="Inhumans: Attilan Rising" Number="1" Volume="2015" Year="2015">
@@ -690,7 +702,7 @@
 <Book Series="Silver Surfer" Number="15" Volume="2014" Year="2016">
 <Database Name="cv" Series="72582" Issue="506663" />
 </Book>
-<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2016">
+<Book Series="Secret Wars, Too" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 </Books>

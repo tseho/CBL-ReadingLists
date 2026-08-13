@@ -30,7 +30,7 @@
     <Book Series="Superman: The Man of Steel" Number="9" Volume="2003" Year="2016">
       <Database Name="cv" Series="56984" Issue="556461" />
     </Book>
-    <Book Series="The Superman Post-Crisis Chronology" Number="25" Volume="2015" Year="2015" />
+    <Book Series="Adventures of Superman" Number="25" Volume="1987" Year="2015" />
     <Book Series="The Superman Post-Crisis Chronology" Number="26" Volume="2015" Year="2015" />
     <Book Series="The Superman Post-Crisis Chronology" Number="27" Volume="2015" Year="2015" />
     <Book Series="The Superman Post-Crisis Chronology" Number="28" Volume="2015" Year="2015" />

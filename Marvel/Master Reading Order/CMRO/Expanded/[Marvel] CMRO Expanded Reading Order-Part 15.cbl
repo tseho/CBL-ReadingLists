@@ -144,7 +144,7 @@
 <Book Series="The Punisher War Journal" Number="36" Volume="1988" Year="1991">
 <Database Name="cv" Series="4066" Issue="34888" />
 </Book>
-<Book Series="Marvel Collector's Edition" Number="1" Volume="1992" Year="1992">
+<Book Series="Marvel Collector&apos;s Edition" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="34491" Issue="225063" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="17" Volume="1990" Year="1991">
@@ -222,7 +222,7 @@
 <Book Series="The Amazing Spider-Man" Number="358" Volume="1963" Year="1992">
 <Database Name="cv" Series="2127" Issue="113267" />
 </Book>
-<Book Series="Destroyer" Number="1" Volume="1991" Year="1991">
+<Book Series="The Destroyer" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="34009" Issue="221824" />
 </Book>
 <Book Series="What The--?!" Number="16" Volume="1988" Year="1992">
@@ -342,7 +342,7 @@
 <Book Series="Conan the Barbarian" Number="251" Volume="1970" Year="1991">
 <Database Name="cv" Series="2471" Issue="133888" />
 </Book>
-<Book Series="Destroyer" Number="2" Volume="1992" Year="1992">
+<Book Series="The Destroyer" Number="2" Volume="1991" Year="1992">
 <Database Name="cv" Series="4591" Issue="94537" />
 </Book>
 <Book Series="Wonder Man" Number="3" Volume="1991" Year="1991">
@@ -468,7 +468,7 @@
 <Book Series="Conan the Barbarian" Number="261" Volume="1970" Year="1992">
 <Database Name="cv" Series="2471" Issue="133892" />
 </Book>
-<Book Series="Destroyer" Number="3" Volume="1992" Year="1992">
+<Book Series="The Destroyer" Number="3" Volume="1991" Year="1992">
 <Database Name="cv" Series="4591" Issue="94538" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="359" Volume="1963" Year="1992">
@@ -693,10 +693,10 @@
 <Book Series="The Amazing Spider-Man Battles Ignorance" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="25094" Issue="148169" />
 </Book>
-<Book Series="The 'Nam" Number="65" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="65" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132355" />
 </Book>
-<Book Series="Destroyer" Number="4" Volume="1992" Year="1992">
+<Book Series="The Destroyer" Number="4" Volume="1991" Year="1992">
 <Database Name="cv" Series="4591" Issue="94539" />
 </Book>
 <Book Series="Daredevil" Number="301" Volume="1964" Year="1992">
@@ -978,7 +978,7 @@
 <Book Series="What If...?" Number="34" Volume="1989" Year="1992">
 <Database Name="cv" Series="4249" Issue="35376" />
 </Book>
-<Book Series="The 'Nam" Number="66" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="66" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132356" />
 </Book>
 <Book Series="Moon Knight Special" Number="1" Volume="1992" Year="1992">
@@ -1026,25 +1026,25 @@
 <Book Series="Excalibur" Number="50" Volume="1988" Year="1992">
 <Database Name="cv" Series="4052" Issue="35676" />
 </Book>
-<Book Series="The 'Nam" Number="67" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="67" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132309" />
 </Book>
-<Book Series="The 'Nam" Number="68" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="68" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132308" />
 </Book>
-<Book Series="The 'Nam" Number="69" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="69" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132307" />
 </Book>
-<Book Series="Death's Head II" Number="1" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114879" />
 </Book>
-<Book Series="Death's Head II" Number="2" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114881" />
 </Book>
-<Book Series="Death's Head II" Number="3" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114883" />
 </Book>
-<Book Series="Death's Head II" Number="4" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="19186" Issue="114884" />
 </Book>
 <Book Series="The New Warriors" Number="18" Volume="1990" Year="1991">
@@ -1107,13 +1107,13 @@
 <Book Series="Excalibur" Number="53" Volume="1988" Year="1992">
 <Database Name="cv" Series="4052" Issue="36022" />
 </Book>
-<Book Series="The 'Nam" Number="70" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="70" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132306" />
 </Book>
-<Book Series="The 'Nam" Number="71" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="71" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132305" />
 </Book>
-<Book Series="The 'Nam" Number="72" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="72" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132304" />
 </Book>
 <Book Series="The New Warriors" Number="21" Volume="1990" Year="1992">
@@ -1140,10 +1140,10 @@
 <Book Series="Marvel Age" Number="113" Volume="1983" Year="1992">
 <Database Name="cv" Series="19176" Issue="157247" />
 </Book>
-<Book Series="The 'Nam" Number="73" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="73" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132303" />
 </Book>
-<Book Series="The 'Nam" Number="74" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="74" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132302" />
 </Book>
 <Book Series="Fantastic Four" Number="362" Volume="1961" Year="1992">
@@ -1338,7 +1338,7 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="41" Volume="1988" Year="1992">
 <Database Name="cv" Series="4049" Issue="35700" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="3" Volume="1990" Year="1992">
+<Book Series="Marvel Year-In-Review" Number="3" Volume="1989" Year="1992">
 <Database Name="cv" Series="21201" Issue="150227" />
 </Book>
 <Book Series="Marvel Age" Number="114" Volume="1983" Year="1992">
@@ -1674,19 +1674,19 @@
 <Book Series="Warheads" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="20499" Issue="169027" />
 </Book>
-<Book Series="Hell's Angel" Number="1" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="245666" />
 </Book>
-<Book Series="Hell's Angel" Number="2" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251370" />
 </Book>
-<Book Series="Hell's Angel" Number="3" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251371" />
 </Book>
-<Book Series="Hell's Angel" Number="4" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251372" />
 </Book>
-<Book Series="Hell's Angel" Number="5" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251373" />
 </Book>
 <Book Series="Warheads" Number="3" Volume="1992" Year="1992">
@@ -1785,7 +1785,7 @@
 <Book Series="MyS-Tech Wars" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="20490" Issue="122679" />
 </Book>
-<Book Series="Death's Head II" Number="5" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="5" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122574" />
 </Book>
 <Book Series="Warheads" Number="11" Volume="1992" Year="1993">
@@ -1806,16 +1806,16 @@
 <Book Series="Dark Angel" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="20491" Issue="122934" />
 </Book>
-<Book Series="Death's Head II" Number="6" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="6" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122635" />
 </Book>
-<Book Series="Death's Head II" Number="7" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="7" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122637" />
 </Book>
-<Book Series="Death's Head II" Number="8" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="8" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122636" />
 </Book>
-<Book Series="Death's Head II" Number="9" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="9" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122634" />
 </Book>
 <Book Series="The Sensational She-Hulk" Number="40" Volume="1989" Year="1992">
@@ -1989,13 +1989,13 @@
 <Book Series="Silver Sable and the Wild Pack" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="4810" Issue="68444" />
 </Book>
-<Book Series="Death's Head II" Number="10" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="10" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122713" />
 </Book>
-<Book Series="Death's Head II" Number="11" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="11" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122714" />
 </Book>
-<Book Series="Death's Head II" Number="12" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122715" />
 </Book>
 <Book Series="Web of Spider-Man" Number="91" Volume="1985" Year="1992">
@@ -2040,7 +2040,7 @@
 <Book Series="Doom 2099" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="18445" Issue="111026" />
 </Book>
-<Book Series="Ghost Rider Collector's Edition" Number="1" Volume="1993" Year="1993">
+<Book Series="Ghost Rider Collector&apos;s Edition" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="56842" Issue="384720" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="365" Volume="1963" Year="1992">
@@ -2376,7 +2376,7 @@
 <Book Series="Guardians of the Galaxy" Number="39" Volume="1990" Year="1993">
 <Database Name="cv" Series="4398" Issue="37656" />
 </Book>
-<Book Series="The 'Nam" Number="75" Volume="1986" Year="1992">
+<Book Series="The &apos;Nam" Number="75" Volume="1986" Year="1992">
 <Database Name="cv" Series="19757" Issue="132301" />
 </Book>
 <Book Series="What The--?!" Number="21" Volume="1988" Year="1992">
@@ -2613,10 +2613,10 @@
 <Book Series="The Incredible Hulk" Number="401" Volume="1968" Year="1993">
 <Database Name="cv" Series="2406" Issue="36756" />
 </Book>
-<Book Series="The Punisher 2099" Number="1" Volume="1993" Year="1993">
+<Book Series="Punisher 2099" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="18467" Issue="108383" />
 </Book>
-<Book Series="The Punisher 2099" Number="2" Volume="1993" Year="1993">
+<Book Series="Punisher 2099" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="18467" Issue="108430" />
 </Book>
 <Book Series="Darkhawk" Number="21" Volume="1991" Year="1992">
@@ -2910,7 +2910,7 @@
 <Book Series="The Uncanny X-Men" Number="297" Volume="1981" Year="1993">
 <Database Name="cv" Series="3092" Issue="107105" />
 </Book>
-<Book Series="Stryfe's Strike File" Number="1" Volume="1993" Year="1993">
+<Book Series="Stryfe&apos;s Strike File" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="18149" Issue="106316" />
 </Book>
 <Book Series="The Avengers" Number="355" Volume="1963" Year="1992">
@@ -2991,7 +2991,7 @@
 <Book Series="Warlock and the Infinity Watch" Number="13" Volume="1992" Year="1993">
 <Database Name="cv" Series="4818" Issue="36883" />
 </Book>
-<Book Series="The 'Nam" Number="76" Volume="1986" Year="1993">
+<Book Series="The &apos;Nam" Number="76" Volume="1986" Year="1993">
 <Database Name="cv" Series="19757" Issue="132300" />
 </Book>
 <Book Series="Namorita" Number="1" Volume="1993" Year="1993">

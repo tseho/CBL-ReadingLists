@@ -24,13 +24,13 @@
 <Book Series="Carnage U.S.A." Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="44526" Issue="329224" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="1" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="301508" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="2" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="305691" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="3" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="311835" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="676" Volume="1963" Year="2012">
@@ -51,10 +51,10 @@
 <Book Series="The Amazing Spider-Man" Number="679.1" Volume="1963" Year="2012">
 <Database Name="cv" Series="2127" Issue="315750" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="4" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="315803" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="5" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="324958" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="680" Volume="1963" Year="2012">
@@ -63,7 +63,7 @@
 <Book Series="The Amazing Spider-Man" Number="681" Volume="1963" Year="2012">
 <Database Name="cv" Series="2127" Issue="319360" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="6" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="329213" />
 </Book>
 <Book Series="The Punisher" Number="10" Volume="2016" Year="2017">
@@ -75,10 +75,10 @@
 <Book Series="The Amazing Spider-Man Annual" Number="39" Volume="1964" Year="2012">
 <Database Name="cv" Series="2189" Issue="337485" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="7" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="335249" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="8" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="8" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="341809" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="682" Volume="1963" Year="2012">

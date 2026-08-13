@@ -690,7 +690,7 @@
     <Book Series="Iron Man" Number="305" Volume="1968" Year="1994">
       <Database Name="cv" Series="2407" Issue="134811" />
     </Book>
-    <Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1993" Year="1994">
+    <Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1994" Year="1994">
       <Database Name="cv" Series="18771" Issue="110894" />
     </Book>
     <Book Series="Tales to Astonish" Number="1" Volume="1994" Year="1994">
@@ -825,7 +825,7 @@
     <Book Series="The Incredible Hulk" Number="458" Volume="1968" Year="1997">
       <Database Name="cv" Series="2406" Issue="44295" />
     </Book>
-    <Book Series="The Incredible Hulk '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="The Incredible Hulk &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="60432" Issue="138335" />
     </Book>
     <Book Series="The Incredible Hulk" Number="459" Volume="1968" Year="1997">
@@ -855,7 +855,7 @@
     <Book Series="The Incredible Hulk" Number="467" Volume="1968" Year="1998">
       <Database Name="cv" Series="2406" Issue="152728" />
     </Book>
-    <Book Series="Hulk / Sub-Mariner '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Hulk / Sub-Mariner &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="60434" Issue="138336" />
     </Book>
     <Book Series="The Incredible Hulk" Number="468" Volume="1968" Year="1998">

@@ -15,7 +15,7 @@
 <Book Series="The Amazing Spider-Man" Number="3" Volume="2015" Year="2016">
 <Database Name="cv" Series="85076" Issue="504929" />
 </Book>
-<Book Series="Spider-Woman" Number="1" Volume="2015" Year="2016">
+<Book Series="Spider-Woman" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86127" Issue="506182" />
 </Book>
 <Book Series="Spider-Man" Number="1" Volume="2016" Year="2016">
@@ -51,10 +51,10 @@
 <Book Series="Spider-Man 2099" Number="3" Volume="2015" Year="2016">
 <Database Name="cv" Series="85312" Issue="505524" />
 </Book>
-<Book Series="Silk" Number="1" Volume="2015" Year="2016">
+<Book Series="Silk" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="506662" />
 </Book>
-<Book Series="Silk" Number="2" Volume="2015" Year="2016">
+<Book Series="Silk" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="508436" />
 </Book>
 <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
@@ -81,16 +81,16 @@
 <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="529004" />
 </Book>
-<Book Series="Silk" Number="3" Volume="2015" Year="2016">
+<Book Series="Silk" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="510952" />
 </Book>
-<Book Series="Silk" Number="4" Volume="2015" Year="2016">
+<Book Series="Silk" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="514449" />
 </Book>
-<Book Series="Silk" Number="5" Volume="2015" Year="2016">
+<Book Series="Silk" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="516965" />
 </Book>
-<Book Series="Silk" Number="6" Volume="2015" Year="2016">
+<Book Series="Silk" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="520210" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="4" Volume="2015" Year="2016">
@@ -132,10 +132,10 @@
 <Book Series="The Amazing Spider-Man" Number="8" Volume="2015" Year="2016">
 <Database Name="cv" Series="85076" Issue="516076" />
 </Book>
-<Book Series="All-New Inhumans" Number="5" Volume="2015" Year="2016">
+<Book Series="All-New Inhumans" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86333" Issue="520194" />
 </Book>
-<Book Series="All-New Inhumans" Number="6" Volume="2015" Year="2016">
+<Book Series="All-New Inhumans" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86333" Issue="525017" />
 </Book>
 <Book Series="Agents of S.H.I.E.L.D." Number="5" Volume="2016" Year="2016">

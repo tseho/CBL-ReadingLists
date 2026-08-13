@@ -76,16 +76,16 @@
         <Book Series="She-Hulk" Number="7" Volume="2005" Year="2006">
             <Database Name="cv" Series="18293" Issue="107243" />
         </Book>
-        <Book Series="The Thing" Number="1" Volume="2005" Year="2006">
+        <Book Series="The Thing" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="18242" Issue="106827" />
         </Book>
-        <Book Series="The Thing" Number="2" Volume="2005" Year="2006">
+        <Book Series="The Thing" Number="2" Volume="2006" Year="2006">
             <Database Name="cv" Series="18242" Issue="106852" />
         </Book>
-        <Book Series="The Thing" Number="3" Volume="2005" Year="2006">
+        <Book Series="The Thing" Number="3" Volume="2006" Year="2006">
             <Database Name="cv" Series="18242" Issue="106868" />
         </Book>
-        <Book Series="The Thing" Number="4" Volume="2005" Year="2006">
+        <Book Series="The Thing" Number="4" Volume="2006" Year="2006">
             <Database Name="cv" Series="18242" Issue="106888" />
         </Book>
         <Book Series="Punisher: Silent Night" Number="1" Volume="2006" Year="2006">

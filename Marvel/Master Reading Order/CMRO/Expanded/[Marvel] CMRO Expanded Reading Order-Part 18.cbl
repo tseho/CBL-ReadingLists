@@ -144,10 +144,10 @@
 <Book Series="Doom 2099" Number="25" Volume="1993" Year="1995">
 <Database Name="cv" Series="18445" Issue="134487" />
 </Book>
-<Book Series="The Punisher 2099" Number="25" Volume="1993" Year="1995">
+<Book Series="Punisher 2099" Number="25" Volume="1993" Year="1995">
 <Database Name="cv" Series="18467" Issue="131261" />
 </Book>
-<Book Series="The Punisher 2099" Number="26" Volume="1993" Year="1995">
+<Book Series="Punisher 2099" Number="26" Volume="1993" Year="1995">
 <Database Name="cv" Series="18467" Issue="131262" />
 </Book>
 <Book Series="Midnight Sons Unlimited" Number="8" Volume="1993" Year="1995">
@@ -918,7 +918,7 @@
 <Book Series="X-Calibre" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40600" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="1" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40588" />
 </Book>
 <Book Series="Generation Next" Number="1" Volume="1995" Year="1995">
@@ -945,7 +945,7 @@
 <Book Series="Weapon X" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5564" Issue="40733" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="2" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40728" />
 </Book>
 <Book Series="Astonishing X-Men" Number="2" Volume="1995" Year="1995">
@@ -972,7 +972,7 @@
 <Book Series="Age of Apocalypse: The Chosen" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18065" Issue="105758" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="3" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40852" />
 </Book>
 <Book Series="Weapon X" Number="3" Volume="1995" Year="1995">
@@ -1002,7 +1002,7 @@
 <Book Series="X-Universe" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5572" Issue="40988" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="4" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40976" />
 </Book>
 <Book Series="Amazing X-Men" Number="4" Volume="1995" Year="1995">
@@ -1212,7 +1212,7 @@
 <Book Series="X-Factor" Number="113" Volume="1986" Year="1995">
 <Database Name="cv" Series="3657" Issue="107197" />
 </Book>
-<Book Series="Beavis &#38; Butt-Head" Number="14" Volume="1994" Year="1995">
+<Book Series="Beavis &amp; Butt-Head" Number="14" Volume="1994" Year="1995">
 <Database Name="cv" Series="21508" Issue="164394" />
 </Book>
 <Book Series="Spider-Man 2099 Meets Spider-Man" Number="1" Volume="1995" Year="1995">
@@ -1521,7 +1521,7 @@
 <Book Series="Spider-Man: Legacy of Evil" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="20324" Issue="121394" />
 </Book>
-<Book Series="Wolverine '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Wolverine &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="27130" Issue="164831" />
 </Book>
 <Book Series="The Incredible Hulk" Number="429" Volume="1968" Year="1995">
@@ -1869,7 +1869,7 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="79" Volume="1988" Year="1995">
 <Database Name="cv" Series="4049" Issue="41140" />
 </Book>
-<Book Series="X-Men '95" Number="1" Volume="1995" Year="1995">
+<Book Series="X-Men &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="60462" Issue="178116" />
 </Book>
 <Book Series="Daredevil" Number="343" Volume="1964" Year="1995">
@@ -2298,7 +2298,7 @@
 <Book Series="Spider-Man Magazine" Number="14" Volume="1994" Year="1995">
 <Database Name="cv" Series="25460" Issue="845534" />
 </Book>
-<Book Series="The Punisher 2099" Number="27" Volume="1993" Year="1995">
+<Book Series="Punisher 2099" Number="27" Volume="1993" Year="1995">
 <Database Name="cv" Series="18467" Issue="131263" />
 </Book>
 <Book Series="Sovereign Seven" Number="1" Volume="1995" Year="1995">
@@ -2532,7 +2532,7 @@
 <Book Series="Spider-Man: The Parker Years" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="20257" Issue="120918" />
 </Book>
-<Book Series="Uncanny X-Men '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Uncanny X-Men &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="60468" Issue="136045" />
 </Book>
 <Book Series="Europa" Number="1" Volume="1996" Year="1996">
@@ -2598,7 +2598,7 @@
 <Book Series="The New Warriors" Number="65" Volume="1990" Year="1995">
 <Database Name="cv" Series="4407" Issue="105500" />
 </Book>
-<Book Series="Generation X '95" Number="1" Volume="1995" Year="1995">
+<Book Series="Generation X &apos;95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18594" Issue="109694" />
 </Book>
 <Book Series="Generation X" Number="10" Volume="1994" Year="1995">

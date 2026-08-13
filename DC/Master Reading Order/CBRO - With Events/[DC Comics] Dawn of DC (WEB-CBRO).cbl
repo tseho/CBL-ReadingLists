@@ -420,10 +420,10 @@
 <Book Series="Knight Terrors: Detective Comics" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="152513" Issue="1010069" />
 </Book>
-<Book Series="Knight Terrors: The  Flash" Number="1" Volume="2023" Year="2023">
+<Book Series="Knight Terrors: The Flash" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152093" Issue="1000083" />
 </Book>
-<Book Series="Knight Terrors: The  Flash" Number="2" Volume="2023" Year="2023">
+<Book Series="Knight Terrors: The Flash" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="152093" Issue="1006525" />
 </Book>
 <Book Series="Knight Terrors: Green Lantern" Number="1" Volume="2023" Year="2023">
@@ -510,7 +510,7 @@
 <Book Series="Knight Terrors: Zatanna" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="152097" Issue="1006528" />
 </Book>
-<Book Series="Knight Terrors: Night's End" Number="1" Volume="2023" Year="2023">
+<Book Series="Knight Terrors: Night&apos;s End" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153239" Issue="1011356" />
 </Book>
 <Book Series="Shazam!" Number="3" Volume="2023" Year="2023">

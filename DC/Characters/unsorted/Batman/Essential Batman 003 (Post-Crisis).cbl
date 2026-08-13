@@ -222,7 +222,7 @@
 <Book Series="Superman/Batman" Number="6" Volume="2003" Year="2004">
 <Database Name="cv" Series="10938" Issue="93957" />
 </Book>
-<Book Series="Batman:  War Drums" Number="1" Volume="2004" Year="2004">
+<Book Series="Batman: War Drums" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="35842" Issue="237105" />
 </Book>
 <Book Series="Gotham Central" Number="3" Volume="2008" Year="2010">

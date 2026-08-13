@@ -6,7 +6,7 @@
 <Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="576629" />
 </Book>
-<Book Series="Avengers" Number="1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="556467" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="1" Volume="2016" Year="2016">
@@ -15,7 +15,7 @@
 <Book Series="Monsters Unleashed!" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="579318" />
 </Book>
-<Book Series="All-New X-Men" Number="1" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="507175" />
 </Book>
 <Book Series="Monsters Unleashed!" Number="3" Volume="2017" Year="2017">
@@ -33,7 +33,7 @@
 <Book Series="Monsters Unleashed!" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="583724" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="1" Volume="2015" Year="2016">
+<Book Series="The Totally Awesome Hulk" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86408" Issue="507189" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="1" Volume="2023" Year="2023">

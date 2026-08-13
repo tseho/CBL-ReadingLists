@@ -522,22 +522,22 @@
 <Book Series="Wolverine" Number="176" Volume="1988" Year="2002">
 <Database Name="cv" Series="4250" Issue="114943" />
 </Book>
-<Book Series="Captain Marvel" Number="22" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="22" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80560" />
 </Book>
-<Book Series="Captain Marvel" Number="23" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="23" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80561" />
 </Book>
-<Book Series="Captain Marvel" Number="24" Volume="2000" Year="2001">
+<Book Series="Captain Marvel" Number="24" Volume="1999" Year="2001">
 <Database Name="cv" Series="6458" Issue="80562" />
 </Book>
-<Book Series="Captain Marvel" Number="25" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="25" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80563" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="37" Volume="1999" Year="2002">
 <Database Name="cv" Series="9142" Issue="68514" />
 </Book>
-<Book Series="Captain Marvel" Number="26" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="26" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80564" />
 </Book>
 <Book Series="Iron Man" Number="50" Volume="1998" Year="2002">
@@ -684,19 +684,19 @@
 <Book Series="Iron Man" Number="58" Volume="1998" Year="2002">
 <Database Name="cv" Series="6504" Issue="131900" />
 </Book>
-<Book Series="Captain Marvel" Number="27" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="27" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80565" />
 </Book>
-<Book Series="Captain Marvel" Number="28" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="28" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80566" />
 </Book>
-<Book Series="Captain Marvel" Number="29" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="29" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80567" />
 </Book>
-<Book Series="Captain Marvel" Number="30" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="30" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80568" />
 </Book>
-<Book Series="Captain Marvel" Number="31" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="31" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80569" />
 </Book>
 <Book Series="Incredible Hulk" Number="33" Volume="2000" Year="2001">
@@ -1161,28 +1161,28 @@
 <Book Series="Peter Parker: Spider-Man" Number="49" Volume="1999" Year="2002">
 <Database Name="cv" Series="9142" Issue="113660" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="1" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128474" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="2" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128475" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="3" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128476" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="4" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128477" />
 </Book>
-<Book Series="Captain Marvel" Number="32" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="32" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80570" />
 </Book>
-<Book Series="Captain Marvel" Number="33" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="33" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80571" />
 </Book>
-<Book Series="Captain Marvel" Number="34" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="34" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="106951" />
 </Book>
-<Book Series="Captain Marvel" Number="35" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="35" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="106952" />
 </Book>
 <Book Series="Weapon X: The Draft - Sauron" Number="1" Volume="2002" Year="2002">

@@ -49,7 +49,7 @@
         <Book Series="Ghost Rider" Number="11" Volume="2006" Year="2007">
             <Database Name="cv" Series="18138" Issue="109560" />
         </Book>
-        <Book Series="Captain America" Number="25" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="25" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="106788" />
         </Book>
         <Book Series="Punisher War Journal" Number="5" Volume="2007" Year="2007">

@@ -204,16 +204,16 @@
     <Book Series="Spectacular Spider-Man" Number="22" Volume="2003" Year="2005">
       <Database Name="cv" Series="11069" Issue="101138" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="1" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="1" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="105549" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="2" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="2" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="105568" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="5" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="5" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="105632" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="6" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="6" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="105633" />
     </Book>
     <Book Series="Spider-Man Unlimited" Number="8" Volume="2004" Year="2005">
@@ -255,22 +255,22 @@
     <Book Series="Spider-Man Unlimited" Number="11" Volume="2004" Year="2005">
       <Database Name="cv" Series="11306" Issue="114315" />
     </Book>
-    <Book Series="New Avengers" Number="1" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="1" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="101407" />
     </Book>
-    <Book Series="New Avengers" Number="2" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="2" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="101408" />
     </Book>
-    <Book Series="New Avengers" Number="3" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="3" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="101409" />
     </Book>
-    <Book Series="New Avengers" Number="4" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="4" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108304" />
     </Book>
-    <Book Series="New Avengers" Number="5" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="5" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108305" />
     </Book>
-    <Book Series="New Avengers" Number="6" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="6" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108306" />
     </Book>
     <Book Series="Spider-Man: Breakout" Number="1" Volume="2005" Year="2005">
@@ -288,31 +288,31 @@
     <Book Series="Spider-Man: Breakout" Number="5" Volume="2005" Year="2005">
       <Database Name="cv" Series="19688" Issue="118225" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="7" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="7" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120881" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="10" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="10" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120885" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="11" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="11" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120886" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="12" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="12" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120887" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="13" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="13" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120888" />
     </Book>
-    <Book Series="New Avengers" Number="7" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="7" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108307" />
     </Book>
-    <Book Series="New Avengers" Number="8" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="8" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108308" />
     </Book>
-    <Book Series="New Avengers" Number="9" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="9" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108309" />
     </Book>
-    <Book Series="New Avengers" Number="10" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="10" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108312" />
     </Book>
     <Book Series="Spider-Man Unlimited" Number="12" Volume="2004" Year="2006">
@@ -441,22 +441,22 @@
     <Book Series="House of M" Number="8" Volume="2005" Year="2005">
       <Database Name="cv" Series="12049" Issue="104868" />
     </Book>
-    <Book Series="New Avengers" Number="11" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="11" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108314" />
     </Book>
-    <Book Series="New Avengers" Number="12" Volume="2004" Year="2005">
+    <Book Series="New Avengers" Number="12" Volume="2005" Year="2005">
       <Database Name="cv" Series="11497" Issue="108315" />
     </Book>
-    <Book Series="New Avengers" Number="13" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="13" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="108316" />
     </Book>
-    <Book Series="New Avengers" Number="14" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="14" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="108317" />
     </Book>
-    <Book Series="New Avengers" Number="15" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="15" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="108318" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="14" Volume="2004" Year="2006">
+    <Book Series="Marvel Team-Up" Number="14" Volume="2005" Year="2006">
       <Database Name="cv" Series="18024" Issue="120889" />
     </Book>
     <Book Series="Spider-Man and the Fantastic Four" Number="1" Volume="2007" Year="2007">
@@ -594,19 +594,19 @@
     <Book Series="Spider-Man Unlimited" Number="15" Volume="2004" Year="2006">
       <Database Name="cv" Series="11306" Issue="114320" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="21" Volume="2004" Year="2006">
+    <Book Series="Marvel Team-Up" Number="21" Volume="2005" Year="2006">
       <Database Name="cv" Series="18024" Issue="109928" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="23" Volume="2004" Year="2006">
+    <Book Series="Marvel Team-Up" Number="23" Volume="2005" Year="2006">
       <Database Name="cv" Series="18024" Issue="120880" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="24" Volume="2004" Year="2006">
+    <Book Series="Marvel Team-Up" Number="24" Volume="2005" Year="2006">
       <Database Name="cv" Series="18024" Issue="108310" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="25" Volume="2004" Year="2006">
+    <Book Series="Marvel Team-Up" Number="25" Volume="2005" Year="2006">
       <Database Name="cv" Series="18024" Issue="120890" />
     </Book>
-    <Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
+    <Book Series="New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="18180" Issue="106482" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="530" Volume="1963" Year="2006">
@@ -633,7 +633,7 @@
     <Book Series="The Amazing Spider-Man" Number="533" Volume="1963" Year="2006">
       <Database Name="cv" Series="2127" Issue="106137" />
     </Book>
-    <Book Series="New Avengers" Number="21" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="21" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="107893" />
     </Book>
     <Book Series="The Sensational Spider-Man" Number="28" Volume="2006" Year="2006">
@@ -648,7 +648,7 @@
     <Book Series="Friendly Neighborhood Spider-Man" Number="13" Volume="2005" Year="2006">
       <Database Name="cv" Series="17998" Issue="105386" />
     </Book>
-    <Book Series="New Avengers" Number="22" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="22" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="107895" />
     </Book>
     <Book Series="Daily Bugle Civil War Newspaper Special" Number="1" Volume="2006" Year="2006">
@@ -669,7 +669,7 @@
     <Book Series="Civil War: Front Line" Number="5" Volume="2006" Year="2006">
       <Database Name="cv" Series="18245" Issue="108696" />
     </Book>
-    <Book Series="New Avengers" Number="23" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="23" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="108038" />
     </Book>
     <Book Series="Civil War" Number="3" Volume="2006" Year="2006">
@@ -681,13 +681,13 @@
     <Book Series="The Amazing Spider-Man" Number="535" Volume="1963" Year="2006">
       <Database Name="cv" Series="2127" Issue="105556" />
     </Book>
-    <Book Series="New Avengers" Number="24" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="24" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="108039" />
     </Book>
     <Book Series="Civil War" Number="5" Volume="2006" Year="2006">
       <Database Name="cv" Series="18023" Issue="106999" />
     </Book>
-    <Book Series="New Avengers" Number="25" Volume="2004" Year="2006">
+    <Book Series="New Avengers" Number="25" Volume="2005" Year="2006">
       <Database Name="cv" Series="11497" Issue="108040" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="536" Volume="1963" Year="2006">
@@ -702,7 +702,7 @@
     <Book Series="The Sensational Spider-Man" Number="34" Volume="2006" Year="2007">
       <Database Name="cv" Series="18177" Issue="113628" />
     </Book>
-    <Book Series="Iron Man" Number="14" Volume="2004" Year="2007">
+    <Book Series="Iron Man" Number="14" Volume="2005" Year="2007">
       <Database Name="cv" Series="18220" Issue="111399" />
     </Book>
     <Book Series="Friendly Neighborhood Spider-Man" Number="14" Volume="2005" Year="2007">

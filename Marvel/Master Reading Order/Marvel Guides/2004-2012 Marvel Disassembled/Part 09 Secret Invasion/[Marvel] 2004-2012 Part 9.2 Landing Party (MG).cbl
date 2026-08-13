@@ -25,7 +25,7 @@
         <Book Series="Secret Invasion: Fantastic Four" Number="2" Volume="2008" Year="2008">
             <Database Name="cv" Series="21574" Issue="131504" />
         </Book>
-        <Book Series="New Avengers" Number="40" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="40" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="128969" />
         </Book>
         <Book Series="Secret Invasion" Number="2" Volume="2008" Year="2008">
@@ -34,7 +34,7 @@
         <Book Series="Secret Invasion: Who Do You Trust?" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="21811" Issue="131439" />
         </Book>
-        <Book Series="New Avengers" Number="41" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="41" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="130973" />
         </Book>
         <Book Series="The Mighty Avengers" Number="14" Volume="2007" Year="2008">

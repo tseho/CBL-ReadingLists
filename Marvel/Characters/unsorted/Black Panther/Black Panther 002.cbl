@@ -54,22 +54,22 @@
     <Book Series="Black Panther" Number="12" Volume="2016" Year="2017">
       <Database Name="cv" Series="89350" Issue="588556" />
     </Book>
-    <Book Series="Black Panther: World of Wakanda" Number="1" Volume="2016" Year="2017">
+    <Book Series="Black Panther: World of Wakanda" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="95579" Issue="557357" />
     </Book>
-    <Book Series="Black Panther: World of Wakanda" Number="2" Volume="2016" Year="2017">
+    <Book Series="Black Panther: World of Wakanda" Number="2" Volume="2017" Year="2017">
       <Database Name="cv" Series="95579" Issue="569325" />
     </Book>
-    <Book Series="Black Panther: World of Wakanda" Number="3" Volume="2016" Year="2017">
+    <Book Series="Black Panther: World of Wakanda" Number="3" Volume="2017" Year="2017">
       <Database Name="cv" Series="95579" Issue="576615" />
     </Book>
-    <Book Series="Black Panther: World of Wakanda" Number="4" Volume="2016" Year="2017">
+    <Book Series="Black Panther: World of Wakanda" Number="4" Volume="2017" Year="2017">
       <Database Name="cv" Series="95579" Issue="581547" />
     </Book>
-    <Book Series="Black Panther: World of Wakanda" Number="5" Volume="2016" Year="2017">
+    <Book Series="Black Panther: World of Wakanda" Number="5" Volume="2017" Year="2017">
       <Database Name="cv" Series="95579" Issue="587401" />
     </Book>
-    <Book Series="Black Panther: World of Wakanda" Number="6" Volume="2016" Year="2017">
+    <Book Series="Black Panther: World of Wakanda" Number="6" Volume="2017" Year="2017">
       <Database Name="cv" Series="95579" Issue="592590" />
     </Book>
     <Book Series="Black Panther and the Crew" Number="1" Volume="2017" Year="2017">

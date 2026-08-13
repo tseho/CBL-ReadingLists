@@ -18,7 +18,7 @@
 <Book Series="Asgardians of the Galaxy" Number="5" Volume="2018" Year="2019">
 <Database Name="cv" Series="113217" Issue="697625" />
 </Book>
-<Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116068" Issue="695637" />
 </Book>
 <Book Series="Infinity Wars: Infinity" Number="1" Volume="2019" Year="2019">

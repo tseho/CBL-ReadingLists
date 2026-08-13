@@ -42,16 +42,16 @@
         <Book Series="X-Men" Number="3" Volume="2019" Year="2020">
             <Database Name="cv" Series="122077" Issue="729692" />
         </Book>
-        <Book Series="Fallen Angels" Number="1" Volume="2019" Year="2020">
+        <Book Series="Fallen Angels" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="122814" Issue="727257" />
         </Book>
-        <Book Series="Fallen Angels" Number="2" Volume="2019" Year="2020">
+        <Book Series="Fallen Angels" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="122814" Issue="728972" />
         </Book>
-        <Book Series="Fallen Angels" Number="3" Volume="2019" Year="2020">
+        <Book Series="Fallen Angels" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="122814" Issue="730333" />
         </Book>
-        <Book Series="Fallen Angels" Number="4" Volume="2019" Year="2020">
+        <Book Series="Fallen Angels" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="122814" Issue="731511" />
         </Book>
         <Book Series="X-Force" Number="2" Volume="2020" Year="2020">
@@ -72,10 +72,10 @@
         <Book Series="New Mutants" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="735526" />
         </Book>
-        <Book Series="Fallen Angels" Number="5" Volume="2019" Year="2020">
+        <Book Series="Fallen Angels" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="122814" Issue="732878" />
         </Book>
-        <Book Series="Fallen Angels" Number="6" Volume="2019" Year="2020">
+        <Book Series="Fallen Angels" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="122814" Issue="735522" />
         </Book>
         <Book Series="Invaders" Number="9" Volume="2019" Year="2019">

@@ -102,34 +102,34 @@
 <Book Series="She-Hulk" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="71612" Issue="459681" />
 </Book>
-<Book Series="Deadpool" Number="26" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="448965" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="1" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="459170" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="2" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="459671" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="3" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="460312" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="4" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="461723" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="5" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="461724" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="6" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="462249" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="7" Volume="2014" Year="2014">
+<Book Series="Deadpool: Dracula&apos;s Gauntlet" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="75556" Issue="462889" />
 </Book>
-<Book Series="Deadpool" Number="27" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="450073" />
 </Book>
-<Book Series="Deadpool" Number="28" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="452851" />
 </Book>
 <Book Series="Wolverine" Number="1" Volume="2014" Year="2014">
@@ -258,7 +258,7 @@
 <Book Series="Superior Spider-Man" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="55552" Issue="447516" />
 </Book>
-<Book Series="Superior Spider-Man Annual" Number="2" Volume="2013" Year="2014">
+<Book Series="Superior Spider-Man Annual" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69348" Issue="448003" />
 </Book>
 <Book Series="Superior Spider-Man Team-Up" Number="11" Volume="2013" Year="2014">
@@ -396,22 +396,22 @@
 <Book Series="Magneto" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="72111" Issue="453415" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="446927" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="448008" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="3" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="450561" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="4" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="453423" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="5" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="456559" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="6" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="460319" />
 </Book>
 <Book Series="Daredevil" Number="2" Volume="2014" Year="2014">
@@ -474,19 +474,19 @@
 <Book Series="Iron Man" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53725" Issue="456549" />
 </Book>
-<Book Series="All-New X-Men" Number="22" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="22" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="442912" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2013" Year="2014">
 <Database Name="cv" Series="57960" Issue="443982" />
 </Book>
-<Book Series="All-New X-Men" Number="23" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="445174" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="12" Volume="2013" Year="2014">
 <Database Name="cv" Series="57960" Issue="446482" />
 </Book>
-<Book Series="All-New X-Men" Number="24" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="447504" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="13" Volume="2013" Year="2014">
@@ -624,22 +624,22 @@
 <Book Series="Daredevil" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="72417" Issue="459167" />
 </Book>
-<Book Series="Deadpool Annual" Number="2" Volume="2013" Year="2014">
+<Book Series="Deadpool Annual" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69572" Issue="453412" />
 </Book>
-<Book Series="All-New X-Men" Number="25" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="450068" />
 </Book>
-<Book Series="All-New X-Men" Number="26" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="451763" />
 </Book>
-<Book Series="All-New X-Men" Number="27" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="452845" />
 </Book>
-<Book Series="All-New X-Men" Number="28" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="456017" />
 </Book>
-<Book Series="All-New X-Men" Number="29" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="459161" />
 </Book>
 <Book Series="X-Men: No More Humans" Number="1" Volume="2014" Year="2014">
@@ -750,13 +750,13 @@
 <Book Series="Amazing X-Men" Number="13" Volume="2014" Year="2015">
 <Database Name="cv" Series="68919" Issue="471312" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="7" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="462262" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="8" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="8" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="463491" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="9" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="465854" />
 </Book>
 <Book Series="Giant-Size Spider-Man" Number="1" Volume="2014" Year="2014">
@@ -801,16 +801,16 @@
 <Book Series="Nova" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="57535" Issue="453416" />
 </Book>
-<Book Series="Avengers" Number="25" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="442913" />
 </Book>
-<Book Series="Avengers" Number="26" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="445176" />
 </Book>
-<Book Series="Avengers" Number="27" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="448962" />
 </Book>
-<Book Series="Avengers" Number="28" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="451765" />
 </Book>
 <Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
@@ -825,13 +825,13 @@
 <Book Series="Uncanny X-Men" Number="22" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="456558" />
 </Book>
-<Book Series="Uncanny X-Men Annual" Number="1" Volume="2014" Year="2015">
+<Book Series="Uncanny X-Men Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78718" Issue="472914" />
 </Book>
-<Book Series="All-New X-Men Annual" Number="1" Volume="2016" Year="2017">
+<Book Series="All-New X-Men Annual" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95807" Issue="558952" />
 </Book>
-<Book Series="All-New X-Men" Number="30" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="462241" />
 </Book>
 <Book Series="New Avengers" Number="16" Volume="2013" Year="2014">
@@ -924,22 +924,22 @@
 <Book Series="Daredevil" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="72417" Issue="462887" />
 </Book>
-<Book Series="Deadpool" Number="29" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="454095" />
 </Book>
-<Book Series="Deadpool" Number="30" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="456022" />
 </Book>
-<Book Series="Deadpool" Number="31" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="459169" />
 </Book>
-<Book Series="Deadpool" Number="32" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="460311" />
 </Book>
-<Book Series="Deadpool" Number="33" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="462248" />
 </Book>
-<Book Series="Deadpool" Number="34" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="34" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="464977" />
 </Book>
 <Book Series="Original Sin" Number="3" Volume="2014" Year="2014">
@@ -990,22 +990,22 @@
 <Book Series="All-New Invaders" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="71064" Issue="459160" />
 </Book>
-<Book Series="Avengers" Number="29" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="452846" />
 </Book>
-<Book Series="Avengers" Number="30" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="454094" />
 </Book>
-<Book Series="Avengers" Number="31" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="456544" />
 </Book>
-<Book Series="Avengers" Number="32" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="459164" />
 </Book>
-<Book Series="Avengers" Number="33" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="460962" />
 </Book>
-<Book Series="Avengers" Number="34" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="34" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="463478" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="18" Volume="2013" Year="2014">
@@ -1077,7 +1077,7 @@
 <Book Series="Thor: God of Thunder" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="53920" Issue="465851" />
 </Book>
-<Book Series="All-New X-Men" Number="31" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="463476" />
 </Book>
 <Book Series="Uncanny X-Men" Number="26" Volume="2013" Year="2014">
@@ -1098,19 +1098,19 @@
 <Book Series="Uncanny X-Men" Number="31" Volume="2013" Year="2015">
 <Database Name="cv" Series="57181" Issue="479985" />
 </Book>
-<Book Series="All-New X-Men" Number="32" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="465836" />
 </Book>
-<Book Series="All-New X-Men" Number="33" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="468900" />
 </Book>
-<Book Series="All-New X-Men" Number="34" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="34" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="473638" />
 </Book>
-<Book Series="All-New X-Men" Number="35" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="35" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="476778" />
 </Book>
-<Book Series="All-New X-Men" Number="36" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="36" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="479253" />
 </Book>
 <Book Series="Savage Wolverine" Number="18" Volume="2013" Year="2014">
@@ -1215,7 +1215,7 @@
 <Book Series="X-Force" Number="9" Volume="2014" Year="2014">
 <Database Name="cv" Series="71614" Issue="464991" />
 </Book>
-<Book Series="Guardians of the Galaxy: Galaxy's Most Wanted" Number="1" Volume="2014" Year="2014">
+<Book Series="Guardians of the Galaxy: Galaxy&apos;s Most Wanted" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="75360" Issue="458617" />
 </Book>
 <Book Series="Legendary Star-Lord" Number="1" Volume="2014" Year="2014">
@@ -1518,7 +1518,7 @@
 <Book Series="Uncanny Avengers" Number="23" Volume="2012" Year="2014">
 <Database Name="cv" Series="52880" Issue="463489" />
 </Book>
-<Book Series="Deadpool" Number="35" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="35" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="466325" />
 </Book>
 <Book Series="Captain America" Number="22" Volume="2013" Year="2014">
@@ -1557,19 +1557,19 @@
 <Book Series="Death of Wolverine" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="76710" Issue="468075" />
 </Book>
-<Book Series="Death of Wolverine: The Weapon X Program" Number="1" Volume="2014" Year="2015">
+<Book Series="Death of Wolverine: The Weapon X Program" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="77940" Issue="469492" />
 </Book>
-<Book Series="Death of Wolverine: The Weapon X Program" Number="2" Volume="2014" Year="2015">
+<Book Series="Death of Wolverine: The Weapon X Program" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="77940" Issue="470425" />
 </Book>
-<Book Series="Death of Wolverine: The Weapon X Program" Number="3" Volume="2014" Year="2015">
+<Book Series="Death of Wolverine: The Weapon X Program" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="77940" Issue="471963" />
 </Book>
-<Book Series="Death of Wolverine: The Weapon X Program" Number="4" Volume="2014" Year="2015">
+<Book Series="Death of Wolverine: The Weapon X Program" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="77940" Issue="473645" />
 </Book>
-<Book Series="Death of Wolverine: The Weapon X Program" Number="5" Volume="2014" Year="2015">
+<Book Series="Death of Wolverine: The Weapon X Program" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="77940" Issue="475454" />
 </Book>
 <Book Series="Storm" Number="4" Volume="2014" Year="2014">
@@ -1581,16 +1581,16 @@
 <Book Series="Nightcrawler" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="72934" Issue="467653" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="10" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="10" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="468092" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="11" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="11" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="468916" />
 </Book>
-<Book Series="Death of Wolverine: Life After Logan" Number="1" Volume="2014" Year="2015">
+<Book Series="Death of Wolverine: Life After Logan" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="77939" Issue="469491" />
 </Book>
-<Book Series="Death of Wolverine: Deadpool &#38; Captain America" Number="1" Volume="2014" Year="2014">
+<Book Series="Death of Wolverine: Deadpool &amp; Captain America" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77807" Issue="468903" />
 </Book>
 <Book Series="Death of Wolverine: The Logan Legacy" Number="1" Volume="2014" Year="2014">
@@ -1617,10 +1617,10 @@
 <Book Series="Uncanny Avengers" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="52880" Issue="467043" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="1" Volume="2014" Year="2014">
+<Book Series="Avengers &amp; X-Men: Axis" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77424" Issue="467648" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="2" Volume="2014" Year="2014">
+<Book Series="Avengers &amp; X-Men: Axis" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="77424" Issue="468072" />
 </Book>
 <Book Series="Loki: Agent of Asgard" Number="7" Volume="2014" Year="2014">
@@ -1632,10 +1632,10 @@
 <Book Series="All-New X-Factor" Number="15" Volume="2014" Year="2014">
 <Database Name="cv" Series="70703" Issue="468454" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="3" Volume="2014" Year="2014">
+<Book Series="Avengers &amp; X-Men: Axis" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="77424" Issue="468458" />
 </Book>
-<Book Series="Deadpool" Number="36" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="36" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="468461" />
 </Book>
 <Book Series="Magneto" Number="12" Volume="2014" Year="2015">
@@ -1659,31 +1659,31 @@
 <Book Series="Axis: Carnage" Number="3" Volume="2014" Year="2015">
 <Database Name="cv" Series="77805" Issue="472903" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="4" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="4" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="469488" />
 </Book>
 <Book Series="Amazing X-Men" Number="14" Volume="2014" Year="2015">
 <Database Name="cv" Series="68919" Issue="472899" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="12" Volume="2014" Year="2015">
+<Book Series="Wolverine &amp; the X-Men" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="72113" Issue="471326" />
 </Book>
 <Book Series="Axis: Hobgoblin" Number="2" Volume="2014" Year="2015">
 <Database Name="cv" Series="77691" Issue="469827" />
 </Book>
-<Book Series="Superior Iron Man" Number="1" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="469843" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="1" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="469829" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="2" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="471313" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="3" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="474622" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="5" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="5" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="469826" />
 </Book>
 <Book Series="Nova" Number="23" Volume="2013" Year="2015">
@@ -1698,10 +1698,10 @@
 <Book Series="Inhuman" Number="10" Volume="2014" Year="2015">
 <Database Name="cv" Series="72791" Issue="473649" />
 </Book>
-<Book Series="Deadpool" Number="37" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="37" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="470424" />
 </Book>
-<Book Series="Deadpool" Number="38" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="471962" />
 </Book>
 <Book Series="Axis: Revolutions" Number="2" Volume="2014" Year="2015">
@@ -1728,37 +1728,37 @@
 <Book Series="Axis: Revolutions" Number="4" Volume="2014" Year="2015">
 <Database Name="cv" Series="77806" Issue="473641" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="6" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="6" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="470419" />
 </Book>
-<Book Series="Superior Iron Man" Number="2" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="471325" />
 </Book>
-<Book Series="Superior Iron Man" Number="3" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="474636" />
 </Book>
-<Book Series="Superior Iron Man" Number="4" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="476796" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="7" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="7" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="472901" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="8" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="473639" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="9" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="474621" />
 </Book>
 <Book Series="Loki: Agent of Asgard" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="71432" Issue="474629" />
 </Book>
-<Book Series="Deadpool" Number="39" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="474626" />
 </Book>
 <Book Series="Nova" Number="25" Volume="2013" Year="2015">
 <Database Name="cv" Series="57535" Issue="474633" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="4" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="476782" />
 </Book>
 <Book Series="Thor" Number="1" Volume="2014" Year="2014">
@@ -1785,7 +1785,7 @@
 <Book Series="Storm" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="75874" Issue="479984" />
 </Book>
-<Book Series="Superior Iron Man" Number="5" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="480683" />
 </Book>
 <Book Series="Magneto" Number="13" Volume="2014" Year="2015">
@@ -1899,7 +1899,7 @@
 <Book Series="The Punisher" Number="18" Volume="2014" Year="2015">
 <Database Name="cv" Series="71435" Issue="487840" />
 </Book>
-<Book Series="Amazing Spider-Man Annual" Number="1" Volume="2014" Year="2015">
+<Book Series="Amazing Spider-Man Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78715" Issue="472898" />
 </Book>
 <Book Series="Nightcrawler" Number="8" Volume="2014" Year="2015">
@@ -1938,16 +1938,16 @@
 <Book Series="X-Force" Number="15" Volume="2014" Year="2015">
 <Database Name="cv" Series="71614" Issue="479267" />
 </Book>
-<Book Series="Superior Iron Man" Number="6" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="482167" />
 </Book>
-<Book Series="Superior Iron Man" Number="7" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="7" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="486154" />
 </Book>
-<Book Series="Superior Iron Man" Number="8" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="8" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="487218" />
 </Book>
-<Book Series="Superior Iron Man" Number="9" Volume="2014" Year="2015">
+<Book Series="Superior Iron Man" Number="9" Volume="2015" Year="2015">
 <Database Name="cv" Series="78048" Issue="490892" />
 </Book>
 <Book Series="Amazing X-Men" Number="15" Volume="2014" Year="2015">
@@ -2052,22 +2052,22 @@
 <Book Series="Hulk" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="73100" Issue="465844" />
 </Book>
-<Book Series="Angela: Asgard's Assassin" Number="1" Volume="2014" Year="2015">
+<Book Series="Angela: Asgard&apos;s Assassin" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78548" Issue="471959" />
 </Book>
-<Book Series="Angela: Asgard's Assassin" Number="2" Volume="2014" Year="2015">
+<Book Series="Angela: Asgard&apos;s Assassin" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78548" Issue="475451" />
 </Book>
-<Book Series="Angela: Asgard's Assassin" Number="3" Volume="2014" Year="2015">
+<Book Series="Angela: Asgard&apos;s Assassin" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78548" Issue="478604" />
 </Book>
-<Book Series="Angela: Asgard's Assassin" Number="4" Volume="2014" Year="2015">
+<Book Series="Angela: Asgard&apos;s Assassin" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78548" Issue="481604" />
 </Book>
-<Book Series="Angela: Asgard's Assassin" Number="5" Volume="2014" Year="2015">
+<Book Series="Angela: Asgard&apos;s Assassin" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78548" Issue="485503" />
 </Book>
-<Book Series="Angela: Asgard's Assassin" Number="6" Volume="2014" Year="2015">
+<Book Series="Angela: Asgard&apos;s Assassin" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78548" Issue="488641" />
 </Book>
 <Book Series="Wolverines" Number="1" Volume="2015" Year="2015">
@@ -2172,13 +2172,13 @@
 <Book Series="Spider-Man 2099" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="75557" Issue="468087" />
 </Book>
-<Book Series="Spider-Verse Team-Up" Number="1" Volume="2014" Year="2015">
+<Book Series="Spider-Verse Team-Up" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="77941" Issue="469497" />
 </Book>
-<Book Series="Spider-Verse" Number="1" Volume="2014" Year="2015">
+<Book Series="Spider-Verse" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78047" Issue="469842" />
 </Book>
-<Book Series="Spider-Verse" Number="2" Volume="2014" Year="2015">
+<Book Series="Spider-Verse" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78047" Issue="475945" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="9" Volume="2014" Year="2015">
@@ -2190,22 +2190,22 @@
 <Book Series="Spider-Man 2099" Number="6" Volume="2014" Year="2015">
 <Database Name="cv" Series="75557" Issue="471323" />
 </Book>
-<Book Series="Scarlet Spiders" Number="1" Volume="2014" Year="2015">
+<Book Series="Scarlet Spiders" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78356" Issue="471321" />
 </Book>
-<Book Series="Scarlet Spiders" Number="2" Volume="2014" Year="2015">
+<Book Series="Scarlet Spiders" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78356" Issue="473654" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="11" Volume="2014" Year="2015">
 <Database Name="cv" Series="73420" Issue="472897" />
 </Book>
-<Book Series="Spider-Verse Team-Up" Number="2" Volume="2014" Year="2015">
+<Book Series="Spider-Verse Team-Up" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="77941" Issue="472912" />
 </Book>
-<Book Series="Spider-Woman" Number="1" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="470434" />
 </Book>
-<Book Series="Spider-Woman" Number="2" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="473656" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="12" Volume="2014" Year="2015">
@@ -2214,19 +2214,19 @@
 <Book Series="Spider-Man 2099" Number="7" Volume="2014" Year="2015">
 <Database Name="cv" Series="75557" Issue="475462" />
 </Book>
-<Book Series="Scarlet Spiders" Number="3" Volume="2014" Year="2015">
+<Book Series="Scarlet Spiders" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78356" Issue="476793" />
 </Book>
-<Book Series="Spider-Woman" Number="3" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="476795" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="13" Volume="2014" Year="2015">
 <Database Name="cv" Series="73420" Issue="476779" />
 </Book>
-<Book Series="Spider-Verse Team-Up" Number="3" Volume="2014" Year="2015">
+<Book Series="Spider-Verse Team-Up" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="77941" Issue="476794" />
 </Book>
-<Book Series="Spider-Woman" Number="4" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="479263" />
 </Book>
 <Book Series="Spider-Man 2099" Number="8" Volume="2014" Year="2015">
@@ -2274,7 +2274,7 @@
 <Book Series="Captain Marvel" Number="13" Volume="2014" Year="2015">
 <Database Name="cv" Series="72272" Issue="482153" />
 </Book>
-<Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2014" Year="2015">
+<Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78716" Issue="472907" />
 </Book>
 <Book Series="All-New X-Factor" Number="18" Volume="2014" Year="2015">
@@ -2316,46 +2316,46 @@
 <Book Series="The Unbeatable Squirrel Girl" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="85601" Issue="512436" />
 </Book>
-<Book Series="Spider-Man &#38; the X-Men" Number="1" Volume="2014" Year="2015">
+<Book Series="Spider-Man &amp; the X-Men" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78717" Issue="472911" />
 </Book>
-<Book Series="Spider-Man &#38; the X-Men" Number="2" Volume="2014" Year="2015">
+<Book Series="Spider-Man &amp; the X-Men" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78717" Issue="477855" />
 </Book>
-<Book Series="Spider-Man &#38; the X-Men" Number="3" Volume="2014" Year="2015">
+<Book Series="Spider-Man &amp; the X-Men" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78717" Issue="480681" />
 </Book>
-<Book Series="All-New X-Men" Number="37" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="37" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="482149" />
 </Book>
-<Book Series="Deadpool's Art of War" Number="1" Volume="2014" Year="2014">
+<Book Series="Deadpool&apos;s Art of War" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77575" Issue="468074" />
 </Book>
-<Book Series="Deadpool's Art of War" Number="2" Volume="2014" Year="2015">
+<Book Series="Deadpool&apos;s Art of War" Number="2" Volume="2014" Year="2015">
 <Database Name="cv" Series="77575" Issue="469490" />
 </Book>
-<Book Series="Deadpool's Art of War" Number="3" Volume="2014" Year="2015">
+<Book Series="Deadpool&apos;s Art of War" Number="3" Volume="2014" Year="2015">
 <Database Name="cv" Series="77575" Issue="472904" />
 </Book>
-<Book Series="Deadpool's Art of War" Number="4" Volume="2014" Year="2015">
+<Book Series="Deadpool&apos;s Art of War" Number="4" Volume="2014" Year="2015">
 <Database Name="cv" Series="77575" Issue="476783" />
 </Book>
 <Book Series="S.H.I.E.L.D." Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="79159" Issue="480678" />
 </Book>
-<Book Series="Deadpool" Number="40" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="475937" />
 </Book>
-<Book Series="Deadpool" Number="41" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="477848" />
 </Book>
-<Book Series="Deadpool" Number="42" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="42" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="480671" />
 </Book>
-<Book Series="Deadpool" Number="43" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="43" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="482154" />
 </Book>
-<Book Series="Deadpool" Number="44" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="44" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="483347" />
 </Book>
 <Book Series="Hulk Annual" Number="1" Volume="2014" Year="2014">
@@ -2388,10 +2388,10 @@
 <Book Series="Thor Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="80299" Issue="480684" />
 </Book>
-<Book Series="Avengers" Number="34.1" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="34.1" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="464974" />
 </Book>
-<Book Series="Avengers" Number="34.2" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="34.2" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="475931" />
 </Book>
 <Book Series="Rocket Raccoon" Number="7" Volume="2014" Year="2015">
@@ -2439,25 +2439,31 @@
 <Book Series="Spider-Gwen" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="80298" Issue="491529" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="478603" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469227" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="479251" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469228" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="479966" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469230" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="480665" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469670" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="5" Volume="2014" Year="2015">
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="5" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469671" />
+</Book>
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="6" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469672" />
+</Book>
+<Book Series="Captain America &amp; the Mighty Avengers" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="479969" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="6" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="482682" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="7" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="7" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="486146" />
 </Book>
 <Book Series="The Unbeatable Squirrel Girl" Number="5" Volume="2015" Year="2016">
@@ -2541,7 +2547,7 @@
 <Book Series="Legendary Star-Lord" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="476787" />
 </Book>
-<Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
+<Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79860" Issue="478607" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="24" Volume="2013" Year="2015">
@@ -2550,10 +2556,10 @@
 <Book Series="Legendary Star-Lord" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="479972" />
 </Book>
-<Book Series="All-New X-Men" Number="38" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="480667" />
 </Book>
-<Book Series="All-New X-Men" Number="39" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="482678" />
 </Book>
 <Book Series="Guardians Team-Up" Number="3" Volume="2015" Year="2015">
@@ -2577,13 +2583,13 @@
 <Book Series="Legendary Star-Lord" Number="11" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="486148" />
 </Book>
-<Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
+<Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81482" Issue="486723" />
 </Book>
-<Book Series="All-New X-Men" Number="40" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="486715" />
 </Book>
-<Book Series="All-New X-Men" Number="41" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="490874" />
 </Book>
 <Book Series="Ant-Man" Number="2" Volume="2015" Year="2015">
@@ -2604,22 +2610,22 @@
 <Book Series="Guardians Team-Up" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="80454" Issue="484897" />
 </Book>
-<Book Series="All-New Captain America" Number="1" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="469824" />
 </Book>
-<Book Series="All-New Captain America" Number="2" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="473637" />
 </Book>
-<Book Series="All-New Captain America" Number="3" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="475927" />
 </Book>
-<Book Series="All-New Captain America" Number="4" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="479965" />
 </Book>
-<Book Series="All-New Captain America" Number="5" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="482677" />
 </Book>
-<Book Series="All-New Captain America" Number="6" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="487200" />
 </Book>
 <Book Series="Uncanny X-Men" Number="34" Volume="2013" Year="2015">
@@ -2640,16 +2646,16 @@
 <Book Series="All-New Captain America Special" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81829" Issue="487828" />
 </Book>
-<Book Series="Spider-Woman" Number="5" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="481615" />
 </Book>
-<Book Series="Spider-Woman" Number="6" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="485520" />
 </Book>
-<Book Series="Spider-Woman" Number="7" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="7" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="487846" />
 </Book>
-<Book Series="Spider-Woman" Number="8" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="8" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="490889" />
 </Book>
 <Book Series="Ant-Man" Number="3" Volume="2015" Year="2015">
@@ -2661,19 +2667,19 @@
 <Book Series="Ant-Man" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="79255" Issue="487830" />
 </Book>
-<Book Series="Howard the Duck" Number="1" Volume="2015" Year="2016">
+<Book Series="Howard the Duck" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85762" Issue="504942" />
 </Book>
-<Book Series="Howard the Duck" Number="2" Volume="2015" Year="2016">
+<Book Series="Howard the Duck" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85762" Issue="507182" />
 </Book>
-<Book Series="Howard the Duck" Number="3" Volume="2015" Year="2016">
+<Book Series="Howard the Duck" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85762" Issue="510102" />
 </Book>
-<Book Series="Howard the Duck" Number="4" Volume="2015" Year="2016">
+<Book Series="Howard the Duck" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85762" Issue="513649" />
 </Book>
-<Book Series="Howard the Duck" Number="5" Volume="2015" Year="2016">
+<Book Series="Howard the Duck" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85762" Issue="518858" />
 </Book>
 <Book Series="Inhuman" Number="13" Volume="2014" Year="2015">
@@ -2796,13 +2802,13 @@
 <Book Series="Daredevil" Number="18" Volume="2014" Year="2015">
 <Database Name="cv" Series="72417" Issue="499033" />
 </Book>
-<Book Series="Spider-Man &#38; the X-Men" Number="4" Volume="2014" Year="2015">
+<Book Series="Spider-Man &amp; the X-Men" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78717" Issue="482165" />
 </Book>
-<Book Series="Spider-Man &#38; the X-Men" Number="5" Volume="2014" Year="2015">
+<Book Series="Spider-Man &amp; the X-Men" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78717" Issue="486153" />
 </Book>
-<Book Series="Spider-Man &#38; the X-Men" Number="6" Volume="2014" Year="2015">
+<Book Series="Spider-Man &amp; the X-Men" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78717" Issue="487217" />
 </Book>
 <Book Series="Avengers: Ultron Forever" Number="1" Volume="2015" Year="2015">
@@ -2955,43 +2961,43 @@
 <Book Series="S.H.I.E.L.D." Number="12" Volume="2015" Year="2016">
 <Database Name="cv" Series="79159" Issue="506661" />
 </Book>
-<Book Series="Spider-Woman" Number="9" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="9" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="495808" />
 </Book>
-<Book Series="Spider-Woman" Number="10" Volume="2014" Year="2015">
+<Book Series="Spider-Woman" Number="10" Volume="2015" Year="2015">
 <Database Name="cv" Series="78202" Issue="498398" />
 </Book>
-<Book Series="Avengers" Number="35" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="35" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="465837" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="466332" />
 </Book>
-<Book Series="Avengers" Number="36" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="36" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="467647" />
 </Book>
 <Book Series="New Avengers" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="468084" />
 </Book>
-<Book Series="Avengers" Number="37" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="37" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="468457" />
 </Book>
 <Book Series="New Avengers" Number="26" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="470433" />
 </Book>
-<Book Series="Avengers" Number="38" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="38" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="470417" />
 </Book>
 <Book Series="New Avengers" Number="27" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="471318" />
 </Book>
-<Book Series="Avengers" Number="39" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="39" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="472900" />
 </Book>
 <Book Series="New Avengers" Number="28" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="474632" />
 </Book>
-<Book Series="Avengers" Number="40" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="475932" />
 </Book>
 <Book Series="New Avengers" Number="29" Volume="2013" Year="2015">
@@ -3012,13 +3018,13 @@
 <Book Series="Avengers World" Number="21" Volume="2014" Year="2015">
 <Database Name="cv" Series="70704" Issue="489313" />
 </Book>
-<Book Series="Avengers" Number="41" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="478606" />
 </Book>
 <Book Series="New Avengers" Number="30" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="480676" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="8" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="8" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="488644" />
 </Book>
 <Book Series="Silk" Number="1" Volume="2015" Year="2015">
@@ -3039,10 +3045,10 @@
 <Book Series="Silk" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="80116" Issue="497958" />
 </Book>
-<Book Series="Deadpool" Number="45" Volume="2012" Year="2015">
+<Book Series="Deadpool" Number="45" Volume="2013" Year="2015">
 <Database Name="cv" Series="53726" Issue="485511" />
 </Book>
-<Book Series="Avengers" Number="42" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="42" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="481605" />
 </Book>
 <Book Series="New Avengers" Number="31" Volume="2013" Year="2015">
@@ -3051,13 +3057,13 @@
 <Book Series="New Avengers" Number="32" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="483355" />
 </Book>
-<Book Series="Avengers" Number="43" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="43" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="484889" />
 </Book>
 <Book Series="New Avengers" Number="33" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="487208" />
 </Book>
-<Book Series="Avengers" Number="44" Volume="2012" Year="2015">
+<Book Series="Avengers" Number="44" Volume="2013" Year="2015">
 <Database Name="cv" Series="54428" Issue="487201" />
 </Book>
 <Book Series="Uncanny Inhumans" Number="0" Volume="2015" Year="2015">
@@ -3081,7 +3087,7 @@
 <Book Series="Loki: Agent of Asgard" Number="15" Volume="2014" Year="2015">
 <Database Name="cv" Series="71432" Issue="493045" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="9" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="9" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="491510" />
 </Book>
 <Book Series="Ms. Marvel" Number="16" Volume="2014" Year="2015">
@@ -3297,17 +3303,29 @@
 <Book Series="Where Monsters Dwell" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82217" Issue="504349" />
 </Book>
-<Book Series="X-Men '92" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="493055" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="490022" />
 </Book>
-<Book Series="X-Men '92" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="496401" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="2" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="491677" />
 </Book>
-<Book Series="X-Men '92" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="498402" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="3" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="493191" />
 </Book>
-<Book Series="X-Men '92" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="501620" />
+<Book Series="X-Men &apos;92 Infinite Comic" Number="4" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="494669" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="5" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="496003" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="6" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="497032" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="7" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="498098" />
+</Book>
+<Book Series="X-Men &apos;92 Infinite Comic" Number="8" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="499200" />
 </Book>
 <Book Series="Years of Future Past" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82382" Issue="490898" />
@@ -3429,16 +3447,16 @@
 <Book Series="1602 Witch Hunter Angela" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82472" Issue="502106" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="1" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="491511" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="2" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="495267" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="3" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="498383" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="4" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="501017" />
 </Book>
 <Book Series="Mrs. Deadpool and the Howling Commandos" Number="1" Volume="2015" Year="2015">
@@ -3531,13 +3549,13 @@
 <Book Series="Secret Wars" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="81833" Issue="493798" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="1" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="495809" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="2" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="497401" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="3" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="499047" />
 </Book>
 <Book Series="Inhumans: Attilan Rising" Number="1" Volume="2015" Year="2015">
@@ -3750,7 +3768,7 @@
 <Book Series="Silver Surfer" Number="15" Volume="2014" Year="2016">
 <Database Name="cv" Series="72582" Issue="506663" />
 </Book>
-<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2016">
+<Book Series="Secret Wars, Too" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 </Books>

@@ -45,7 +45,7 @@
 <Book Series="Realm of X" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153121" Issue="1010053" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="9" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1010048" />
 </Book>
 <Book Series="Ms. Marvel: The New Mutant" Number="1" Volume="2023" Year="2023">
@@ -102,7 +102,7 @@
 <Book Series="X-Men" Number="26" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="1011788" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="10" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1018021" />
 </Book>
 <Book Series="X-Men" Number="27" Volume="2021" Year="2023">
@@ -129,7 +129,7 @@
 <Book Series="X-Force" Number="45" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="1020543" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="11" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="11" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1025158" />
 </Book>
 <Book Series="Dark X-Men" Number="3" Volume="2023" Year="2023">
@@ -168,7 +168,7 @@
 <Book Series="Uncanny Spider-Man" Number="4" Volume="2023" Year="2024">
 <Database Name="cv" Series="153606" Issue="1030798" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="12" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="12" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1030786" />
 </Book>
 <Book Series="X-Force" Number="46" Volume="2020" Year="2024">
@@ -201,7 +201,7 @@
 <Book Series="Alpha Flight" Number="5" Volume="2023" Year="2024">
 <Database Name="cv" Series="153020" Issue="1033198" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="13" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="13" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1033204" />
 </Book>
 <Book Series="Dark X-Men" Number="5" Volume="2023" Year="2024">

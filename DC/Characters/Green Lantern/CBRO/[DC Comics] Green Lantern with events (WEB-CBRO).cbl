@@ -507,7 +507,7 @@
 <Book Series="Day of Judgment" Number="5" Volume="1999" Year="1999">
 <Database Name="cv" Series="6604" Issue="47233" />
 </Book>
-<Book Series="Day of Judgment: Secret Files and Origins" Number="1" Volume="1999" Year="1999">
+<Book Series="Day of Judgment Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="19899" Issue="119121" />
 </Book>
 <Book Series="Superman: The Man of Tomorrow" Number="15" Volume="1995" Year="1999">
@@ -2919,7 +2919,7 @@
 <Book Series="Dark Nights: Death Metal Speed Metal" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130501" Issue="802694" />
 </Book>
-<Book Series="Dark Nights: Death Metal Multiverse's End" Number="1" Volume="2020" Year="2020">
+<Book Series="Dark Nights: Death Metal Multiverse&apos;s End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130656" Issue="804749" />
 </Book>
 <Book Series="Dark Nights: Death Metal" Number="4" Volume="2020" Year="2020">

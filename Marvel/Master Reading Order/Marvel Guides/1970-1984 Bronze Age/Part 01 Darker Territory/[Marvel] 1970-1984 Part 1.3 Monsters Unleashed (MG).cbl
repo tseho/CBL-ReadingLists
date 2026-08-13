@@ -261,34 +261,34 @@
 <Book Series="Astonishing Tales" Number="20" Volume="1970" Year="1973">
 <Database Name="cv" Series="2470" Issue="13683" />
 </Book>
-<Book Series="Adventure into Fear" Number="10" Volume="1970" Year="1972">
+<Book Series="Fear" Number="10" Volume="1970" Year="1972">
 <Database Name="cv" Series="2472" Issue="12573" />
 </Book>
-<Book Series="Adventure into Fear" Number="11" Volume="1970" Year="1972">
+<Book Series="Fear" Number="11" Volume="1970" Year="1972">
 <Database Name="cv" Series="2472" Issue="12738" />
 </Book>
-<Book Series="Adventure into Fear" Number="12" Volume="1970" Year="1973">
+<Book Series="Fear" Number="12" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="12924" />
 </Book>
-<Book Series="Adventure into Fear" Number="13" Volume="1970" Year="1973">
+<Book Series="Fear" Number="13" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13107" />
 </Book>
-<Book Series="Adventure into Fear" Number="14" Volume="1970" Year="1973">
+<Book Series="Fear" Number="14" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13275" />
 </Book>
-<Book Series="Adventure into Fear" Number="15" Volume="1970" Year="1973">
+<Book Series="Fear" Number="15" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13477" />
 </Book>
-<Book Series="Adventure into Fear" Number="16" Volume="1970" Year="1973">
+<Book Series="Fear" Number="16" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13575" />
 </Book>
-<Book Series="Adventure into Fear" Number="17" Volume="1970" Year="1973">
+<Book Series="Fear" Number="17" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13692" />
 </Book>
-<Book Series="Adventure into Fear" Number="18" Volume="1970" Year="1973">
+<Book Series="Fear" Number="18" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13792" />
 </Book>
-<Book Series="Adventure into Fear" Number="19" Volume="1970" Year="1973">
+<Book Series="Fear" Number="19" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13882" />
 </Book>
 <Book Series="Man-Thing" Number="1" Volume="1974" Year="1974">

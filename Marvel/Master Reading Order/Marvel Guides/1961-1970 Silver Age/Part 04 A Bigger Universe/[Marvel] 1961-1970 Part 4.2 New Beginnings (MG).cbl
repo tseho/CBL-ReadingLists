@@ -57,7 +57,7 @@
 <Book Series="Tales of Suspense" Number="99" Volume="1959" Year="1968">
 <Database Name="cv" Series="2007" Issue="108988" />
 </Book>
-<Book Series="Iron Man &#38; Sub-Mariner" Number="1" Volume="1968" Year="1968">
+<Book Series="Iron Man &amp; Sub-Mariner" Number="1" Volume="1968" Year="1968">
 <Database Name="cv" Series="18547" Issue="109024" />
 </Book>
 <Book Series="Iron Man" Number="1" Volume="1968" Year="1968">

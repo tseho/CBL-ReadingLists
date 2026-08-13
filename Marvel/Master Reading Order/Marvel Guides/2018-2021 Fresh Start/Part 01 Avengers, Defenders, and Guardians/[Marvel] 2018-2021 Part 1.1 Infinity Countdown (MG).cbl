@@ -76,19 +76,19 @@
         <Book Series="Infinity Countdown" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="109103" Issue="677280" />
         </Book>
-        <Book Series="Ant-Man &#38; the Wasp" Number="1" Volume="2018" Year="2018">
+        <Book Series="Ant-Man &amp; the Wasp" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="111397" Issue="672271" />
         </Book>
-        <Book Series="Ant-Man &#38; the Wasp" Number="2" Volume="2018" Year="2018">
+        <Book Series="Ant-Man &amp; the Wasp" Number="2" Volume="2018" Year="2018">
             <Database Name="cv" Series="111397" Issue="674122" />
         </Book>
-        <Book Series="Ant-Man &#38; the Wasp" Number="3" Volume="2018" Year="2018">
+        <Book Series="Ant-Man &amp; the Wasp" Number="3" Volume="2018" Year="2018">
             <Database Name="cv" Series="111397" Issue="675967" />
         </Book>
-        <Book Series="Ant-Man &#38; the Wasp" Number="4" Volume="2018" Year="2018">
+        <Book Series="Ant-Man &amp; the Wasp" Number="4" Volume="2018" Year="2018">
             <Database Name="cv" Series="111397" Issue="678523" />
         </Book>
-        <Book Series="Ant-Man &#38; the Wasp" Number="5" Volume="2018" Year="2018">
+        <Book Series="Ant-Man &amp; the Wasp" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="111397" Issue="683817" />
         </Book>
     </Books>

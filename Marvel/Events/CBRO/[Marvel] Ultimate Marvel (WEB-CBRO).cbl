@@ -804,22 +804,22 @@
 <Book Series="Ultimate Vision" Number="5" Volume="2007" Year="2008">
 <Database Name="cv" Series="20149" Issue="120232" />
 </Book>
-<Book Series="The Ultimates 2" Number="1" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="107329" />
 </Book>
-<Book Series="The Ultimates 2" Number="2" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="119925" />
 </Book>
-<Book Series="The Ultimates 2" Number="3" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134184" />
 </Book>
-<Book Series="The Ultimates 2" Number="4" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134185" />
 </Book>
-<Book Series="The Ultimates 2" Number="5" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134182" />
 </Book>
-<Book Series="The Ultimates 2" Number="6" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134186" />
 </Book>
 <Book Series="Ultimates Annual" Number="1" Volume="2005" Year="2005">
@@ -897,43 +897,43 @@
 <Book Series="Ultimate X-Men" Number="71" Volume="2001" Year="2006">
 <Database Name="cv" Series="7258" Issue="107354" />
 </Book>
-<Book Series="Ultimate Wolverine vs. Hulk" Number="1" Volume="2005" Year="2006">
+<Book Series="Ultimate Wolverine vs. Hulk" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18408" Issue="107906" />
 </Book>
-<Book Series="Ultimate Wolverine vs. Hulk" Number="2" Volume="2005" Year="2006">
+<Book Series="Ultimate Wolverine vs. Hulk" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18408" Issue="107929" />
 </Book>
-<Book Series="Ultimate Wolverine vs. Hulk" Number="3" Volume="2005" Year="2009">
+<Book Series="Ultimate Wolverine vs. Hulk" Number="3" Volume="2006" Year="2009">
 <Database Name="cv" Series="18408" Issue="153067" />
 </Book>
-<Book Series="Ultimate Wolverine vs. Hulk" Number="4" Volume="2005" Year="2009">
+<Book Series="Ultimate Wolverine vs. Hulk" Number="4" Volume="2006" Year="2009">
 <Database Name="cv" Series="18408" Issue="155345" />
 </Book>
-<Book Series="Ultimate Wolverine vs. Hulk" Number="5" Volume="2005" Year="2009">
+<Book Series="Ultimate Wolverine vs. Hulk" Number="5" Volume="2006" Year="2009">
 <Database Name="cv" Series="18408" Issue="156150" />
 </Book>
-<Book Series="Ultimate Wolverine vs. Hulk" Number="6" Volume="2005" Year="2009">
+<Book Series="Ultimate Wolverine vs. Hulk" Number="6" Volume="2006" Year="2009">
 <Database Name="cv" Series="18408" Issue="158599" />
 </Book>
-<Book Series="The Ultimates 2" Number="7" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134187" />
 </Book>
-<Book Series="The Ultimates 2" Number="8" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134188" />
 </Book>
-<Book Series="The Ultimates 2" Number="9" Volume="2005" Year="2006">
+<Book Series="Ultimates 2" Number="9" Volume="2005" Year="2006">
 <Database Name="cv" Series="18326" Issue="134189" />
 </Book>
-<Book Series="The Ultimates 2" Number="10" Volume="2005" Year="2006">
+<Book Series="Ultimates 2" Number="10" Volume="2005" Year="2006">
 <Database Name="cv" Series="18326" Issue="134190" />
 </Book>
-<Book Series="The Ultimates 2" Number="11" Volume="2005" Year="2006">
+<Book Series="Ultimates 2" Number="11" Volume="2005" Year="2006">
 <Database Name="cv" Series="18326" Issue="134183" />
 </Book>
-<Book Series="The Ultimates 2" Number="12" Volume="2005" Year="2006">
+<Book Series="Ultimates 2" Number="12" Volume="2005" Year="2006">
 <Database Name="cv" Series="18326" Issue="107443" />
 </Book>
-<Book Series="The Ultimates 2" Number="13" Volume="2005" Year="2007">
+<Book Series="Ultimates 2" Number="13" Volume="2005" Year="2007">
 <Database Name="cv" Series="18326" Issue="109598" />
 </Book>
 <Book Series="Ultimates Annual" Number="2" Volume="2005" Year="2006">
@@ -1224,19 +1224,19 @@
 <Book Series="Ultimate Spider-Man" Number="128" Volume="2000" Year="2009">
 <Database Name="cv" Series="7257" Issue="143285" />
 </Book>
-<Book Series="The Ultimates 3" Number="1" Volume="2008" Year="2008">
+<Book Series="Ultimates 3" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="19861" Issue="119032" />
 </Book>
-<Book Series="The Ultimates 3" Number="2" Volume="2008" Year="2008">
+<Book Series="Ultimates 3" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="19861" Issue="121876" />
 </Book>
-<Book Series="The Ultimates 3" Number="3" Volume="2008" Year="2008">
+<Book Series="Ultimates 3" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="19861" Issue="123432" />
 </Book>
-<Book Series="The Ultimates 3" Number="4" Volume="2008" Year="2008">
+<Book Series="Ultimates 3" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="19861" Issue="131821" />
 </Book>
-<Book Series="The Ultimates 3" Number="5" Volume="2008" Year="2008">
+<Book Series="Ultimates 3" Number="5" Volume="2008" Year="2008">
 <Database Name="cv" Series="19861" Issue="139372" />
 </Book>
 <Book Series="Ultimate Fantastic Four" Number="54" Volume="2004" Year="2008">
@@ -1962,46 +1962,46 @@
 <Book Series="Cataclysm" Number="0.1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68720" Issue="431438" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="433170" />
 </Book>
-<Book Series="Cataclysm: Ultimate X-Men" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate X-Men" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69571" Issue="435050" />
 </Book>
-<Book Series="Cataclysm: Ultimate X-Men" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate X-Men" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69571" Issue="437486" />
 </Book>
-<Book Series="Cataclysm: Ultimate X-Men" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate X-Men" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69571" Issue="442918" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="432326" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="433843" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="435576" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="436196" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="442163" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="436197" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="441410" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="441409" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="4" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="443980" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="5" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="446478" />
 </Book>
 <Book Series="Survive" Number="1" Volume="2014" Year="2014">

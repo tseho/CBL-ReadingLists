@@ -171,13 +171,13 @@
 <Book Series="Top Dog" Number="13" Volume="1985" Year="1987">
 <Database Name="cv" Series="3516" Issue="57388" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="1" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="1" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211940" />
 </Book>
 <Book Series="Top Dog" Number="14" Volume="1985" Year="1987">
 <Database Name="cv" Series="3516" Issue="217541" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="2" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="2" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211939" />
 </Book>
 <Book Series="Heathcliff" Number="14" Volume="1985" Year="1987">
@@ -186,7 +186,7 @@
 <Book Series="Heathcliff" Number="15" Volume="1985" Year="1987">
 <Database Name="cv" Series="3486" Issue="94658" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="3" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="3" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211938" />
 </Book>
 <Book Series="Heathcliff" Number="16" Volume="1985" Year="1987">
@@ -198,7 +198,7 @@
 <Book Series="Heathcliff" Number="17" Volume="1985" Year="1987">
 <Database Name="cv" Series="3486" Issue="94660" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="4" Volume="1987" Year="1987">
+<Book Series="Heathcliff&apos;s Funhouse" Number="4" Volume="1987" Year="1987">
 <Database Name="cv" Series="32929" Issue="211937" />
 </Book>
 <Book Series="Heathcliff" Number="18" Volume="1985" Year="1987">
@@ -213,25 +213,25 @@
 <Book Series="Heathcliff" Number="21" Volume="1985" Year="1987">
 <Database Name="cv" Series="3486" Issue="94664" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="5" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="5" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211936" />
 </Book>
 <Book Series="Heathcliff" Number="22" Volume="1985" Year="1988">
 <Database Name="cv" Series="3486" Issue="94665" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="6" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="6" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211935" />
 </Book>
 <Book Series="Heathcliff" Number="23" Volume="1985" Year="1988">
 <Database Name="cv" Series="3486" Issue="94666" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="7" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="7" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211934" />
 </Book>
 <Book Series="Heathcliff" Number="24" Volume="1985" Year="1988">
 <Database Name="cv" Series="3486" Issue="94667" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="8" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="8" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211933" />
 </Book>
 <Book Series="Heathcliff" Number="25" Volume="1985" Year="1988">
@@ -240,7 +240,7 @@
 <Book Series="Heathcliff" Number="26" Volume="1985" Year="1988">
 <Database Name="cv" Series="3486" Issue="94669" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="9" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="9" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211932" />
 </Book>
 <Book Series="Heathcliff" Number="27" Volume="1985" Year="1988">
@@ -249,7 +249,7 @@
 <Book Series="Heathcliff" Number="28" Volume="1985" Year="1988">
 <Database Name="cv" Series="3486" Issue="94671" />
 </Book>
-<Book Series="Heathcliff's Funhouse" Number="10" Volume="1987" Year="1988">
+<Book Series="Heathcliff&apos;s Funhouse" Number="10" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211931" />
 </Book>
 <Book Series="Heathcliff" Number="29" Volume="1985" Year="1988">

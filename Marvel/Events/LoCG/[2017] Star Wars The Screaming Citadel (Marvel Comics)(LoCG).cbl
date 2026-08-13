@@ -9,13 +9,13 @@
 <Book Series="Star Wars" Number="31" Volume="2015" Year="2017">
 <Database Name="cv" Series="79398" Issue="595703" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="7" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="598388" />
 </Book>
 <Book Series="Star Wars" Number="32" Volume="2015" Year="2017">
 <Database Name="cv" Series="79398" Issue="601804" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="8" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="605130" />
 </Book>
 </Books>

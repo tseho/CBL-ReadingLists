@@ -13,7 +13,7 @@
         <Book Series="She-Hulk" Number="8" Volume="2005" Year="2006">
             <Database Name="cv" Series="18293" Issue="107245" />
         </Book>
-        <Book Series="New Avengers" Number="21" Volume="2004" Year="2006">
+        <Book Series="New Avengers" Number="21" Volume="2005" Year="2006">
             <Database Name="cv" Series="11497" Issue="107893" />
         </Book>
         <Book Series="X-Factor" Number="8" Volume="2006" Year="2006">

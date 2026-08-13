@@ -12,7 +12,7 @@
 <Book Series="Revolutionary War: Knights of Pendragon" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="71322" Issue="443986" />
 </Book>
-<Book Series="Revolutionary War: Death's Head II" Number="1" Volume="2014" Year="2014">
+<Book Series="Revolutionary War: Death&apos;s Head II" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="71611" Issue="445181" />
 </Book>
 <Book Series="Revolutionary War: SuperSoldiers" Number="1" Volume="2014" Year="2014">

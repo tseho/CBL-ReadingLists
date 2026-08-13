@@ -255,7 +255,7 @@
 <Book Series="The Darkhold Omega" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140788" Issue="901413" />
 </Book>
-<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2021" Year="2022">
+<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140357" Issue="897359" />
 </Book>
 <Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">
@@ -288,7 +288,7 @@
 <Book Series="Midnight Suns" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145040" Issue="966423" />
 </Book>
-<Book Series="Blade: Vampire Nation" Number="1" Volume="2022" Year="2023">
+<Book Series="Blade: Vampire Nation" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146110" Issue="955111" />
 </Book>
 <Book Series="Bloodline: Daughter of Blade" Number="1" Volume="2023" Year="2023">

@@ -9,7 +9,7 @@
 <Book Series="The Amazing Spider-Man" Number="38" Volume="2022" Year="2024">
 <Database Name="cv" Series="142577" Issue="1030890" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1031694" />
 </Book>
 <Book Series="The Amazing Spider-Man: Gang War: First Strike" Number="1" Volume="2024" Year="2024">
@@ -30,7 +30,7 @@
 <Book Series="Luke Cage: Gang War" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="154931" Issue="1034340" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="13" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="13" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1034570" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="40" Volume="2022" Year="2024">
@@ -39,7 +39,7 @@
 <Book Series="Deadly Hands of Kung Fu: Gang War" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="155694" Issue="1038293" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="14" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="14" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1038292" />
 </Book>
 <Book Series="Spider-Woman" Number="2" Volume="2024" Year="2024">
@@ -57,7 +57,7 @@
 <Book Series="Luke Cage: Gang War" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="154931" Issue="1039580" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="15" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="15" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1039581" />
 </Book>
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="20" Volume="2023" Year="2024">
@@ -96,7 +96,7 @@
 <Book Series="Deadly Hands of Kung Fu: Gang War" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="155694" Issue="1044778" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="16" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="16" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1044780" />
 </Book>
 <Book Series="Luke Cage: Gang War" Number="4" Volume="2024" Year="2024">
@@ -108,7 +108,7 @@
 <Book Series="The Amazing Spider-Man" Number="44" Volume="2022" Year="2024">
 <Database Name="cv" Series="142577" Issue="1046261" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="17" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="17" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1046269" />
 </Book>
 <Book Series="Daredevil: Gang War" Number="4" Volume="2024" Year="2024">

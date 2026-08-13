@@ -939,7 +939,7 @@
 <Book Series="Wolverine" Number="16" Volume="1988" Year="1989">
 <Database Name="cv" Series="4250" Issue="64281" />
 </Book>
-<Book Series="Doctor Strange &#38; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
+<Book Series="Doctor Strange &amp; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="23227" Issue="139720" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="244" Volume="1981" Year="1989">
@@ -1089,16 +1089,16 @@
 <Book Series="Iron Man" Number="250" Volume="1968" Year="1989">
 <Database Name="cv" Series="2407" Issue="32000" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29062" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30644" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30684" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="246" Volume="1981" Year="1989">
@@ -1701,16 +1701,16 @@
 <Book Series="Excalibur" Number="20" Volume="1988" Year="1990">
 <Database Name="cv" Series="4052" Issue="66344" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="1" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175086" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="2" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="2" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175089" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="3" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="3" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175090" />
 </Book>
-<Book Series="Black Panther: Panther's Prey" Number="4" Volume="1991" Year="1991">
+<Book Series="Black Panther: Panther&apos;s Prey" Number="4" Volume="1991" Year="1991">
 <Database Name="cv" Series="28441" Issue="175093" />
 </Book>
 <Book Series="Wolverine" Number="24" Volume="1988" Year="1990">

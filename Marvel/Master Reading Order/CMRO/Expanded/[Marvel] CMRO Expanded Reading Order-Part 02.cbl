@@ -192,7 +192,7 @@
 <Book Series="Junior Miss" Number="36" Volume="1947" Year="1949">
 <Database Name="cv" Series="10750" Issue="90912" />
 </Book>
-<Book Series="Li'l Willie Comics" Number="21" Volume="1949" Year="1949">
+<Book Series="Li&apos;l Willie Comics" Number="21" Volume="1949" Year="1949">
 <Database Name="cv" Series="30510" Issue="187711" />
 </Book>
 <Book Series="Little Aspirin" Number="2" Volume="1949" Year="1949">
@@ -330,7 +330,7 @@
 <Book Series="Miss America Magazine" Number="29" Volume="1944" Year="1947">
 <Database Name="cv" Series="21618" Issue="188804" />
 </Book>
-<Book Series="Mitzi's Romances" Number="10" Volume="1949" Year="1949">
+<Book Series="Mitzi&apos;s Romances" Number="10" Volume="1949" Year="1949">
 <Database Name="cv" Series="30596" Issue="188873" />
 </Book>
 <Book Series="Comedy Comics" Number="10" Volume="1948" Year="1950">
@@ -432,7 +432,7 @@
 <Book Series="A-1 Comics" Number="29" Volume="1944" Year="1950">
 <Database Name="cv" Series="1032" Issue="208841" />
 </Book>
-<Book Series="Reno Browne, Hollywood's Greatest Cowgirl" Number="50" Volume="1950" Year="1950">
+<Book Series="Reno Browne, Hollywood&apos;s Greatest Cowgirl" Number="50" Volume="1950" Year="1950">
 <Database Name="cv" Series="30598" Issue="188877" />
 </Book>
 <Book Series="Tim Holt" Number="16" Volume="1948" Year="1950">
@@ -600,7 +600,7 @@
 <Book Series="Patsy Walker" Number="31" Volume="1945" Year="1950">
 <Database Name="cv" Series="1062" Issue="73639" />
 </Book>
-<Book Series="It's a Duck's Life" Number="4" Volume="1950" Year="1950">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="4" Volume="1950" Year="1950">
 <Database Name="cv" Series="25707" Issue="151387" />
 </Book>
 <Book Series="Tarzan" Number="2 [37]" Volume="1948" Year="1950">
@@ -681,7 +681,7 @@
 <Book Series="Wild Western" Number="14" Volume="1948" Year="1951">
 <Database Name="cv" Series="1213" Issue="188739" />
 </Book>
-<Book Series="It's a Duck's Life" Number="5" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="5" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151388" />
 </Book>
 <Book Series="My Friend Irma" Number="7" Volume="1950" Year="1951">
@@ -774,7 +774,7 @@
 <Book Series="My Friend Irma" Number="8" Volume="1950" Year="1951">
 <Database Name="cv" Series="1357" Issue="188574" />
 </Book>
-<Book Series="It's a Duck's Life" Number="6" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="6" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151389" />
 </Book>
 <Book Series="Tim Holt" Number="23" Volume="1948" Year="1951">
@@ -1005,7 +1005,7 @@
 <Book Series="Nellie the Nurse" Number="30" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90565" />
 </Book>
-<Book Series="It's a Duck's Life" Number="9" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="9" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151392" />
 </Book>
 <Book Series="A-1 Comics" Number="51" Volume="1944" Year="1951">
@@ -1026,7 +1026,7 @@
 <Book Series="Private Eye" Number="6" Volume="1951" Year="1951">
 <Database Name="cv" Series="30577" Issue="188641" />
 </Book>
-<Book Series="It's a Duck's Life" Number="10" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="10" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151393" />
 </Book>
 <Book Series="Apache Kid" Number="9" Volume="1950" Year="1951">
@@ -1134,7 +1134,7 @@
 <Book Series="Venus" Number="18" Volume="1948" Year="1952">
 <Database Name="cv" Series="18698" Issue="117527" />
 </Book>
-<Book Series="Bobby Benson's B-Bar-B Riders" Number="13" Volume="1950" Year="0">
+<Book Series="Bobby Benson&apos;s B-Bar-B Riders" Number="13" Volume="1950" Year="0">
 <Database Name="cv" Series="34059" Issue="222090" />
 </Book>
 <Book Series="Two Gun Western" Number="12" Volume="1950" Year="1952">
@@ -1143,7 +1143,7 @@
 <Book Series="Wild Western" Number="20" Volume="1948" Year="1952">
 <Database Name="cv" Series="1213" Issue="188745" />
 </Book>
-<Book Series="It's a Duck's Life" Number="11" Volume="1950" Year="1952">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="11" Volume="1950" Year="1952">
 <Database Name="cv" Series="25707" Issue="151394" />
 </Book>
 <Book Series="Georgie Comics" Number="35" Volume="1949" Year="1952">
@@ -1230,7 +1230,7 @@
 <Book Series="Patsy and Hedy" Number="2" Volume="1952" Year="1952">
 <Database Name="cv" Series="8517" Issue="185887" />
 </Book>
-<Book Series="Bobby Benson's B-Bar-B Riders" Number="14" Volume="1950" Year="0">
+<Book Series="Bobby Benson&apos;s B-Bar-B Riders" Number="14" Volume="1950" Year="0">
 <Database Name="cv" Series="34059" Issue="222091" />
 </Book>
 <Book Series="Tim Holt" Number="29" Volume="1948" Year="1952">
@@ -1332,7 +1332,7 @@
 <Book Series="Patsy Walker" Number="41" Volume="1945" Year="1952">
 <Database Name="cv" Series="1062" Issue="141024" />
 </Book>
-<Book Series="Bobby Benson's B-Bar-B Riders" Number="15" Volume="1950" Year="0">
+<Book Series="Bobby Benson&apos;s B-Bar-B Riders" Number="15" Volume="1950" Year="0">
 <Database Name="cv" Series="34059" Issue="222092" />
 </Book>
 <Book Series="Adventures into Terror" Number="11" Volume="1950" Year="1952">
@@ -1923,7 +1923,7 @@
 <Book Series="Man Comics" Number="28" Volume="1949" Year="1953">
 <Database Name="cv" Series="1282" Issue="95130" />
 </Book>
-<Book Series="Men's Adventures" Number="23" Volume="1950" Year="1953">
+<Book Series="Men&apos;s Adventures" Number="23" Volume="1950" Year="1953">
 <Database Name="cv" Series="30573" Issue="188501" />
 </Book>
 <Book Series="Menace" Number="7" Volume="1953" Year="1953">
@@ -1998,7 +1998,7 @@
 <Book Series="Battlefront" Number="14" Volume="1952" Year="1953">
 <Database Name="cv" Series="1494" Issue="160037" />
 </Book>
-<Book Series="Men's Adventures" Number="24" Volume="1950" Year="1953">
+<Book Series="Men&apos;s Adventures" Number="24" Volume="1950" Year="1953">
 <Database Name="cv" Series="30573" Issue="188502" />
 </Book>
 <Book Series="Uncanny Tales" Number="14" Volume="1952" Year="1953">
@@ -2106,7 +2106,7 @@
 <Book Series="Kid Colt Outlaw" Number="33" Volume="1949" Year="1954">
 <Database Name="cv" Series="1199" Issue="915" />
 </Book>
-<Book Series="Girls' Life" Number="1" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="1" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188267" />
 </Book>
 <Book Series="Millie the Model" Number="50" Volume="1945" Year="1954">
@@ -2199,7 +2199,7 @@
 <Book Series="Lorna, The Jungle Girl" Number="6" Volume="1954" Year="1954">
 <Database Name="cv" Series="1632" Issue="1008" />
 </Book>
-<Book Series="Men's Adventures" Number="26" Volume="1950" Year="1954">
+<Book Series="Men&apos;s Adventures" Number="26" Volume="1950" Year="1954">
 <Database Name="cv" Series="30573" Issue="188518" />
 </Book>
 <Book Series="Uncanny Tales" Number="18" Volume="1952" Year="1954">
@@ -2217,7 +2217,7 @@
 <Book Series="Kid Colt Outlaw" Number="35" Volume="1949" Year="1954">
 <Database Name="cv" Series="1199" Issue="1007" />
 </Book>
-<Book Series="Girls' Life" Number="2" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="2" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188268" />
 </Book>
 <Book Series="Millie the Model" Number="52" Volume="1945" Year="1954">
@@ -2331,7 +2331,7 @@
 <Book Series="Kid Colt Outlaw" Number="37" Volume="1949" Year="1954">
 <Database Name="cv" Series="1199" Issue="139265" />
 </Book>
-<Book Series="Girls' Life" Number="3" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="3" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188269" />
 </Book>
 <Book Series="Patsy and Hedy" Number="27" Volume="1952" Year="1954">
@@ -2340,7 +2340,7 @@
 <Book Series="Patsy and Her Pals" Number="7" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188613" />
 </Book>
-<Book Series="Men's Adventures" Number="27" Volume="1950" Year="1954">
+<Book Series="Men&apos;s Adventures" Number="27" Volume="1950" Year="1954">
 <Database Name="cv" Series="30573" Issue="188519" />
 </Book>
 <Book Series="Patsy Walker" Number="52" Volume="1945" Year="1954">
@@ -2427,7 +2427,7 @@
 <Book Series="Lorna, The Jungle Girl" Number="8" Volume="1954" Year="1954">
 <Database Name="cv" Series="1632" Issue="1247" />
 </Book>
-<Book Series="Men's Adventures" Number="28" Volume="1950" Year="1954">
+<Book Series="Men&apos;s Adventures" Number="28" Volume="1950" Year="1954">
 <Database Name="cv" Series="30573" Issue="188520" />
 </Book>
 <Book Series="Uncanny Tales" Number="22" Volume="1952" Year="1954">
@@ -2442,7 +2442,7 @@
 <Book Series="Kid Colt Outlaw" Number="39" Volume="1949" Year="1954">
 <Database Name="cv" Series="1199" Issue="98569" />
 </Book>
-<Book Series="Girls' Life" Number="4" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="4" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188270" />
 </Book>
 <Book Series="Patsy and Hedy" Number="29" Volume="1952" Year="1954">
@@ -2547,7 +2547,7 @@
 <Book Series="Wild Western" Number="36" Volume="1948" Year="1954">
 <Database Name="cv" Series="1213" Issue="1353" />
 </Book>
-<Book Series="Girls' Life" Number="5" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="5" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188271" />
 </Book>
 <Book Series="Patsy and Her Pals" Number="9" Volume="1953" Year="1954">
@@ -2664,7 +2664,7 @@
 <Book Series="Wild Western" Number="38" Volume="1948" Year="1954">
 <Database Name="cv" Series="1213" Issue="1462" />
 </Book>
-<Book Series="Girls' Life" Number="6" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="6" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188272" />
 </Book>
 <Book Series="Patsy and Her Pals" Number="10" Volume="1953" Year="1954">

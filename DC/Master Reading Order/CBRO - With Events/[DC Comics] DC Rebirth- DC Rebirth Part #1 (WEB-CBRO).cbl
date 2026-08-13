@@ -939,22 +939,22 @@
 <Book Series="The Hellblazer" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="93381" Issue="578432" />
 </Book>
-<Book Series="Sixpack and Dogwelder: Hard-Travelin' Heroz" Number="1" Volume="2016" Year="2016">
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="93393" Issue="546041" />
 </Book>
-<Book Series="Sixpack and Dogwelder: Hard-Travelin' Heroz" Number="2" Volume="2016" Year="2016">
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="93393" Issue="551281" />
 </Book>
-<Book Series="Sixpack and Dogwelder: Hard-Travelin' Heroz" Number="3" Volume="2016" Year="2016">
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="93393" Issue="555498" />
 </Book>
-<Book Series="Sixpack and Dogwelder: Hard-Travelin' Heroz" Number="4" Volume="2016" Year="2017">
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="93393" Issue="558941" />
 </Book>
-<Book Series="Sixpack and Dogwelder: Hard-Travelin' Heroz" Number="5" Volume="2016" Year="2017">
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="93393" Issue="571646" />
 </Book>
-<Book Series="Sixpack and Dogwelder: Hard-Travelin' Heroz" Number="6" Volume="2016" Year="2017">
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="93393" Issue="578440" />
 </Book>
 <Book Series="Detective Comics" Number="948" Volume="2016" Year="2017">
@@ -1695,7 +1695,7 @@
 <Book Series="Wonder Woman Annual" Number="1" Volume="2016" Year="2017">
 <Database Name="cv" Series="101798" Issue="598364" />
 </Book>
-<Book Series="Wonder Woman: Steve Trevor Special" Number="1" Volume="2017" Year="2017">
+<Book Series="Wonder Woman: Steve Trevor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="101967" Issue="599852" />
 </Book>
 <Book Series="Wonder Woman" Number="16" Volume="2016" Year="2017">

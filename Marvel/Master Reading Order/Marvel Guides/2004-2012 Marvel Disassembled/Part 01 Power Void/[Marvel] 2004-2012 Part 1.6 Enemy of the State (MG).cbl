@@ -4,43 +4,43 @@
     <Name>[Marvel] 2004-2012 Part 1.6 Enemy of the State (MG)</Name>
     <NumIssues>84</NumIssues>
     <Books>
-        <Book Series="Captain America" Number="1" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="1" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="101412" />
         </Book>
-        <Book Series="Captain America" Number="2" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="2" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="101413" />
         </Book>
-        <Book Series="Captain America" Number="3" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="3" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="101414" />
         </Book>
-        <Book Series="Captain America" Number="4" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="4" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="101415" />
         </Book>
-        <Book Series="Captain America" Number="5" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="5" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115184" />
         </Book>
-        <Book Series="Captain America" Number="6" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="6" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115187" />
         </Book>
-        <Book Series="Captain America" Number="7" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="7" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115267" />
         </Book>
-        <Book Series="Captain America" Number="8" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="8" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115268" />
         </Book>
-        <Book Series="Captain America" Number="9" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="9" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115269" />
         </Book>
-        <Book Series="Captain America" Number="11" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="11" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115273" />
         </Book>
-        <Book Series="Captain America" Number="12" Volume="2004" Year="2005">
+        <Book Series="Captain America" Number="12" Volume="2005" Year="2005">
             <Database Name="cv" Series="11499" Issue="115303" />
         </Book>
-        <Book Series="Captain America" Number="13" Volume="2004" Year="2006">
+        <Book Series="Captain America" Number="13" Volume="2005" Year="2006">
             <Database Name="cv" Series="11499" Issue="115308" />
         </Book>
-        <Book Series="Captain America" Number="14" Volume="2004" Year="2006">
+        <Book Series="Captain America" Number="14" Volume="2005" Year="2006">
             <Database Name="cv" Series="11499" Issue="113175" />
         </Book>
         <Book Series="Captain America: 65th Anniversary Special" Number="1" Volume="2006"
@@ -161,10 +161,10 @@
         <Book Series="X-Force" Number="1" Volume="2004" Year="2004">
             <Database Name="cv" Series="10761" Issue="91363" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="13" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="13" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="105865" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="14" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="14" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="105869" />
         </Book>
         <Book Series="X-Force" Number="2" Volume="2004" Year="2004">

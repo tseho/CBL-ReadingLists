@@ -42,7 +42,7 @@
 <Book Series="House of M" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="12049" Issue="104864" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="17" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="17" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106394" />
 </Book>
 <Book Series="Incredible Hulk" Number="84" Volume="2000" Year="2005">
@@ -102,7 +102,7 @@
 <Book Series="Mutopia X" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="22712" Issue="136176" />
 </Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115271" />
 </Book>
 <Book Series="Exiles" Number="70" Volume="2001" Year="2005">

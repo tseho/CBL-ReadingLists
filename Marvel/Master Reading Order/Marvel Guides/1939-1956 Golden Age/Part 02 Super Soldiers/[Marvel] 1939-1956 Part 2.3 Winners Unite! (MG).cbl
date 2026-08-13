@@ -15,7 +15,7 @@
 <Book Series="Captain America Comics" Number="41" Volume="1941" Year="1944">
 <Database Name="cv" Series="1628" Issue="140215" />
 </Book>
-<Book Series="All Winners Comics" Number="13" Volume="1941" Year="1944">
+<Book Series="All-Winners Comics" Number="13" Volume="1941" Year="1944">
 <Database Name="cv" Series="18581" Issue="166046" />
 </Book>
 <Book Series="Amazing Comics" Number="1" Volume="1944" Year="1944">
@@ -63,7 +63,7 @@
 <Book Series="All Select Comics" Number="5" Volume="1943" Year="1944">
 <Database Name="cv" Series="20016" Issue="129578" />
 </Book>
-<Book Series="All Winners Comics" Number="14" Volume="1941" Year="1944">
+<Book Series="All-Winners Comics" Number="14" Volume="1941" Year="1944">
 <Database Name="cv" Series="18581" Issue="166047" />
 </Book>
 <Book Series="Captain America Comics" Number="43" Volume="1941" Year="1944">
@@ -78,7 +78,7 @@
 <Book Series="Sub-Mariner Comics" Number="15" Volume="1941" Year="1944">
 <Database Name="cv" Series="18548" Issue="110299" />
 </Book>
-<Book Series="Young Allies Comics" Number="14" Volume="1941" Year="1944">
+<Book Series="Young Allies" Number="14" Volume="1941" Year="1944">
 <Database Name="cv" Series="19571" Issue="139063" />
 </Book>
 <Book Series="Captain America Comics" Number="44" Volume="1941" Year="1945">
@@ -93,7 +93,7 @@
 <Book Series="All Select Comics" Number="7" Volume="1943" Year="1945">
 <Database Name="cv" Series="20016" Issue="130121" />
 </Book>
-<Book Series="All Winners Comics" Number="15" Volume="1941" Year="1945">
+<Book Series="All-Winners Comics" Number="15" Volume="1941" Year="1945">
 <Database Name="cv" Series="18581" Issue="166048" />
 </Book>
 <Book Series="Captain America Comics" Number="45" Volume="1941" Year="1945">
@@ -114,7 +114,7 @@
 <Book Series="USA Comics" Number="15" Volume="1941" Year="1945">
 <Database Name="cv" Series="18990" Issue="112824" />
 </Book>
-<Book Series="Young Allies Comics" Number="15" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="15" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139059" />
 </Book>
 <Book Series="Captain America Comics" Number="46" Volume="1941" Year="1945">
@@ -126,7 +126,7 @@
 <Book Series="All Select Comics" Number="8" Volume="1943" Year="1945">
 <Database Name="cv" Series="20016" Issue="130127" />
 </Book>
-<Book Series="All Winners Comics" Number="16" Volume="1941" Year="1945">
+<Book Series="All-Winners Comics" Number="16" Volume="1941" Year="1945">
 <Database Name="cv" Series="18581" Issue="166049" />
 </Book>
 <Book Series="Captain America Comics" Number="47" Volume="1941" Year="1945">
@@ -144,7 +144,7 @@
 <Book Series="USA Comics" Number="16" Volume="1941" Year="1945">
 <Database Name="cv" Series="18990" Issue="112825" />
 </Book>
-<Book Series="Young Allies Comics" Number="16" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="16" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139065" />
 </Book>
 <Book Series="Captain America Comics" Number="48" Volume="1941" Year="1945">
@@ -174,7 +174,7 @@
 <Book Series="USA Comics" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="18990" Issue="112826" />
 </Book>
-<Book Series="Young Allies Comics" Number="17" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139066" />
 </Book>
 <Book Series="Captain America Comics" Number="50" Volume="1941" Year="1945">
@@ -183,7 +183,7 @@
 <Book Series="Marvel Mystery Comics" Number="67" Volume="1939" Year="1945">
 <Database Name="cv" Series="19137" Issue="118435" />
 </Book>
-<Book Series="All Winners Comics" Number="17" Volume="1941" Year="1945">
+<Book Series="All-Winners Comics" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="18581" Issue="166050" />
 </Book>
 <Book Series="Captain America Comics" Number="51" Volume="1941" Year="1945">
@@ -195,7 +195,7 @@
 <Book Series="Sub-Mariner Comics" Number="18" Volume="1941" Year="1945">
 <Database Name="cv" Series="18548" Issue="110338" />
 </Book>
-<Book Series="Young Allies Comics" Number="18" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="18" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139067" />
 </Book>
 <Book Series="Captain America Comics" Number="52" Volume="1941" Year="1946">
@@ -225,7 +225,7 @@
 <Book Series="Sub-Mariner Comics" Number="19" Volume="1941" Year="1946">
 <Database Name="cv" Series="18548" Issue="110345" />
 </Book>
-<Book Series="Young Allies Comics" Number="19" Volume="1941" Year="1946">
+<Book Series="Young Allies" Number="19" Volume="1941" Year="1946">
 <Database Name="cv" Series="19571" Issue="139064" />
 </Book>
 <Book Series="Captain America Comics" Number="55" Volume="1941" Year="1946">
@@ -240,7 +240,7 @@
 <Book Series="Marvel Mystery Comics" Number="72" Volume="1939" Year="1946">
 <Database Name="cv" Series="19137" Issue="118431" />
 </Book>
-<Book Series="All Winners Comics" Number="18" Volume="1941" Year="1946">
+<Book Series="All-Winners Comics" Number="18" Volume="1941" Year="1946">
 <Database Name="cv" Series="18581" Issue="166051" />
 </Book>
 <Book Series="All Select Comics" Number="10" Volume="1943" Year="1946">
@@ -267,10 +267,10 @@
 <Book Series="All Select Comics" Number="11" Volume="1943" Year="1946">
 <Database Name="cv" Series="20016" Issue="130038" />
 </Book>
-<Book Series="All Winners Comics" Number="19" Volume="1941" Year="1946">
+<Book Series="All-Winners Comics" Number="19" Volume="1941" Year="1946">
 <Database Name="cv" Series="18581" Issue="116143" />
 </Book>
-<Book Series="All Winners Comics" Number="21" Volume="1941" Year="1946">
+<Book Series="All-Winners Comics" Number="21" Volume="1941" Year="1946">
 <Database Name="cv" Series="18581" Issue="138671" />
 </Book>
 </Books>

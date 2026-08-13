@@ -291,13 +291,13 @@
 <Book Series="Final Crisis" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="21712" Issue="131869" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="133674" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="2" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="136522" />
 </Book>
-<Book Series="Final Crisis: Rogues' Revenge" Number="3" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Rogues&apos; Revenge" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22238" Issue="140443" />
 </Book>
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
@@ -459,7 +459,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="153443" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="153683" />
 </Book>
 <Book Series="Oracle: The Cure" Number="1" Volume="2009" Year="2009">
@@ -474,7 +474,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="155147" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="155917" />
 </Book>
 <Book Series="Oracle: The Cure" Number="2" Volume="2009" Year="2009">
@@ -492,7 +492,7 @@
 <Book Series="Batman: Battle for the Cowl: The Network" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26323" Issue="156624" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="157147" />
 </Book>
 <Book Series="Oracle: The Cure" Number="3" Volume="2009" Year="2009">
@@ -585,16 +585,16 @@
 <Book Series="Wonder Woman" Number="39" Volume="2006" Year="2010">
 <Database Name="cv" Series="18208" Issue="189533" />
 </Book>
-<Book Series="Joker's Asylum: Penguin" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Penguin" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22285" Issue="134004" />
 </Book>
-<Book Series="Joker's Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker&apos;s Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22402" Issue="134589" />
 </Book>
-<Book Series="Joker's Asylum II: Killer Croc" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Killer Croc" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33915" Issue="220759" />
 </Book>
-<Book Series="Joker's Asylum II: Clayface" Number="1" Volume="2010" Year="2010">
+<Book Series="Joker&apos;s Asylum II: Clayface" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34046" Issue="222048" />
 </Book>
 <Book Series="Wednesday Comics" Number="1" Volume="2009" Year="2009">
@@ -1440,7 +1440,7 @@
 <Book Series="Bruce Wayne: The Road Home: Oracle" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36338" Issue="239802" />
 </Book>
-<Book Series="Bruce Wayne: The Road Home: Ra's al Ghul" Number="1" Volume="2010" Year="2010">
+<Book Series="Bruce Wayne: The Road Home: Ra&apos;s al Ghul" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36351" Issue="239843" />
 </Book>
 <Book Series="Batman: The Return" Number="1" Volume="2011" Year="2011">
@@ -1860,7 +1860,7 @@
 <Book Series="Supergirl" Number="34" Volume="2005" Year="2008">
 <Database Name="cv" Series="18012" Issue="139678" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="23417" Issue="140459" />
 </Book>
 <Book Series="Superman: New Krypton Special" Number="1" Volume="2008" Year="2008">
@@ -1983,7 +1983,7 @@
 <Book Series="Superman" Number="691" Volume="1939" Year="2009">
 <Database Name="cv" Series="773" Issue="168291" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="2" Volume="2019" Year="2019">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="120215" Issue="716820" />
 </Book>
 <Book Series="Superman: World of New Krypton" Number="7" Volume="2009" Year="2009">

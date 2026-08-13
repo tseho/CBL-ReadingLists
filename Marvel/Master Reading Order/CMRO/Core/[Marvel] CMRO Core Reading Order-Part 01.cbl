@@ -1629,7 +1629,7 @@
 <Book Series="The Incredible Hulk" Number="102" Volume="1968" Year="1968">
 <Database Name="cv" Series="2406" Issue="111601" />
 </Book>
-<Book Series="Iron Man &#38; Sub-Mariner" Number="1" Volume="1968" Year="1968">
+<Book Series="Iron Man &amp; Sub-Mariner" Number="1" Volume="1968" Year="1968">
 <Database Name="cv" Series="18547" Issue="109024" />
 </Book>
 <Book Series="Tales of Suspense" Number="95" Volume="1959" Year="1967">

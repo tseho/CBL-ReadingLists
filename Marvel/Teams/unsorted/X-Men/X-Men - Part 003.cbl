@@ -327,16 +327,16 @@
     <Book Series="The Uncanny X-Men" Number="245" Volume="1981" Year="1989">
       <Database Name="cv" Series="3092" Issue="31340" />
     </Book>
-    <Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+    <Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
       <Database Name="cv" Series="4055" Issue="29050" />
     </Book>
-    <Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+    <Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
       <Database Name="cv" Series="4055" Issue="29062" />
     </Book>
-    <Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+    <Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
       <Database Name="cv" Series="4055" Issue="30644" />
     </Book>
-    <Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+    <Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
       <Database Name="cv" Series="4055" Issue="30684" />
     </Book>
     <Book Series="X-Men Annual" Number="13" Volume="1970" Year="1989">

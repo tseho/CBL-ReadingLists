@@ -144,13 +144,13 @@
 <Book Series="New Avengers Annual" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18198" Issue="106582" />
 </Book>
-<Book Series="New Avengers" Number="22" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="22" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107895" />
 </Book>
 <Book Series="New Avengers Annual" Number="2" Volume="2006" Year="2008">
 <Database Name="cv" Series="18198" Issue="122202" />
 </Book>
-<Book Series="New Avengers" Number="38" Volume="2004" Year="2008">
+<Book Series="New Avengers" Number="38" Volume="2005" Year="2008">
 <Database Name="cv" Series="11497" Issue="122774" />
 </Book>
 <Book Series="New Avengers Annual" Number="3" Volume="2006" Year="2010">
@@ -375,22 +375,22 @@
 <Book Series="Contagion" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="121734" Issue="725243" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="1" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="897325" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="2" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="900390" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="3" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="904775" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="4" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="906630" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="5" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="910627" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="6" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="914649" />
 </Book>
 <Book Series="The Variants" Number="1" Volume="2022" Year="2022">

@@ -33,7 +33,7 @@
         <Book Series="X-Men" Number="30" Volume="2021" Year="2024">
             <Database Name="cv" Series="137402" Issue="1040949" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="14" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="14" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1040941" />
         </Book>
         <Book Series="X-Men" Number="31" Volume="2021" Year="2024">
@@ -48,7 +48,7 @@
         <Book Series="Dead X-Men" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="156494" Issue="1042825" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="15" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="15" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1046268" />
         </Book>
         <Book Series="Avengers" Number="12" Volume="2023" Year="2024">
@@ -72,13 +72,13 @@
         <Book Series="Resurrection of Magneto" Number="4" Volume="2024" Year="2024">
             <Database Name="cv" Series="156369" Issue="1051126" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="16" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="16" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1048667" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="17" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="17" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1051124" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="18" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="18" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1053541" />
         </Book>
         <Book Series="Cable" Number="1" Volume="2024" Year="2024">
@@ -129,7 +129,7 @@
         <Book Series="Fall of the House of X" Number="5" Volume="2024" Year="2024">
             <Database Name="cv" Series="155874" Issue="1056203" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="19" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="19" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1060170" />
         </Book>
         <Book Series="Rise of the Powers of X" Number="5" Volume="2024" Year="2024">
@@ -150,7 +150,7 @@
         <Book Series="Captain Marvel" Number="10" Volume="2023" Year="2024">
             <Database Name="cv" Series="154291" Issue="1065480" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="20" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="20" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1063231" />
         </Book>
         <Book Series="X-Men" Number="35" Volume="2021" Year="2024">

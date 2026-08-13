@@ -45,7 +45,7 @@
     <Book Series="Thunderbolts" Number="12" Volume="1997" Year="1998">
       <Database Name="cv" Series="6020" Issue="44779" />
     </Book>
-    <Book Series="Silver Surfer / Thor '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Silver Surfer / Thor &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="39906" Issue="269203" />
     </Book>
     <Book Series="Captain America" Number="2" Volume="1998" Year="1998">
@@ -108,7 +108,7 @@
     <Book Series="Avengers" Number="6" Volume="1998" Year="1998">
       <Database Name="cv" Series="7084" Issue="50765" />
     </Book>
-    <Book Series="Hawkeye: Earth's Mightiest Marksman" Number="1" Volume="1998" Year="1998">
+    <Book Series="Hawkeye: Earth&apos;s Mightiest Marksman" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="31099" Issue="192969" />
     </Book>
     <Book Series="Iron Man" Number="7" Volume="1998" Year="1998">
@@ -120,7 +120,7 @@
     <Book Series="Avengers" Number="7" Volume="1998" Year="1998">
       <Database Name="cv" Series="7084" Issue="50766" />
     </Book>
-    <Book Series="Avengers / Squadron Supreme '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Avengers / Squadron Supreme &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="30632" Issue="189114" />
     </Book>
     <Book Series="Captain America" Number="9" Volume="1998" Year="1998">
@@ -162,43 +162,43 @@
     <Book Series="Avengers" Number="11" Volume="1998" Year="1998">
       <Database Name="cv" Series="7084" Issue="50770" />
     </Book>
-    <Book Series="Avengers Forever" Number="1" Volume="1998" Year="1998">
+    <Book Series="Avengers: Forever" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="11015" Issue="96135" />
     </Book>
-    <Book Series="Avengers Forever" Number="2" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="2" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96136" />
     </Book>
-    <Book Series="Avengers Forever" Number="3" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="3" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96137" />
     </Book>
-    <Book Series="Avengers Forever" Number="4" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="4" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96138" />
     </Book>
-    <Book Series="Avengers Forever" Number="5" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="5" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96139" />
     </Book>
-    <Book Series="Avengers Forever" Number="6" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="6" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96140" />
     </Book>
-    <Book Series="Avengers Forever" Number="7" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="7" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96141" />
     </Book>
-    <Book Series="Avengers Forever" Number="8" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="8" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96142" />
     </Book>
-    <Book Series="Avengers Forever" Number="9" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="9" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96143" />
     </Book>
-    <Book Series="Avengers Forever" Number="10" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="10" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96144" />
     </Book>
-    <Book Series="Avengers Forever" Number="11" Volume="1998" Year="1999">
+    <Book Series="Avengers: Forever" Number="11" Volume="1998" Year="1999">
       <Database Name="cv" Series="11015" Issue="96145" />
     </Book>
-    <Book Series="Avengers Forever" Number="12" Volume="1998" Year="2000">
+    <Book Series="Avengers: Forever" Number="12" Volume="1998" Year="2000">
       <Database Name="cv" Series="11015" Issue="96146" />
     </Book>
-    <Book Series="Iron Man / Captain America '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Iron Man / Captain America &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="30391" Issue="138790" />
     </Book>
     <Book Series="Iron Man" Number="11" Volume="1998" Year="1998">
@@ -216,7 +216,7 @@
     <Book Series="Thor" Number="7" Volume="1998" Year="1999">
       <Database Name="cv" Series="6226" Issue="45603" />
     </Book>
-    <Book Series="Captain America / Citizen V '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Captain America / Citizen V &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="60452" Issue="142566" />
     </Book>
     <Book Series="Thor 1999" Number="1" Volume="1999" Year="1999">
@@ -303,7 +303,7 @@
     <Book Series="Cable" Number="68" Volume="1993" Year="1999">
       <Database Name="cv" Series="4993" Issue="65646" />
     </Book>
-    <Book Series="Ant-Man's Big Christmas" Number="1" Volume="2000" Year="2000">
+    <Book Series="Ant-Man&apos;s Big Christmas" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="20128" Issue="120141" />
     </Book>
     <Book Series="Captain America" Number="15" Volume="1998" Year="1999">

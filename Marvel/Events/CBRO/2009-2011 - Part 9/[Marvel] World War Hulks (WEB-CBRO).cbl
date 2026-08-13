@@ -18,10 +18,10 @@
 <Book Series="World War Hulks: Spider-Man vs. Thor" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="34435" Issue="227103" />
 </Book>
-<Book Series="World War Hulks: Captain America vs. Wolverine" Number="1" Volume="2010" Year="2010">
+<Book Series="World War Hulks: Wolverine vs. Captain America" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34414" Issue="224633" />
 </Book>
-<Book Series="World War Hulks: Captain America vs. Wolverine" Number="2" Volume="2010" Year="2010">
+<Book Series="World War Hulks: Wolverine vs. Captain America" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="34414" Issue="227127" />
 </Book>
 <Book Series="Hulk" Number="22" Volume="2008" Year="2010">

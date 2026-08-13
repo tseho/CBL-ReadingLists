@@ -48,7 +48,7 @@
 <Book Series="Young Justice" Number="43" Volume="1998" Year="2002">
 <Database Name="cv" Series="9420" Issue="141152" />
 </Book>
-<Book Series="Catwoman: Selina's Big Score" Number="1" Volume="2002" Year="2002">
+<Book Series="Catwoman: Selina&apos;s Big Score" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="34842" Issue="228853" />
 </Book>
 <Book Series="Batgirl" Number="22" Volume="2000" Year="2002">

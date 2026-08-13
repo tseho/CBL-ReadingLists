@@ -33,40 +33,40 @@
 <Book Series="Quasar" Number="52" Volume="1989" Year="1993">
 <Database Name="cv" Series="4242" Issue="38102" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="1" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123075" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="2" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123085" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="3" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="3" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123087" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="4" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="4" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123138" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="5" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="5" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123112" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="6" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="6" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123117" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="7" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="7" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123118" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="8" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="8" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123119" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="9" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="9" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123120" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="10" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="10" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123121" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="11" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="11" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123122" />
 </Book>
-<Book Series="The Incomplete Death's Head" Number="12" Volume="1993" Year="1993">
+<Book Series="The Incomplete Death&apos;s Head" Number="12" Volume="1993" Year="1993">
 <Database Name="cv" Series="20552" Issue="123147" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="368" Volume="1963" Year="1992">
@@ -129,7 +129,7 @@
 <Book Series="Wonder Man" Number="19" Volume="1991" Year="1993">
 <Database Name="cv" Series="4603" Issue="136865" />
 </Book>
-<Book Series="Marvel Year-In-Review" Number="5" Volume="1990" Year="1993">
+<Book Series="Marvel Year-In-Review" Number="5" Volume="1989" Year="1993">
 <Database Name="cv" Series="21201" Issue="169030" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="374" Volume="1963" Year="1993">
@@ -279,7 +279,7 @@
 <Book Series="The Punisher War Journal" Number="56" Volume="1988" Year="1993">
 <Database Name="cv" Series="4066" Issue="108017" />
 </Book>
-<Book Series="Punisher/Black Widow: Spinning Doomsday's Web" Number="1" Volume="1992" Year="1992">
+<Book Series="Punisher/Black Widow: Spinning Doomsday&apos;s Web" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="20443" Issue="122391" />
 </Book>
 <Book Series="Overkill" Number="26" Volume="1992" Year="0">
@@ -777,7 +777,7 @@
 <Book Series="Darkhawk Annual" Number="2" Volume="1992" Year="1993">
 <Database Name="cv" Series="25922" Issue="153181" />
 </Book>
-<Book Series="The Avengers Collector's Edition" Number="1" Volume="1993" Year="1993">
+<Book Series="The Avengers Collector&apos;s Edition" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="25145" Issue="148444" />
 </Book>
 <Book Series="Sleepwalker" Number="19" Volume="1991" Year="1992">
@@ -1452,10 +1452,10 @@
 <Book Series="Guardians of the Galaxy Annual" Number="4" Volume="1991" Year="1994">
 <Database Name="cv" Series="4595" Issue="38400" />
 </Book>
-<Book Series="Death's Head II &amp; The Origin of Die-Cut" Number="1" Volume="1993" Year="1993">
+<Book Series="Death&apos;s Head II &amp; The Origin of Die-Cut" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="18466" Issue="108382" />
 </Book>
-<Book Series="Death's Head II &amp; The Origin of Die-Cut" Number="2" Volume="1993" Year="1993">
+<Book Series="Death&apos;s Head II &amp; The Origin of Die-Cut" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="18466" Issue="122639" />
 </Book>
 <Book Series="Wonder Man" Number="22" Volume="1991" Year="1993">
@@ -1905,13 +1905,13 @@
 <Book Series="Deathlok" Number="30" Volume="1991" Year="1993">
 <Database Name="cv" Series="4589" Issue="116994" />
 </Book>
-<Book Series="Death's Head II" Number="13" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="13" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="122717" />
 </Book>
-<Book Series="Death's Head II" Number="14" Volume="1992" Year="1994">
+<Book Series="Death&apos;s Head II" Number="14" Volume="1992" Year="1994">
 <Database Name="cv" Series="18465" Issue="122645" />
 </Book>
-<Book Series="Death's Head II" Number="15" Volume="1992" Year="1994">
+<Book Series="Death&apos;s Head II" Number="15" Volume="1992" Year="1994">
 <Database Name="cv" Series="18465" Issue="122647" />
 </Book>
 <Book Series="Captain America" Number="420" Volume="1968" Year="1993">
@@ -1935,7 +1935,7 @@
 <Book Series="Venom: The Madness" Number="3" Volume="1993" Year="1994">
 <Database Name="cv" Series="5060" Issue="57659" />
 </Book>
-<Book Series="Death's Head II Gold" Number="1" Volume="1994" Year="1994">
+<Book Series="Death&apos;s Head II Gold" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="20488" Issue="122684" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="204" Volume="1976" Year="1993">
@@ -2631,7 +2631,7 @@
 <Book Series="Death Wreck" Number="4" Volume="1994" Year="1994">
 <Database Name="cv" Series="20528" Issue="123039" />
 </Book>
-<Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1993" Year="1994">
+<Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="18771" Issue="110894" />
 </Book>
 <Book Series="Nova" Number="2" Volume="1994" Year="1994">
@@ -2889,7 +2889,7 @@
 <Book Series="Captain America" Number="425" Volume="1968" Year="1994">
 <Database Name="cv" Series="2400" Issue="38788" />
 </Book>
-<Book Series="Death's Head II" Number="16" Volume="1992" Year="1994">
+<Book Series="Death&apos;s Head II" Number="16" Volume="1992" Year="1994">
 <Database Name="cv" Series="18465" Issue="122649" />
 </Book>
 <Book Series="Silver Surfer Annual" Number="7" Volume="1988" Year="1994">

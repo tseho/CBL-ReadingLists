@@ -456,16 +456,16 @@
     <Book Series="The Amazing Spider-Man" Number="407" Volume="1963" Year="1996">
       <Database Name="cv" Series="2127" Issue="64445" />
     </Book>
-    <Book Series="Spider-Man: The Final Adventure" Number="1" Volume="1996" Year="1995">
+    <Book Series="Spider-Man: The Final Adventure" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="21004" Issue="125747" />
     </Book>
-    <Book Series="Spider-Man: The Final Adventure" Number="2" Volume="1996" Year="1996">
+    <Book Series="Spider-Man: The Final Adventure" Number="2" Volume="1995" Year="1996">
       <Database Name="cv" Series="21004" Issue="125769" />
     </Book>
-    <Book Series="Spider-Man: The Final Adventure" Number="3" Volume="1996" Year="1996">
+    <Book Series="Spider-Man: The Final Adventure" Number="3" Volume="1995" Year="1996">
       <Database Name="cv" Series="21004" Issue="125770" />
     </Book>
-    <Book Series="Spider-Man: The Final Adventure" Number="4" Volume="1996" Year="1996">
+    <Book Series="Spider-Man: The Final Adventure" Number="4" Volume="1995" Year="1996">
       <Database Name="cv" Series="21004" Issue="125771" />
     </Book>
     <Book Series="Spider-Man Unlimited" Number="11" Volume="1993" Year="1996">
@@ -711,7 +711,7 @@
     <Book Series="The Sensational Spider-Man" Number="18" Volume="1996" Year="1997">
       <Database Name="cv" Series="5788" Issue="43976" />
     </Book>
-    <Book Series="Spider-Man: Dead Man's Hand" Number="1" Volume="1997" Year="1997">
+    <Book Series="Spider-Man: Dead Man&apos;s Hand" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="32008" Issue="200815" />
     </Book>
     <Book Series="Spider-Man Team-Up" Number="6" Volume="1995" Year="1997">
@@ -774,13 +774,13 @@
     <Book Series="Spider-Man" Number="84" Volume="1990" Year="1997">
       <Database Name="cv" Series="4421" Issue="64662" />
     </Book>
-    <Book Series="The Amazing Spider-Man '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="The Amazing Spider-Man &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="60436" Issue="143308" />
     </Book>
     <Book Series="Spider-Man Unlimited" Number="17" Volume="1993" Year="1997">
       <Database Name="cv" Series="5048" Issue="57302" />
     </Book>
-    <Book Series="Spider-Man '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="20609" Issue="181104" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="425" Volume="1963" Year="1997">

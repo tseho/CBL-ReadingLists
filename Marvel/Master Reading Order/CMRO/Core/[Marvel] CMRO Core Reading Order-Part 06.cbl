@@ -1977,16 +1977,16 @@
 <Book Series="Marc Spector: Moon Knight" Number="7" Volume="1989" Year="1989">
 <Database Name="cv" Series="4230" Issue="31924" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="1" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="2" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="29062" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30644" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Book Series="Havok &amp; Wolverine: Meltdown" Number="4" Volume="1988" Year="1989">
 <Database Name="cv" Series="4055" Issue="30684" />
 </Book>
 <Book Series="The Avengers" Number="305" Volume="1963" Year="1989">
@@ -2250,7 +2250,7 @@
 <Book Series="Alpha Flight" Number="77" Volume="1983" Year="1989">
 <Database Name="cv" Series="3217" Issue="31915" />
 </Book>
-<Book Series="Doctor Strange &#38; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
+<Book Series="Doctor Strange &amp; Doctor Doom: Triumph and Torment" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="23227" Issue="139720" />
 </Book>
 <Book Series="Classic Punisher" Number="1" Volume="1989" Year="1989">

@@ -348,7 +348,7 @@
 <Book Series="Supergirl" Number="33" Volume="2016" Year="2019">
 <Database Name="cv" Series="93948" Issue="717927" />
 </Book>
-<Book Series="DC's Year of the Villain Special" Number="1" Volume="2019" Year="2019">
+<Book Series="DC&apos;s Year of the Villain Special" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="118649" Issue="707486" />
 </Book>
 <Book Series="Justice League" Number="26" Volume="2018" Year="2019">
@@ -555,22 +555,22 @@
 <Book Series="The Green Lantern" Number="12" Volume="2018" Year="2019">
 <Database Name="cv" Series="115055" Issue="721046" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="1" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="118841" Issue="708085" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="2" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="118841" Issue="711238" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="3" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="118841" Issue="713401" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="4" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118841" Issue="716310" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="5" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="118841" Issue="718640" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="6" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="118841" Issue="721741" />
 </Book>
 <Book Series="Aquaman" Number="48" Volume="2016" Year="2019">
@@ -603,7 +603,7 @@
 <Book Series="Red Hood and the Outlaws Annual" Number="3" Volume="2016" Year="2019">
 <Database Name="cv" Series="103830" Issue="714621" />
 </Book>
-<Book Series="Justice League Dark Annual" Number="1" Volume="2018" Year="2019">
+<Book Series="Justice League Dark Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120401" Issue="714620" />
 </Book>
 <Book Series="Sinestro: Year of the Villain" Number="1" Volume="2019" Year="2019">
@@ -645,7 +645,7 @@
 <Book Series="Justice League Odyssey" Number="12" Volume="2018" Year="2019">
 <Database Name="cv" Series="113886" Issue="716321" />
 </Book>
-<Book Series="Riddler: Year of the Villain" Number="1" Volume="2019" Year="2019">
+<Book Series="The Riddler: Year of the Villain" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121250" Issue="718655" />
 </Book>
 <Book Series="Lex Luthor: Year of the Villain" Number="1" Volume="2019" Year="2019">
@@ -672,7 +672,7 @@
 <Book Series="Legion of Super-Heroes: Millennium" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="121084" Issue="721050" />
 </Book>
-<Book Series="Batman &#38; the Outsiders Annual" Number="1" Volume="2019" Year="2019">
+<Book Series="Batman &amp; the Outsiders Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="122476" Issue="725220" />
 </Book>
 <Book Series="The Flash" Number="76" Volume="2016" Year="2019">
@@ -819,13 +819,13 @@
 <Book Series="Deathstroke" Number="50" Volume="2016" Year="2020">
 <Database Name="cv" Series="93375" Issue="729495" />
 </Book>
-<Book Series="New Year's Evil" Number="1" Volume="2019" Year="2020">
+<Book Series="New Year&apos;s Evil" Number="1" Volume="2019" Year="2020">
 <Database Name="cv" Series="123226" Issue="729504" />
 </Book>
 <Book Series="Harley Quinn" Number="68" Volume="2016" Year="2020">
 <Database Name="cv" Series="92750" Issue="729499" />
 </Book>
-<Book Series="Harley Quinn's Villain of the Year" Number="1" Volume="2019" Year="2020">
+<Book Series="Harley Quinn&apos;s Villain of the Year" Number="1" Volume="2019" Year="2020">
 <Database Name="cv" Series="123376" Issue="730208" />
 </Book>
 <Book Series="The Joker: Year of the Villain" Number="1" Volume="2019" Year="2019">
@@ -963,7 +963,7 @@
 <Book Series="The Flash" Number="87" Volume="2016" Year="2020">
 <Database Name="cv" Series="91750" Issue="735363" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="7" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="7" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="726894" />
 </Book>
 <Book Series="Wonder Woman" Number="82" Volume="2016" Year="2020">
@@ -1083,19 +1083,19 @@
 <Book Series="Shazam!" Number="15" Volume="2018" Year="2020">
 <Database Name="cv" Series="115760" Issue="802697" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="8" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="8" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="730197" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="9" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="9" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="732692" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="10" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="10" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="736994" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="11" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="11" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="740560" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="12" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="12" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="758366" />
 </Book>
 <Book Series="Collapser" Number="1" Volume="2019" Year="2019">
@@ -1338,22 +1338,22 @@
 <Book Series="Gotham City Monsters" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="121236" Issue="737001" />
 </Book>
-<Book Series="Harley Quinn &#38; Poison Ivy" Number="1" Volume="2019" Year="2019">
+<Book Series="Harley Quinn &amp; Poison Ivy" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121078" Issue="717921" />
 </Book>
-<Book Series="Harley Quinn &#38; Poison Ivy" Number="2" Volume="2019" Year="2019">
+<Book Series="Harley Quinn &amp; Poison Ivy" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="121078" Issue="721756" />
 </Book>
-<Book Series="Harley Quinn &#38; Poison Ivy" Number="3" Volume="2019" Year="2020">
+<Book Series="Harley Quinn &amp; Poison Ivy" Number="3" Volume="2019" Year="2020">
 <Database Name="cv" Series="121078" Issue="726906" />
 </Book>
-<Book Series="Harley Quinn &#38; Poison Ivy" Number="4" Volume="2019" Year="2020">
+<Book Series="Harley Quinn &amp; Poison Ivy" Number="4" Volume="2019" Year="2020">
 <Database Name="cv" Series="121078" Issue="730207" />
 </Book>
-<Book Series="Harley Quinn &#38; Poison Ivy" Number="5" Volume="2019" Year="2020">
+<Book Series="Harley Quinn &amp; Poison Ivy" Number="5" Volume="2019" Year="2020">
 <Database Name="cv" Series="121078" Issue="732697" />
 </Book>
-<Book Series="Harley Quinn &#38; Poison Ivy" Number="6" Volume="2019" Year="2020">
+<Book Series="Harley Quinn &amp; Poison Ivy" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="121078" Issue="737004" />
 </Book>
 <Book Series="Catwoman" Number="18" Volume="2018" Year="2020">
@@ -1743,22 +1743,22 @@
 <Book Series="Leviathan Dawn" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="125288" Issue="738546" />
 </Book>
-<Book Series="Batman vs. Ra's Al Ghul" Number="1" Volume="2019" Year="2019">
+<Book Series="Batman vs. Ra&apos;s Al Ghul" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121067" Issue="717911" />
 </Book>
-<Book Series="Batman vs. Ra's Al Ghul" Number="2" Volume="2019" Year="2019">
+<Book Series="Batman vs. Ra&apos;s Al Ghul" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="121067" Issue="721745" />
 </Book>
-<Book Series="Batman vs. Ra's Al Ghul" Number="3" Volume="2019" Year="2020">
+<Book Series="Batman vs. Ra&apos;s Al Ghul" Number="3" Volume="2019" Year="2020">
 <Database Name="cv" Series="121067" Issue="728894" />
 </Book>
-<Book Series="Batman vs. Ra's Al Ghul" Number="4" Volume="2019" Year="2020">
+<Book Series="Batman vs. Ra&apos;s Al Ghul" Number="4" Volume="2019" Year="2020">
 <Database Name="cv" Series="121067" Issue="736997" />
 </Book>
-<Book Series="Batman vs. Ra's Al Ghul" Number="5" Volume="2019" Year="2021">
+<Book Series="Batman vs. Ra&apos;s Al Ghul" Number="5" Volume="2019" Year="2021">
 <Database Name="cv" Series="121067" Issue="837679" />
 </Book>
-<Book Series="Batman vs. Ra's Al Ghul" Number="6" Volume="2019" Year="2021">
+<Book Series="Batman vs. Ra&apos;s Al Ghul" Number="6" Volume="2019" Year="2021">
 <Database Name="cv" Series="121067" Issue="844016" />
 </Book>
 <Book Series="The Terrifics" Number="26" Volume="2018" Year="2020">
@@ -1851,40 +1851,40 @@
 <Book Series="Aquaman" Number="61" Volume="2016" Year="2020">
 <Database Name="cv" Series="91738" Issue="778241" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="1" Volume="2019" Year="2019">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120215" Issue="713780" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="2" Volume="2019" Year="2019">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="120215" Issue="716820" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="3" Volume="2019" Year="2019">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120215" Issue="719316" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="4" Volume="2019" Year="2019">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="120215" Issue="722995" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="5" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="5" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="728329" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="6" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="731323" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="7" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="7" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="733644" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="8" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="8" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="737731" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="9" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="9" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="741792" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="10" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="10" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="762181" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="11" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="11" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="769610" />
 </Book>
-<Book Series="Superman's Pal Jimmy Olsen" Number="12" Volume="2019" Year="2020">
+<Book Series="Superman&apos;s Pal Jimmy Olsen" Number="12" Volume="2019" Year="2020">
 <Database Name="cv" Series="120215" Issue="778250" />
 </Book>
 <Book Series="Justice League Odyssey" Number="16" Volume="2018" Year="2020">
@@ -2043,31 +2043,31 @@
 <Book Series="Teen Titans" Number="47" Volume="2016" Year="2021">
 <Database Name="cv" Series="95242" Issue="818628" />
 </Book>
-<Book Series="Harley Quinn &#38; the Birds of Prey" Number="1" Volume="2020" Year="2020">
+<Book Series="Harley Quinn &amp; the Birds of Prey" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124955" Issue="737003" />
 </Book>
-<Book Series="Harley Quinn &#38; the Birds of Prey" Number="2" Volume="2020" Year="2020">
+<Book Series="Harley Quinn &amp; the Birds of Prey" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="124955" Issue="769602" />
 </Book>
-<Book Series="Harley Quinn &#38; the Birds of Prey" Number="3" Volume="2020" Year="2020">
+<Book Series="Harley Quinn &amp; the Birds of Prey" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="124955" Issue="804743" />
 </Book>
-<Book Series="Harley Quinn &#38; the Birds of Prey" Number="4" Volume="2020" Year="2021">
+<Book Series="Harley Quinn &amp; the Birds of Prey" Number="4" Volume="2020" Year="2021">
 <Database Name="cv" Series="124955" Issue="827081" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="13" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="13" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="768298" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="14" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="14" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="774429" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="15" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="15" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="790340" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="16" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="16" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="797687" />
 </Book>
-<Book Series="Batman &#38; the Outsiders" Number="17" Volume="2019" Year="2020">
+<Book Series="Batman &amp; the Outsiders" Number="17" Volume="2019" Year="2020">
 <Database Name="cv" Series="118841" Issue="809822" />
 </Book>
 <Book Series="The Flash" Number="757" Volume="2016" Year="2020">

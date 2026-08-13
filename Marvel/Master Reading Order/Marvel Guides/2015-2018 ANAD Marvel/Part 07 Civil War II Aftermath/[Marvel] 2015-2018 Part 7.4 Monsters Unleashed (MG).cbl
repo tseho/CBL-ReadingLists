@@ -3,10 +3,10 @@
     <Name>[Marvel] 2015-2018 Part 7.4 Monsters Unleashed (MG)</Name>
     <NumIssues>13</NumIssues>
     <Books>
-        <Book Series="All-New X-Men" Number="1.MU" Volume="2015" Year="2017">
+        <Book Series="All-New X-Men" Number="1.MU" Volume="2016" Year="2017">
             <Database Name="cv" Series="86334" Issue="579304" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="1.MU" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="1.MU" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="583732" />
         </Book>
         <Book Series="Champions" Number="1.MU" Volume="2016" Year="2017">
@@ -15,7 +15,7 @@
         <Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="98067" Issue="576629" />
         </Book>
-        <Book Series="Avengers" Number="1.MU" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="1.MU" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="578450" />
         </Book>
         <Book Series="Spider-Man/Deadpool" Number="1.MU" Volume="2016" Year="2017">

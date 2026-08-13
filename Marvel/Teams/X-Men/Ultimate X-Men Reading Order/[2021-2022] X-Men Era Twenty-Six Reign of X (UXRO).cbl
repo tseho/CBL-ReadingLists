@@ -78,40 +78,40 @@
 <Book Series="Wolverine" Number="12" Volume="2020" Year="2021">
 <Database Name="cv" Series="125121" Issue="851314" />
 </Book>
-<Book Series="S.W.O.R.D." Number="1" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="820748" />
 </Book>
-<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="820024" />
 </Book>
-<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="822349" />
 </Book>
 <Book Series="King In Black: Marauders" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133610" Issue="827526" />
 </Book>
-<Book Series="S.W.O.R.D." Number="2" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="824453" />
 </Book>
-<Book Series="S.W.O.R.D." Number="3" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="828197" />
 </Book>
-<Book Series="S.W.O.R.D." Number="4" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="838885" />
 </Book>
-<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="825507" />
 </Book>
-<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="828857" />
 </Book>
-<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="842204" />
 </Book>
 <Book Series="Venom" Number="35" Volume="2018" Year="2021">
 <Database Name="cv" Series="110770" Issue="861680" />
 </Book>
-<Book Series="S.W.O.R.D." Number="5" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="844973" />
 </Book>
 <Book Series="Avengers: Curse of the Man-Thing" Number="1" Volume="2021" Year="2021">
@@ -246,7 +246,7 @@
 <Book Series="Planet-Size X-Men" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136937" Issue="861642" />
 </Book>
-<Book Series="S.W.O.R.D." Number="6" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="863852" />
 </Book>
 <Book Series="Way of X" Number="3" Volume="2021" Year="2021">
@@ -261,7 +261,7 @@
 <Book Series="X-Men: The Trial of Magneto" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138343" Issue="880915" />
 </Book>
-<Book Series="S.W.O.R.D." Number="7" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="7" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="874522" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="17" Volume="2020" Year="2021">
@@ -273,7 +273,7 @@
 <Book Series="The Last Annihilation: Wakanda" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138937" Issue="884897" />
 </Book>
-<Book Series="The Last Annihilation: Wiccan &#38; Hulkling" Number="1" Volume="2021" Year="2021">
+<Book Series="The Last Annihilation: Wiccan &amp; Hulkling" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138659" Issue="882901" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="18" Volume="2020" Year="2021">
@@ -324,13 +324,13 @@
 <Book Series="Hellions" Number="18" Volume="2020" Year="2022">
 <Database Name="cv" Series="126015" Issue="897328" />
 </Book>
-<Book Series="Marvel's Voices: Pride" Number="1" Volume="2021" Year="2021">
+<Book Series="Marvel&apos;s Voices: Pride" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137050" Issue="863930" />
 </Book>
-<Book Series="Marvel's Voices: Identity" Number="1" Volume="2021" Year="2021">
+<Book Series="Marvel&apos;s Voices: Identity" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138531" Issue="882075" />
 </Book>
-<Book Series="Marvel's Voices: Comunidades" Number="1" Volume="2021" Year="2022">
+<Book Series="Marvel&apos;s Voices: Comunidades" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140356" Issue="897358" />
 </Book>
 <Book Series="Love Unlimited Infinity Comic" Number="31" Volume="2022" Year="2023">
@@ -366,7 +366,7 @@
 <Book Series="Marauders" Number="23" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="880901" />
 </Book>
-<Book Series="S.W.O.R.D." Number="8" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="8" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="886939" />
 </Book>
 <Book Series="Way of X" Number="4" Volume="2021" Year="2021">
@@ -627,22 +627,22 @@
 <Book Series="X-Men Unlimited Infinity Comic" Number="28" Volume="2021" Year="2022">
 <Database Name="cv" Series="139055" Issue="914711" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="1" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="903910" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="2" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="909677" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="3" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="912248" />
 </Book>
-<Book Series="S.W.O.R.D." Number="9" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="9" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="891564" />
 </Book>
-<Book Series="S.W.O.R.D." Number="10" Volume="2020" Year="2022">
+<Book Series="S.W.O.R.D." Number="10" Volume="2021" Year="2022">
 <Database Name="cv" Series="132511" Issue="894139" />
 </Book>
-<Book Series="S.W.O.R.D." Number="11" Volume="2020" Year="2022">
+<Book Series="S.W.O.R.D." Number="11" Volume="2021" Year="2022">
 <Database Name="cv" Series="132511" Issue="899166" />
 </Book>
 </Books>

@@ -363,16 +363,16 @@
     <Book Series="Gambit" Number="14" Volume="1999" Year="2000">
       <Database Name="cv" Series="9111" Issue="66902" />
     </Book>
-    <Book Series="X-Men: The Hellfire Club" Number="1" Volume="2000" Year="2000">
+    <Book Series="X-Men: Hellfire Club" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="22614" Issue="135742" />
     </Book>
-    <Book Series="X-Men: The Hellfire Club" Number="2" Volume="2000" Year="2000">
+    <Book Series="X-Men: Hellfire Club" Number="2" Volume="2000" Year="2000">
       <Database Name="cv" Series="22614" Issue="135746" />
     </Book>
-    <Book Series="X-Men: The Hellfire Club" Number="3" Volume="2000" Year="2000">
+    <Book Series="X-Men: Hellfire Club" Number="3" Volume="2000" Year="2000">
       <Database Name="cv" Series="22614" Issue="135747" />
     </Book>
-    <Book Series="X-Men: The Hellfire Club" Number="4" Volume="2000" Year="2000">
+    <Book Series="X-Men: Hellfire Club" Number="4" Volume="2000" Year="2000">
       <Database Name="cv" Series="22614" Issue="135748" />
     </Book>
     <Book Series="Gambit" Number="15" Volume="1999" Year="2000">

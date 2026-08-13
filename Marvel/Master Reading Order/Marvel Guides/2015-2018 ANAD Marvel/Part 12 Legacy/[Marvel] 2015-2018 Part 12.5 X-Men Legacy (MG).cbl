@@ -100,19 +100,19 @@
         <Book Series="Legion" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="108105" Issue="670748" />
         </Book>
-        <Book Series="Rogue &#38; Gambit" Number="1" Volume="2018" Year="2018">
+        <Book Series="Rogue &amp; Gambit" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="107513" Issue="650924" />
         </Book>
-        <Book Series="Rogue &#38; Gambit" Number="2" Volume="2018" Year="2018">
+        <Book Series="Rogue &amp; Gambit" Number="2" Volume="2018" Year="2018">
             <Database Name="cv" Series="107513" Issue="658728" />
         </Book>
-        <Book Series="Rogue &#38; Gambit" Number="3" Volume="2018" Year="2018">
+        <Book Series="Rogue &amp; Gambit" Number="3" Volume="2018" Year="2018">
             <Database Name="cv" Series="107513" Issue="662094" />
         </Book>
-        <Book Series="Rogue &#38; Gambit" Number="4" Volume="2018" Year="2018">
+        <Book Series="Rogue &amp; Gambit" Number="4" Volume="2018" Year="2018">
             <Database Name="cv" Series="107513" Issue="664920" />
         </Book>
-        <Book Series="Rogue &#38; Gambit" Number="5" Volume="2018" Year="2018">
+        <Book Series="Rogue &amp; Gambit" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="107513" Issue="668780" />
         </Book>
         <Book Series="Cable" Number="150" Volume="2017" Year="2017">
@@ -145,37 +145,37 @@
         <Book Series="Cable" Number="159" Volume="2017" Year="2018">
             <Database Name="cv" Series="101767" Issue="677274" />
         </Book>
-        <Book Series="All-New Wolverine" Number="25" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="25" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="628574" />
         </Book>
-        <Book Series="All-New Wolverine" Number="26" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="26" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="632487" />
         </Book>
-        <Book Series="All-New Wolverine" Number="27" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="27" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="641396" />
         </Book>
-        <Book Series="All-New Wolverine" Number="28" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="28" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="646178" />
         </Book>
-        <Book Series="All-New Wolverine" Number="29" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="29" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="654046" />
         </Book>
-        <Book Series="All-New Wolverine" Number="30" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="30" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="656694" />
         </Book>
-        <Book Series="All-New Wolverine" Number="31" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="31" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="661137" />
         </Book>
-        <Book Series="All-New Wolverine" Number="32" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="32" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="662735" />
         </Book>
-        <Book Series="All-New Wolverine" Number="33" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="33" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="664904" />
         </Book>
-        <Book Series="All-New Wolverine" Number="34" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="34" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="667629" />
         </Book>
-        <Book Series="All-New Wolverine" Number="35" Volume="2015" Year="2018">
+        <Book Series="All-New Wolverine" Number="35" Volume="2016" Year="2018">
             <Database Name="cv" Series="85930" Issue="670104" />
         </Book>
         <Book Series="X-Men: Blue" Number="10" Volume="2017" Year="2017">
@@ -238,13 +238,13 @@
         <Book Series="X-Men: Blue" Number="21" Volume="2017" Year="2018">
             <Database Name="cv" Series="100712" Issue="660028" />
         </Book>
-        <Book Series="Venom" Number="162" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="162" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="660673" />
         </Book>
         <Book Series="X-Men: Blue" Number="22" Volume="2017" Year="2018">
             <Database Name="cv" Series="100712" Issue="661168" />
         </Book>
-        <Book Series="Venom" Number="163" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="163" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="662102" />
         </Book>
         <Book Series="X-Men: Blue" Number="23" Volume="2017" Year="2018">
@@ -280,10 +280,10 @@
         <Book Series="Venomized" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="109637" Issue="668788" />
         </Book>
-        <Book Series="Venom" Number="164" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="164" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="664929" />
         </Book>
-        <Book Series="Venom" Number="165" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="165" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="667664" />
         </Book>
         <Book Series="X-Men: Blue" Number="29" Volume="2017" Year="2018">
@@ -424,23 +424,23 @@
         <Book Series="Jean Grey" Number="10" Volume="2017" Year="2018">
             <Database Name="cv" Series="101195" Issue="646189" />
         </Book>
-        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2017"
+        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2018"
             Year="2018">
             <Database Name="cv" Series="107368" Issue="649740" />
         </Book>
-        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2017"
+        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2018"
             Year="2018">
             <Database Name="cv" Series="107368" Issue="650922" />
         </Book>
-        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2017"
+        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2018"
             Year="2018">
             <Database Name="cv" Series="107368" Issue="652635" />
         </Book>
-        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2017"
+        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2018"
             Year="2018">
             <Database Name="cv" Series="107368" Issue="655510" />
         </Book>
-        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2017"
+        <Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2018"
             Year="2018">
             <Database Name="cv" Series="107368" Issue="656712" />
         </Book>

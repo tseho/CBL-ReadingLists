@@ -18,7 +18,7 @@
 <Book Series="Sub-Mariner Comics" Number="21" Volume="1941" Year="1946">
 <Database Name="cv" Series="18548" Issue="110347" />
 </Book>
-<Book Series="Young Allies Comics" Number="20" Volume="1941" Year="1946">
+<Book Series="Young Allies" Number="20" Volume="1941" Year="1946">
 <Database Name="cv" Series="19571" Issue="139057" />
 </Book>
 <Book Series="Captain America Comics" Number="59" Volume="1941" Year="1946">

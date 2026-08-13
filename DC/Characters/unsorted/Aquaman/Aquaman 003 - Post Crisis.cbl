@@ -291,7 +291,7 @@
     <Book Series="Aquaman" Number="50" Volume="1994" Year="1998">
       <Database Name="cv" Series="5230" Issue="45516" />
     </Book>
-    <Book Series="Aquaman: Secret Files &#38; Origins" Number="1" Volume="1998" Year="1998">
+    <Book Series="Aquaman Secret Files" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="25774" Issue="162429" />
     </Book>
     <Book Series="Aquaman" Number="51" Volume="1994" Year="1999">
@@ -375,7 +375,7 @@
     <Book Series="JLA: Our Worlds at War" Number="1" Volume="2001" Year="2001">
       <Database Name="cv" Series="30755" Issue="189874" />
     </Book>
-    <Book Series="World's Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+    <Book Series="World&apos;s Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
       <Database Name="cv" Series="26553" Issue="158812" />
     </Book>
     <Book Series="JLA" Number="66" Volume="1997" Year="2002">
@@ -420,7 +420,7 @@
     <Book Series="Aquaman" Number="4" Volume="2003" Year="2003">
       <Database Name="cv" Series="9517" Issue="120698" />
     </Book>
-    <Book Series="Aquaman: Secret Files &#38; Origins 2003" Number="1" Volume="2003" Year="2003">
+    <Book Series="Aquaman: Secret Files &amp; Origins 2003" Number="1" Volume="2003" Year="2003">
       <Database Name="cv" Series="146628" Issue="152062" />
     </Book>
     <Book Series="Aquaman" Number="5" Volume="2003" Year="2003">

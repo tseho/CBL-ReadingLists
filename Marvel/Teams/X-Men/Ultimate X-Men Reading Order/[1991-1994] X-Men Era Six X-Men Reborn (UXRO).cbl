@@ -222,19 +222,19 @@
 <Book Series="Warheads" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="20499" Issue="136059" />
 </Book>
-<Book Series="Hell's Angel" Number="1" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="245666" />
 </Book>
-<Book Series="Hell's Angel" Number="2" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251370" />
 </Book>
-<Book Series="Hell's Angel" Number="3" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251371" />
 </Book>
-<Book Series="Hell's Angel" Number="4" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251372" />
 </Book>
-<Book Series="Hell's Angel" Number="5" Volume="1992" Year="1992">
+<Book Series="Hell&apos;s Angel" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="36812" Issue="251373" />
 </Book>
 <Book Series="Warheads" Number="6" Volume="1992" Year="1992">
@@ -249,16 +249,16 @@
 <Book Series="Warheads" Number="9" Volume="1992" Year="1993">
 <Database Name="cv" Series="20499" Issue="169143" />
 </Book>
-<Book Series="Death's Head II" Number="1" Volume="1992" Year="1992">
+<Book Series="Death&apos;s Head II" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="18465" Issue="108381" />
 </Book>
-<Book Series="Death's Head II" Number="2" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="2" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="114911" />
 </Book>
-<Book Series="Death's Head II" Number="3" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="3" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="114912" />
 </Book>
-<Book Series="Death's Head II" Number="4" Volume="1992" Year="1993">
+<Book Series="Death&apos;s Head II" Number="4" Volume="1992" Year="1993">
 <Database Name="cv" Series="18465" Issue="114913" />
 </Book>
 <Book Series="Dark Angel" Number="6" Volume="1992" Year="1992">

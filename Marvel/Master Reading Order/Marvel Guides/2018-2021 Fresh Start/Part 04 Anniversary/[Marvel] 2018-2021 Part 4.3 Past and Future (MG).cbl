@@ -7,7 +7,7 @@
         <Book Series="Champions" Number="24" Volume="2016" Year="2018">
             <Database Name="cv" Series="94612" Issue="684900" />
         </Book>
-        <Book Series="Champions Annual" Number="1" Volume="2018" Year="2019">
+        <Book Series="Champions Annual" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="116065" Issue="695627" />
         </Book>
         <Book Series="The Unstoppable Wasp" Number="1" Volume="2018" Year="2018">
@@ -40,19 +40,19 @@
         <Book Series="The Unstoppable Wasp" Number="10" Volume="2018" Year="2019">
             <Database Name="cv" Series="114425" Issue="713871" />
         </Book>
-        <Book Series="Ironheart" Number="1" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="693464" />
         </Book>
-        <Book Series="Ironheart" Number="2" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="697634" />
         </Book>
-        <Book Series="Ironheart" Number="3" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="700671" />
         </Book>
-        <Book Series="Ironheart" Number="4" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="704817" />
         </Book>
-        <Book Series="Ironheart" Number="5" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="706950" />
         </Book>
         <Book Series="The Life of Captain Marvel" Number="1" Volume="2018" Year="2018">

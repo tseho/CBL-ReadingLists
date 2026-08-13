@@ -4,55 +4,55 @@
     <Name>[Marvel] 2021-2024 Part 1.6 Across the Multiverse (MG)</Name>
     <NumIssues>53</NumIssues>
     <Books>
-        <Book Series="Hulkling &#38; Wiccan Infinity Comic" Number="1" Volume="2021" Year="2021">
+        <Book Series="Hulkling &amp; Wiccan Infinity Comic" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="139919" Issue="891911" />
         </Book>
-        <Book Series="Hulkling &#38; Wiccan Infinity Comic" Number="2" Volume="2021" Year="2021">
+        <Book Series="Hulkling &amp; Wiccan Infinity Comic" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="139919" Issue="893961" />
         </Book>
-        <Book Series="Hulkling &#38; Wiccan Infinity Comic" Number="3" Volume="2021" Year="2021">
+        <Book Series="Hulkling &amp; Wiccan Infinity Comic" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="139919" Issue="894443" />
         </Book>
-        <Book Series="Hulkling &#38; Wiccan Infinity Comic" Number="4" Volume="2021" Year="2021">
+        <Book Series="Hulkling &amp; Wiccan Infinity Comic" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="139919" Issue="895689" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="5" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940794" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="6" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="6" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940796" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="7" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="7" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940798" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="8" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="8" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940800" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="9" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="9" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940802" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="10" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="10" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940803" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="11" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="11" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963853" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="12" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="12" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963855" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="13" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="13" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963857" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="14" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="14" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963859" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="15" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="15" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963860" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="16" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="16" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963861" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="17" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="17" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="963862" />
         </Book>
         <Book Series="Defenders: Beyond" Number="1" Volume="2022" Year="2022">
@@ -136,16 +136,16 @@
         <Book Series="Namor: Conquered Shores" Number="5" Volume="2022" Year="2023">
             <Database Name="cv" Series="145513" Issue="969387" />
         </Book>
-        <Book Series="Avengers Forever" Number="1" Volume="2021" Year="2022">
+        <Book Series="Avengers Forever" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140532" Issue="899178" />
         </Book>
-        <Book Series="Avengers Forever" Number="2" Volume="2021" Year="2022">
+        <Book Series="Avengers Forever" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="140532" Issue="904771" />
         </Book>
-        <Book Series="Avengers Forever" Number="3" Volume="2021" Year="2022">
+        <Book Series="Avengers Forever" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="140532" Issue="909679" />
         </Book>
-        <Book Series="Avengers Forever" Number="4" Volume="2021" Year="2022">
+        <Book Series="Avengers Forever" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="140532" Issue="912249" />
         </Book>
         <Book Series="Avengers Forever - Infinity Comic" Number="1" Volume="2022" Year="2022">

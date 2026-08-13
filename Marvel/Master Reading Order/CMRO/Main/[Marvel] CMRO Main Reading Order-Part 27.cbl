@@ -27,10 +27,10 @@
 <Book Series="The Immortal Hulk" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="111425" Issue="677279" />
 </Book>
-<Book Series="Marvel Two-In-One" Number="11" Volume="2017" Year="2018">
+<Book Series="Marvel Two-In-One" Number="11" Volume="2018" Year="2018">
 <Database Name="cv" Series="107157" Issue="690813" />
 </Book>
-<Book Series="Marvel Two-In-One" Number="12" Volume="2017" Year="2019">
+<Book Series="Marvel Two-In-One" Number="12" Volume="2018" Year="2019">
 <Database Name="cv" Series="107157" Issue="693466" />
 </Book>
 <Book Series="The Immortal Hulk" Number="4" Volume="2018" Year="2018">
@@ -48,40 +48,40 @@
 <Book Series="Silver Surfer Annual" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="113258" Issue="683834" />
 </Book>
-<Book Series="Immortal Hulk: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Immortal Hulk: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115743" Issue="694131" />
 </Book>
-<Book Series="Namor: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Namor: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115754" Issue="694141" />
 </Book>
-<Book Series="Doctor Strange: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Doctor Strange: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115877" Issue="694911" />
 </Book>
-<Book Series="Silver Surfer: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Silver Surfer: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115905" Issue="694921" />
 </Book>
-<Book Series="Defenders: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Defenders: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116067" Issue="695631" />
 </Book>
 <Book Series="Free Comic Book Day 2018 (Amazing Spider-Man/Guardians of the Galaxy)" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="110616" Issue="669077" />
 </Book>
-<Book Series="Thanos" Number="13" Volume="2016" Year="2018">
+<Book Series="Thanos" Number="13" Volume="2017" Year="2018">
 <Database Name="cv" Series="95750" Issue="641419" />
 </Book>
-<Book Series="Thanos" Number="14" Volume="2016" Year="2018">
+<Book Series="Thanos" Number="14" Volume="2017" Year="2018">
 <Database Name="cv" Series="95750" Issue="649747" />
 </Book>
-<Book Series="Thanos" Number="15" Volume="2016" Year="2018">
+<Book Series="Thanos" Number="15" Volume="2017" Year="2018">
 <Database Name="cv" Series="95750" Issue="655513" />
 </Book>
-<Book Series="Thanos" Number="16" Volume="2016" Year="2018">
+<Book Series="Thanos" Number="16" Volume="2017" Year="2018">
 <Database Name="cv" Series="95750" Issue="661162" />
 </Book>
-<Book Series="Thanos" Number="17" Volume="2016" Year="2018">
+<Book Series="Thanos" Number="17" Volume="2017" Year="2018">
 <Database Name="cv" Series="95750" Issue="663589" />
 </Book>
-<Book Series="Thanos" Number="18" Volume="2016" Year="2018">
+<Book Series="Thanos" Number="18" Volume="2017" Year="2018">
 <Database Name="cv" Series="95750" Issue="665923" />
 </Book>
 <Book Series="Infinity Countdown: Adam Warlock" Number="1" Volume="2018" Year="2018">
@@ -150,13 +150,13 @@
 <Book Series="Infinity Countdown: Daredevil" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="110922" Issue="670116" />
 </Book>
-<Book Series="Ms. Marvel" Number="36" Volume="2015" Year="2019">
+<Book Series="Ms. Marvel" Number="36" Volume="2016" Year="2019">
 <Database Name="cv" Series="86114" Issue="692074" />
 </Book>
-<Book Series="Ms. Marvel" Number="37" Volume="2015" Year="2019">
+<Book Series="Ms. Marvel" Number="37" Volume="2016" Year="2019">
 <Database Name="cv" Series="86114" Issue="699404" />
 </Book>
-<Book Series="Ms. Marvel" Number="38" Volume="2015" Year="2019">
+<Book Series="Ms. Marvel" Number="38" Volume="2016" Year="2019">
 <Database Name="cv" Series="86114" Issue="700677" />
 </Book>
 <Book Series="Thanos Annual" Number="1" Volume="2018" Year="2018">
@@ -225,10 +225,10 @@
 <Book Series="Infinity Wars: Arachknight" Number="2" Volume="2018" Year="2019">
 <Database Name="cv" Series="114715" Issue="693462" />
 </Book>
-<Book Series="Infinity Wars: Ghost Panther" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Ghost Panther" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115395" Issue="692546" />
 </Book>
-<Book Series="Infinity Wars: Ghost Panther" Number="2" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Ghost Panther" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115395" Issue="694913" />
 </Book>
 <Book Series="Infinity Wars: Sleepwalker" Number="1" Volume="2018" Year="2018">
@@ -243,10 +243,10 @@
 <Book Series="Infinity Wars: Sleepwalker" Number="4" Volume="2018" Year="2019">
 <Database Name="cv" Series="114061" Issue="694914" />
 </Book>
-<Book Series="Infinity Wars: Infinity Warps" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Infinity Warps" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115259" Issue="692069" />
 </Book>
-<Book Series="Infinity Wars: Infinity Warps" Number="2" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Infinity Warps" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115259" Issue="694132" />
 </Book>
 <Book Series="Asgardians of the Galaxy" Number="3" Volume="2018" Year="2019">
@@ -264,25 +264,25 @@
 <Book Series="Infinity Wars" Number="6" Volume="2018" Year="2019">
 <Database Name="cv" Series="112585" Issue="695636" />
 </Book>
-<Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116068" Issue="695637" />
 </Book>
 <Book Series="Infinity Wars: Infinity" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116253" Issue="696355" />
 </Book>
-<Book Series="Black Order" Number="1" Volume="2018" Year="2019">
+<Book Series="Black Order" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115237" Issue="692058" />
 </Book>
-<Book Series="Black Order" Number="2" Volume="2018" Year="2019">
+<Book Series="Black Order" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115237" Issue="694905" />
 </Book>
-<Book Series="Black Order" Number="3" Volume="2018" Year="2019">
+<Book Series="Black Order" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="115237" Issue="696940" />
 </Book>
-<Book Series="Black Order" Number="4" Volume="2018" Year="2019">
+<Book Series="Black Order" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="115237" Issue="701302" />
 </Book>
-<Book Series="Black Order" Number="5" Volume="2018" Year="2019">
+<Book Series="Black Order" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="115237" Issue="702457" />
 </Book>
 <Book Series="Cosmic Ghost Rider Destroys Marvel History" Number="1" Volume="2019" Year="2019">
@@ -336,7 +336,7 @@
 <Book Series="Secret Warps: Iron Hammer Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120411" Issue="714671" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="37" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="37" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="692549" />
 </Book>
 <Book Series="Daredevil" Number="606" Volume="2016" Year="2018">
@@ -573,16 +573,16 @@
 <Book Series="The Immortal Hulk" Number="10" Volume="2018" Year="2019">
 <Database Name="cv" Series="111425" Issue="694130" />
 </Book>
-<Book Series="Ironheart" Number="1" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="693464" />
 </Book>
-<Book Series="Ironheart" Number="2" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="697634" />
 </Book>
-<Book Series="Ironheart" Number="3" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="700671" />
 </Book>
-<Book Series="Ironheart" Number="4" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="704817" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="35" Volume="2016" Year="2018">
@@ -711,7 +711,7 @@
 <Book Series="Wolverine: Infinity Watch" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117231" Issue="711970" />
 </Book>
-<Book Series="Wolverine &#38; Captain America: Weapon Plus" Number="1" Volume="2019" Year="2019">
+<Book Series="Wolverine &amp; Captain America: Weapon Plus" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120143" Issue="713526" />
 </Book>
 <Book Series="Wolverine: Exit Wounds" Number="1" Volume="2019" Year="2019">
@@ -720,19 +720,19 @@
 <Book Series="Wolverine vs. Blade" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120144" Issue="713527" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="38" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="38" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="694140" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="39" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="39" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="698609" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="40" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="40" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="701942" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="41" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="41" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="704822" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="42" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="42" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="706955" />
 </Book>
 <Book Series="Iceman" Number="1" Volume="2018" Year="2018">
@@ -894,40 +894,40 @@
 <Book Series="Old Man Logan" Number="50" Volume="2016" Year="2018">
 <Database Name="cv" Series="87624" Issue="690817" />
 </Book>
-<Book Series="Dead Man Logan" Number="1" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="693460" />
 </Book>
-<Book Series="Dead Man Logan" Number="2" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="695630" />
 </Book>
-<Book Series="Dead Man Logan" Number="3" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="699396" />
 </Book>
-<Book Series="Dead Man Logan" Number="4" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="700664" />
 </Book>
-<Book Series="Dead Man Logan" Number="5" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="703047" />
 </Book>
-<Book Series="Dead Man Logan" Number="6" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="705917" />
 </Book>
-<Book Series="Dead Man Logan" Number="7" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="707509" />
 </Book>
-<Book Series="Dead Man Logan" Number="8" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="710678" />
 </Book>
-<Book Series="Dead Man Logan" Number="9" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="9" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="713069" />
 </Book>
-<Book Series="Dead Man Logan" Number="10" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="10" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="715304" />
 </Book>
-<Book Series="Dead Man Logan" Number="11" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="11" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="719435" />
 </Book>
-<Book Series="Dead Man Logan" Number="12" Volume="2018" Year="2019">
+<Book Series="Dead Man Logan" Number="12" Volume="2019" Year="2019">
 <Database Name="cv" Series="115566" Issue="725244" />
 </Book>
 <Book Series="The Magnificent Ms. Marvel" Number="1" Volume="2019" Year="2019">
@@ -1005,64 +1005,64 @@
 <Book Series="Typhoid Fever: Spider-Man" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114097" Issue="687026" />
 </Book>
-<Book Series="Typhoid Fever: X-Men" Number="1" Volume="2018" Year="2019">
+<Book Series="Typhoid Fever: X-Men" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115090" Issue="691396" />
 </Book>
-<Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2018" Year="2019">
+<Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115914" Issue="694930" />
 </Book>
-<Book Series="Uncanny X-Men: Winter's End" Number="1" Volume="2019" Year="2019">
+<Book Series="Uncanny X-Men: Winter&apos;s End" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117610" Issue="703069" />
 </Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="692088" />
 </Book>
-<Book Series="Uncanny X-Men" Number="2" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="692562" />
 </Book>
-<Book Series="Uncanny X-Men" Number="3" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="693475" />
 </Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="694151" />
 </Book>
-<Book Series="Uncanny X-Men" Number="5" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="694932" />
 </Book>
-<Book Series="Uncanny X-Men" Number="6" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="695668" />
 </Book>
-<Book Series="Uncanny X-Men" Number="7" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="695923" />
 </Book>
-<Book Series="Uncanny X-Men" Number="8" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="696371" />
 </Book>
-<Book Series="Uncanny X-Men" Number="9" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="9" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="696961" />
 </Book>
-<Book Series="Uncanny X-Men" Number="10" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="10" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="697647" />
 </Book>
 <Book Series="Uncanny X-Men Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116708" Issue="698618" />
 </Book>
-<Book Series="Uncanny X-Men" Number="11" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="11" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="700153" />
 </Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="12" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="701327" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="13" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="702477" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="14" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="703956" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="15" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="705488" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="16" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="706426" />
 </Book>
 <Book Series="X-Force" Number="1" Volume="2018" Year="2019">
@@ -1179,22 +1179,22 @@
 <Book Series="Age of X-Man Omega" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120236" Issue="713851" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="17" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="707533" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="18" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="709217" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="19" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="710699" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="20" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="711963" />
 </Book>
-<Book Series="Uncanny X-Men" Number="21" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="21" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="713087" />
 </Book>
-<Book Series="Uncanny X-Men" Number="22" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="22" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="713870" />
 </Book>
 <Book Series="Incredible Hulk: Last Call" Number="1" Volume="2019" Year="2019">
@@ -1236,13 +1236,13 @@
 <Book Series="Old Man Hawkeye" Number="12" Volume="2018" Year="2019">
 <Database Name="cv" Series="107664" Issue="695652" />
 </Book>
-<Book Series="Merry X-Men Holiday Special" Number="1" Volume="2018" Year="2019">
+<Book Series="Merry X-Men Holiday Special" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115752" Issue="694139" />
 </Book>
 <Book Series="Deadpool" Number="7" Volume="2018" Year="2019">
 <Database Name="cv" Series="111414" Issue="694122" />
 </Book>
-<Book Series="Season's Beatings" Number="1" Volume="2018" Year="2019">
+<Book Series="Season&apos;s Beatings" Number="1" Volume="2018" Year="2019">
 <Database Name="cv" Series="116079" Issue="695655" />
 </Book>
 <Book Series="Man Without Fear" Number="1" Volume="2019" Year="2019">
@@ -1341,7 +1341,7 @@
 <Book Series="Venom" Number="6" Volume="2018" Year="2018">
 <Database Name="cv" Series="110770" Issue="685865" />
 </Book>
-<Book Series="Web of Venom: Ve'Nam" Number="1" Volume="2018" Year="2018">
+<Book Series="Web of Venom: Ve&apos;Nam" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="113095" Issue="682668" />
 </Book>
 <Book Series="Venom" Number="7" Volume="2018" Year="2018">
@@ -1350,7 +1350,7 @@
 <Book Series="Venom" Number="8" Volume="2018" Year="2019">
 <Database Name="cv" Series="110770" Issue="692091" />
 </Book>
-<Book Series="Web of Venom: Carnage Born" Number="1" Volume="2018" Year="2019">
+<Book Series="Web of Venom: Carnage Born" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115418" Issue="692566" />
 </Book>
 <Book Series="Venom" Number="9" Volume="2018" Year="2019">
@@ -1458,22 +1458,22 @@
 <Book Series="Edge of Spider-Geddon" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="112806" Issue="686377" />
 </Book>
-<Book Series="Marvel's Spider-Man: City At War" Number="1" Volume="2019" Year="2019">
+<Book Series="Marvel&apos;s Spider-Man: City At War" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117754" Issue="703945" />
 </Book>
-<Book Series="Marvel's Spider-Man: City At War" Number="2" Volume="2019" Year="2019">
+<Book Series="Marvel&apos;s Spider-Man: City At War" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="117754" Issue="706411" />
 </Book>
-<Book Series="Marvel's Spider-Man: City At War" Number="3" Volume="2019" Year="2019">
+<Book Series="Marvel&apos;s Spider-Man: City At War" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="117754" Issue="710112" />
 </Book>
-<Book Series="Marvel's Spider-Man: City At War" Number="4" Volume="2019" Year="2019">
+<Book Series="Marvel&apos;s Spider-Man: City At War" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="117754" Issue="711950" />
 </Book>
-<Book Series="Marvel's Spider-Man: City At War" Number="5" Volume="2019" Year="2019">
+<Book Series="Marvel&apos;s Spider-Man: City At War" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117754" Issue="713860" />
 </Book>
-<Book Series="Marvel's Spider-Man: City At War" Number="6" Volume="2019" Year="2019">
+<Book Series="Marvel&apos;s Spider-Man: City At War" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="117754" Issue="716965" />
 </Book>
 <Book Series="Spider-Geddon" Number="0" Volume="2018" Year="2018">
@@ -1587,22 +1587,22 @@
 <Book Series="Miles Morales: Spider-Man" Number="9" Volume="2019" Year="2019">
 <Database Name="cv" Series="115897" Issue="716368" />
 </Book>
-<Book Series="Superior Spider-Man" Number="1" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="695922" />
 </Book>
-<Book Series="Superior Spider-Man" Number="2" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="698614" />
 </Book>
-<Book Series="Superior Spider-Man" Number="3" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="701948" />
 </Book>
-<Book Series="Superior Spider-Man" Number="4" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="704831" />
 </Book>
-<Book Series="Superior Spider-Man" Number="5" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="706966" />
 </Book>
-<Book Series="Superior Spider-Man" Number="6" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="710119" />
 </Book>
 <Book Series="Daredevil" Number="1" Volume="2019" Year="2019">
@@ -1653,16 +1653,16 @@
 <Book Series="Doctor Strange" Number="17" Volume="2018" Year="2019">
 <Database Name="cv" Series="111415" Issue="716356" />
 </Book>
-<Book Series="Ironheart" Number="5" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="706950" />
 </Book>
-<Book Series="Ironheart" Number="6" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="709204" />
 </Book>
-<Book Series="Ironheart" Number="7" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="711322" />
 </Book>
-<Book Series="Ironheart" Number="8" Volume="2018" Year="2019">
+<Book Series="Ironheart" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="115575" Issue="713506" />
 </Book>
 <Book Series="Old Man Quill" Number="1" Volume="2019" Year="2019">
@@ -1728,22 +1728,22 @@
 <Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119535" Issue="710681" />
 </Book>
-<Book Series="Winter Soldier" Number="1" Volume="2018" Year="2019">
+<Book Series="Winter Soldier" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115772" Issue="694154" />
 </Book>
-<Book Series="Winter Soldier" Number="2" Volume="2018" Year="2019">
+<Book Series="Winter Soldier" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115772" Issue="696372" />
 </Book>
-<Book Series="Winter Soldier" Number="3" Volume="2018" Year="2019">
+<Book Series="Winter Soldier" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="115772" Issue="700692" />
 </Book>
-<Book Series="Winter Soldier" Number="4" Volume="2018" Year="2019">
+<Book Series="Winter Soldier" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="115772" Issue="703071" />
 </Book>
-<Book Series="Winter Soldier" Number="5" Volume="2018" Year="2019">
+<Book Series="Winter Soldier" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="115772" Issue="705940" />
 </Book>
-<Book Series="Fantastic Four: Wedding Special" Number="1" Volume="2018" Year="2019">
+<Book Series="Fantastic Four: Wedding Special" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115881" Issue="694912" />
 </Book>
 <Book Series="Fantastic Four" Number="5" Volume="2018" Year="2019">
@@ -1935,7 +1935,7 @@
 <Book Series="Black Panther and the Agents of Wakanda" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="121415" Issue="723108" />
 </Book>
-<Book Series="Captain Marvel: Braver &#38; Mightier" Number="1" Volume="2019" Year="2019">
+<Book Series="Captain Marvel: Braver &amp; Mightier" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117340" Issue="701932" />
 </Book>
 <Book Series="Fantastic Four: The Prodigal Sun" Number="1" Volume="2019" Year="2019">
@@ -2007,7 +2007,7 @@
 <Book Series="Champions" Number="27" Volume="2016" Year="2019">
 <Database Name="cv" Series="94612" Issue="694908" />
 </Book>
-<Book Series="Champions Annual" Number="1" Volume="2018" Year="2019">
+<Book Series="Champions Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116065" Issue="695627" />
 </Book>
 <Book Series="Tony Stark: Iron Man" Number="6" Volume="2018" Year="2019">
@@ -2103,7 +2103,7 @@
 <Book Series="Avengers" Number="19" Volume="2018" Year="2019">
 <Database Name="cv" Series="110496" Issue="709714" />
 </Book>
-<Book Series="Captain America &#38; the Invaders: Bahamas Triangle" Number="1" Volume="2019" Year="2019">
+<Book Series="Captain America &amp; the Invaders: Bahamas Triangle" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119999" Issue="713065" />
 </Book>
 <Book Series="Daredevil" Number="6" Volume="2019" Year="2019">
@@ -2151,7 +2151,7 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="710702" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="709720" />
 </Book>
 <Book Series="Asgardians of the Galaxy" Number="8" Volume="2018" Year="2019">
@@ -2208,7 +2208,7 @@
 <Book Series="War of the Realms: Punisher" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="118401" Issue="712559" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
 <Book Series="Fantastic Four" Number="10" Volume="2018" Year="2019">
@@ -2262,19 +2262,19 @@
 <Book Series="Champions" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="116243" Issue="711315" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
 <Book Series="War of the Realms" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="709218" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">
@@ -2556,16 +2556,16 @@
 <Book Series="Avengers: Loki Unleashed!" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121573" Issue="720158" />
 </Book>
-<Book Series="Death's Head" Number="1" Volume="2019" Year="2019">
+<Book Series="Death&apos;s Head" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120394" Issue="714660" />
 </Book>
-<Book Series="Death's Head" Number="2" Volume="2019" Year="2019">
+<Book Series="Death&apos;s Head" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="120394" Issue="716955" />
 </Book>
-<Book Series="Death's Head" Number="3" Volume="2019" Year="2019">
+<Book Series="Death&apos;s Head" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120394" Issue="719436" />
 </Book>
-<Book Series="Death's Head" Number="4" Volume="2019" Year="2019">
+<Book Series="Death&apos;s Head" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="120394" Issue="725245" />
 </Book>
 <Book Series="Marvel Rising" Number="0" Volume="2018" Year="2018">
@@ -2574,10 +2574,10 @@
 <Book Series="Marvel Rising: Alpha" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="111583" Issue="673022" />
 </Book>
-<Book Series="Marvel Rising: Squirrel Girl &#38; Ms. Marvel" Number="1" Volume="2018" Year="2018">
+<Book Series="Marvel Rising: Squirrel Girl &amp; Ms. Marvel" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112045" Issue="675983" />
 </Book>
-<Book Series="Marvel Rising: Ms. Marvel &#38; Squirrel Girl" Number="1" Volume="2018" Year="2018">
+<Book Series="Marvel Rising: Ms. Marvel &amp; Squirrel Girl" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112590" Issue="678537" />
 </Book>
 <Book Series="Marvel Rising: Omega" Number="1" Volume="2018" Year="2018">
@@ -2733,16 +2733,16 @@
 <Book Series="Black Cat" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="119520" Issue="721146" />
 </Book>
-<Book Series="Superior Spider-Man" Number="9" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="9" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="713867" />
 </Book>
-<Book Series="Superior Spider-Man" Number="10" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="10" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="716974" />
 </Book>
-<Book Series="Superior Spider-Man" Number="11" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="11" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="720176" />
 </Book>
-<Book Series="Superior Spider-Man" Number="12" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="12" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="725258" />
 </Book>
 <Book Series="Marvel Comics" Number="1001" Volume="2019" Year="2019">
@@ -2841,7 +2841,7 @@
 <Book Series="Absolute Carnage: Separation Anxiety" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120628" Issue="716348" />
 </Book>
-<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122664" Issue="726199" />
 </Book>
 <Book Series="Absolute Carnage" Number="1" Volume="2019" Year="2019">
@@ -2886,7 +2886,7 @@
 <Book Series="Absolute Carnage: Scream" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120627" Issue="723105" />
 </Book>
-<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122985" Issue="728410" />
 </Book>
 <Book Series="Absolute Carnage" Number="3" Volume="2019" Year="2019">
@@ -2922,22 +2922,22 @@
 <Book Series="Absolute Carnage vs. Deadpool" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120811" Issue="723106" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="1" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="728979" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="2" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="731525" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="3" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="735528" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="4" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="738617" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="5" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="743448" />
 </Book>
-<Book Series="Scream: Curse of Carnage" Number="6" Volume="2019" Year="2020">
+<Book Series="Scream: Curse of Carnage" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="123125" Issue="766406" />
 </Book>
 <Book Series="Amazing Spider-Man: Going Big" Number="1" Volume="2019" Year="2019">
@@ -2994,7 +2994,7 @@
 <Book Series="Future Fight Firsts: Luna Snow" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="122216" Issue="723855" />
 </Book>
-<Book Series="Future Fight Firsts: Crescent &#38; Io" Number="1" Volume="2019" Year="2020">
+<Book Series="Future Fight Firsts: Crescent &amp; Io" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122665" Issue="726205" />
 </Book>
 </Books>

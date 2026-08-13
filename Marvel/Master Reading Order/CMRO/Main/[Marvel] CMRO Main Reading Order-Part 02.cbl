@@ -378,7 +378,7 @@
 <Book Series="Captain America" Number="144" Volume="1968" Year="1971">
 <Database Name="cv" Series="2400" Issue="11841" />
 </Book>
-<Book Series="Adventure into Fear" Number="9" Volume="1970" Year="1972">
+<Book Series="Fear" Number="9" Volume="1970" Year="1972">
 <Database Name="cv" Series="2472" Issue="176471" />
 </Book>
 <Book Series="Fantastic Four" Number="120" Volume="1961" Year="1972">
@@ -444,7 +444,7 @@
 <Book Series="The Incredible Hulk" Number="145" Volume="1968" Year="1971">
 <Database Name="cv" Series="2406" Issue="11784" />
 </Book>
-<Book Series="Adventure into Fear" Number="10" Volume="1970" Year="1972">
+<Book Series="Fear" Number="10" Volume="1970" Year="1972">
 <Database Name="cv" Series="2472" Issue="12573" />
 </Book>
 <Book Series="Thor" Number="184" Volume="1966" Year="1971">
@@ -489,7 +489,7 @@
 <Book Series="Amazing Adventures" Number="13" Volume="1970" Year="1972">
 <Database Name="cv" Series="2469" Issue="12331" />
 </Book>
-<Book Series="Adventure into Fear" Number="11" Volume="1970" Year="1972">
+<Book Series="Fear" Number="11" Volume="1970" Year="1972">
 <Database Name="cv" Series="2472" Issue="12738" />
 </Book>
 <Book Series="Thor" Number="195" Volume="1966" Year="1972">
@@ -531,7 +531,7 @@
 <Book Series="The Incredible Hulk" Number="147" Volume="1968" Year="1972">
 <Database Name="cv" Series="2406" Issue="11926" />
 </Book>
-<Book Series="Adventure into Fear" Number="12" Volume="1970" Year="1973">
+<Book Series="Fear" Number="12" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="12924" />
 </Book>
 <Book Series="Amazing Adventures" Number="14" Volume="1970" Year="1972">
@@ -564,7 +564,7 @@
 <Book Series="The Incredible Hulk" Number="151" Volume="1968" Year="1972">
 <Database Name="cv" Series="2406" Issue="12190" />
 </Book>
-<Book Series="Adventure into Fear" Number="13" Volume="1970" Year="1973">
+<Book Series="Fear" Number="13" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13107" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="105" Volume="1963" Year="1972">
@@ -606,10 +606,10 @@
 <Book Series="The Amazing Spider-Man" Number="115" Volume="1963" Year="1972">
 <Database Name="cv" Series="2127" Issue="12728" />
 </Book>
-<Book Series="Adventure into Fear" Number="14" Volume="1970" Year="1973">
+<Book Series="Fear" Number="14" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13275" />
 </Book>
-<Book Series="Adventure into Fear" Number="15" Volume="1970" Year="1973">
+<Book Series="Fear" Number="15" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13477" />
 </Book>
 <Book Series="Captain America" Number="149" Volume="1968" Year="1972">
@@ -633,7 +633,7 @@
 <Book Series="The Incredible Hulk" Number="155" Volume="1968" Year="1972">
 <Database Name="cv" Series="2406" Issue="12481" />
 </Book>
-<Book Series="Adventure into Fear" Number="16" Volume="1970" Year="1973">
+<Book Series="Fear" Number="16" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13575" />
 </Book>
 <Book Series="Daredevil" Number="89" Volume="1964" Year="1972">
@@ -687,7 +687,7 @@
 <Book Series="Marvel Spotlight" Number="5" Volume="1971" Year="1972">
 <Database Name="cv" Series="2516" Issue="12422" />
 </Book>
-<Book Series="Adventure into Fear" Number="17" Volume="1970" Year="1973">
+<Book Series="Fear" Number="17" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13692" />
 </Book>
 <Book Series="Daredevil" Number="90" Volume="1964" Year="1972">
@@ -702,7 +702,7 @@
 <Book Series="Hero for Hire" Number="3" Volume="1972" Year="1972">
 <Database Name="cv" Series="2572" Issue="12575" />
 </Book>
-<Book Series="Adventure into Fear" Number="18" Volume="1970" Year="1973">
+<Book Series="Fear" Number="18" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13792" />
 </Book>
 <Book Series="Iron Man" Number="49" Volume="1968" Year="1972">
@@ -750,7 +750,7 @@
 <Book Series="Marvel Feature" Number="3" Volume="1971" Year="1972">
 <Database Name="cv" Series="2515" Issue="12269" />
 </Book>
-<Book Series="Adventure into Fear" Number="19" Volume="1970" Year="1973">
+<Book Series="Fear" Number="19" Volume="1970" Year="1973">
 <Database Name="cv" Series="2472" Issue="13882" />
 </Book>
 <Book Series="Man-Thing" Number="1" Volume="1974" Year="1974">
@@ -2652,19 +2652,19 @@
 <Book Series="Fantastic Four" Number="157" Volume="1961" Year="1975">
 <Database Name="cv" Series="2045" Issue="123630" />
 </Book>
-<Book Series="Adventure into Fear" Number="20" Volume="1970" Year="1974">
+<Book Series="Fear" Number="20" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14057" />
 </Book>
-<Book Series="Adventure into Fear" Number="21" Volume="1970" Year="1974">
+<Book Series="Fear" Number="21" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14194" />
 </Book>
-<Book Series="Adventure into Fear" Number="22" Volume="1970" Year="1974">
+<Book Series="Fear" Number="22" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14336" />
 </Book>
-<Book Series="Adventure into Fear" Number="23" Volume="1970" Year="1974">
+<Book Series="Fear" Number="23" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14488" />
 </Book>
-<Book Series="Adventure into Fear" Number="24" Volume="1970" Year="1974">
+<Book Series="Fear" Number="24" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14662" />
 </Book>
 <Book Series="Thor" Number="229" Volume="1966" Year="1974">
@@ -2703,10 +2703,10 @@
 <Book Series="Ka-Zar" Number="8" Volume="1974" Year="1975">
 <Database Name="cv" Series="2692" Issue="125776" />
 </Book>
-<Book Series="Adventure into Fear" Number="25" Volume="1970" Year="1974">
+<Book Series="Fear" Number="25" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14836" />
 </Book>
-<Book Series="Adventure into Fear" Number="26" Volume="1970" Year="1975">
+<Book Series="Fear" Number="26" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="15055" />
 </Book>
 <Book Series="Power Man" Number="24" Volume="1974" Year="1975">

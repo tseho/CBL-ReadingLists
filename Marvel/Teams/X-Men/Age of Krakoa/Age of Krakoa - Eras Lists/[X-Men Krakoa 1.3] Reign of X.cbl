@@ -3,7 +3,7 @@
 <Name>[X-Men Krakoa 1.3] Reign of X</Name>
 <NumIssues>60</NumIssues>
 <Books>
-<Book Series="S.W.O.R.D." Number="1" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="820748" />
 </Book>
 <Book Series="X-Factor" Number="5" Volume="2020" Year="2021">
@@ -69,13 +69,13 @@
 <Book Series="Marauders" Number="18" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="828860" />
 </Book>
-<Book Series="S.W.O.R.D." Number="2" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="824453" />
 </Book>
-<Book Series="S.W.O.R.D." Number="3" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="828197" />
 </Book>
-<Book Series="S.W.O.R.D." Number="4" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="838885" />
 </Book>
 <Book Series="King In Black: Marauders" Number="1" Volume="2021" Year="2021">
@@ -144,7 +144,7 @@
 <Book Series="Way of X" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="135583" Issue="844975" />
 </Book>
-<Book Series="S.W.O.R.D." Number="5" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="844973" />
 </Book>
 <Book Series="New Mutants" Number="17" Volume="2020" Year="2021">

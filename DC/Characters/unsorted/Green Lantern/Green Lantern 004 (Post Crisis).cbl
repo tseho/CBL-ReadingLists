@@ -402,7 +402,7 @@
     <Book Series="Day of Judgment" Number="5" Volume="1999" Year="1999">
       <Database Name="cv" Series="6604" Issue="47233" />
     </Book>
-    <Book Series="Day of Judgment: Secret Files and Origins" Number="1" Volume="1999" Year="1999">
+    <Book Series="Day of Judgment Secret Files" Number="1" Volume="1999" Year="1999">
       <Database Name="cv" Series="19899" Issue="119121" />
     </Book>
     <Book Series="Green Lantern" Number="119" Volume="1990" Year="1999">

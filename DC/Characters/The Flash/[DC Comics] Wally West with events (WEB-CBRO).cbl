@@ -570,13 +570,13 @@
 <Book Series="Superman/Batman" Number="26" Volume="2003" Year="2006">
 <Database Name="cv" Series="10938" Issue="111198" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167758" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167770" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167771" />
 </Book>
 <Book Series="Superman" Number="712" Volume="1939" Year="2011">

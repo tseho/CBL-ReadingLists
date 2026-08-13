@@ -49,7 +49,7 @@
         <Book Series="Fantastic Four" Number="550" Volume="1998" Year="2007">
             <Database Name="cv" Series="6211" Issue="115398" />
         </Book>
-        <Book Series="New Avengers" Number="26" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="26" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="108356" />
         </Book>
         <Book Series="Fallen Son: The Death of Captain America" Number="3" Volume="2007" Year="2007">
@@ -169,22 +169,22 @@
         <Book Series="The Mighty Avengers" Number="4" Volume="2007" Year="2007">
             <Database Name="cv" Series="18239" Issue="111932" />
         </Book>
-        <Book Series="New Avengers" Number="27" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="27" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="106364" />
         </Book>
-        <Book Series="New Avengers" Number="28" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="28" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="106902" />
         </Book>
-        <Book Series="New Avengers" Number="29" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="29" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="108360" />
         </Book>
-        <Book Series="New Avengers" Number="30" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="30" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="109267" />
         </Book>
-        <Book Series="New Avengers" Number="31" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="31" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="110437" />
         </Book>
-        <Book Series="New Avengers" Number="32" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="32" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="111511" />
         </Book>
         <Book Series="The Mighty Avengers" Number="5" Volume="2007" Year="2007">
@@ -193,25 +193,25 @@
         <Book Series="The Mighty Avengers" Number="6" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="120237" />
         </Book>
-        <Book Series="New Avengers" Number="33" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="33" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="112960" />
         </Book>
         <Book Series="The Mighty Avengers" Number="7" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="121087" />
         </Book>
-        <Book Series="New Avengers" Number="34" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="34" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="114394" />
         </Book>
-        <Book Series="New Avengers" Number="35" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="35" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="115395" />
         </Book>
         <Book Series="The Mighty Avengers" Number="8" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="122068" />
         </Book>
-        <Book Series="New Avengers" Number="36" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="36" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="117753" />
         </Book>
-        <Book Series="New Avengers" Number="37" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="37" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="119888" />
         </Book>
         <Book Series="The Mighty Avengers" Number="9" Volume="2007" Year="2008">
@@ -253,55 +253,55 @@
         <Book Series="Punisher War Journal" Number="11" Volume="2007" Year="2007">
             <Database Name="cv" Series="18152" Issue="114414" />
         </Book>
-        <Book Series="Captain America" Number="26" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="26" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="109835" />
         </Book>
-        <Book Series="Captain America" Number="27" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="27" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="110669" />
         </Book>
-        <Book Series="Captain America" Number="28" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="28" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="111671" />
         </Book>
-        <Book Series="Captain America" Number="29" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="29" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="113543" />
         </Book>
-        <Book Series="Captain America" Number="30" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="30" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="114665" />
         </Book>
-        <Book Series="Captain America" Number="31" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="31" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="115675" />
         </Book>
-        <Book Series="Captain America" Number="32" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="32" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="118235" />
         </Book>
-        <Book Series="Captain America" Number="33" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="33" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="120541" />
         </Book>
-        <Book Series="Captain America" Number="34" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="34" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="122069" />
         </Book>
-        <Book Series="Captain America" Number="35" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="35" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="124075" />
         </Book>
-        <Book Series="Captain America" Number="36" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="36" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="125669" />
         </Book>
-        <Book Series="Captain America" Number="37" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="37" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="127500" />
         </Book>
-        <Book Series="Captain America" Number="38" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="38" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="130594" />
         </Book>
-        <Book Series="Captain America" Number="39" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="39" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="131810" />
         </Book>
-        <Book Series="Captain America" Number="40" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="40" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="133665" />
         </Book>
-        <Book Series="Captain America" Number="41" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="41" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="135981" />
         </Book>
-        <Book Series="Captain America" Number="42" Volume="2004" Year="2008">
+        <Book Series="Captain America" Number="42" Volume="2005" Year="2008">
             <Database Name="cv" Series="11499" Issue="139326" />
         </Book>
     </Books>

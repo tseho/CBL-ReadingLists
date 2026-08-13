@@ -64,7 +64,7 @@
         <Book Series="Champions" Number="6" Volume="2019" Year="2019">
             <Database Name="cv" Series="116243" Issue="711315" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
             <Database Name="cv" Series="86245" Issue="709720" />
         </Book>
         <Book Series="Venom" Number="13" Volume="2018" Year="2019">

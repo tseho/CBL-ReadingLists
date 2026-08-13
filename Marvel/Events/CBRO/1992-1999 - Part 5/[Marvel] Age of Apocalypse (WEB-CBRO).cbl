@@ -39,7 +39,7 @@
 <Book Series="X-Men Chronicles" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18037" Issue="105613" />
 </Book>
-<Book Series="X-Man '96" Number="1" Volume="1996" Year="1996">
+<Book Series="X-Man &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18050" Issue="105728" />
 </Book>
 <Book Series="Tales from the Age of Apocalypse" Number="2" Volume="1996" Year="1997">
@@ -75,7 +75,7 @@
 <Book Series="X-Calibre" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40600" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="1" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40588" />
 </Book>
 <Book Series="Generation Next" Number="1" Volume="1995" Year="1995">
@@ -102,7 +102,7 @@
 <Book Series="Weapon X" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5564" Issue="40733" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="2" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40728" />
 </Book>
 <Book Series="X-Calibre" Number="2" Volume="1995" Year="1995">
@@ -132,7 +132,7 @@
 <Book Series="X-Calibre" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40861" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="3" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40852" />
 </Book>
 <Book Series="Generation Next" Number="3" Volume="1995" Year="1995">
@@ -168,7 +168,7 @@
 <Book Series="X-Universe" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5572" Issue="40988" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="4" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40976" />
 </Book>
 <Book Series="Amazing X-Men" Number="4" Volume="1995" Year="1995">

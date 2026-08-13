@@ -552,7 +552,7 @@
 <Book Series="Green Lantern" Number="50" Volume="2005" Year="2010">
 <Database Name="cv" Series="18216" Issue="194620" />
 </Book>
-<Book Series="The Atom &#38; Hawkman" Number="46" Volume="1968" Year="2010">
+<Book Series="The Atom &amp; Hawkman" Number="46" Volume="1968" Year="2010">
 <Database Name="cv" Series="2387" Issue="194433" />
 </Book>
 <Book Series="Adventure Comics" Number="7" Volume="2009" Year="2010">

@@ -4,16 +4,16 @@
     <Name>[Marvel] 2015-2018 Part 9.5 Weapons of Mutant Destruction (MG)</Name>
     <NumIssues>25</NumIssues>
     <Books>
-        <Book Series="The Totally Awesome Hulk" Number="15" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="578479" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="16" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="16" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="580764" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="17" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="17" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="587419" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="18" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="18" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="592615" />
         </Book>
         <Book Series="Weapon X" Number="1" Volume="2017" Year="2017">
@@ -25,7 +25,7 @@
         <Book Series="Weapon X" Number="3" Volume="2017" Year="2017">
             <Database Name="cv" Series="100709" Issue="594978" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="19" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="19" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="597204" />
         </Book>
         <Book Series="Weapon X" Number="4" Volume="2017" Year="2017">
@@ -34,19 +34,19 @@
         <Book Series="Weapons of Mutant Destruction: Alpha" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="102287" Issue="603148" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="20" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="20" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="605135" />
         </Book>
         <Book Series="Weapon X" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="100709" Issue="608265" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="21" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="21" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="609364" />
         </Book>
         <Book Series="Weapon X" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="100709" Issue="610542" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="22" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="22" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="615034" />
         </Book>
         <Book Series="Weapon X" Number="7" Volume="2017" Year="2017">

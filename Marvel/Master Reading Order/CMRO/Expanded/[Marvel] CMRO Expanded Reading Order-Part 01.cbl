@@ -102,7 +102,7 @@
 <Book Series="Marvel Mystery Comics" Number="10" Volume="1939" Year="1940">
 <Database Name="cv" Series="19137" Issue="116859" />
 </Book>
-<Book Series="Billy Buckskin Western" Number="3" Volume="1955" Year="1956">
+<Book Series="Billy Buckskin" Number="3" Volume="1955" Year="1956">
 <Database Name="cv" Series="27644" Issue="169074" />
 </Book>
 <Book Series="Mystic Comics" Number="3" Volume="1940" Year="1940">
@@ -243,10 +243,10 @@
 <Book Series="Sub-Mariner Comics" Number="2" Volume="1941" Year="1941">
 <Database Name="cv" Series="18548" Issue="109162" />
 </Book>
-<Book Series="All Winners Comics" Number="1" Volume="1941" Year="1941">
+<Book Series="All-Winners Comics" Number="1" Volume="1941" Year="1941">
 <Database Name="cv" Series="18581" Issue="109594" />
 </Book>
-<Book Series="All Winners Comics" Number="2" Volume="1941" Year="1941">
+<Book Series="All-Winners Comics" Number="2" Volume="1941" Year="1941">
 <Database Name="cv" Series="18581" Issue="116145" />
 </Book>
 <Book Series="Stars and Stripes" Number="2" Volume="1941" Year="1941">
@@ -306,7 +306,7 @@
 <Book Series="Captain America Comics" Number="6" Volume="1941" Year="1941">
 <Database Name="cv" Series="1628" Issue="117549" />
 </Book>
-<Book Series="Young Allies Comics" Number="1" Volume="1941" Year="1941">
+<Book Series="Young Allies" Number="1" Volume="1941" Year="1941">
 <Database Name="cv" Series="19571" Issue="117056" />
 </Book>
 <Book Series="Stars and Stripes" Number="4" Volume="1941" Year="1941">
@@ -327,7 +327,7 @@
 <Book Series="Sure-Fire Comics" Number="3A" Volume="1940" Year="1940">
 <Database Name="cv" Series="32511" Issue="247855" />
 </Book>
-<Book Series="All Winners Comics" Number="3" Volume="1941" Year="1941">
+<Book Series="All-Winners Comics" Number="3" Volume="1941" Year="1941">
 <Database Name="cv" Series="18581" Issue="116144" />
 </Book>
 <Book Series="The Human Torch" Number="5 [B]" Volume="1940" Year="1941">
@@ -375,7 +375,7 @@
 <Book Series="Captain America Comics" Number="10" Volume="1941" Year="1942">
 <Database Name="cv" Series="1628" Issue="117554" />
 </Book>
-<Book Series="Young Allies Comics" Number="2" Volume="1941" Year="1941">
+<Book Series="Young Allies" Number="2" Volume="1941" Year="1941">
 <Database Name="cv" Series="19571" Issue="130041" />
 </Book>
 <Book Series="USA Comics" Number="3" Volume="1941" Year="1942">
@@ -450,7 +450,7 @@
 <Book Series="Marvel Mystery Comics" Number="31" Volume="1939" Year="1942">
 <Database Name="cv" Series="19137" Issue="132187" />
 </Book>
-<Book Series="All Winners Comics" Number="4" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="4" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="114343" />
 </Book>
 <Book Series="Captain America Comics" Number="15" Volume="1941" Year="1942">
@@ -465,7 +465,7 @@
 <Book Series="Cat-Man Comics" Number="15" Volume="1941" Year="1942">
 <Database Name="cv" Series="25835" Issue="157281" />
 </Book>
-<Book Series="Young Allies Comics" Number="3" Volume="1941" Year="1942">
+<Book Series="Young Allies" Number="3" Volume="1941" Year="1942">
 <Database Name="cv" Series="19571" Issue="139050" />
 </Book>
 <Book Series="The Human Torch" Number="7" Volume="1940" Year="1942">
@@ -498,10 +498,10 @@
 <Book Series="Captain America Comics" Number="16" Volume="1941" Year="1942">
 <Database Name="cv" Series="1628" Issue="117560" />
 </Book>
-<Book Series="Young Allies Comics" Number="4" Volume="1941" Year="1942">
+<Book Series="Young Allies" Number="4" Volume="1941" Year="1942">
 <Database Name="cv" Series="19571" Issue="139051" />
 </Book>
-<Book Series="All Winners Comics" Number="5" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="5" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="138672" />
 </Book>
 <Book Series="Marvel Mystery Comics" Number="35" Volume="1939" Year="1942">
@@ -555,10 +555,10 @@
 <Book Series="The Human Torch" Number="9" Volume="1940" Year="1942">
 <Database Name="cv" Series="832" Issue="130040" />
 </Book>
-<Book Series="All Winners Comics" Number="6" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="6" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="138673" />
 </Book>
-<Book Series="Young Allies Comics" Number="5" Volume="1941" Year="1942">
+<Book Series="Young Allies" Number="5" Volume="1941" Year="1942">
 <Database Name="cv" Series="19571" Issue="139052" />
 </Book>
 <Book Series="Terry-Toons Comics" Number="1" Volume="1942" Year="1942">
@@ -618,7 +618,7 @@
 <Book Series="Captain America Comics" Number="22" Volume="1941" Year="1943">
 <Database Name="cv" Series="1628" Issue="117566" />
 </Book>
-<Book Series="Young Allies Comics" Number="6" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="6" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139053" />
 </Book>
 <Book Series="Super-Mystery Comics" Number="3" Volume="1940" Year="1940">
@@ -660,7 +660,7 @@
 <Book Series="Sub-Mariner Comics" Number="8" Volume="1941" Year="1942">
 <Database Name="cv" Series="18548" Issue="109591" />
 </Book>
-<Book Series="All Winners Comics" Number="7" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="7" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="138674" />
 </Book>
 <Book Series="Joker Comics" Number="7" Volume="1942" Year="1943">
@@ -687,7 +687,7 @@
 <Book Series="Captain America Comics" Number="26" Volume="1941" Year="1943">
 <Database Name="cv" Series="1628" Issue="117570" />
 </Book>
-<Book Series="Young Allies Comics" Number="7" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="7" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139054" />
 </Book>
 <Book Series="Super-Mystery Comics" Number="4" Volume="1940" Year="1940">
@@ -717,7 +717,7 @@
 <Book Series="Marvel Mystery Comics" Number="44" Volume="1939" Year="1943">
 <Database Name="cv" Series="19137" Issue="129015" />
 </Book>
-<Book Series="All Winners Comics" Number="8" Volume="1941" Year="1943">
+<Book Series="All-Winners Comics" Number="8" Volume="1941" Year="1943">
 <Database Name="cv" Series="18581" Issue="166042" />
 </Book>
 <Book Series="Captain America Comics" Number="27" Volume="1941" Year="1943">
@@ -735,7 +735,7 @@
 <Book Series="Terry-Toons Comics" Number="9" Volume="1942" Year="1943">
 <Database Name="cv" Series="948" Issue="91149" />
 </Book>
-<Book Series="Young Allies Comics" Number="8" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="8" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139055" />
 </Book>
 <Book Series="Captain America Comics" Number="28" Volume="1941" Year="1943">
@@ -801,13 +801,13 @@
 <Book Series="Terry-Toons Comics" Number="12" Volume="1942" Year="1943">
 <Database Name="cv" Series="948" Issue="188672" />
 </Book>
-<Book Series="All Winners Comics" Number="9" Volume="1941" Year="1943">
+<Book Series="All-Winners Comics" Number="9" Volume="1941" Year="1943">
 <Database Name="cv" Series="18581" Issue="166043" />
 </Book>
 <Book Series="Captain America Comics" Number="31" Volume="1941" Year="1943">
 <Database Name="cv" Series="1628" Issue="116381" />
 </Book>
-<Book Series="Young Allies Comics" Number="9" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="9" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139056" />
 </Book>
 <Book Series="The Human Torch" Number="13" Volume="1940" Year="1943">
@@ -858,7 +858,7 @@
 <Book Series="Terry-Toons Comics" Number="14" Volume="1942" Year="1943">
 <Database Name="cv" Series="948" Issue="91153" />
 </Book>
-<Book Series="Young Allies Comics" Number="10" Volume="1941" Year="1943">
+<Book Series="Young Allies" Number="10" Volume="1941" Year="1943">
 <Database Name="cv" Series="19571" Issue="139058" />
 </Book>
 <Book Series="All Select Comics" Number="2" Volume="1943" Year="1943">
@@ -870,7 +870,7 @@
 <Book Series="Sub-Mariner Comics" Number="12" Volume="1941" Year="1943">
 <Database Name="cv" Series="18548" Issue="110231" />
 </Book>
-<Book Series="All Winners Comics" Number="10" Volume="1941" Year="1943">
+<Book Series="All-Winners Comics" Number="10" Volume="1941" Year="1943">
 <Database Name="cv" Series="18581" Issue="139194" />
 </Book>
 <Book Series="Joker Comics" Number="13" Volume="1942" Year="1943">
@@ -882,7 +882,7 @@
 <Book Series="All Surprise Comics" Number="2" Volume="1943" Year="1943">
 <Database Name="cv" Series="972" Issue="56960" />
 </Book>
-<Book Series="Young Allies Comics" Number="11" Volume="1941" Year="1944">
+<Book Series="Young Allies" Number="11" Volume="1941" Year="1944">
 <Database Name="cv" Series="19571" Issue="139060" />
 </Book>
 <Book Series="Captain America Comics" Number="34" Volume="1941" Year="1944">
@@ -936,7 +936,7 @@
 <Book Series="Miss Fury Comics" Number="4" Volume="1942" Year="1944">
 <Database Name="cv" Series="20505" Issue="152211" />
 </Book>
-<Book Series="Young Allies Comics" Number="12" Volume="1941" Year="1944">
+<Book Series="Young Allies" Number="12" Volume="1941" Year="1944">
 <Database Name="cv" Series="19571" Issue="139061" />
 </Book>
 <Book Series="All Select Comics" Number="3" Volume="1943" Year="1944">
@@ -948,10 +948,10 @@
 <Book Series="USA Comics" Number="12" Volume="1941" Year="1944">
 <Database Name="cv" Series="18990" Issue="112821" />
 </Book>
-<Book Series="All Winners Comics" Number="11" Volume="1941" Year="1943">
+<Book Series="All-Winners Comics" Number="11" Volume="1941" Year="1943">
 <Database Name="cv" Series="18581" Issue="166044" />
 </Book>
-<Book Series="All Winners Comics" Number="12" Volume="1941" Year="1944">
+<Book Series="All-Winners Comics" Number="12" Volume="1941" Year="1944">
 <Database Name="cv" Series="18581" Issue="166045" />
 </Book>
 <Book Series="Kid Komics" Number="4" Volume="1943" Year="1944">
@@ -1035,7 +1035,7 @@
 <Book Series="Kid Komics" Number="5" Volume="1943" Year="1944">
 <Database Name="cv" Series="19029" Issue="130044" />
 </Book>
-<Book Series="Young Allies Comics" Number="13" Volume="1941" Year="1944">
+<Book Series="Young Allies" Number="13" Volume="1941" Year="1944">
 <Database Name="cv" Series="19571" Issue="139062" />
 </Book>
 <Book Series="Marvel Mystery Comics" Number="57" Volume="1939" Year="1944">
@@ -1059,7 +1059,7 @@
 <Book Series="Captain America Comics" Number="41" Volume="1941" Year="1944">
 <Database Name="cv" Series="1628" Issue="140215" />
 </Book>
-<Book Series="All Winners Comics" Number="13" Volume="1941" Year="1944">
+<Book Series="All-Winners Comics" Number="13" Volume="1941" Year="1944">
 <Database Name="cv" Series="18581" Issue="166046" />
 </Book>
 <Book Series="Terry-Toons Comics" Number="22" Volume="1942" Year="1944">
@@ -1122,7 +1122,7 @@
 <Book Series="Miss America Magazine" Number="2" Volume="1944" Year="1944">
 <Database Name="cv" Series="21618" Issue="130534" />
 </Book>
-<Book Series="Young Allies Comics" Number="14" Volume="1941" Year="1944">
+<Book Series="Young Allies" Number="14" Volume="1941" Year="1944">
 <Database Name="cv" Series="19571" Issue="139063" />
 </Book>
 <Book Series="Captain America Comics" Number="43" Volume="1941" Year="1944">
@@ -1152,7 +1152,7 @@
 <Book Series="All Select Comics" Number="5" Volume="1943" Year="1944">
 <Database Name="cv" Series="20016" Issue="129578" />
 </Book>
-<Book Series="All Winners Comics" Number="14" Volume="1941" Year="1944">
+<Book Series="All-Winners Comics" Number="14" Volume="1941" Year="1944">
 <Database Name="cv" Series="18581" Issue="166047" />
 </Book>
 <Book Series="Complete Comics" Number="2" Volume="1944" Year="1944">
@@ -1251,7 +1251,7 @@
 <Book Series="All Select Comics" Number="7" Volume="1943" Year="1945">
 <Database Name="cv" Series="20016" Issue="130121" />
 </Book>
-<Book Series="All Winners Comics" Number="15" Volume="1941" Year="1945">
+<Book Series="All-Winners Comics" Number="15" Volume="1941" Year="1945">
 <Database Name="cv" Series="18581" Issue="166048" />
 </Book>
 <Book Series="The Human Torch" Number="18" Volume="1940" Year="1945">
@@ -1275,7 +1275,7 @@
 <Book Series="USA Comics" Number="15" Volume="1941" Year="1945">
 <Database Name="cv" Series="18990" Issue="112824" />
 </Book>
-<Book Series="Young Allies Comics" Number="15" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="15" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139059" />
 </Book>
 <Book Series="Captain America Comics" Number="46" Volume="1941" Year="1945">
@@ -1311,10 +1311,10 @@
 <Book Series="Captain America Comics" Number="47" Volume="1941" Year="1945">
 <Database Name="cv" Series="1628" Issue="140227" />
 </Book>
-<Book Series="Young Allies Comics" Number="16" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="16" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139065" />
 </Book>
-<Book Series="All Winners Comics" Number="16" Volume="1941" Year="1945">
+<Book Series="All-Winners Comics" Number="16" Volume="1941" Year="1945">
 <Database Name="cv" Series="18581" Issue="166049" />
 </Book>
 <Book Series="The Human Torch" Number="19" Volume="1940" Year="1945">
@@ -1422,7 +1422,7 @@
 <Book Series="USA Comics" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="18990" Issue="112826" />
 </Book>
-<Book Series="Young Allies Comics" Number="17" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139066" />
 </Book>
 <Book Series="Gay Comics" Number="21" Volume="1944" Year="1945">
@@ -1488,7 +1488,7 @@
 <Book Series="Terry-Toons Comics" Number="38" Volume="1942" Year="1945">
 <Database Name="cv" Series="948" Issue="91174" />
 </Book>
-<Book Series="All Winners Comics" Number="17" Volume="1941" Year="1945">
+<Book Series="All-Winners Comics" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="18581" Issue="166050" />
 </Book>
 <Book Series="The Human Torch" Number="21" Volume="1940" Year="1945">
@@ -1497,7 +1497,7 @@
 <Book Series="Sub-Mariner Comics" Number="18" Volume="1941" Year="1945">
 <Database Name="cv" Series="18548" Issue="110338" />
 </Book>
-<Book Series="Young Allies Comics" Number="18" Volume="1941" Year="1945">
+<Book Series="Young Allies" Number="18" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139067" />
 </Book>
 <Book Series="Gay Comics" Number="22" Volume="1944" Year="1945">
@@ -1572,7 +1572,7 @@
 <Book Series="Kid Komics" Number="10" Volume="1943" Year="1946">
 <Database Name="cv" Series="19029" Issue="166038" />
 </Book>
-<Book Series="Young Allies Comics" Number="19" Volume="1941" Year="1946">
+<Book Series="Young Allies" Number="19" Volume="1941" Year="1946">
 <Database Name="cv" Series="19571" Issue="139064" />
 </Book>
 <Book Series="Gay Comics" Number="23" Volume="1944" Year="1946">
@@ -1647,7 +1647,7 @@
 <Book Series="All Select Comics" Number="10" Volume="1943" Year="1946">
 <Database Name="cv" Series="20016" Issue="130129" />
 </Book>
-<Book Series="All Winners Comics" Number="18" Volume="1941" Year="1946">
+<Book Series="All-Winners Comics" Number="18" Volume="1941" Year="1946">
 <Database Name="cv" Series="18581" Issue="166051" />
 </Book>
 <Book Series="The Human Torch" Number="23" Volume="1940" Year="1946">
@@ -1728,7 +1728,7 @@
 <Book Series="Captain America Comics" Number="58" Volume="1941" Year="1946">
 <Database Name="cv" Series="1628" Issue="140233" />
 </Book>
-<Book Series="All Winners Comics" Number="19" Volume="1941" Year="1946">
+<Book Series="All-Winners Comics" Number="19" Volume="1941" Year="1946">
 <Database Name="cv" Series="18581" Issue="116143" />
 </Book>
 <Book Series="The Human Torch" Number="24" Volume="1940" Year="1946">
@@ -1770,7 +1770,7 @@
 <Book Series="Marvel Mystery Comics" Number="77" Volume="1939" Year="1946">
 <Database Name="cv" Series="19137" Issue="118426" />
 </Book>
-<Book Series="Young Allies Comics" Number="20" Volume="1941" Year="1946">
+<Book Series="Young Allies" Number="20" Volume="1941" Year="1946">
 <Database Name="cv" Series="19571" Issue="139057" />
 </Book>
 <Book Series="Millie the Model" Number="2" Volume="1945" Year="1946">
@@ -1794,7 +1794,7 @@
 <Book Series="Krazy Komics" Number="24" Volume="1942" Year="1946">
 <Database Name="cv" Series="946" Issue="187384" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="1" Volume="1946" Year="1946">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="1" Volume="1946" Year="1946">
 <Database Name="cv" Series="1114" Issue="95200" />
 </Book>
 <Book Series="Movie Tunes Comics" Number="3" Volume="1946" Year="1946">
@@ -1836,7 +1836,7 @@
 <Book Series="Krazy Komics" Number="25" Volume="1942" Year="1946">
 <Database Name="cv" Series="946" Issue="94891" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="2" Volume="1946" Year="1946">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="2" Volume="1946" Year="1946">
 <Database Name="cv" Series="1114" Issue="95201" />
 </Book>
 <Book Series="Zoo Funnies" Number="9" Volume="1945" Year="0">
@@ -1857,7 +1857,7 @@
 <Book Series="Joker Comics" Number="25" Volume="1942" Year="1946">
 <Database Name="cv" Series="27160" Issue="165128" />
 </Book>
-<Book Series="All Winners Comics" Number="21" Volume="1941" Year="1946">
+<Book Series="All-Winners Comics" Number="21" Volume="1941" Year="1946">
 <Database Name="cv" Series="18581" Issue="138671" />
 </Book>
 <Book Series="Marvel Mystery Comics" Number="79" Volume="1939" Year="1946">
@@ -1905,7 +1905,7 @@
 <Book Series="Georgie Comics" Number="9" Volume="1945" Year="1947">
 <Database Name="cv" Series="1057" Issue="90763" />
 </Book>
-<Book Series="All Teen" Number="20" Volume="1947" Year="1947">
+<Book Series="All Teen Comics" Number="20" Volume="1947" Year="1947">
 <Database Name="cv" Series="22987" Issue="138670" />
 </Book>
 <Book Series="Nellie the Nurse" Number="5" Volume="1945" Year="1947">
@@ -1944,7 +1944,7 @@
 <Book Series="Krazy Komics" Number="26" Volume="1942" Year="1947">
 <Database Name="cv" Series="946" Issue="94892" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="3" Volume="1946" Year="1947">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="3" Volume="1946" Year="1947">
 <Database Name="cv" Series="1114" Issue="95202" />
 </Book>
 <Book Series="Super Rabbit" Number="10" Volume="1944" Year="1947">
@@ -2064,7 +2064,7 @@
 <Book Series="Teen Comics" Number="22" Volume="1947" Year="1947">
 <Database Name="cv" Series="1148" Issue="57327" />
 </Book>
-<Book Series="Paul Terry's Mighty Mouse Comics" Number="4" Volume="1946" Year="1947">
+<Book Series="Paul Terry&apos;s Mighty Mouse Comics" Number="4" Volume="1946" Year="1947">
 <Database Name="cv" Series="1114" Issue="95203" />
 </Book>
 <Book Series="Wacky Duck" Number="6" Volume="1946" Year="1947">
@@ -2340,7 +2340,7 @@
 <Book Series="Marvel Mystery Comics" Number="86" Volume="1939" Year="1948">
 <Database Name="cv" Series="19137" Issue="118184" />
 </Book>
-<Book Series="All Winners Comics" Number="1" Volume="1948" Year="1948">
+<Book Series="All Winners" Number="1" Volume="1948" Year="1948">
 <Database Name="cv" Series="30129" Issue="185479" />
 </Book>
 <Book Series="Captain America Comics" Number="66" Volume="1941" Year="1948">
@@ -2394,7 +2394,7 @@
 <Book Series="Miss America Magazine" Number="11" Volume="1944" Year="1945">
 <Database Name="cv" Series="21618" Issue="188786" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="2" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="2" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188549" />
 </Book>
 <Book Series="Nellie the Nurse" Number="13" Volume="1945" Year="1948">
@@ -2517,7 +2517,7 @@
 <Book Series="Annie Oakley" Number="3" Volume="1948" Year="1948">
 <Database Name="cv" Series="1699" Issue="188230" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="3" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="3" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188550" />
 </Book>
 <Book Series="Nellie the Nurse" Number="14" Volume="1945" Year="1948">
@@ -2634,7 +2634,7 @@
 <Book Series="Miss America Magazine" Number="15" Volume="1944" Year="1945">
 <Database Name="cv" Series="21618" Issue="188790" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="4" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="4" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188551" />
 </Book>
 <Book Series="Nellie the Nurse" Number="15" Volume="1945" Year="1948">
@@ -2760,7 +2760,7 @@
 <Book Series="Miss America Magazine" Number="17" Volume="1944" Year="1946">
 <Database Name="cv" Series="21618" Issue="188792" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="5" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="5" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188552" />
 </Book>
 <Book Series="Nellie the Nurse" Number="16" Volume="1945" Year="1948">
@@ -2868,7 +2868,7 @@
 <Book Series="Miss America Magazine" Number="19" Volume="1944" Year="1946">
 <Database Name="cv" Series="21618" Issue="188794" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="6" Volume="1948" Year="1949">
+<Book Series="Mitzi&apos;s Boy Friend" Number="6" Volume="1948" Year="1949">
 <Database Name="cv" Series="30574" Issue="188553" />
 </Book>
 <Book Series="Nellie the Nurse" Number="17" Volume="1945" Year="1949">
@@ -2961,7 +2961,7 @@
 <Book Series="Miss America Magazine" Number="21" Volume="1944" Year="1946">
 <Database Name="cv" Series="21618" Issue="188796" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="7" Volume="1948" Year="1949">
+<Book Series="Mitzi&apos;s Boy Friend" Number="7" Volume="1948" Year="1949">
 <Database Name="cv" Series="30574" Issue="188554" />
 </Book>
 <Book Series="Nellie the Nurse" Number="18" Volume="1945" Year="1949">

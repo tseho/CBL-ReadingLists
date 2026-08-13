@@ -231,7 +231,7 @@
 <Book Series="Marvel Classics Comics" Number="30" Volume="1976" Year="1978">
 <Database Name="cv" Series="6938" Issue="223947" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="5" Volume="1977" Year="1978">
+<Book Series="Marvel Super Special" Number="5" Volume="1978" Year="1978">
 <Database Name="cv" Series="2909" Issue="18092" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="16" Volume="1976" Year="1978">
@@ -315,7 +315,7 @@
 <Book Series="The Silver Surfer" Number="1" Volume="1978" Year="1978">
 <Database Name="cv" Series="20444" Issue="122392" />
 </Book>
-<Book Series="Walt Disney's Comics &#38; Stories" Number="446" Volume="1940" Year="1977">
+<Book Series="Walt Disney&apos;s Comics &amp; Stories" Number="446" Volume="1940" Year="1977">
 <Database Name="cv" Series="22697" Issue="152166" />
 </Book>
 <Book Series="Spidey Super Stories" Number="28" Volume="1974" Year="1977">
@@ -405,7 +405,7 @@
 <Book Series="Spidey Super Stories" Number="29" Volume="1974" Year="1977">
 <Database Name="cv" Series="2702" Issue="67514" />
 </Book>
-<Book Series="Walt Disney's Comics &#38; Stories" Number="447" Volume="1940" Year="1977">
+<Book Series="Walt Disney&apos;s Comics &amp; Stories" Number="447" Volume="1940" Year="1977">
 <Database Name="cv" Series="22697" Issue="152168" />
 </Book>
 <Book Series="Super Spider-Man and Captain Britain" Number="239" Volume="1977" Year="1977">
@@ -462,7 +462,7 @@
 <Book Series="Spidey Super Stories" Number="30" Volume="1974" Year="1978">
 <Database Name="cv" Series="2702" Issue="67515" />
 </Book>
-<Book Series="Bugs Bunny" Number="194" Volume="1962" Year="1978">
+<Book Series="Habaeg-ui Sinbu" Number="194" Volume="2006" Year="1978">
 <Database Name="cv" Series="11508" Issue="170578" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="26" Volume="1974" Year="1978">
@@ -639,25 +639,25 @@
 <Book Series="Tarzan" Number="13" Volume="1977" Year="1978">
 <Database Name="cv" Series="2916" Issue="18596" />
 </Book>
-<Book Series="UFO &#38; Outer Space" Number="14" Volume="1978" Year="1978">
+<Book Series="UFO &amp; Outer Space" Number="14" Volume="1978" Year="1978">
 <Database Name="cv" Series="11554" Issue="101972" />
 </Book>
-<Book Series="Howard the Duck" Number="22" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="22" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18349" />
 </Book>
-<Book Series="Howard the Duck" Number="23" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="23" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18439" />
 </Book>
-<Book Series="Howard the Duck" Number="24" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="24" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18520" />
 </Book>
-<Book Series="Howard the Duck" Number="25" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="25" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18601" />
 </Book>
-<Book Series="Howard the Duck" Number="26" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="26" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18680" />
 </Book>
-<Book Series="Howard the Duck" Number="27" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="27" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18840" />
 </Book>
 <Book Series="Marvel Preview" Number="14" Volume="1975" Year="1978">
@@ -1071,7 +1071,7 @@
 <Book Series="SuperGulp!" Number="20" Volume="1978" Year="1970">
 <Database Name="cv" Series="27433" Issue="167162" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="9" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="9" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="18101" />
 </Book>
 <Book Series="The Human Fly" Number="11" Volume="1977" Year="1978">
@@ -1323,7 +1323,7 @@
 <Book Series="The Savage Sword of Conan" Number="39" Volume="1974" Year="1979">
 <Database Name="cv" Series="2701" Issue="19446" />
 </Book>
-<Book Series="Ripley's Believe it or Not!" Number="85" Volume="1965" Year="1979">
+<Book Series="Ripley&apos;s Believe it or Not!" Number="85" Volume="1965" Year="1979">
 <Database Name="cv" Series="27344" Issue="170479" />
 </Book>
 <Book Series="Spidey Super Stories" Number="38" Volume="1974" Year="1979">
@@ -1437,16 +1437,16 @@
 <Book Series="SuperGulp!" Number="31" Volume="1978" Year="0">
 <Database Name="cv" Series="27433" Issue="167172" />
 </Book>
-<Book Series="Howard the Duck" Number="28" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="28" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18987" />
 </Book>
-<Book Series="Howard the Duck" Number="29" Volume="1975" Year="1979">
+<Book Series="Howard the Duck" Number="29" Volume="1976" Year="1979">
 <Database Name="cv" Series="2859" Issue="19214" />
 </Book>
-<Book Series="Howard the Duck" Number="30" Volume="1975" Year="1979">
+<Book Series="Howard the Duck" Number="30" Volume="1976" Year="1979">
 <Database Name="cv" Series="2859" Issue="19389" />
 </Book>
-<Book Series="Howard the Duck" Number="31" Volume="1975" Year="1979">
+<Book Series="Howard the Duck" Number="31" Volume="1976" Year="1979">
 <Database Name="cv" Series="2859" Issue="19532" />
 </Book>
 <Book Series="The Pink Panther" Number="62" Volume="1971" Year="1979">
@@ -1605,7 +1605,7 @@
 <Book Series="The Human Fly" Number="19" Volume="1977" Year="1979">
 <Database Name="cv" Series="2903" Issue="19368" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="10" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="10" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="19198" />
 </Book>
 <Book Series="Shogun Warriors" Number="4" Volume="1979" Year="1979">

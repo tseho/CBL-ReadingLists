@@ -22,13 +22,13 @@
         <Book Series="Nighthawk" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="90716" Issue="555534" />
         </Book>
-        <Book Series="Squadron Supreme" Number="6" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="527155" />
         </Book>
-        <Book Series="Squadron Supreme" Number="7" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="530741" />
         </Book>
-        <Book Series="Squadron Supreme" Number="8" Volume="2015" Year="2016">
+        <Book Series="Squadron Supreme" Number="8" Volume="2016" Year="2016">
             <Database Name="cv" Series="86716" Issue="535365" />
         </Book>
         <Book Series="Hyperion" Number="1" Volume="2016" Year="2016">
@@ -61,7 +61,7 @@
         <Book Series="Thunderbolts" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="90125" Issue="547296" />
         </Book>
-        <Book Series="All-New Inhumans" Number="11" Volume="2015" Year="2016">
+        <Book Series="All-New Inhumans" Number="11" Volume="2016" Year="2016">
             <Database Name="cv" Series="86333" Issue="549509" />
         </Book>
         <Book Series="Uncanny Inhumans Annual" Number="1" Volume="2016" Year="2016">

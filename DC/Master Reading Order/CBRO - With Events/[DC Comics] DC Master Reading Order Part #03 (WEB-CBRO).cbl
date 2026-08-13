@@ -201,16 +201,16 @@
 <Book Series="Mister Miracle" Number="28" Volume="1989" Year="1991">
 <Database Name="cv" Series="4203" Issue="156420" />
 </Book>
-<Book Series="Lobo's Back" Number="1" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107638" />
 </Book>
-<Book Series="Lobo's Back" Number="2" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107704" />
 </Book>
-<Book Series="Lobo's Back" Number="3" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107705" />
 </Book>
-<Book Series="Lobo's Back" Number="4" Volume="1992" Year="1992">
+<Book Series="Lobo&apos;s Back" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="18357" Issue="107706" />
 </Book>
 <Book Series="Hawkworld" Number="17" Volume="1990" Year="1991">
@@ -1371,10 +1371,10 @@
 <Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108497" />
 </Book>
-<Book Series="Showcase '93" Number="7" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="7" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107456" />
 </Book>
-<Book Series="Showcase '93" Number="8" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="8" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107494" />
 </Book>
 <Book Series="Batman" Number="498" Volume="1940" Year="1993">
@@ -1548,7 +1548,7 @@
 <Book Series="Robin" Number="9" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="39471" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
 </Book>
 <Book Series="Lobo Annual" Number="1" Volume="1993" Year="1993">
@@ -1788,10 +1788,10 @@
 <Book Series="Green Lantern" Number="54" Volume="1990" Year="1994">
 <Database Name="cv" Series="4363" Issue="39462" />
 </Book>
-<Book Series="Showcase '94" Number="8" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="8" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134773" />
 </Book>
-<Book Series="Showcase '94" Number="9" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="9" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134774" />
 </Book>
 <Book Series="Outsiders" Number="10" Volume="1993" Year="1994">
@@ -2433,13 +2433,13 @@
 <Book Series="Underworld Unleashed" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5526" Issue="41753" />
 </Book>
-<Book Series="Underworld Unleashed: Abyss - Hell's Sentinel" Number="1" Volume="1995" Year="1995">
+<Book Series="Underworld Unleashed: Abyss - Hell&apos;s Sentinel" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22671" Issue="135963" />
 </Book>
 <Book Series="Batman" Number="525" Volume="1940" Year="1995">
 <Database Name="cv" Series="796" Issue="41725" />
 </Book>
-<Book Series="Underworld Unleashed: Batman - Devil's Asylum" Number="1" Volume="1995" Year="1995">
+<Book Series="Underworld Unleashed: Batman - Devil&apos;s Asylum" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22656" Issue="135921" />
 </Book>
 <Book Series="Catwoman" Number="27" Volume="1993" Year="1995">
@@ -2499,7 +2499,7 @@
 <Book Series="Fate" Number="14" Volume="1994" Year="1995">
 <Database Name="cv" Series="5243" Issue="152134" />
 </Book>
-<Book Series="Showcase '95" Number="12" Volume="1995" Year="1995">
+<Book Series="Showcase &apos;95" Number="12" Volume="1995" Year="1995">
 <Database Name="cv" Series="22878" Issue="137440" />
 </Book>
 <Book Series="Superboy" Number="22" Volume="1994" Year="1995">
@@ -3063,7 +3063,7 @@
 <Book Series="Thrillkiller" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="5987" Issue="43469" />
 </Book>
-<Book Series="Thrillkiller '62" Number="1" Volume="1998" Year="1998">
+<Book Series="Thrillkiller &apos;62" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="39769" Issue="268385" />
 </Book>
 <Book Series="Birds of Prey: Manhunt" Number="1" Volume="1996" Year="1996">
@@ -3081,13 +3081,13 @@
 <Book Series="Martian Manhunter Special" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="33010" Issue="212619" />
 </Book>
-<Book Series="Justice League: A Midsummer's Nightmare" Number="1" Volume="1996" Year="1996">
+<Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18945" Issue="112156" />
 </Book>
-<Book Series="Justice League: A Midsummer's Nightmare" Number="2" Volume="1996" Year="1996">
+<Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="18945" Issue="112202" />
 </Book>
-<Book Series="Justice League: A Midsummer's Nightmare" Number="3" Volume="1996" Year="1996">
+<Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="18945" Issue="112203" />
 </Book>
 <Book Series="Nightwing" Number="7" Volume="1996" Year="1997">

@@ -144,37 +144,37 @@
 <Book Series="Cataclysm" Number="0.1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68720" Issue="431438" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="433170" />
 </Book>
-<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="432326" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="433843" />
 </Book>
-<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="435576" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="436196" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="442163" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="436197" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="441410" />
 </Book>
-<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="441409" />
 </Book>
-<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="4" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="443980" />
 </Book>
-<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="5" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="446478" />
 </Book>
 <Book Series="Survive" Number="1" Volume="2014" Year="2014">
@@ -276,25 +276,25 @@
 <Book Series="Spider-Man" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87820" Issue="517835" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="1" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="505511" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="2" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="507173" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="3" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="510932" />
 </Book>
 <Book Series="Free Comic Book Day 2015 (Avengers)" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81688" Issue="487470" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="4" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="512415" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="5" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="514428" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="6" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="516944" />
 </Book>
 <Book Series="Spider-Man" Number="3" Volume="2016" Year="2016">
@@ -306,16 +306,16 @@
 <Book Series="Spider-Man" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87820" Issue="537945" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="9" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="529647" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="10" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="533024" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="11" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="537928" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="12" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="541193" />
 </Book>
 <Book Series="All-New, All-Different Avengers Annual" Number="1" Volume="2016" Year="2016">
@@ -324,10 +324,10 @@
 <Book Series="International Iron Man" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="88934" Issue="535356" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="7" Volume="2015" Year="2016">
+<Book Series="The Totally Awesome Hulk" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86408" Issue="537249" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="8" Volume="2015" Year="2016">
+<Book Series="The Totally Awesome Hulk" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86408" Issue="538523" />
 </Book>
 <Book Series="Invincible Iron Man" Number="6" Volume="2015" Year="2016">
@@ -348,19 +348,19 @@
 <Book Series="Invincible Iron Man" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85110" Issue="538510" />
 </Book>
-<Book Series="Ultimates" Number="7" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="529664" />
 </Book>
 <Book Series="Civil War II" Number="0" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="530725" />
 </Book>
-<Book Series="All-New Wolverine" Number="8" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="530722" />
 </Book>
-<Book Series="All-New Wolverine" Number="9" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="533025" />
 </Book>
-<Book Series="Ms. Marvel" Number="7" Volume="2015" Year="2016">
+<Book Series="Ms. Marvel" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86114" Issue="531894" />
 </Book>
 <Book Series="Civil War II: Ulysses Infinite Comic" Number="1" Volume="2016" Year="2016">
@@ -399,19 +399,19 @@
 <Book Series="Civil War II: Choosing Sides" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="91744" Issue="537230" />
 </Book>
-<Book Series="Deadpool" Number="14" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="14" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="535352" />
 </Book>
-<Book Series="Deadpool" Number="15" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="15" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="539241" />
 </Book>
-<Book Series="Deadpool" Number="16" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="16" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="542618" />
 </Book>
-<Book Series="Deadpool" Number="17" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="17" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="546054" />
 </Book>
-<Book Series="Deadpool" Number="18" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="18" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="549516" />
 </Book>
 <Book Series="Spider-Man 2099" Number="13" Volume="2015" Year="2016">
@@ -438,25 +438,25 @@
 <Book Series="Civil War II: Amazing Spider-Man" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="91090" Issue="549512" />
 </Book>
-<Book Series="Spider-Woman" Number="9" Volume="2015" Year="2016">
+<Book Series="Spider-Woman" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86127" Issue="538520" />
 </Book>
-<Book Series="All-New Wolverine" Number="10" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="540068" />
 </Book>
-<Book Series="All-New Wolverine" Number="11" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="544978" />
 </Book>
-<Book Series="All-New Wolverine" Number="12" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="550343" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="88214" Issue="539249" />
 </Book>
-<Book Series="Ultimates" Number="8" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="537250" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="8" Volume="2015" Year="2016">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86780" Issue="540080" />
 </Book>
 <Book Series="A-Force" Number="8" Volume="2016" Year="2016">
@@ -468,7 +468,7 @@
 <Book Series="A-Force" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="553941" />
 </Book>
-<Book Series="Scarlet Witch" Number="9" Volume="2015" Year="2016">
+<Book Series="Scarlet Witch" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86552" Issue="543755" />
 </Book>
 <Book Series="Spider-Man" Number="6" Volume="2016" Year="2016">
@@ -519,13 +519,13 @@
 <Book Series="Captain Marvel" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="87428" Issue="541197" />
 </Book>
-<Book Series="Ms. Marvel" Number="8" Volume="2015" Year="2016">
+<Book Series="Ms. Marvel" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86114" Issue="537240" />
 </Book>
-<Book Series="Ms. Marvel" Number="9" Volume="2015" Year="2016">
+<Book Series="Ms. Marvel" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86114" Issue="541214" />
 </Book>
-<Book Series="Ms. Marvel" Number="10" Volume="2015" Year="2016">
+<Book Series="Ms. Marvel" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86114" Issue="547287" />
 </Book>
 <Book Series="Captain America: Sam Wilson" Number="11" Volume="2015" Year="2016">
@@ -582,37 +582,37 @@
 <Book Series="Civil War II: Choosing Sides" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="91744" Issue="550352" />
 </Book>
-<Book Series="Nova" Number="8" Volume="2015" Year="2016">
+<Book Series="Nova" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="535358" />
 </Book>
-<Book Series="Nova" Number="9" Volume="2015" Year="2016">
+<Book Series="Nova" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85778" Issue="540079" />
 </Book>
-<Book Series="Spider-Woman" Number="10" Volume="2015" Year="2016">
+<Book Series="Spider-Woman" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86127" Issue="544992" />
 </Book>
 <Book Series="Uncanny Avengers" Number="13" Volume="2015" Year="2016">
 <Database Name="cv" Series="85318" Issue="547297" />
 </Book>
-<Book Series="Spider-Woman" Number="11" Volume="2015" Year="2016">
+<Book Series="Spider-Woman" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86127" Issue="551318" />
 </Book>
 <Book Series="Uncanny Avengers" Number="14" Volume="2015" Year="2016">
 <Database Name="cv" Series="85318" Issue="549528" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="13" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="543742" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="14" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="14" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="548571" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="15" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="15" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="555510" />
 </Book>
 <Book Series="Captain Marvel" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="87428" Issue="546052" />
 </Book>
-<Book Series="Ms. Marvel" Number="11" Volume="2015" Year="2016">
+<Book Series="Ms. Marvel" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86114" Issue="551310" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="7" Volume="2016" Year="2016">
@@ -645,46 +645,46 @@
 <Book Series="New Avengers" Number="18" Volume="2015" Year="2017">
 <Database Name="cv" Series="85301" Issue="562601" />
 </Book>
-<Book Series="Ultimates" Number="9" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="540090" />
 </Book>
-<Book Series="Squadron Supreme" Number="9" Volume="2015" Year="2016">
+<Book Series="Squadron Supreme" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86716" Issue="540084" />
 </Book>
-<Book Series="Squadron Supreme" Number="10" Volume="2015" Year="2016">
+<Book Series="Squadron Supreme" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86716" Issue="542631" />
 </Book>
-<Book Series="Squadron Supreme" Number="11" Volume="2015" Year="2016">
+<Book Series="Squadron Supreme" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86716" Issue="548585" />
 </Book>
-<Book Series="Squadron Supreme" Number="12" Volume="2015" Year="2016">
+<Book Series="Squadron Supreme" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86716" Issue="552171" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="547277" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="547289" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="549522" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="551314" />
 </Book>
-<Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="546069" />
 </Book>
-<Book Series="Venom: Space Knight" Number="12" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="550371" />
 </Book>
-<Book Series="Venom: Space Knight" Number="13" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="555544" />
 </Book>
-<Book Series="Ultimates" Number="10" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="544996" />
 </Book>
-<Book Series="Ultimates" Number="11" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="551323" />
 </Book>
 <Book Series="Civil War II" Number="4" Volume="2016" Year="2016">
@@ -702,16 +702,16 @@
 <Book Series="The Fallen" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="93187" Issue="544987" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="9" Volume="2015" Year="2016">
+<Book Series="The Totally Awesome Hulk" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86408" Issue="541220" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="10" Volume="2015" Year="2016">
+<Book Series="The Totally Awesome Hulk" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86408" Issue="551322" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="11" Volume="2015" Year="2016">
+<Book Series="The Totally Awesome Hulk" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86408" Issue="555542" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="12" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="562607" />
 </Book>
 <Book Series="Mockingbird" Number="7" Volume="2016" Year="2016">
@@ -765,7 +765,7 @@
 <Book Series="Spider-Man" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="566724" />
 </Book>
-<Book Series="Ultimates" Number="12" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="555543" />
 </Book>
 <Book Series="Uncanny Avengers" Number="15" Volume="2015" Year="2016">
@@ -801,7 +801,7 @@
 <Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="576629" />
 </Book>
-<Book Series="Avengers" Number="1.MU" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="1.MU" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="578450" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="1.MU" Volume="2016" Year="2017">
@@ -810,7 +810,7 @@
 <Book Series="Monsters Unleashed!" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="579318" />
 </Book>
-<Book Series="All-New X-Men" Number="1.MU" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="1.MU" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="579304" />
 </Book>
 <Book Series="Monsters Unleashed!" Number="3" Volume="2017" Year="2017">
@@ -828,7 +828,7 @@
 <Book Series="Monsters Unleashed!" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="583724" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="1.MU" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="1.MU" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="583732" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="1.MU" Volume="2015" Year="2017">
@@ -891,7 +891,7 @@
 <Book Series="Captain America: Steve Rogers" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="90698" Issue="590790" />
 </Book>
-<Book Series="Deadpool" Number="31" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="31" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="598369" />
 </Book>
 <Book Series="U.S.Avengers" Number="5" Volume="2017" Year="2017">
@@ -906,7 +906,7 @@
 <Book Series="Secret Empire" Number="0" Volume="2017" Year="2017">
 <Database Name="cv" Series="100840" Issue="592609" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="5" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="597196" />
 </Book>
 <Book Series="U.S.Avengers" Number="6" Volume="2017" Year="2017">
@@ -924,7 +924,7 @@
 <Book Series="Uncanny Avengers" Number="25" Volume="2015" Year="2017">
 <Database Name="cv" Series="85318" Issue="608262" />
 </Book>
-<Book Series="Ultimates 2" Number="7" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="595706" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="29" Volume="2015" Year="2017">
@@ -945,13 +945,13 @@
 <Book Series="The Amazing Spider-Man" Number="31" Volume="2015" Year="2017">
 <Database Name="cv" Series="85076" Issue="613783" />
 </Book>
-<Book Series="Avengers" Number="9" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="606617" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="6" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="605121" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="7" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="610529" />
 </Book>
 <Book Series="Secret Empire: Brave New World" Number="1" Volume="2017" Year="2017">
@@ -960,10 +960,10 @@
 <Book Series="Champions" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="606621" />
 </Book>
-<Book Series="Occupy Avengers" Number="8" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="605124" />
 </Book>
-<Book Series="Occupy Avengers" Number="9" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="610532" />
 </Book>
 <Book Series="Secret Empire" Number="1" Volume="2017" Year="2017">
@@ -975,13 +975,13 @@
 <Book Series="U.S.Avengers" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="97772" Issue="615035" />
 </Book>
-<Book Series="Deadpool" Number="32" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="32" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="601791" />
 </Book>
-<Book Series="Deadpool" Number="33" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="33" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="608241" />
 </Book>
-<Book Series="Deadpool" Number="34" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="34" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="610522" />
 </Book>
 <Book Series="Secret Empire" Number="2" Volume="2017" Year="2017">
@@ -1002,7 +1002,7 @@
 <Book Series="All-New Guardians of the Galaxy Annual" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="102442" Issue="605104" />
 </Book>
-<Book Series="Avengers" Number="10" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="612031" />
 </Book>
 <Book Series="Doctor Strange" Number="21" Volume="2015" Year="2017">
@@ -1089,7 +1089,7 @@
 <Book Series="Secret Empire" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="100840" Issue="613803" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="8" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="617847" />
 </Book>
 <Book Series="Secret Empire" Number="9" Volume="2017" Year="2017">
@@ -1098,7 +1098,7 @@
 <Book Series="Secret Empire" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="100840" Issue="617849" />
 </Book>
-<Book Series="Deadpool" Number="35" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="35" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="617837" />
 </Book>
 <Book Series="Secret Empire Omega" Number="1" Volume="2017" Year="2017">
@@ -1107,7 +1107,7 @@
 <Book Series="Uncanny Avengers" Number="26" Volume="2015" Year="2017">
 <Database Name="cv" Series="85318" Issue="617856" />
 </Book>
-<Book Series="Deadpool" Number="36" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="36" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="621660" />
 </Book>
 <Book Series="Secret Warriors" Number="6" Volume="2017" Year="2017">
@@ -1125,19 +1125,19 @@
 <Book Series="Spider-Man" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="626295" />
 </Book>
-<Book Series="Avengers" Number="672" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="672" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="626276" />
 </Book>
 <Book Series="Champions" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="630518" />
 </Book>
-<Book Series="Avengers" Number="673" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="673" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="634525" />
 </Book>
 <Book Series="Champions" Number="14" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="638591" />
 </Book>
-<Book Series="Avengers" Number="674" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="674" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="644497" />
 </Book>
 <Book Series="Champions" Number="15" Volume="2016" Year="2018">
@@ -1200,7 +1200,7 @@
 <Book Series="Champions" Number="27" Volume="2016" Year="2019">
 <Database Name="cv" Series="94612" Issue="694908" />
 </Book>
-<Book Series="Champions Annual" Number="1" Volume="2018" Year="2019">
+<Book Series="Champions Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116065" Issue="695627" />
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="1" Volume="2019" Year="2019">
@@ -1263,7 +1263,7 @@
 <Book Series="Absolute Carnage: Separation Anxiety" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120628" Issue="716348" />
 </Book>
-<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122664" Issue="726199" />
 </Book>
 <Book Series="Absolute Carnage" Number="1" Volume="2019" Year="2019">
@@ -1335,7 +1335,7 @@
 <Book Series="The Amazing Spider-Man" Number="31" Volume="2018" Year="2019">
 <Database Name="cv" Series="112161" Issue="721778" />
 </Book>
-<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122985" Issue="728410" />
 </Book>
 <Book Series="Absolute Carnage" Number="5" Volume="2019" Year="2020">
@@ -1365,7 +1365,7 @@
 <Book Series="Miles Morales: Spider-Man" Number="13" Volume="2019" Year="2020">
 <Database Name="cv" Series="115897" Issue="730339" />
 </Book>
-<Book Series="Incoming!" Number="1" Volume="2019" Year="2020">
+<Book Series="Incoming!" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123766" Issue="731666" />
 </Book>
 <Book Series="Miles Morales: The End" Number="1" Volume="2020" Year="2020">
@@ -1512,25 +1512,25 @@
 <Book Series="Miles Morales: Spider-Man and Moon Girl" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143843" Issue="932696" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="1" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="958999" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="2" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="963980" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="3" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="967788" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="4" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="976913" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="5" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="982359" />
 </Book>
 <Book Series="Carnage Reigns: Alpha" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150029" Issue="987130" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="989662" />
 </Book>
 <Book Series="Carnage" Number="13" Volume="2022" Year="2023">
@@ -1542,46 +1542,46 @@
 <Book Series="Carnage" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="141919" Issue="994371" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="996022" />
 </Book>
 <Book Series="Carnage Reigns Omega" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="151706" Issue="997395" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="8" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1000233" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="9" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1006437" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="10" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1013496" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="11" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="11" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1025159" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1031694" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="13" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="13" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1034570" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="14" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="14" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1038292" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="15" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="15" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1039581" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="16" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="16" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1044780" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="17" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="17" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1046269" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="18" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="18" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1049276" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="19" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="19" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1051497" />
 </Book>
 <Book Series="The Spectacular Spider-Men" Number="1" Volume="2024" Year="2024">
@@ -1629,7 +1629,7 @@
 <Book Series="The Spectacular Spider-Men" Number="15" Volume="2024" Year="2025">
 <Database Name="cv" Series="157126" Issue="1109658" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="20" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="20" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1055027" />
 </Book>
 <Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
@@ -1641,10 +1641,10 @@
 <Book Series="Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1059110" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1059267" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1061873" />
 </Book>
 <Book Series="Blood Hunt" Number="4" Volume="2024" Year="2024">
@@ -1668,25 +1668,25 @@
 <Book Series="Blood Hunters" Number="5" Volume="2024" Year="2025">
 <Database Name="cv" Series="159187" Issue="1083721" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="23" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="23" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1066700" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="24" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="24" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1068656" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="25" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="25" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1073886" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="26" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="26" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1078497" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="27" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="27" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1080274" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="28" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="28" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1088572" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="29" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="29" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1090272" />
 </Book>
 <Book Series="Miles Morales: Spider-Man Annual" Number="1" Volume="2024" Year="2024">
@@ -1695,46 +1695,46 @@
 <Book Series="Deadpool" Number="11" Volume="2024" Year="2025">
 <Database Name="cv" Series="157504" Issue="1095598" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="30" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="30" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1096441" />
 </Book>
 <Book Series="Deadpool" Number="12" Volume="2024" Year="2025">
 <Database Name="cv" Series="157504" Issue="1098340" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="31" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="31" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1099502" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="32" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="32" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1101444" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="33" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="33" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1109654" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="34" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="34" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1116814" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="35" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="35" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1119100" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="36" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="36" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1125792" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="37" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="37" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1128931" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="38" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="38" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1133826" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="39" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="39" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1139080" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="40" Volume="2022" Year="2026">
+<Book Series="Miles Morales: Spider-Man" Number="40" Volume="2023" Year="2026">
 <Database Name="cv" Series="146734" Issue="1141925" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="41" Volume="2022" Year="2026">
+<Book Series="Miles Morales: Spider-Man" Number="41" Volume="2023" Year="2026">
 <Database Name="cv" Series="146734" Issue="1146689" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="42" Volume="2022" Year="2026">
+<Book Series="Miles Morales: Spider-Man" Number="42" Volume="2023" Year="2026">
 <Database Name="cv" Series="146734" Issue="1154066" />
 </Book>
 </Books>

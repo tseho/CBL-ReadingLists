@@ -54,7 +54,7 @@
 <Book Series="X-Force" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="726217" />
 </Book>
-<Book Series="Fallen Angels" Number="1" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="727257" />
 </Book>
 <Book Series="X-Men" Number="2" Volume="2019" Year="2020">
@@ -72,7 +72,7 @@
 <Book Series="X-Force" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="728984" />
 </Book>
-<Book Series="Fallen Angels" Number="2" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="728972" />
 </Book>
 <Book Series="X-Men" Number="3" Volume="2019" Year="2020">
@@ -90,7 +90,7 @@
 <Book Series="X-Force" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="730351" />
 </Book>
-<Book Series="Fallen Angels" Number="3" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="730333" />
 </Book>
 <Book Series="Marauders" Number="4" Volume="2019" Year="2020">
@@ -105,10 +105,10 @@
 <Book Series="X-Force" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="731530" />
 </Book>
-<Book Series="Fallen Angels" Number="4" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="731511" />
 </Book>
-<Book Series="Incoming!" Number="1" Volume="2019" Year="2020">
+<Book Series="Incoming!" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123766" Issue="731666" />
 </Book>
 <Book Series="X-Men" Number="4" Volume="2019" Year="2020">
@@ -126,7 +126,7 @@
 <Book Series="X-Force" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="732895" />
 </Book>
-<Book Series="Fallen Angels" Number="5" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="732878" />
 </Book>
 <Book Series="Marauders" Number="6" Volume="2019" Year="2020">
@@ -138,7 +138,7 @@
 <Book Series="X-Men" Number="5" Volume="2019" Year="2020">
 <Database Name="cv" Series="122077" Issue="735535" />
 </Book>
-<Book Series="Fallen Angels" Number="6" Volume="2019" Year="2020">
+<Book Series="Fallen Angels" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122814" Issue="735522" />
 </Book>
 <Book Series="New Mutants" Number="6" Volume="2020" Year="2020">
@@ -408,7 +408,7 @@
 <Book Series="X of Swords: Destruction" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132228" Issue="819480" />
 </Book>
-<Book Series="S.W.O.R.D." Number="1" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="820748" />
 </Book>
 <Book Series="X-Factor" Number="5" Volume="2020" Year="2021">
@@ -474,13 +474,13 @@
 <Book Series="Marauders" Number="18" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="828860" />
 </Book>
-<Book Series="S.W.O.R.D." Number="2" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="824453" />
 </Book>
-<Book Series="S.W.O.R.D." Number="3" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="828197" />
 </Book>
-<Book Series="S.W.O.R.D." Number="4" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="838885" />
 </Book>
 <Book Series="King In Black: Marauders" Number="1" Volume="2021" Year="2021">
@@ -549,7 +549,7 @@
 <Book Series="Way of X" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="135583" Issue="844975" />
 </Book>
-<Book Series="S.W.O.R.D." Number="5" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="844973" />
 </Book>
 <Book Series="New Mutants" Number="17" Volume="2020" Year="2021">
@@ -615,7 +615,7 @@
 <Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
 <Database Name="cv" Series="125121" Issue="863865" />
 </Book>
-<Book Series="S.W.O.R.D." Number="6" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="863852" />
 </Book>
 <Book Series="Way of X" Number="3" Volume="2021" Year="2021">
@@ -657,7 +657,7 @@
 <Book Series="X-Force" Number="22" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="878792" />
 </Book>
-<Book Series="S.W.O.R.D." Number="7" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="7" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="874522" />
 </Book>
 <Book Series="New Mutants" Number="20" Volume="2020" Year="2021">
@@ -714,7 +714,7 @@
 <Book Series="X-Men" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="137402" Issue="885604" />
 </Book>
-<Book Series="S.W.O.R.D." Number="8" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="8" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="886939" />
 </Book>
 <Book Series="Inferno" Number="1" Volume="2021" Year="2021">
@@ -735,7 +735,7 @@
 <Book Series="X-Force" Number="24" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="889465" />
 </Book>
-<Book Series="S.W.O.R.D." Number="9" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="9" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="891564" />
 </Book>
 <Book Series="Wolverine" Number="17" Volume="2020" Year="2021">
@@ -756,7 +756,7 @@
 <Book Series="Hellions" Number="17" Volume="2020" Year="2022">
 <Database Name="cv" Series="126015" Issue="893934" />
 </Book>
-<Book Series="S.W.O.R.D." Number="10" Volume="2020" Year="2022">
+<Book Series="S.W.O.R.D." Number="10" Volume="2021" Year="2022">
 <Database Name="cv" Series="132511" Issue="894139" />
 </Book>
 <Book Series="New Mutants" Number="23" Volume="2020" Year="2022">
@@ -795,7 +795,7 @@
 <Book Series="Wolverine" Number="19" Volume="2020" Year="2022">
 <Database Name="cv" Series="125121" Issue="899167" />
 </Book>
-<Book Series="S.W.O.R.D." Number="11" Volume="2020" Year="2022">
+<Book Series="S.W.O.R.D." Number="11" Volume="2021" Year="2022">
 <Database Name="cv" Series="132511" Issue="899166" />
 </Book>
 <Book Series="X-Men" Number="6" Volume="2021" Year="2022">
@@ -819,13 +819,13 @@
 <Book Series="X-Men" Number="7" Volume="2021" Year="2022">
 <Database Name="cv" Series="137402" Issue="904779" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="1" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="903910" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="2" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="909677" />
 </Book>
-<Book Series="Devil's Reign: X-Men" Number="3" Volume="2022" Year="2022">
+<Book Series="Devil&apos;s Reign: X-Men" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="141328" Issue="912248" />
 </Book>
 <Book Series="Marauders Annual" Number="1" Volume="2022" Year="2022">
@@ -1137,7 +1137,7 @@
 <Book Series="Marauders" Number="8" Volume="2022" Year="2023">
 <Database Name="cv" Series="142135" Issue="953976" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="1" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="954280" />
 </Book>
 <Book Series="Immortal X-Men" Number="8" Volume="2022" Year="2023">
@@ -1182,19 +1182,19 @@
 <Book Series="Deadpool" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="960024" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="964964" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="1" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="960009" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="2" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="960981" />
 </Book>
 <Book Series="Wolverine" Number="28" Volume="2020" Year="2023">
@@ -1224,22 +1224,22 @@
 <Book Series="X-Men" Number="18" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="963985" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="2" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="964966" />
 </Book>
 <Book Series="Deadpool" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="964961" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="3" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="966425" />
 </Book>
 <Book Series="X-Terminators" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145163" Issue="966432" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="4" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="973028" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="5" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="979429" />
 </Book>
 <Book Series="Immortal X-Men" Number="9" Volume="2022" Year="2023">
@@ -1299,7 +1299,7 @@
 <Book Series="Wolverine" Number="30" Volume="2020" Year="2023">
 <Database Name="cv" Series="125121" Issue="971883" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="3" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="971889" />
 </Book>
 <Book Series="X-Men" Number="20" Volume="2021" Year="2023">
@@ -1347,7 +1347,7 @@
 <Book Series="Deadpool" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="979419" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="4" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="979424" />
 </Book>
 <Book Series="Wolverine" Number="32" Volume="2020" Year="2023">
@@ -1389,7 +1389,7 @@
 <Book Series="Deadpool" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="985710" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="5" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="985650" />
 </Book>
 <Book Series="X-Men: Before the Fall - Sons of X" Number="1" Volume="2023" Year="2023">
@@ -1401,7 +1401,7 @@
 <Book Series="Free Comic Book Day 2023: Avengers/X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150031" Issue="987190" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="6" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="988150" />
 </Book>
 <Book Series="X-Men: Red" Number="11" Volume="2022" Year="2023">
@@ -1443,7 +1443,7 @@
 <Book Series="X-Men: Before the Fall – Mutant First Strike" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="151052" Issue="993583" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="7" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="993233" />
 </Book>
 <Book Series="X-Men" Number="23" Volume="2021" Year="2023">
@@ -1488,7 +1488,7 @@
 <Book Series="Wolverine" Number="35" Volume="2020" Year="2023">
 <Database Name="cv" Series="125121" Issue="1003593" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="8" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1003582" />
 </Book>
 <Book Series="X-Men: Hellfire Gala" Number="1" Volume="2023" Year="2023">
@@ -1536,7 +1536,7 @@
 <Book Series="Realm of X" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153121" Issue="1010053" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="9" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1010048" />
 </Book>
 <Book Series="Ms. Marvel: The New Mutant" Number="1" Volume="2023" Year="2023">
@@ -1593,7 +1593,7 @@
 <Book Series="X-Men" Number="26" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="1011788" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="10" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1018021" />
 </Book>
 <Book Series="X-Men" Number="27" Volume="2021" Year="2023">
@@ -1620,7 +1620,7 @@
 <Book Series="X-Force" Number="45" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="1020543" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="11" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="11" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1025158" />
 </Book>
 <Book Series="Dark X-Men" Number="3" Volume="2023" Year="2023">
@@ -1659,7 +1659,7 @@
 <Book Series="Uncanny Spider-Man" Number="4" Volume="2023" Year="2024">
 <Database Name="cv" Series="153606" Issue="1030798" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="12" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="12" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1030786" />
 </Book>
 <Book Series="X-Force" Number="46" Volume="2020" Year="2024">
@@ -1692,7 +1692,7 @@
 <Book Series="Alpha Flight" Number="5" Volume="2023" Year="2024">
 <Database Name="cv" Series="153020" Issue="1033198" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="13" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="13" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1033204" />
 </Book>
 <Book Series="Dark X-Men" Number="5" Volume="2023" Year="2024">
@@ -1734,7 +1734,7 @@
 <Book Series="X-Men" Number="30" Volume="2021" Year="2024">
 <Database Name="cv" Series="137402" Issue="1040949" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="14" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="14" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1040941" />
 </Book>
 <Book Series="Resurrection of Magneto" Number="1" Volume="2024" Year="2024">
@@ -1773,7 +1773,7 @@
 <Book Series="Resurrection of Magneto" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="156369" Issue="1046272" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="15" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="15" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1046268" />
 </Book>
 <Book Series="Wolverine" Number="44" Volume="2020" Year="2024">
@@ -1800,7 +1800,7 @@
 <Book Series="Resurrection of Magneto" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="156369" Issue="1048669" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="16" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="16" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1048667" />
 </Book>
 <Book Series="Wolverine" Number="46" Volume="2020" Year="2024">
@@ -1833,7 +1833,7 @@
 <Book Series="Resurrection of Magneto" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156369" Issue="1051126" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="17" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="17" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1051124" />
 </Book>
 <Book Series="Wolverine" Number="47" Volume="2020" Year="2024">

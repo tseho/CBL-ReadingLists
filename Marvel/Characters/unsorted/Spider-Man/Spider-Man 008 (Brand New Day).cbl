@@ -117,19 +117,19 @@
     <Book Series="The Amazing Spider-Man" Number="583" Volume="1963" Year="2009">
       <Database Name="cv" Series="2127" Issue="149908" />
     </Book>
-    <Book Series="New Avengers" Number="38" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="38" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="122774" />
     </Book>
-    <Book Series="Secret Invasion Director's Cut" Number="1" Volume="2008" Year="2008">
+    <Book Series="Secret Invasion Director&apos;s Cut" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="22284" Issue="134003" />
     </Book>
-    <Book Series="New Avengers" Number="41" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="41" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="130973" />
     </Book>
     <Book Series="Secret Invasion" Number="2" Volume="2008" Year="2008">
       <Database Name="cv" Series="21076" Issue="129598" />
     </Book>
-    <Book Series="New Avengers" Number="42" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="42" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="131808" />
     </Book>
     <Book Series="Secret Invasion: The Amazing Spider-Man" Number="1" Volume="2008" Year="2008">
@@ -144,25 +144,25 @@
     <Book Series="Secret Invasion" Number="3" Volume="2008" Year="2008">
       <Database Name="cv" Series="21076" Issue="131297" />
     </Book>
-    <Book Series="New Avengers" Number="43" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="43" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="134066" />
     </Book>
     <Book Series="Secret Invasion" Number="4" Volume="2008" Year="2008">
       <Database Name="cv" Series="21076" Issue="132926" />
     </Book>
-    <Book Series="New Avengers" Number="44" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="44" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="136523" />
     </Book>
     <Book Series="Secret Invasion" Number="5" Volume="2008" Year="2008">
       <Database Name="cv" Series="21076" Issue="135430" />
     </Book>
-    <Book Series="New Avengers" Number="45" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="45" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="139334" />
     </Book>
     <Book Series="Secret Invasion" Number="6" Volume="2008" Year="2008">
       <Database Name="cv" Series="21076" Issue="138234" />
     </Book>
-    <Book Series="New Avengers" Number="46" Volume="2004" Year="2008">
+    <Book Series="New Avengers" Number="46" Volume="2005" Year="2008">
       <Database Name="cv" Series="11497" Issue="140897" />
     </Book>
     <Book Series="Secret Invasion: Front Line" Number="4" Volume="2008" Year="2008">
@@ -171,7 +171,7 @@
     <Book Series="Secret Invasion" Number="7" Volume="2008" Year="2008">
       <Database Name="cv" Series="21076" Issue="140851" />
     </Book>
-    <Book Series="New Avengers" Number="47" Volume="2004" Year="2009">
+    <Book Series="New Avengers" Number="47" Volume="2005" Year="2009">
       <Database Name="cv" Series="11497" Issue="144345" />
     </Book>
     <Book Series="Secret Invasion" Number="8" Volume="2008" Year="2009">
@@ -195,7 +195,7 @@
     <Book Series="The Amazing Spider-Man" Number="587" Volume="1963" Year="2009">
       <Database Name="cv" Series="2127" Issue="152231" />
     </Book>
-    <Book Series="The Amazing Spider-Man:  EXTRA!" Number="1" Volume="2008" Year="2008">
+    <Book Series="The Amazing Spider-Man: EXTRA!" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="22405" Issue="134597" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="588" Volume="1963" Year="2009">
@@ -204,13 +204,13 @@
     <Book Series="The Amazing Spider-Man" Number="589" Volume="1963" Year="2009">
       <Database Name="cv" Series="2127" Issue="153955" />
     </Book>
-    <Book Series="The Amazing Spider-Man:  EXTRA!" Number="3" Volume="2008" Year="2009">
+    <Book Series="The Amazing Spider-Man: EXTRA!" Number="3" Volume="2008" Year="2009">
       <Database Name="cv" Series="22405" Issue="153668" />
     </Book>
-    <Book Series="Spider-Man &#38; The Human Torch In... Bahia De Los Muertos!" Number="1" Volume="2009" Year="2009">
+    <Book Series="Spider-Man &amp; The Human Torch In... Bahia De Los Muertos!" Number="1" Volume="2009" Year="2009">
       <Database Name="cv" Series="26034" Issue="153874" />
     </Book>
-    <Book Series="The Amazing Spider-Man:  EXTRA!" Number="2" Volume="2008" Year="2009">
+    <Book Series="The Amazing Spider-Man: EXTRA!" Number="2" Volume="2008" Year="2009">
       <Database Name="cv" Series="22405" Issue="150767" />
     </Book>
     <Book Series="Timestorm 2009/2099" Number="1" Volume="2009" Year="2009">
@@ -309,10 +309,10 @@
     <Book Series="Siege" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="30904" Issue="191146" />
     </Book>
-    <Book Series="New Avengers" Number="61" Volume="2004" Year="2010">
+    <Book Series="New Avengers" Number="61" Volume="2005" Year="2010">
       <Database Name="cv" Series="11497" Issue="194421" />
     </Book>
-    <Book Series="New Avengers" Number="62" Volume="2004" Year="2010">
+    <Book Series="New Avengers" Number="62" Volume="2005" Year="2010">
       <Database Name="cv" Series="11497" Issue="198259" />
     </Book>
     <Book Series="Siege" Number="2" Volume="2010" Year="2010">
@@ -321,13 +321,13 @@
     <Book Series="Siege" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="30904" Issue="200744" />
     </Book>
-    <Book Series="New Avengers" Number="63" Volume="2004" Year="2010">
+    <Book Series="New Avengers" Number="63" Volume="2005" Year="2010">
       <Database Name="cv" Series="11497" Issue="201704" />
     </Book>
     <Book Series="Siege: Spider-Man" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="32661" Issue="208654" />
     </Book>
-    <Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
+    <Book Series="New Avengers" Number="64" Volume="2005" Year="2010">
       <Database Name="cv" Series="11497" Issue="210216" />
     </Book>
     <Book Series="Siege" Number="4" Volume="2010" Year="2010">
@@ -537,7 +537,7 @@
     <Book Series="The Amazing Spider-Man" Number="667" Volume="1963" Year="2011">
       <Database Name="cv" Series="2127" Issue="285544" />
     </Book>
-    <Book Series="Spider-Island: Cloak &#38; Dagger" Number="1" Volume="2011" Year="2011">
+    <Book Series="Spider-Island: Cloak &amp; Dagger" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41955" Issue="285497" />
     </Book>
     <Book Series="Spider-Island: Deadly Foes" Number="1" Volume="2011" Year="2011">
@@ -552,7 +552,7 @@
     <Book Series="Spider-Island: The Amazing Spider-Girl" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="42131" Issue="286920" />
     </Book>
-    <Book Series="Spider-Island: Emergence of Evil - Jackal &#38; Hobgoblin" Number="1" Volume="2011" Year="2011">
+    <Book Series="Spider-Island: Emergence of Evil - Jackal &amp; Hobgoblin" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="42547" Issue="290910" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="668" Volume="1963" Year="2011">
@@ -561,7 +561,7 @@
     <Book Series="Amazing Spider-Man: Infested" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="42589" Issue="291101" />
     </Book>
-    <Book Series="Spider-Island: Cloak &#38; Dagger" Number="2" Volume="2011" Year="2011">
+    <Book Series="Spider-Island: Cloak &amp; Dagger" Number="2" Volume="2011" Year="2011">
       <Database Name="cv" Series="41955" Issue="293399" />
     </Book>
     <Book Series="Spider-Island: The Avengers" Number="1" Volume="2011" Year="2011">
@@ -609,13 +609,13 @@
     <Book Series="The Amazing Spider-Man" Number="675" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="305690" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="1" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="1" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="301508" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="2" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="2" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="305691" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="3" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="3" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="311835" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="676" Volume="1963" Year="2012">
@@ -636,10 +636,10 @@
     <Book Series="The Amazing Spider-Man" Number="679.1" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="315750" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="4" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="4" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="315803" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="5" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="5" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="324958" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="680" Volume="1963" Year="2012">
@@ -648,7 +648,7 @@
     <Book Series="The Amazing Spider-Man" Number="681" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="319360" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="6" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="6" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="329213" />
     </Book>
     <Book Series="The Punisher" Number="10" Volume="2011" Year="2012">
@@ -657,7 +657,7 @@
     <Book Series="Daredevil" Number="11" Volume="2011" Year="2012">
       <Database Name="cv" Series="41410" Issue="333393" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="7" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="7" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="335249" />
     </Book>
     <Book Series="The Amazing Spider-Man Annual" Number="39" Volume="1964" Year="2012">
@@ -684,7 +684,7 @@
     <Book Series="The Amazing Spider-Man" Number="687" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="340254" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="8" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="8" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="341809" />
     </Book>
     <Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
@@ -762,10 +762,10 @@
     <Book Series="The Amazing Spider-Man" Number="691" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="351057" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="9" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="9" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="345394" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="10" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="10" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="348057" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="692" Volume="1963" Year="2012">
@@ -774,16 +774,16 @@
     <Book Series="The Amazing Spider-Man" Number="693" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="355887" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="11" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="11" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="354168" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="694" Volume="1963" Year="2012">
       <Database Name="cv" Series="2127" Issue="358932" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="12" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="12" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="356765" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="13" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="13" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="360928" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="695" Volume="1963" Year="2012">
@@ -795,19 +795,19 @@
     <Book Series="The Amazing Spider-Man" Number="697" Volume="1963" Year="2013">
       <Database Name="cv" Series="2127" Issue="367808" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="14" Volume="2011" Year="2013">
+    <Book Series="Avenging Spider-Man" Number="14" Volume="2012" Year="2013">
       <Database Name="cv" Series="43884" Issue="366188" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="15" Volume="2011" Year="2013">
+    <Book Series="Avenging Spider-Man" Number="15" Volume="2012" Year="2013">
       <Database Name="cv" Series="43884" Issue="371257" />
     </Book>
-    <Book Series="Avengers" Number="1" Volume="2012" Year="2013">
+    <Book Series="Avengers" Number="1" Volume="2013" Year="2013">
       <Database Name="cv" Series="54428" Issue="371103" />
     </Book>
-    <Book Series="Avengers" Number="2" Volume="2012" Year="2013">
+    <Book Series="Avengers" Number="2" Volume="2013" Year="2013">
       <Database Name="cv" Series="54428" Issue="373217" />
     </Book>
-    <Book Series="Avengers" Number="3" Volume="2012" Year="2013">
+    <Book Series="Avengers" Number="3" Volume="2013" Year="2013">
       <Database Name="cv" Series="54428" Issue="381411" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="698" Volume="1963" Year="2013">
@@ -822,7 +822,7 @@
     <Book Series="The Amazing Spider-Man" Number="700" Volume="1963" Year="2013">
       <Database Name="cv" Series="2127" Issue="373805" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="15.1" Volume="2011" Year="2013">
+    <Book Series="Avenging Spider-Man" Number="15.1" Volume="2012" Year="2013">
       <Database Name="cv" Series="43884" Issue="374689" />
     </Book>
     <Book Series="Marvel Knights: Spider-Man" Number="1" Volume="2013" Year="2013">

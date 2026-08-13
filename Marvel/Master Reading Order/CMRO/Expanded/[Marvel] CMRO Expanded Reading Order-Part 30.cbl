@@ -123,7 +123,7 @@
 <Book Series="Age of Heroes" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="33241" Issue="230254" />
 </Book>
-<Book Series="Spider-Girl:  The End!" Number="11" Volume="2010" Year="1986">
+<Book Series="Spider-Girl: The End!" Number="11" Volume="2010" Year="1986">
 <Database Name="cv" Series="35111" Issue="119192" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="210" Volume="1995" Year="2010">
@@ -201,7 +201,7 @@
 <Book Series="Gorilla-Man" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="34438" Issue="232973" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="889" Volume="2009" Year="2010">
+<Book Series="Deadpool Team-Up" Number="889" Volume="2010" Year="2010">
 <Database Name="cv" Series="29329" Issue="235453" />
 </Book>
 <Book Series="Deadpool" Number="27" Volume="2008" Year="2010">
@@ -213,13 +213,13 @@
 <Book Series="Deadpool" Number="29" Volume="2008" Year="2011">
 <Database Name="cv" Series="22955" Issue="246475" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="888" Volume="2009" Year="2010">
+<Book Series="Deadpool Team-Up" Number="888" Volume="2010" Year="2010">
 <Database Name="cv" Series="29329" Issue="239999" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="887" Volume="2009" Year="2011">
+<Book Series="Deadpool Team-Up" Number="887" Volume="2010" Year="2011">
 <Database Name="cv" Series="29329" Issue="246494" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="886" Volume="2009" Year="2011">
+<Book Series="Deadpool Team-Up" Number="886" Volume="2010" Year="2011">
 <Database Name="cv" Series="29329" Issue="252998" />
 </Book>
 <Book Series="Deadpool Pulp" Number="1" Volume="2010" Year="2010">
@@ -885,22 +885,22 @@
 <Book Series="Thunderbolts" Number="154" Volume="2006" Year="2011">
 <Database Name="cv" Series="18128" Issue="264600" />
 </Book>
-<Book Series="Thunderstrike" Number="1" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="246473" />
 </Book>
-<Book Series="Thunderstrike" Number="2" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="251476" />
 </Book>
-<Book Series="Thunderstrike" Number="3" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="261664" />
 </Book>
-<Book Series="Thunderstrike" Number="4" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="266017" />
 </Book>
-<Book Series="Thunderstrike" Number="5" Volume="2010" Year="2011">
+<Book Series="Thunderstrike" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36953" Issue="269048" />
 </Book>
-<Book Series="Spider-Man: You're Hired!" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Man: You&apos;re Hired!" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39585" Issue="267435" />
 </Book>
 <Book Series="Hawkeye &amp; Mockingbird" Number="1" Volume="2010" Year="2010">
@@ -1503,13 +1503,13 @@
 <Book Series="Captain America and Batroc" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39497" Issue="266843" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="885" Volume="2009" Year="2011">
+<Book Series="Deadpool Team-Up" Number="885" Volume="2010" Year="2011">
 <Database Name="cv" Series="29329" Issue="261346" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="884" Volume="2009" Year="2011">
+<Book Series="Deadpool Team-Up" Number="884" Volume="2010" Year="2011">
 <Database Name="cv" Series="29329" Issue="263881" />
 </Book>
-<Book Series="Deadpool Team-Up" Number="883" Volume="2009" Year="2011">
+<Book Series="Deadpool Team-Up" Number="883" Volume="2010" Year="2011">
 <Database Name="cv" Series="29329" Issue="267133" />
 </Book>
 <Book Series="Skaar: King of the Savage Land" Number="1" Volume="2011" Year="2011">
@@ -1692,16 +1692,16 @@
 <Book Series="Marvel Zombies Supreme" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="39236" Issue="276700" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="1" Volume="2011" Year="2011">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36665" Issue="243906" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="2" Volume="2011" Year="2011">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36665" Issue="247613" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="3" Volume="2011" Year="2011">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36665" Issue="254670" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="4" Volume="2011" Year="2011">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36665" Issue="262484" />
 </Book>
 <Book Series="X-Men Forever 2" Number="13" Volume="2010" Year="2011">
@@ -1743,22 +1743,22 @@
 <Book Series="Captain America and Falcon" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39276" Issue="265178" />
 </Book>
-<Book Series="Captain America" Number="606" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="606" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="218588" />
 </Book>
-<Book Series="Captain America" Number="607" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="607" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="222132" />
 </Book>
-<Book Series="Captain America" Number="608" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="608" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="227787" />
 </Book>
-<Book Series="Captain America" Number="609" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="609" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="231702" />
 </Book>
-<Book Series="Captain America" Number="610" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="610" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="236323" />
 </Book>
-<Book Series="Captain America" Number="611" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="611" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="238923" />
 </Book>
 <Book Series="Captain America Corps" Number="1" Volume="2011" Year="2011">
@@ -2097,16 +2097,16 @@
 <Book Series="Secret Warriors" Number="28" Volume="2009" Year="2011">
 <Database Name="cv" Series="25640" Issue="281842" />
 </Book>
-<Book Series="Captain America" Number="612" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="612" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="246465" />
 </Book>
-<Book Series="Captain America" Number="613" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="613" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="253003" />
 </Book>
-<Book Series="Captain America" Number="614" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="614" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="259190" />
 </Book>
-<Book Series="Captain America" Number="615" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="615" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="263731" />
 </Book>
 <Book Series="Onslaught Unleashed" Number="1" Volume="2011" Year="2011">
@@ -2196,19 +2196,19 @@
 <Book Series="The Punisher" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="41758" Issue="295207" />
 </Book>
-<Book Series="Captain America" Number="615.1" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="615.1" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="266624" />
 </Book>
-<Book Series="Captain America" Number="616" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="616" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="267208" />
 </Book>
-<Book Series="Captain America" Number="617" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="617" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="269012" />
 </Book>
-<Book Series="Captain America" Number="618" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="618" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="271548" />
 </Book>
-<Book Series="Captain America" Number="619" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="619" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="275794" />
 </Book>
 <Book Series="Spider-Man Heroes &amp; Villains Collection" Number="29" Volume="2010" Year="0">
@@ -2466,7 +2466,7 @@
 <Book Series="Fear Itself: Book of the Skull" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39363" Issue="265959" />
 </Book>
-<Book Series="Fear Itself: Sin's Past" Number="1" Volume="2011" Year="2011">
+<Book Series="Fear Itself: Sin&apos;s Past" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39847" Issue="268763" />
 </Book>
 <Book Series="Invincible Iron Man" Number="501" Volume="2008" Year="2011">
@@ -2979,7 +2979,7 @@
 <Book Series="Marvel Adventures Super Heroes" Number="13" Volume="2010" Year="2011">
 <Database Name="cv" Series="32628" Issue="268825" />
 </Book>
-<Book Series="Marvel Super Hero Squad Online Game: Hero Up!" Number="1" Volume="2011" Year="2011">
+<Book Series="Super Hero Squad Online Game: Hero Up!" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="52378" Issue="358690" />
 </Book>
 <Book Series="Journey into Mystery" Number="631" Volume="2011" Year="2012">

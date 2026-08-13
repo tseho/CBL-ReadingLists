@@ -159,7 +159,7 @@
     <Book Series="Cable" Number="5" Volume="2008" Year="2008">
       <Database Name="cv" Series="20805" Issue="132222" />
     </Book>
-    <Book Series="X-Force Special: Ain't No Dog" Number="1" Volume="2008" Year="2008">
+    <Book Series="X-Force Special: Ain&apos;t No Dog" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="21817" Issue="131468" />
     </Book>
     <Book Series="Logan" Number="1" Volume="2008" Year="2008">
@@ -582,13 +582,13 @@
     <Book Series="Cable" Number="12" Volume="2008" Year="2009">
       <Database Name="cv" Series="20805" Issue="153060" />
     </Book>
-    <Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
+    <Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
       <Database Name="cv" Series="25714" Issue="151439" />
     </Book>
-    <Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="2" Volume="2009" Year="2009">
+    <Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="2" Volume="2009" Year="2009">
       <Database Name="cv" Series="25714" Issue="153992" />
     </Book>
-    <Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
+    <Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
       <Database Name="cv" Series="25714" Issue="155782" />
     </Book>
     <Book Series="X-Force" Number="13" Volume="2008" Year="2009">
@@ -630,13 +630,13 @@
     <Book Series="X-Force" Number="20" Volume="2008" Year="2009">
       <Database Name="cv" Series="20511" Issue="179171" />
     </Book>
-    <Book Series="X-Force: Sex &#38; Violence" Number="1" Volume="2010" Year="2010">
+    <Book Series="X-Force: Sex &amp; Violence" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="34411" Issue="224583" />
     </Book>
-    <Book Series="X-Force: Sex &#38; Violence" Number="2" Volume="2010" Year="2010">
+    <Book Series="X-Force: Sex &amp; Violence" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="34411" Issue="228876" />
     </Book>
-    <Book Series="X-Force: Sex &#38; Violence" Number="3" Volume="2010" Year="2010">
+    <Book Series="X-Force: Sex &amp; Violence" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="34411" Issue="233757" />
     </Book>
     <Book Series="Thunderbolts" Number="130" Volume="2006" Year="2009">
@@ -903,7 +903,7 @@
     <Book Series="Wolverine: The Best There Is" Number="9" Volume="2011" Year="2011">
       <Database Name="cv" Series="37097" Issue="288720" />
     </Book>
-    <Book Series="Psylocke" Number="2" Volume="2009" Year="2010">
+    <Book Series="Psylocke" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="29299" Issue="186067" />
     </Book>
     <Book Series="Wolverine: The Best There Is" Number="10" Volume="2011" Year="2011">
@@ -915,13 +915,13 @@
     <Book Series="Wolverine: The Best There Is" Number="12" Volume="2011" Year="2012">
       <Database Name="cv" Series="37097" Issue="306568" />
     </Book>
-    <Book Series="Psylocke" Number="1" Volume="2009" Year="2010">
+    <Book Series="Psylocke" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="29299" Issue="181096" />
     </Book>
-    <Book Series="Psylocke" Number="3" Volume="2009" Year="2010">
+    <Book Series="Psylocke" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="29299" Issue="192324" />
     </Book>
-    <Book Series="Psylocke" Number="4" Volume="2009" Year="2010">
+    <Book Series="Psylocke" Number="4" Volume="2010" Year="2010">
       <Database Name="cv" Series="29299" Issue="197470" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="515" Volume="1981" Year="2009">

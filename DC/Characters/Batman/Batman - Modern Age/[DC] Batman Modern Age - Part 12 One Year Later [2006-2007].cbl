@@ -384,13 +384,13 @@
 <Book Series="Detective Comics" Number="834" Volume="1937" Year="2007">
 <Database Name="cv" Series="18058" Issue="111441" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167758" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167770" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167771" />
 </Book>
 <Book Series="Nightwing" Number="125" Volume="1996" Year="2006">

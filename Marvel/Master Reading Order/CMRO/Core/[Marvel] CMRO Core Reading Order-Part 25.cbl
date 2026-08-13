@@ -93,7 +93,7 @@
 <Book Series="Miles Morales: Spider-Man" Number="41" Volume="2019" Year="2022">
 <Database Name="cv" Series="115897" Issue="943901" />
 </Book>
-<Book Series="Avengers Forever" Number="8" Volume="2021" Year="2022">
+<Book Series="Avengers Forever" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140532" Issue="943840" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
@@ -165,7 +165,7 @@
 <Book Series="Iron Man" Number="23" Volume="2020" Year="2022">
 <Database Name="cv" Series="130396" Issue="946717" />
 </Book>
-<Book Series="Venom" Number="10" Volume="2021" Year="2022">
+<Book Series="Venom" Number="10" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="946723" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="9" Volume="2022" Year="2022">
@@ -192,7 +192,7 @@
 <Book Series="New Mutants" Number="30" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="948113" />
 </Book>
-<Book Series="Avengers Forever" Number="9" Volume="2021" Year="2022">
+<Book Series="Avengers Forever" Number="9" Volume="2022" Year="2022">
 <Database Name="cv" Series="140532" Issue="948103" />
 </Book>
 <Book Series="Carnage" Number="6" Volume="2022" Year="2022">
@@ -267,7 +267,7 @@
 <Book Series="The Amazing Spider-Man" Number="11" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="950467" />
 </Book>
-<Book Series="Venom" Number="11" Volume="2021" Year="2022">
+<Book Series="Venom" Number="11" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="950377" />
 </Book>
 <Book Series="Black Panther" Number="10" Volume="2022" Year="2022">
@@ -327,7 +327,7 @@
 <Book Series="The Amazing Spider-Man" Number="12" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="952301" />
 </Book>
-<Book Series="Venom" Number="12" Volume="2021" Year="2022">
+<Book Series="Venom" Number="12" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="952299" />
 </Book>
 <Book Series="Strange" Number="7" Volume="2022" Year="2022">
@@ -351,7 +351,7 @@
 <Book Series="Hulk" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="140213" Issue="953023" />
 </Book>
-<Book Series="Avengers Forever" Number="10" Volume="2021" Year="2023">
+<Book Series="Avengers Forever" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="140532" Issue="953000" />
 </Book>
 <Book Series="X-Men: Red" Number="8" Volume="2022" Year="2023">
@@ -381,7 +381,7 @@
 <Book Series="The Amazing Spider-Man" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="953972" />
 </Book>
-<Book Series="Venom" Number="13" Volume="2021" Year="2023">
+<Book Series="Venom" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
 <Book Series="Marauders" Number="8" Volume="2022" Year="2023">
@@ -393,7 +393,7 @@
 <Book Series="Spider-Man" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="145364" Issue="954203" />
 </Book>
-<Book Series="Fantastic Four" Number="1" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="953984" />
 </Book>
 <Book Series="Iron Man" Number="25" Volume="2020" Year="2023">
@@ -414,7 +414,7 @@
 <Book Series="Wakanda" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="145505" Issue="955116" />
 </Book>
-<Book Series="Blade: Vampire Nation" Number="1" Volume="2022" Year="2023">
+<Book Series="Blade: Vampire Nation" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146110" Issue="955111" />
 </Book>
 <Book Series="X-Force" Number="34" Volume="2020" Year="2023">
@@ -426,7 +426,7 @@
 <Book Series="The Amazing Spider-Man" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="956770" />
 </Book>
-<Book Series="Avengers Forever" Number="11" Volume="2021" Year="2023">
+<Book Series="Avengers Forever" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="140532" Issue="956786" />
 </Book>
 <Book Series="Daredevil" Number="5" Volume="2022" Year="2023">
@@ -492,13 +492,13 @@
 <Book Series="X-Treme X-Men" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146732" Issue="958992" />
 </Book>
-<Book Series="Dark Web" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146735" Issue="959000" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="1" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="958999" />
 </Book>
-<Book Series="Fantastic Four" Number="2" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="958982" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="15" Volume="2022" Year="2023">
@@ -510,10 +510,10 @@
 <Book Series="Deadpool" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="960024" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="1" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="960022" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
 <Book Series="Wolverine" Number="28" Volume="2020" Year="2023">
@@ -549,7 +549,7 @@
 <Book Series="The Amazing Spider-Man" Number="16" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="961936" />
 </Book>
-<Book Series="Venom" Number="14" Volume="2021" Year="2023">
+<Book Series="Venom" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="961963" />
 </Book>
 <Book Series="She-Hulk" Number="9" Volume="2022" Year="2023">
@@ -579,7 +579,7 @@
 <Book Series="Strange Academy: Finals" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="145695" Issue="961945" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
 </Book>
 <Book Series="Avengers" Number="64" Volume="2018" Year="2023">
@@ -606,10 +606,10 @@
 <Book Series="Secret Invasion" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145768" Issue="962838" />
 </Book>
-<Book Series="Fantastic Four" Number="3" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="962840" />
 </Book>
-<Book Series="Gold Goblin" Number="3" Volume="2022" Year="2023">
+<Book Series="Gold Goblin" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146113" Issue="962847" />
 </Book>
 <Book Series="Scarlet Witch" Number="1" Volume="2023" Year="2023">
@@ -651,16 +651,16 @@
 <Book Series="Daredevil" Number="7" Volume="2022" Year="2023">
 <Database Name="cv" Series="144027" Issue="963989" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="2" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="963980" />
 </Book>
 <Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146986" Issue="963978" />
 </Book>
-<Book Series="Venom" Number="15" Volume="2021" Year="2023">
+<Book Series="Venom" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="964958" />
 </Book>
-<Book Series="Avengers Forever" Number="13" Volume="2021" Year="2023">
+<Book Series="Avengers Forever" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="140532" Issue="964955" />
 </Book>
 <Book Series="Hulk" Number="11" Volume="2022" Year="2023">
@@ -684,13 +684,13 @@
 <Book Series="Deadpool" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="964961" />
 </Book>
-<Book Series="Spider-Man: The Lost Hunt" Number="3" Volume="2022" Year="2023">
+<Book Series="Spider-Man: The Lost Hunt" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145970" Issue="964957" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="964964" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="2" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="964966" />
 </Book>
 <Book Series="Wasp" Number="1" Volume="2023" Year="2023">
@@ -717,7 +717,7 @@
 <Book Series="Moon Knight" Number="20" Volume="2021" Year="2023">
 <Database Name="cv" Series="137698" Issue="967793" />
 </Book>
-<Book Series="Venom" Number="16" Volume="2021" Year="2023">
+<Book Series="Venom" Number="16" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="967791" />
 </Book>
 <Book Series="Legion of X" Number="10" Volume="2022" Year="2023">
@@ -726,7 +726,7 @@
 <Book Series="Captain America: Sentinel of Liberty" Number="9" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="967795" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="3" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="967788" />
 </Book>
 <Book Series="Scarlet Witch" Number="2" Volume="2023" Year="2023">
@@ -747,7 +747,7 @@
 <Book Series="X-Men" Number="19" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="971885" />
 </Book>
-<Book Series="Avengers Forever" Number="14" Volume="2021" Year="2023">
+<Book Series="Avengers Forever" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="140532" Issue="971888" />
 </Book>
 <Book Series="Hulk" Number="12" Volume="2022" Year="2023">
@@ -756,7 +756,7 @@
 <Book Series="Spider-Man" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145364" Issue="971881" />
 </Book>
-<Book Series="Fantastic Four" Number="4" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="971886" />
 </Book>
 <Book Series="Black Panther" Number="14" Volume="2022" Year="2023">
@@ -777,7 +777,7 @@
 <Book Series="X-Treme X-Men" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="146732" Issue="971897" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="3" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="971889" />
 </Book>
 <Book Series="Wasp" Number="2" Volume="2023" Year="2023">
@@ -807,7 +807,7 @@
 <Book Series="X-Force" Number="38" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="974096" />
 </Book>
-<Book Series="Venom" Number="17" Volume="2021" Year="2023">
+<Book Series="Venom" Number="17" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="974097" />
 </Book>
 <Book Series="Ghost Rider" Number="12" Volume="2022" Year="2023">
@@ -834,13 +834,13 @@
 <Book Series="Black Panther" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="975705" />
 </Book>
-<Book Series="Fantastic Four" Number="5" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="975703" />
 </Book>
 <Book Series="Scarlet Witch" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="147226" Issue="975707" />
 </Book>
-<Book Series="Avengers Forever" Number="15" Volume="2021" Year="2023">
+<Book Series="Avengers Forever" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140532" Issue="976902" />
 </Book>
 <Book Series="Wolverine" Number="31" Volume="2020" Year="2023">
@@ -852,7 +852,7 @@
 <Book Series="Captain America: Symbol of Truth" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="142840" Issue="976900" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="4" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="976913" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="22" Volume="2022" Year="2023">
@@ -870,7 +870,7 @@
 <Book Series="X-Treme X-Men" Number="4" Volume="2022" Year="2023">
 <Database Name="cv" Series="146732" Issue="978482" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="4" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="978487" />
 </Book>
 <Book Series="Wasp" Number="3" Volume="2023" Year="2023">
@@ -891,7 +891,7 @@
 <Book Series="Deadpool" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="979419" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="4" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="979424" />
 </Book>
 <Book Series="Wolverine" Number="32" Volume="2020" Year="2023">
@@ -900,7 +900,7 @@
 <Book Series="The Amazing Spider-Man" Number="23" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="981474" />
 </Book>
-<Book Series="Venom" Number="18" Volume="2021" Year="2023">
+<Book Series="Venom" Number="18" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="981386" />
 </Book>
 <Book Series="Ghost Rider" Number="13" Volume="2022" Year="2023">
@@ -927,13 +927,13 @@
 <Book Series="Carnage" Number="12" Volume="2022" Year="2023">
 <Database Name="cv" Series="141919" Issue="982357" />
 </Book>
-<Book Series="Fantastic Four" Number="6" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="982352" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="5" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="982359" />
 </Book>
-<Book Series="Hallows' Eve" Number="2" Volume="2023" Year="2023">
+<Book Series="Hallows&apos; Eve" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148667" Issue="984200" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="1" Volume="2023" Year="2023">
@@ -972,7 +972,7 @@
 <Book Series="Deadpool" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="985710" />
 </Book>
-<Book Series="Monica Rambeau: Photon" Number="5" Volume="2022" Year="2023">
+<Book Series="Monica Rambeau: Photon" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146874" Issue="985707" />
 </Book>
 <Book Series="Wasp" Number="4" Volume="2023" Year="2023">
@@ -1014,7 +1014,7 @@
 <Book Series="X-Men: Red" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="142134" Issue="988124" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="6" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="988150" />
 </Book>
 <Book Series="Silk" Number="1" Volume="2023" Year="2023">
@@ -1026,7 +1026,7 @@
 <Book Series="X-Men" Number="22" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="989671" />
 </Book>
-<Book Series="Venom" Number="19" Volume="2021" Year="2023">
+<Book Series="Venom" Number="19" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="989669" />
 </Book>
 <Book Series="She-Hulk" Number="13" Volume="2022" Year="2023">
@@ -1035,10 +1035,10 @@
 <Book Series="Captain America: Sentinel of Liberty" Number="12" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="989656" />
 </Book>
-<Book Series="Fantastic Four" Number="7" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="989658" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="989662" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="2" Volume="2023" Year="2023">
@@ -1086,7 +1086,7 @@
 <Book Series="X-Men" Number="23" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="993241" />
 </Book>
-<Book Series="Venom" Number="20" Volume="2021" Year="2023">
+<Book Series="Venom" Number="20" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="993240" />
 </Book>
 <Book Series="Captain America: Sentinel of Liberty" Number="13" Volume="2022" Year="2023">
@@ -1101,10 +1101,10 @@
 <Book Series="Spider-Man" Number="9" Volume="2022" Year="2023">
 <Database Name="cv" Series="145364" Issue="993236" />
 </Book>
-<Book Series="Fantastic Four" Number="8" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="993230" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="7" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="993233" />
 </Book>
 <Book Series="Groot" Number="2" Volume="2023" Year="2023">
@@ -1143,10 +1143,10 @@
 <Book Series="X-Force" Number="41" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="996027" />
 </Book>
-<Book Series="Venom" Number="21" Volume="2021" Year="2023">
+<Book Series="Venom" Number="21" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="996034" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="996022" />
 </Book>
 <Book Series="Hellcat" Number="4" Volume="2023" Year="2023">
@@ -1200,7 +1200,7 @@
 <Book Series="X-Men" Number="24" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="999414" />
 </Book>
-<Book Series="Venom" Number="22" Volume="2021" Year="2023">
+<Book Series="Venom" Number="22" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="998585" />
 </Book>
 <Book Series="Daredevil" Number="13" Volume="2022" Year="2023">
@@ -1209,7 +1209,7 @@
 <Book Series="Spider-Man" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="145364" Issue="998584" />
 </Book>
-<Book Series="Fantastic Four" Number="9" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="998586" />
 </Book>
 <Book Series="X-23: Deadly Regenesis" Number="5" Volume="2023" Year="2023">
@@ -1236,7 +1236,7 @@
 <Book Series="Immortal X-Men" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="142053" Issue="1000231" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="8" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1000233" />
 </Book>
 <Book Series="Scarlet Witch" Number="6" Volume="2023" Year="2023">
@@ -1263,7 +1263,7 @@
 <Book Series="The Amazing Spider-Man" Number="30" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="1003569" />
 </Book>
-<Book Series="Venom" Number="23" Volume="2021" Year="2023">
+<Book Series="Venom" Number="23" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1003591" />
 </Book>
 <Book Series="Ghost Rider" Number="16" Volume="2022" Year="2023">
@@ -1275,7 +1275,7 @@
 <Book Series="Deadpool" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="1003576" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="8" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1003582" />
 </Book>
 <Book Series="Hellcat" Number="5" Volume="2023" Year="2023">
@@ -1299,7 +1299,7 @@
 <Book Series="X-Men" Number="25" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="1004347" />
 </Book>
-<Book Series="Fantastic Four" Number="10" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="1004328" />
 </Book>
 <Book Series="Scarlet Witch" Number="7" Volume="2023" Year="2023">
@@ -1320,7 +1320,7 @@
 <Book Series="Immortal X-Men" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="142053" Issue="1006441" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="9" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1006437" />
 </Book>
 <Book Series="Red Goblin" Number="7" Volume="2023" Year="2023">
@@ -1377,13 +1377,13 @@
 <Book Series="The Amazing Spider-Man" Number="32" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="1010043" />
 </Book>
-<Book Series="Venom" Number="24" Volume="2021" Year="2023">
+<Book Series="Venom" Number="24" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1010056" />
 </Book>
 <Book Series="Deadpool" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="1010046" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="9" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1010048" />
 </Book>
 <Book Series="Storm" Number="4" Volume="2023" Year="2023">
@@ -1428,7 +1428,7 @@
 <Book Series="Immortal X-Men" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="142053" Issue="1011780" />
 </Book>
-<Book Series="Fantastic Four" Number="11" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="11" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="1011779" />
 </Book>
 <Book Series="Scarlet Witch" Number="8" Volume="2023" Year="2023">
@@ -1449,7 +1449,7 @@
 <Book Series="X-Force" Number="44" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="1013503" />
 </Book>
-<Book Series="Venom" Number="25" Volume="2021" Year="2023">
+<Book Series="Venom" Number="25" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1013500" />
 </Book>
 <Book Series="Ghost Rider" Number="18" Volume="2022" Year="2023">
@@ -1458,7 +1458,7 @@
 <Book Series="X-Men: Red" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="142134" Issue="1013504" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="10" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1013496" />
 </Book>
 <Book Series="Red Goblin" Number="8" Volume="2023" Year="2023">
@@ -1509,7 +1509,7 @@
 <Book Series="Captain America" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153610" Issue="1014922" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="10" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1018021" />
 </Book>
 <Book Series="Avengers" Number="5" Volume="2023" Year="2023">
@@ -1548,7 +1548,7 @@
 <Book Series="Immortal X-Men" Number="16" Volume="2022" Year="2023">
 <Database Name="cv" Series="142053" Issue="1020537" />
 </Book>
-<Book Series="Fantastic Four" Number="12" Volume="2022" Year="2023">
+<Book Series="Fantastic Four" Number="12" Volume="2023" Year="2023">
 <Database Name="cv" Series="145912" Issue="1020534" />
 </Book>
 <Book Series="Red Goblin" Number="9" Volume="2023" Year="2023">
@@ -1569,7 +1569,7 @@
 <Book Series="The Amazing Spider-Man" Number="35" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="1024040" />
 </Book>
-<Book Series="Venom" Number="26" Volume="2021" Year="2023">
+<Book Series="Venom" Number="26" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1024059" />
 </Book>
 <Book Series="X-Men: Red" Number="16" Volume="2022" Year="2023">
@@ -1593,10 +1593,10 @@
 <Book Series="Ghost Rider" Number="19" Volume="2022" Year="2023">
 <Database Name="cv" Series="141707" Issue="1025155" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="11" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="11" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1025158" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="11" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="11" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="1025159" />
 </Book>
 <Book Series="Scarlet Witch" Number="9" Volume="2023" Year="2023">
@@ -1653,7 +1653,7 @@
 <Book Series="X-Men" Number="28" Volume="2021" Year="2024">
 <Database Name="cv" Series="137402" Issue="1027605" />
 </Book>
-<Book Series="Venom" Number="27" Volume="2021" Year="2024">
+<Book Series="Venom" Number="27" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1027603" />
 </Book>
 <Book Series="Scarlet Witch" Number="10" Volume="2023" Year="2024">
@@ -1695,7 +1695,7 @@
 <Book Series="Ghost Rider" Number="20" Volume="2022" Year="2024">
 <Database Name="cv" Series="141707" Issue="1029684" />
 </Book>
-<Book Series="Fantastic Four" Number="13" Volume="2022" Year="2024">
+<Book Series="Fantastic Four" Number="13" Volume="2023" Year="2024">
 <Database Name="cv" Series="145912" Issue="1029683" />
 </Book>
 <Book Series="Red Goblin" Number="10" Volume="2023" Year="2024">
@@ -1740,7 +1740,7 @@
 <Book Series="Immortal X-Men" Number="17" Volume="2022" Year="2024">
 <Database Name="cv" Series="142053" Issue="1030784" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="12" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="12" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1030786" />
 </Book>
 <Book Series="Incredible Hulk" Number="6" Volume="2023" Year="2024">
@@ -1761,7 +1761,7 @@
 <Book Series="Moon Knight" Number="29" Volume="2021" Year="2024">
 <Database Name="cv" Series="137698" Issue="1032178" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1031694" />
 </Book>
 <Book Series="Realm of X" Number="4" Volume="2023" Year="2024">
@@ -1788,13 +1788,13 @@
 <Book Series="X-Men" Number="29" Volume="2021" Year="2024">
 <Database Name="cv" Series="137402" Issue="1033214" />
 </Book>
-<Book Series="Venom" Number="28" Volume="2021" Year="2024">
+<Book Series="Venom" Number="28" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1033213" />
 </Book>
-<Book Series="Fantastic Four" Number="14" Volume="2022" Year="2024">
+<Book Series="Fantastic Four" Number="14" Volume="2023" Year="2024">
 <Database Name="cv" Series="145912" Issue="1033203" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="13" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="13" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1033204" />
 </Book>
 <Book Series="Avengers" Number="8" Volume="2023" Year="2024">

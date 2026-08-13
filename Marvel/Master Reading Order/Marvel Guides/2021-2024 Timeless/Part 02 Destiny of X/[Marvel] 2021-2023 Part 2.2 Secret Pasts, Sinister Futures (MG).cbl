@@ -10,19 +10,19 @@
         <Book Series="Sabretooth" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="141524" Issue="934984" />
         </Book>
-        <Book Series="Sabretooth and the Exiles" Number="1" Volume="2022" Year="2023">
+        <Book Series="Sabretooth and the Exiles" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="145971" Issue="954280" />
         </Book>
-        <Book Series="Sabretooth and the Exiles" Number="2" Volume="2022" Year="2023">
+        <Book Series="Sabretooth and the Exiles" Number="2" Volume="2023" Year="2023">
             <Database Name="cv" Series="145971" Issue="960981" />
         </Book>
-        <Book Series="Sabretooth and the Exiles" Number="3" Volume="2022" Year="2023">
+        <Book Series="Sabretooth and the Exiles" Number="3" Volume="2023" Year="2023">
             <Database Name="cv" Series="145971" Issue="966425" />
         </Book>
-        <Book Series="Sabretooth and the Exiles" Number="4" Volume="2022" Year="2023">
+        <Book Series="Sabretooth and the Exiles" Number="4" Volume="2023" Year="2023">
             <Database Name="cv" Series="145971" Issue="973028" />
         </Book>
-        <Book Series="Sabretooth and the Exiles" Number="5" Volume="2022" Year="2023">
+        <Book Series="Sabretooth and the Exiles" Number="5" Volume="2023" Year="2023">
             <Database Name="cv" Series="145971" Issue="979429" />
         </Book>
         <Book Series="X-Force" Number="27" Volume="2020" Year="2022">
@@ -67,16 +67,16 @@
         <Book Series="X-Men" Number="9" Volume="2021" Year="2022">
             <Database Name="cv" Series="137402" Issue="909674" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="1" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940785" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="2" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940787" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="3" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940789" />
         </Book>
-        <Book Series="Marvel's Voices Infinity Comic" Number="4" Volume="2022" Year="2022">
+        <Book Series="Marvel&apos;s Voices Infinity Comic" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="144359" Issue="940790" />
         </Book>
         <Book Series="Immortal X-Men" Number="1" Volume="2022" Year="2022">

@@ -276,7 +276,7 @@
 <Book Series="Adventures of Superman" Number="551" Volume="1987" Year="1997">
 <Database Name="cv" Series="3778" Issue="70936" />
 </Book>
-<Book Series="Jack Kirby's Fourth World" Number="8" Volume="1997" Year="1997">
+<Book Series="Jack Kirby&apos;s Fourth World" Number="8" Volume="1997" Year="1997">
 <Database Name="cv" Series="22114" Issue="153747" />
 </Book>
 <Book Series="Genesis" Number="3" Volume="1997" Year="1997">
@@ -300,7 +300,7 @@
 <Book Series="The Spectre" Number="58" Volume="1992" Year="1997">
 <Database Name="cv" Series="4754" Issue="44174" />
 </Book>
-<Book Series="Superboy &#38; The Ravers" Number="14" Volume="1996" Year="1997">
+<Book Series="Superboy &amp; The Ravers" Number="14" Volume="1996" Year="1997">
 <Database Name="cv" Series="9301" Issue="124220" />
 </Book>
 <Book Series="Teen Titans" Number="13" Volume="1996" Year="1997">
@@ -1275,7 +1275,7 @@
 <Book Series="Detective Comics" Number="729" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113203" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131936" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="83" Volume="1992" Year="1999">
@@ -1344,7 +1344,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="55" Volume="1998" Year="1999">
 <Database Name="cv" Series="19721" Issue="123248" />
 </Book>
-<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Young Justice in No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873" />
 </Book>
 <Book Series="The Batman Chronicles" Number="17" Volume="1995" Year="1999">
@@ -1497,7 +1497,7 @@
 <Book Series="Robin" Number="73" Volume="1993" Year="2000">
 <Database Name="cv" Series="4975" Issue="46269" />
 </Book>
-<Book Series="Batman: No Man's Land Secret Files" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="33363" Issue="238533" />
 </Book>
 <Book Series="Azrael: Agent of the Bat" Number="59" Volume="1998" Year="1999">
@@ -1509,7 +1509,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="60" Volume="1998" Year="2000">
 <Database Name="cv" Series="19721" Issue="123294" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="0" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131872" />
 </Book>
 <Book Series="Batman" Number="573" Volume="1940" Year="2000">
@@ -1617,7 +1617,7 @@
 <Book Series="Day of Judgment" Number="5" Volume="1999" Year="1999">
 <Database Name="cv" Series="6604" Issue="47233" />
 </Book>
-<Book Series="Day of Judgment: Secret Files and Origins" Number="1" Volume="1999" Year="1999">
+<Book Series="Day of Judgment Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="19899" Issue="119121" />
 </Book>
 <Book Series="Superman: The Man of Tomorrow" Number="15" Volume="1995" Year="1999">
@@ -1725,7 +1725,7 @@
 <Book Series="All Star Comics" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="6596" Issue="47207" />
 </Book>
-<Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
+<Book Series="JLA/JSA Secret Files &amp; Origins" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28479" Issue="175485" />
 </Book>
 <Book Series="JSA" Number="1" Volume="1999" Year="1999">
@@ -2442,7 +2442,7 @@
 <Book Series="JLA" Number="42" Volume="1997" Year="2000">
 <Database Name="cv" Series="5957" Issue="109449" />
 </Book>
-<Book Series="JLA: Heaven's Ladder" Number="1" Volume="2000" Year="2000">
+<Book Series="JLA: Heaven&apos;s Ladder" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="27724" Issue="169587" />
 </Book>
 <Book Series="JLA" Number="43" Volume="1997" Year="2000">
@@ -2580,10 +2580,10 @@
 <Book Series="Deadman: Dead Again" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="9398" Issue="76365" />
 </Book>
-<Book Series="Superboy's Legion" Number="1" Volume="2001" Year="2001">
+<Book Series="Superboy&apos;s Legion" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21245" Issue="127755" />
 </Book>
-<Book Series="Superboy's Legion" Number="2" Volume="2001" Year="2001">
+<Book Series="Superboy&apos;s Legion" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="21245" Issue="127881" />
 </Book>
 <Book Series="Superboy" Number="85" Volume="1994" Year="2001">
@@ -3009,7 +3009,7 @@
 <Book Series="Batman" Number="594" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="83262" />
 </Book>
-<Book Series="World's Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+<Book Series="World&apos;s Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="26553" Issue="158812" />
 </Book>
 <Book Series="Superman/Batman" Number="68" Volume="2003" Year="2010">

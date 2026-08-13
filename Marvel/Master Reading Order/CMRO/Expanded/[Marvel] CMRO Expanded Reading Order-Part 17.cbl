@@ -624,7 +624,7 @@
 <Book Series="Death Wreck" Number="4" Volume="1994" Year="1994">
 <Database Name="cv" Series="20528" Issue="123039" />
 </Book>
-<Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1993" Year="1994">
+<Book Series="Incredible Hulk vs. Venom" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="18771" Issue="110894" />
 </Book>
 <Book Series="Nova" Number="2" Volume="1994" Year="1994">
@@ -708,19 +708,19 @@
 <Book Series="What If...?" Number="59" Volume="1989" Year="1994">
 <Database Name="cv" Series="4249" Issue="38810" />
 </Book>
-<Book Series="The Punisher 2099" Number="15" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="15" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108444" />
 </Book>
-<Book Series="The Punisher 2099" Number="16" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="16" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108445" />
 </Book>
-<Book Series="The Punisher 2099" Number="17" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="17" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108446" />
 </Book>
-<Book Series="The Punisher 2099" Number="18" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="18" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108447" />
 </Book>
-<Book Series="The Punisher 2099" Number="19" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="19" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108448" />
 </Book>
 <Book Series="Marvel Mart" Number="1" Volume="1994" Year="1994">
@@ -885,7 +885,7 @@
 <Book Series="Wonder Man" Number="27" Volume="1991" Year="1993">
 <Database Name="cv" Series="4603" Issue="136869" />
 </Book>
-<Book Series="Punisher Invades the 'Nam" Number="1" Volume="1994" Year="1994">
+<Book Series="Punisher Invades the &apos;Nam" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="25896" Issue="153044" />
 </Book>
 <Book Series="Sludge" Number="4" Volume="1993" Year="1994">
@@ -996,7 +996,7 @@
 <Book Series="Captain America" Number="425" Volume="1968" Year="1994">
 <Database Name="cv" Series="2400" Issue="38788" />
 </Book>
-<Book Series="Death's Head II" Number="16" Volume="1992" Year="1994">
+<Book Series="Death&apos;s Head II" Number="16" Volume="1992" Year="1994">
 <Database Name="cv" Series="18465" Issue="122649" />
 </Book>
 <Book Series="Silver Surfer Annual" Number="7" Volume="1988" Year="1994">
@@ -1551,7 +1551,7 @@
 <Book Series="X-Men Adventures" Number="5" Volume="1994" Year="1994">
 <Database Name="cv" Series="6684" Issue="47674" />
 </Book>
-<Book Series="Overstreet's Comic Book Monthly" Number="14" Volume="1993" Year="1994">
+<Book Series="Overstreet&apos;s Comic Book Monthly" Number="14" Volume="1993" Year="1994">
 <Database Name="cv" Series="60981" Issue="401428" />
 </Book>
 <Book Series="Ultraverse Premiere" Number="1" Volume="1993" Year="1994">
@@ -2121,10 +2121,10 @@
 <Book Series="The Mighty Thor" Number="479" Volume="1989" Year="1994">
 <Database Name="cv" Series="61213" Issue="39801" />
 </Book>
-<Book Series="The Punisher 2099" Number="20" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="20" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108449" />
 </Book>
-<Book Series="The Punisher 2099" Number="21" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="21" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="108431" />
 </Book>
 <Book Series="Conan the Adventurer" Number="3" Volume="1994" Year="1994">
@@ -2925,13 +2925,13 @@
 <Book Series="Night Thrasher" Number="18" Volume="1993" Year="1995">
 <Database Name="cv" Series="5034" Issue="124918" />
 </Book>
-<Book Series="The Punisher 2099" Number="22" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="22" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="131258" />
 </Book>
-<Book Series="The Punisher 2099" Number="23" Volume="1993" Year="1994">
+<Book Series="Punisher 2099" Number="23" Volume="1993" Year="1994">
 <Database Name="cv" Series="18467" Issue="131259" />
 </Book>
-<Book Series="The Punisher 2099" Number="24" Volume="1993" Year="1995">
+<Book Series="Punisher 2099" Number="24" Volume="1993" Year="1995">
 <Database Name="cv" Series="18467" Issue="131260" />
 </Book>
 <Book Series="Savage Dragon" Number="24" Volume="1993" Year="1995">

@@ -55,16 +55,16 @@
         <Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2015" Year="2015">
             <Database Name="cv" Series="82337" Issue="499739" />
         </Book>
-        <Book Series="Captain Marvel &#38; The Carol Corps" Number="1" Volume="2015" Year="2015">
+        <Book Series="Captain Marvel &amp; The Carol Corps" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="82486" Issue="491511" />
         </Book>
-        <Book Series="Captain Marvel &#38; The Carol Corps" Number="2" Volume="2015" Year="2015">
+        <Book Series="Captain Marvel &amp; The Carol Corps" Number="2" Volume="2015" Year="2015">
             <Database Name="cv" Series="82486" Issue="495267" />
         </Book>
-        <Book Series="Captain Marvel &#38; The Carol Corps" Number="3" Volume="2015" Year="2015">
+        <Book Series="Captain Marvel &amp; The Carol Corps" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="82486" Issue="498383" />
         </Book>
-        <Book Series="Captain Marvel &#38; The Carol Corps" Number="4" Volume="2015" Year="2015">
+        <Book Series="Captain Marvel &amp; The Carol Corps" Number="4" Volume="2015" Year="2015">
             <Database Name="cv" Series="82486" Issue="501017" />
         </Book>
         <Book Series="Future Imperfect" Number="1" Volume="2015" Year="2015">

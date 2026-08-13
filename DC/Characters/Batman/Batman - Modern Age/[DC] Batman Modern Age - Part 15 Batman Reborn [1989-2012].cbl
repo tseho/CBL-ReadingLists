@@ -147,13 +147,13 @@
 <Book Series="Gotham City Sirens" Number="7" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="189485" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="153683" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="155917" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="157147" />
 </Book>
 <Book Series="Batman Annual" Number="27" Volume="1961" Year="2009">
@@ -261,7 +261,7 @@
 <Book Series="Detective Comics" Number="865" Volume="1937" Year="2010">
 <Database Name="cv" Series="18058" Issue="216196" />
 </Book>
-<Book Series="DCU Halloween Special '09" Number="1" Volume="2009" Year="2009">
+<Book Series="DCU Halloween Special &apos;09" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28830" Issue="177713" />
 </Book>
 <Book Series="Batman" Number="692" Volume="1940" Year="2009">
@@ -330,7 +330,7 @@
 <Book Series="Gotham City Sirens" Number="13" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="221895" />
 </Book>
-<Book Series="DC Holiday Special '09" Number="1" Volume="2010" Year="2010">
+<Book Series="DC Holiday Special &apos;09" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30387" Issue="187207" />
 </Book>
 <Book Series="Detective Comics" Number="867" Volume="1937" Year="2010">
@@ -447,7 +447,7 @@
 <Book Series="Bruce Wayne: The Road Home: Oracle" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36338" Issue="239802" />
 </Book>
-<Book Series="Bruce Wayne: The Road Home: Ra's al Ghul" Number="1" Volume="2010" Year="2010">
+<Book Series="Bruce Wayne: The Road Home: Ra&apos;s al Ghul" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36351" Issue="239843" />
 </Book>
 <Book Series="Batman and Robin" Number="13" Volume="2009" Year="2010">

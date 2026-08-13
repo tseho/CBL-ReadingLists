@@ -18,31 +18,31 @@
 <Book Series="Green Lantern: WillWorld" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="34210" Issue="223098" />
 </Book>
-<Book Series="Green Lantern: Evil's Might" Number="1" Volume="2002" Year="2002">
+<Book Series="Green Lantern: Evil&apos;s Might" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="18665" Issue="110254" />
 </Book>
-<Book Series="Green Lantern: Evil's Might" Number="2" Volume="2002" Year="2002">
+<Book Series="Green Lantern: Evil&apos;s Might" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="18665" Issue="168480" />
 </Book>
-<Book Series="Green Lantern: Evil's Might" Number="3" Volume="2002" Year="2002">
+<Book Series="Green Lantern: Evil&apos;s Might" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="18665" Issue="168481" />
 </Book>
-<Book Series="Flash &#38; Green Lantern: The Brave and the Bold" Number="1" Volume="1999" Year="1999">
+<Book Series="Flash &amp; Green Lantern: The Brave and the Bold" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="6801" Issue="48644" />
 </Book>
-<Book Series="Flash &#38; Green Lantern: The Brave and the Bold" Number="2" Volume="1999" Year="1999">
+<Book Series="Flash &amp; Green Lantern: The Brave and the Bold" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="6801" Issue="48645" />
 </Book>
-<Book Series="Flash &#38; Green Lantern: The Brave and the Bold" Number="3" Volume="1999" Year="1999">
+<Book Series="Flash &amp; Green Lantern: The Brave and the Bold" Number="3" Volume="1999" Year="1999">
 <Database Name="cv" Series="6801" Issue="48646" />
 </Book>
-<Book Series="Flash &#38; Green Lantern: The Brave and the Bold" Number="4" Volume="1999" Year="2000">
+<Book Series="Flash &amp; Green Lantern: The Brave and the Bold" Number="4" Volume="1999" Year="2000">
 <Database Name="cv" Series="6801" Issue="48647" />
 </Book>
-<Book Series="Flash &#38; Green Lantern: The Brave and the Bold" Number="5" Volume="1999" Year="2000">
+<Book Series="Flash &amp; Green Lantern: The Brave and the Bold" Number="5" Volume="1999" Year="2000">
 <Database Name="cv" Series="6801" Issue="48648" />
 </Book>
-<Book Series="Flash &#38; Green Lantern: The Brave and the Bold" Number="6" Volume="1999" Year="2000">
+<Book Series="Flash &amp; Green Lantern: The Brave and the Bold" Number="6" Volume="1999" Year="2000">
 <Database Name="cv" Series="6801" Issue="48649" />
 </Book>
 <Book Series="Tangent Comics/ Green Lantern" Number="1" Volume="1997" Year="1997">
@@ -111,13 +111,13 @@
 <Book Series="Green Lantern Movie Prequel: Hal Jordan" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41052" Issue="276857" />
 </Book>
-<Book Series="DC Retroactive: Green Lantern - The '70s" Number="1" Volume="2011" Year="2011">
+<Book Series="DC Retroactive: Green Lantern - The &apos;70s" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41572" Issue="281918" />
 </Book>
-<Book Series="DC Retroactive: Green Lantern - The '80s" Number="1" Volume="2011" Year="2011">
+<Book Series="DC Retroactive: Green Lantern - The &apos;80s" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41956" Issue="285502" />
 </Book>
-<Book Series="DC Retroactive: Green Lantern - The '90s" Number="1" Volume="2011" Year="2011">
+<Book Series="DC Retroactive: Green Lantern - The &apos;90s" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42311" Issue="288761" />
 </Book>
 <Book Series="Planet of the Apes/Green Lantern" Number="1" Volume="2017" Year="2017">

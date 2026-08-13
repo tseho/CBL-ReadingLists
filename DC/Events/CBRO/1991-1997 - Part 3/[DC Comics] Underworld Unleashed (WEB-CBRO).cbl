@@ -96,13 +96,13 @@
 <Book Series="Superman: The Man of Tomorrow" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5523" Issue="41793" />
 </Book>
-<Book Series="Underworld Unleashed: Abyss - Hell's Sentinel" Number="1" Volume="1995" Year="1995">
+<Book Series="Underworld Unleashed: Abyss - Hell&apos;s Sentinel" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22671" Issue="135963" />
 </Book>
 <Book Series="Batman" Number="525" Volume="1940" Year="1995">
 <Database Name="cv" Series="796" Issue="41725" />
 </Book>
-<Book Series="Underworld Unleashed: Batman - Devil's Asylum" Number="1" Volume="1995" Year="1995">
+<Book Series="Underworld Unleashed: Batman - Devil&apos;s Asylum" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22656" Issue="135921" />
 </Book>
 <Book Series="Catwoman" Number="27" Volume="1993" Year="1995">
@@ -162,7 +162,7 @@
 <Book Series="Fate" Number="14" Volume="1994" Year="1995">
 <Database Name="cv" Series="5243" Issue="152134" />
 </Book>
-<Book Series="Showcase '95" Number="12" Volume="1995" Year="1995">
+<Book Series="Showcase &apos;95" Number="12" Volume="1995" Year="1995">
 <Database Name="cv" Series="22878" Issue="137440" />
 </Book>
 <Book Series="Superboy" Number="22" Volume="1994" Year="1995">

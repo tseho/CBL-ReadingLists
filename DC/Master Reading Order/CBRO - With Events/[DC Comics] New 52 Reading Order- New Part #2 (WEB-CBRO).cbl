@@ -657,10 +657,10 @@
 <Book Series="Batman and Robin" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42692" Issue="349622" />
 </Book>
-<Book Series="Worlds' Finest" Number="6" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="6" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="365739" />
 </Book>
-<Book Series="Worlds' Finest" Number="7" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="7" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="371273" />
 </Book>
 <Book Series="Wonder Woman" Number="13" Volume="2011" Year="2012">
@@ -732,10 +732,10 @@
 <Book Series="Red Hood and the Outlaws" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="42919" Issue="362158" />
 </Book>
-<Book Series="Worlds' Finest" Number="8" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="8" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="378857" />
 </Book>
-<Book Series="Worlds' Finest" Number="9" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="9" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="384929" />
 </Book>
 <Book Series="The Savage Hawkman" Number="17" Volume="2011" Year="2013">
@@ -1287,7 +1287,7 @@
 <Book Series="Superboy" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42685" Issue="392315" />
 </Book>
-<Book Series="Young Romance: The New 52 Valentine's Day Special" Number="1" Volume="2013" Year="2013">
+<Book Series="Young Romance: The New 52 Valentine&apos;s Day Special" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="56853" Issue="384921" />
 </Book>
 <Book Series="Superboy" Number="19" Volume="2011" Year="2013">
@@ -1452,7 +1452,7 @@
 <Book Series="Teen Titans" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="43004" Issue="395307" />
 </Book>
-<Book Series="Worlds' Finest" Number="10" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="10" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="390405" />
 </Book>
 <Book Series="Red Lanterns" Number="25" Volume="2011" Year="2014">
@@ -1788,13 +1788,13 @@
 <Book Series="Batman Annual" Number="2" Volume="2012" Year="2013">
 <Database Name="cv" Series="49197" Issue="419953" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="1" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="387207" />
 </Book>
 <Book Series="Justice League of America" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="57485" Issue="387206" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="2" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="394653" />
 </Book>
 <Book Series="Katana" Number="2" Volume="2013" Year="2013">
@@ -1893,13 +1893,13 @@
 <Book Series="Batgirl" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="42604" Issue="416905" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="3" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="397496" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="4" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="402243" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="5" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="411789" />
 </Book>
 <Book Series="The Savage Hawkman" Number="19" Volume="2011" Year="2013">
@@ -1971,10 +1971,10 @@
 <Book Series="Catwoman" Number="21" Volume="2011" Year="2013">
 <Database Name="cv" Series="42722" Issue="413626" />
 </Book>
-<Book Series="Worlds' Finest" Number="11" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="11" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="395682" />
 </Book>
-<Book Series="Worlds' Finest" Number="12" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="400121" />
 </Book>
 <Book Series="Batman and Robin" Number="22" Volume="2011" Year="2013">
@@ -1998,13 +1998,13 @@
 <Book Series="The Movement" Number="12" Volume="2013" Year="2014">
 <Database Name="cv" Series="60517" Issue="452265" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="6" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="417795" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="7" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="422441" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="8" Volume="2013" Year="2013">
+<Book Series="Justice League of America&apos;s Vibe" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="57486" Issue="428963" />
 </Book>
 <Book Series="Green Lantern: New Guardians Annual" Number="2" Volume="2013" Year="2014">
@@ -2025,7 +2025,7 @@
 <Book Series="Batwoman" Number="21" Volume="2011" Year="2013">
 <Database Name="cv" Series="36950" Issue="411786" />
 </Book>
-<Book Series="Worlds' Finest" Number="13" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="13" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="410279" />
 </Book>
 <Book Series="Justice League Dark" Number="23.1" Volume="2011" Year="2013">
@@ -2184,7 +2184,7 @@
 <Book Series="Justice League Dark" Number="23.2" Volume="2011" Year="2013">
 <Database Name="cv" Series="42996" Issue="425900" />
 </Book>
-<Book Series="Batman: Joker's Daughter" Number="1" Volume="2014" Year="2014">
+<Book Series="Batman: Joker&apos;s Daughter" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="71429" Issue="444480" />
 </Book>
 </Books>

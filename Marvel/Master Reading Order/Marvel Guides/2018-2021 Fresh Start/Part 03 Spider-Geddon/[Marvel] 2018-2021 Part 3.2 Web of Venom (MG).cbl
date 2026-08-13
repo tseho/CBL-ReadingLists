@@ -37,7 +37,7 @@
         <Book Series="Venom" Number="6" Volume="2018" Year="2018">
             <Database Name="cv" Series="110770" Issue="685865" />
         </Book>
-        <Book Series="Web of Venom: Ve'Nam" Number="1" Volume="2018" Year="2018">
+        <Book Series="Web of Venom: Ve&apos;Nam" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="113095" Issue="682668" />
         </Book>
         <Book Series="Venom" Number="7" Volume="2018" Year="2018">
@@ -46,7 +46,7 @@
         <Book Series="Venom" Number="8" Volume="2018" Year="2019">
             <Database Name="cv" Series="110770" Issue="692091" />
         </Book>
-        <Book Series="Web of Venom: Carnage Born" Number="1" Volume="2018" Year="2019">
+        <Book Series="Web of Venom: Carnage Born" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115418" Issue="692566" />
         </Book>
         <Book Series="Venom Annual" Number="1" Volume="2018" Year="2018">

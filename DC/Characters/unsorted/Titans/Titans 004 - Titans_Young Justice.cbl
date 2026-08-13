@@ -174,7 +174,7 @@
     <Book Series="Sins of Youth: Aquaboy/Lagoon Man" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="33948" Issue="232774" />
     </Book>
-    <Book Series="Sins of Youth:  Batboy and Robin" Number="1" Volume="2000" Year="2000">
+    <Book Series="Sins of Youth: Batboy and Robin" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="33947" Issue="222438" />
     </Book>
     <Book Series="Sins of Youth: Kid Flash/Impulse" Number="1" Volume="2000" Year="2000">

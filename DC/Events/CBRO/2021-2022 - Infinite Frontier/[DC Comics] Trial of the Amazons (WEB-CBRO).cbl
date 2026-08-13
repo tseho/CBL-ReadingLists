@@ -6,7 +6,7 @@
 <Book Series="Trial of the Amazons" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141823" Issue="910556" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="6" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="910257" />
 </Book>
 <Book Series="Wonder Woman" Number="785" Volume="2016" Year="2022">

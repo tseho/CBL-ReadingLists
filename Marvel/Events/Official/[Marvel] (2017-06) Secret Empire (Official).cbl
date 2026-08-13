@@ -102,10 +102,10 @@
         <Book Series="Champions" Number="11" Volume="2016" Year="2017">
             <Database Name="cv" Series="94612" Issue="612035" />
         </Book>
-        <Book Series="Occupy Avengers" Number="8" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="605124" />
         </Book>
-        <Book Series="Occupy Avengers" Number="9" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="610532" />
         </Book>
         <Book Series="Uncanny Avengers" Number="24" Volume="2015" Year="2017">
@@ -138,25 +138,25 @@
         <!-- 
             Hydra's Avengers
         -->
-        <Book Series="Avengers" Number="9" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="606617" />
         </Book>
-        <Book Series="Avengers" Number="10" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="10" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="612031" />
         </Book>
-        <Book Series="Deadpool" Number="31" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="31" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="598369" />
         </Book>
-        <Book Series="Deadpool" Number="32" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="32" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="601791" />
         </Book>
-        <Book Series="Deadpool" Number="33" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="33" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="608241" />
         </Book>
-        <Book Series="Deadpool" Number="34" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="34" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="610522" />
         </Book>
-        <Book Series="Deadpool" Number="35" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="35" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="617837" />
         </Book>
         <!-- 
@@ -186,19 +186,19 @@
         <Book Series="All-New Guardians of the Galaxy Annual" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="102442" Issue="605104" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="5" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="597196" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="6" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="605121" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="7" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="610529" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="8" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="617847" />
         </Book>
-        <Book Series="Ultimates 2" Number="7" Volume="2016" Year="2017">
+        <Book Series="Ultimates 2" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="95843" Issue="595706" />
         </Book>
         <!-- 
@@ -243,13 +243,13 @@
         <Book Series="Secret Empire Omega" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="104322" Issue="621676" />
         </Book>
-        <Book Series="Avengers" Number="11" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="11" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="622934" />
         </Book>
         <Book Series="Champions" Number="12" Volume="2016" Year="2017">
             <Database Name="cv" Series="94612" Issue="619618" />
         </Book>
-        <Book Series="Deadpool" Number="36" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="36" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="621660" />
         </Book>
         <Book Series="Secret Warriors" Number="6" Volume="2017" Year="2017">

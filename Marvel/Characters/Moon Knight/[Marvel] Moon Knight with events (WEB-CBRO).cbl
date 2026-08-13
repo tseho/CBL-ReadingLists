@@ -528,7 +528,7 @@
 <Book Series="Moon Knight" Number="7" Volume="2021" Year="2022">
 <Database Name="cv" Series="137698" Issue="903914" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="1" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="897325" />
 </Book>
 <Book Series="Devil&apos;s Reign: Moon Knight" Number="1" Volume="2022" Year="2022">
@@ -537,10 +537,10 @@
 <Book Series="Moon Knight" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="137698" Issue="906633" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="4" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="906630" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="6" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="914649" />
 </Book>
 <Book Series="Moon Knight: Black, White &amp; Blood" Number="1" Volume="2022" Year="2022">

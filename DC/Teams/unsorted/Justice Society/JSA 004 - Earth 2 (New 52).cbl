@@ -3,13 +3,13 @@
   <Name>JSA 004 - Earth 2 (New 52)</Name>
   <NumIssues>125</NumIssues>
   <Books>
-    <Book Series="Worlds' Finest" Number="0" Volume="2012" Year="2012">
+    <Book Series="Worlds&apos; Finest" Number="0" Volume="2012" Year="2012">
       <Database Name="cv" Series="48417" Issue="355793" />
     </Book>
     <Book Series="Earth 2" Number="0" Volume="2012" Year="2012">
       <Database Name="cv" Series="48505" Issue="355788" />
     </Book>
-    <Book Series="Worlds' Finest Annual" Number="1" Volume="2014" Year="2014">
+    <Book Series="Worlds&apos; Finest Annual" Number="1" Volume="2014" Year="2014">
       <Database Name="cv" Series="71304" Issue="443955" />
     </Book>
     <Book Series="Huntress" Number="1" Volume="2011" Year="2011">
@@ -51,19 +51,19 @@
     <Book Series="Earth 2" Number="7" Volume="2012" Year="2013">
       <Database Name="cv" Series="48505" Issue="371153" />
     </Book>
-    <Book Series="Worlds' Finest" Number="1" Volume="2012" Year="2012">
+    <Book Series="Worlds&apos; Finest" Number="1" Volume="2012" Year="2012">
       <Database Name="cv" Series="48417" Issue="334195" />
     </Book>
-    <Book Series="Worlds' Finest" Number="2" Volume="2012" Year="2012">
+    <Book Series="Worlds&apos; Finest" Number="2" Volume="2012" Year="2012">
       <Database Name="cv" Series="48417" Issue="338475" />
     </Book>
-    <Book Series="Worlds' Finest" Number="3" Volume="2012" Year="2012">
+    <Book Series="Worlds&apos; Finest" Number="3" Volume="2012" Year="2012">
       <Database Name="cv" Series="48417" Issue="344043" />
     </Book>
-    <Book Series="Worlds' Finest" Number="4" Volume="2012" Year="2012">
+    <Book Series="Worlds&apos; Finest" Number="4" Volume="2012" Year="2012">
       <Database Name="cv" Series="48417" Issue="348041" />
     </Book>
-    <Book Series="Worlds' Finest" Number="5" Volume="2012" Year="2012">
+    <Book Series="Worlds&apos; Finest" Number="5" Volume="2012" Year="2012">
       <Database Name="cv" Series="48417" Issue="359839" />
     </Book>
     <Book Series="Earth 2" Number="8" Volume="2012" Year="2013">
@@ -81,49 +81,49 @@
     <Book Series="Earth 2" Number="12" Volume="2012" Year="2013">
       <Database Name="cv" Series="48505" Issue="400114" />
     </Book>
-    <Book Series="Worlds' Finest" Number="6" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="6" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="365739" />
     </Book>
-    <Book Series="Worlds' Finest" Number="7" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="7" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="371273" />
     </Book>
-    <Book Series="Worlds' Finest" Number="8" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="8" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="378857" />
     </Book>
-    <Book Series="Worlds' Finest" Number="9" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="9" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="384929" />
     </Book>
-    <Book Series="Worlds' Finest" Number="10" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="10" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="390405" />
     </Book>
-    <Book Series="Worlds' Finest" Number="11" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="11" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="395682" />
     </Book>
-    <Book Series="Worlds' Finest" Number="12" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="12" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="400121" />
     </Book>
-    <Book Series="Worlds' Finest" Number="13" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="13" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="410279" />
     </Book>
     <Book Series="Earth 2" Number="15.2" Volume="2012" Year="2013">
       <Database Name="cv" Series="48505" Issue="424989" />
     </Book>
-    <Book Series="Worlds' Finest" Number="14" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="14" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="416912" />
     </Book>
-    <Book Series="Worlds' Finest" Number="15" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="15" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="421665" />
     </Book>
     <Book Series="Earth 2" Number="15.1" Volume="2012" Year="2013">
       <Database Name="cv" Series="48505" Issue="424502" />
     </Book>
-    <Book Series="Worlds' Finest" Number="16" Volume="2012" Year="2013">
+    <Book Series="Worlds&apos; Finest" Number="16" Volume="2012" Year="2013">
       <Database Name="cv" Series="48417" Issue="428260" />
     </Book>
-    <Book Series="Worlds' Finest" Number="17" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="17" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="433122" />
     </Book>
-    <Book Series="Worlds' Finest" Number="18" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="18" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="436158" />
     </Book>
     <Book Series="Earth 2 Annual" Number="1" Volume="2013" Year="2013">
@@ -156,22 +156,22 @@
     <Book Series="Earth 2 Annual" Number="2" Volume="2013" Year="2014">
       <Database Name="cv" Series="62350" Issue="443943" />
     </Book>
-    <Book Series="Worlds' Finest" Number="19" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="19" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="442116" />
     </Book>
     <Book Series="Batman/Superman" Number="8" Volume="2013" Year="2014">
       <Database Name="cv" Series="64203" Issue="446427" />
     </Book>
-    <Book Series="Worlds' Finest" Number="20" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="20" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="446438" />
     </Book>
     <Book Series="Batman/Superman" Number="9" Volume="2013" Year="2014">
       <Database Name="cv" Series="64203" Issue="451040" />
     </Book>
-    <Book Series="Worlds' Finest" Number="21" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="21" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="448921" />
     </Book>
-    <Book Series="Worlds' Finest" Number="22" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="22" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="450043" />
     </Book>
     <Book Series="Earth 2" Number="21" Volume="2012" Year="2014">
@@ -180,10 +180,10 @@
     <Book Series="Earth 2" Number="22" Volume="2012" Year="2014">
       <Database Name="cv" Series="48505" Issue="449541" />
     </Book>
-    <Book Series="Worlds' Finest" Number="23" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="23" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="452812" />
     </Book>
-    <Book Series="Worlds' Finest" Number="24" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="24" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="455981" />
     </Book>
     <Book Series="Earth 2" Number="23" Volume="2012" Year="2014">
@@ -198,37 +198,37 @@
     <Book Series="Earth 2" Number="26" Volume="2012" Year="2014">
       <Database Name="cv" Series="48505" Issue="461686" />
     </Book>
-    <Book Series="Worlds' Finest" Number="25" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="25" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="459132" />
     </Book>
-    <Book Series="Worlds' Finest" Number="26" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="26" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="462212" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="1" Volume="2014" Year="2014">
+    <Book Series="Earth 2: World&apos;s End" Number="1" Volume="2014" Year="2014">
       <Database Name="cv" Series="77406" Issue="467598" />
     </Book>
-    <Book Series="Worlds' Finest" Number="27" Volume="2012" Year="2014">
+    <Book Series="Worlds&apos; Finest" Number="27" Volume="2012" Year="2014">
       <Database Name="cv" Series="48417" Issue="467606" />
     </Book>
-    <Book Series="Worlds' Finest" Number="28" Volume="2012" Year="2015">
+    <Book Series="Worlds&apos; Finest" Number="28" Volume="2012" Year="2015">
       <Database Name="cv" Series="48417" Issue="469799" />
     </Book>
-    <Book Series="Worlds' Finest" Number="29" Volume="2012" Year="2015">
+    <Book Series="Worlds&apos; Finest" Number="29" Volume="2012" Year="2015">
       <Database Name="cv" Series="48417" Issue="472843" />
     </Book>
-    <Book Series="Worlds' Finest" Number="30" Volume="2012" Year="2015">
+    <Book Series="Worlds&apos; Finest" Number="30" Volume="2012" Year="2015">
       <Database Name="cv" Series="48417" Issue="475896" />
     </Book>
-    <Book Series="Worlds' Finest" Number="31" Volume="2012" Year="2015">
+    <Book Series="Worlds&apos; Finest" Number="31" Volume="2012" Year="2015">
       <Database Name="cv" Series="48417" Issue="479210" />
     </Book>
-    <Book Series="Worlds' Finest" Number="32" Volume="2012" Year="2015">
+    <Book Series="Worlds&apos; Finest" Number="32" Volume="2012" Year="2015">
       <Database Name="cv" Series="48417" Issue="482121" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="2" Volume="2014" Year="2014">
+    <Book Series="Earth 2: World&apos;s End" Number="2" Volume="2014" Year="2014">
       <Database Name="cv" Series="77406" Issue="468020" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="3" Volume="2014" Year="2014">
+    <Book Series="Earth 2: World&apos;s End" Number="3" Volume="2014" Year="2014">
       <Database Name="cv" Series="77406" Issue="468410" />
     </Book>
     <Book Series="Earth 2" Number="27" Volume="2012" Year="2014">
@@ -237,76 +237,76 @@
     <Book Series="Earth 2" Number="28" Volume="2012" Year="2015">
       <Database Name="cv" Series="48505" Issue="469427" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="4" Volume="2014" Year="2014">
+    <Book Series="Earth 2: World&apos;s End" Number="4" Volume="2014" Year="2014">
       <Database Name="cv" Series="77406" Issue="468861" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="5" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="5" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="469428" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="6" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="6" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="469793" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="7" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="7" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="470369" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="8" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="8" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="471252" />
     </Book>
     <Book Series="Earth 2" Number="29" Volume="2012" Year="2015">
       <Database Name="cv" Series="48505" Issue="471915" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="9" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="9" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="471916" />
     </Book>
     <Book Series="Earth 2" Number="30" Volume="2012" Year="2015">
       <Database Name="cv" Series="48505" Issue="475412" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="10" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="10" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="472836" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="11" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="11" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="473588" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="12" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="12" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="474559" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="13" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="13" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="475074" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="14" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="14" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="475411" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="15" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="15" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="475889" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="16" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="16" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="476743" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="17" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="17" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="477793" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="18" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="18" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="478566" />
     </Book>
     <Book Series="Earth 2" Number="31" Volume="2012" Year="2015">
       <Database Name="cv" Series="48505" Issue="478565" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="19" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="19" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="479201" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="20" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="20" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="479931" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="21" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="21" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="480627" />
     </Book>
     <Book Series="Earth 2" Number="32" Volume="2012" Year="2015">
       <Database Name="cv" Series="48505" Issue="481564" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="22" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="22" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="481565" />
     </Book>
-    <Book Series="Earth 2: World's End" Number="23" Volume="2014" Year="2015">
+    <Book Series="Earth 2: World&apos;s End" Number="23" Volume="2014" Year="2015">
       <Database Name="cv" Series="77406" Issue="482116" />
     </Book>
     <Book Series="Earth 2: Society" Number="1" Volume="2015" Year="2015">

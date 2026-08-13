@@ -1179,28 +1179,28 @@
 <Book Series="Stormbreaker: The Saga of Beta Ray Bill" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="20565" Issue="123213" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="1" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94288" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="2" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94289" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="3" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="3" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94290" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="4" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="4" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94291" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="5" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="5" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94292" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="6" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="6" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94293" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="7" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="7" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94294" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="8" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="8" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="100917" />
 </Book>
 <Book Series="Captain America" Number="29" Volume="2002" Year="2004">
@@ -1278,22 +1278,22 @@
 <Book Series="She-Hulk" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="11058" Issue="99192" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="9" Volume="2004" Year="2005">
+<Book Series="Captain America &amp; the Falcon" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="10973" Issue="100918" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="10" Volume="2004" Year="2005">
+<Book Series="Captain America &amp; the Falcon" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="10973" Issue="100919" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="11" Volume="2004" Year="2005">
+<Book Series="Captain America &amp; the Falcon" Number="11" Volume="2004" Year="2005">
 <Database Name="cv" Series="10973" Issue="100920" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="12" Volume="2004" Year="2005">
+<Book Series="Captain America &amp; the Falcon" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="10973" Issue="100921" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="13" Volume="2004" Year="2005">
+<Book Series="Captain America &amp; the Falcon" Number="13" Volume="2004" Year="2005">
 <Database Name="cv" Series="10973" Issue="100922" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="14" Volume="2004" Year="2005">
+<Book Series="Captain America &amp; the Falcon" Number="14" Volume="2004" Year="2005">
 <Database Name="cv" Series="10973" Issue="100923" />
 </Book>
 <Book Series="Captain America" Number="30" Volume="2002" Year="2004">
@@ -1347,7 +1347,7 @@
 <Book Series="The Punisher" Number="12" Volume="2004" Year="2004">
 <Database Name="cv" Series="11164" Issue="97748" />
 </Book>
-<Book Series="Punisher Red X-Mas" Number="1" Volume="2004" Year="2005">
+<Book Series="Punisher Red X-Mas" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="30743" Issue="189816" />
 </Book>
 <Book Series="Epic Anthology" Number="1" Volume="2004" Year="2004">
@@ -1746,22 +1746,22 @@
 <Book Series="Black Panther" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11502" Issue="126177" />
 </Book>
-<Book Series="X-Men: The End: Book 1: Dreamers &#38; Demons" Number="1" Volume="2004" Year="2004">
+<Book Series="X-Men: The End: Book 1: Dreamers &amp; Demons" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="18843" Issue="111363" />
 </Book>
-<Book Series="X-Men: The End: Book 1: Dreamers &#38; Demons" Number="2" Volume="2004" Year="2004">
+<Book Series="X-Men: The End: Book 1: Dreamers &amp; Demons" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="18843" Issue="111378" />
 </Book>
-<Book Series="X-Men: The End: Book 1: Dreamers &#38; Demons" Number="3" Volume="2004" Year="2004">
+<Book Series="X-Men: The End: Book 1: Dreamers &amp; Demons" Number="3" Volume="2004" Year="2004">
 <Database Name="cv" Series="18843" Issue="111565" />
 </Book>
-<Book Series="X-Men: The End: Book 1: Dreamers &#38; Demons" Number="4" Volume="2004" Year="2004">
+<Book Series="X-Men: The End: Book 1: Dreamers &amp; Demons" Number="4" Volume="2004" Year="2004">
 <Database Name="cv" Series="18843" Issue="111568" />
 </Book>
-<Book Series="X-Men: The End: Book 1: Dreamers &#38; Demons" Number="5" Volume="2004" Year="2005">
+<Book Series="X-Men: The End: Book 1: Dreamers &amp; Demons" Number="5" Volume="2004" Year="2005">
 <Database Name="cv" Series="18843" Issue="113702" />
 </Book>
-<Book Series="X-Men: The End: Book 1: Dreamers &#38; Demons" Number="6" Volume="2004" Year="2005">
+<Book Series="X-Men: The End: Book 1: Dreamers &amp; Demons" Number="6" Volume="2004" Year="2005">
 <Database Name="cv" Series="18843" Issue="113703" />
 </Book>
 <Book Series="Daredevil" Number="71" Volume="1998" Year="2005">
@@ -1779,40 +1779,40 @@
 <Book Series="Daredevil" Number="75" Volume="1998" Year="2005">
 <Database Name="cv" Series="6209" Issue="110240" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="1" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105801" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="2" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105828" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="3" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="3" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105829" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="4" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="4" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105831" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="5" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="5" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105830" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="6" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="6" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105832" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="7" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="7" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105842" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="8" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="8" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105843" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="9" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105851" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="10" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105863" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="11" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="11" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105862" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="12" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105864" />
 </Book>
 <Book Series="Marvel Age Fantastic Four" Number="7" Volume="2004" Year="2004">
@@ -2073,28 +2073,28 @@
 <Book Series="Exiles" Number="53" Volume="2001" Year="2004">
 <Database Name="cv" Series="6983" Issue="99110" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="1" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118075" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="2" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118080" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="3" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118082" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="4" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118084" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="5" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118085" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="6" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118086" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="7" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118087" />
 </Book>
-<Book Series="Avengers: Earth's Mightiest Heroes" Number="8" Volume="2005" Year="2005">
+<Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118089" />
 </Book>
 <Book Series="Ultimate Iron Man" Number="1" Volume="2005" Year="2005">
@@ -2250,22 +2250,22 @@
 <Book Series="Ultimate X-Men Annual" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18892" Issue="111664" />
 </Book>
-<Book Series="Captain America" Number="1" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101412" />
 </Book>
-<Book Series="Captain America" Number="2" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101413" />
 </Book>
-<Book Series="Captain America" Number="3" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101414" />
 </Book>
-<Book Series="Captain America" Number="4" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101415" />
 </Book>
-<Book Series="Captain America" Number="5" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115184" />
 </Book>
-<Book Series="Captain America" Number="6" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115187" />
 </Book>
 <Book Series="The Punisher" Number="13" Volume="2004" Year="2005">
@@ -2448,22 +2448,22 @@
 <Book Series="Ultimate Secret" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18046" Issue="105692" />
 </Book>
-<Book Series="Nick Fury's Howling Commandos" Number="1" Volume="2005" Year="2005">
+<Book Series="Nick Fury&apos;s Howling Commandos" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="25541" Issue="150664" />
 </Book>
-<Book Series="Nick Fury's Howling Commandos" Number="2" Volume="2005" Year="2006">
+<Book Series="Nick Fury&apos;s Howling Commandos" Number="2" Volume="2005" Year="2006">
 <Database Name="cv" Series="25541" Issue="150666" />
 </Book>
-<Book Series="Nick Fury's Howling Commandos" Number="3" Volume="2005" Year="2006">
+<Book Series="Nick Fury&apos;s Howling Commandos" Number="3" Volume="2005" Year="2006">
 <Database Name="cv" Series="25541" Issue="150667" />
 </Book>
-<Book Series="Nick Fury's Howling Commandos" Number="4" Volume="2005" Year="2006">
+<Book Series="Nick Fury&apos;s Howling Commandos" Number="4" Volume="2005" Year="2006">
 <Database Name="cv" Series="25541" Issue="150668" />
 </Book>
-<Book Series="Nick Fury's Howling Commandos" Number="5" Volume="2005" Year="2006">
+<Book Series="Nick Fury&apos;s Howling Commandos" Number="5" Volume="2005" Year="2006">
 <Database Name="cv" Series="25541" Issue="150669" />
 </Book>
-<Book Series="Nick Fury's Howling Commandos" Number="6" Volume="2005" Year="2006">
+<Book Series="Nick Fury&apos;s Howling Commandos" Number="6" Volume="2005" Year="2006">
 <Database Name="cv" Series="25541" Issue="150670" />
 </Book>
 <Book Series="Marvel Age Fantastic Four" Number="12" Volume="2004" Year="2005">
@@ -2535,19 +2535,19 @@
 <Book Series="The New Invaders" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="11309" Issue="127751" />
 </Book>
-<Book Series="The Ultimates 2" Number="1" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="107329" />
 </Book>
-<Book Series="The Ultimates 2" Number="2" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="119925" />
 </Book>
-<Book Series="The Ultimates 2" Number="3" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134184" />
 </Book>
-<Book Series="The Ultimates 2" Number="4" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134185" />
 </Book>
-<Book Series="The Ultimates 2" Number="5" Volume="2005" Year="2005">
+<Book Series="Ultimates 2" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="18326" Issue="134182" />
 </Book>
 <Book Series="Ultimates Annual" Number="1" Volume="2005" Year="2005">
@@ -2607,10 +2607,10 @@
 <Book Series="X-Force: Shatterstar" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="20142" Issue="120206" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="13" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="13" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105865" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="14" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="14" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105869" />
 </Book>
 <Book Series="Marvel Adventures: Spider-Man" Number="1" Volume="2005" Year="2005">
@@ -2757,22 +2757,22 @@
 <Book Series="The Pulse" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="11310" Issue="105809" />
 </Book>
-<Book Series="New Avengers" Number="1" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="101407" />
 </Book>
-<Book Series="New Avengers" Number="2" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="101408" />
 </Book>
-<Book Series="New Avengers" Number="3" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="101409" />
 </Book>
-<Book Series="New Avengers" Number="4" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108304" />
 </Book>
-<Book Series="New Avengers" Number="5" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108305" />
 </Book>
-<Book Series="New Avengers" Number="6" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108306" />
 </Book>
 <Book Series="Spider-Man: Breakout" Number="1" Volume="2005" Year="2005">
@@ -2811,7 +2811,7 @@
 <Book Series="Spider-Girl" Number="85" Volume="1998" Year="2005">
 <Database Name="cv" Series="6218" Issue="101149" />
 </Book>
-<Book Series="The New Avengers: American Armed Forces Exclusive" Number="1" Volume="2005" Year="2005">
+<Book Series="New Avengers Guest Starring the Fantastic Four" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="23033" Issue="149195" />
 </Book>
 <Book Series="Spider-Man Team-Up Special" Number="1" Volume="2005" Year="2005">
@@ -2844,22 +2844,22 @@
 <Book Series="Astonishing X-Men" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="10746" Issue="106676" />
 </Book>
-<Book Series="Marvel Team-Up" Number="1" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="105549" />
 </Book>
-<Book Series="Marvel Team-Up" Number="2" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="105568" />
 </Book>
-<Book Series="Marvel Team-Up" Number="3" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="105569" />
 </Book>
-<Book Series="Marvel Team-Up" Number="4" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="105631" />
 </Book>
-<Book Series="Marvel Team-Up" Number="5" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="105632" />
 </Book>
-<Book Series="Marvel Team-Up" Number="6" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="105633" />
 </Book>
 <Book Series="Power Pack" Number="1" Volume="2005" Year="2005">
@@ -2919,25 +2919,25 @@
 <Book Series="Fantastic Four: Foes" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11090" Issue="113597" />
 </Book>
-<Book Series="Marvel Team-Up" Number="7" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120881" />
 </Book>
-<Book Series="Marvel Team-Up" Number="8" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120883" />
 </Book>
-<Book Series="Marvel Team-Up" Number="9" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120884" />
 </Book>
-<Book Series="Marvel Team-Up" Number="10" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120885" />
 </Book>
-<Book Series="Marvel Team-Up" Number="11" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="11" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120886" />
 </Book>
-<Book Series="Marvel Team-Up" Number="12" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="12" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120887" />
 </Book>
-<Book Series="Marvel Team-Up" Number="13" Volume="2004" Year="2005">
+<Book Series="Marvel Team-Up" Number="13" Volume="2005" Year="2005">
 <Database Name="cv" Series="18024" Issue="120888" />
 </Book>
 <Book Series="Wolverine" Number="32" Volume="2003" Year="2005">

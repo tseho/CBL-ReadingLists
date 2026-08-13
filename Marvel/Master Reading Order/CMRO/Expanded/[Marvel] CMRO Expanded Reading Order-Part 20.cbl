@@ -138,7 +138,7 @@
 <Book Series="Deadpool" Number="7" Volume="1997" Year="1997">
 <Database Name="cv" Series="6000" Issue="44005" />
 </Book>
-<Book Series="Daredevil / Deadpool '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Daredevil / Deadpool &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="26448" Issue="157856" />
 </Book>
 <Book Series="Deadpool" Number="8" Volume="1997" Year="1997">
@@ -183,7 +183,7 @@
 <Book Series="Heroes for Hire" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="6003" Issue="43874" />
 </Book>
-<Book Series="Thunderbolts '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Thunderbolts &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18276" Issue="107014" />
 </Book>
 <Book Series="What If...?" Number="99" Volume="1989" Year="1997">
@@ -381,7 +381,7 @@
 <Book Series="What If...?" Number="100" Volume="1989" Year="1997">
 <Database Name="cv" Series="4249" Issue="44096" />
 </Book>
-<Book Series="Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20609" Issue="181104" />
 </Book>
 <Book Series="Marvel Heroes and Legends" Number="1997" Volume="1996" Year="1997">
@@ -459,7 +459,7 @@
 <Book Series="Savage Dragon" Number="41" Volume="1993" Year="1997">
 <Database Name="cv" Series="5170" Issue="44076" />
 </Book>
-<Book Series="Wolverine '97" Number="1" Volume="1997" Year="1998">
+<Book Series="Wolverine &apos;97" Number="1" Volume="1997" Year="1998">
 <Database Name="cv" Series="27129" Issue="164830" />
 </Book>
 <Book Series="Marvel Team-Up" Number="1" Volume="1997" Year="1997">
@@ -501,7 +501,7 @@
 <Book Series="Untold Tales of Spider-Man" Number="24" Volume="1995" Year="1997">
 <Database Name="cv" Series="5562" Issue="44095" />
 </Book>
-<Book Series="X-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="X-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="39814" Issue="269206" />
 </Book>
 <Book Series="Stormwatch" Number="1" Volume="1997" Year="1997">
@@ -576,10 +576,10 @@
 <Book Series="Excalibur" Number="115" Volume="1988" Year="1997">
 <Database Name="cv" Series="4052" Issue="66397" />
 </Book>
-<Book Series="Untold Tales of Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Untold Tales of Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="44361" Issue="305566" />
 </Book>
-<Book Series="The Amazing Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="The Amazing Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60438" Issue="143309" />
 </Book>
 <Book Series="Generation X" Number="34" Volume="1994" Year="1998">
@@ -633,7 +633,7 @@
 <Book Series="Excalibur" Number="117" Volume="1988" Year="1998">
 <Database Name="cv" Series="4052" Issue="66399" />
 </Book>
-<Book Series="Ka-Zar '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Ka-Zar &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="30175" Issue="186031" />
 </Book>
 <Book Series="Ghost Rider" Number="89" Volume="1990" Year="1997">
@@ -672,7 +672,7 @@
 <Book Series="Spider-Man Unlimited" Number="18" Volume="1993" Year="1997">
 <Database Name="cv" Series="5048" Issue="57303" />
 </Book>
-<Book Series="X-Man: All Saint's Day" Number="1" Volume="1997" Year="1997">
+<Book Series="X-Man: All Saint&apos;s Day" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="32115" Issue="201509" />
 </Book>
 <Book Series="Generation X/Gen 13" Number="1" Volume="1998" Year="1998">
@@ -1179,7 +1179,7 @@
 <Book Series="What If...?" Number="105" Volume="1989" Year="1998">
 <Database Name="cv" Series="4249" Issue="44687" />
 </Book>
-<Book Series="Silver Surfer / Thor '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Silver Surfer / Thor &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="39906" Issue="269203" />
 </Book>
 <Book Series="Iron Man" Number="2" Volume="1998" Year="1998">
@@ -1485,10 +1485,10 @@
 <Book Series="The Amazing Spider-Man" Number="434" Volume="1963" Year="1998">
 <Database Name="cv" Series="2127" Issue="64470" />
 </Book>
-<Book Series="Cable / Machine Man '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Cable / Machine Man &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="18365" Issue="117675" />
 </Book>
-<Book Series="Machine Man / Bastion '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Machine Man / Bastion &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="26009" Issue="153754" />
 </Book>
 <Book Series="What If...?" Number="107" Volume="1989" Year="1998">
@@ -1560,7 +1560,7 @@
 <Book Series="Fantastic Four" Number="5" Volume="1998" Year="1998">
 <Database Name="cv" Series="6211" Issue="45005" />
 </Book>
-<Book Series="X-Men / Dr. Doom '98" Number="1" Volume="1998" Year="1998">
+<Book Series="X-Men / Dr. Doom &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="26316" Issue="178128" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="435" Volume="1963" Year="1998">
@@ -1752,7 +1752,7 @@
 <Book Series="Wolverine" Number="128" Volume="1988" Year="1998">
 <Database Name="cv" Series="4250" Issue="51196" />
 </Book>
-<Book Series="Hulk / Sub-Mariner '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Hulk / Sub-Mariner &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60434" Issue="138336" />
 </Book>
 <Book Series="What If...?" Number="110" Volume="1989" Year="1998">
@@ -1776,7 +1776,7 @@
 <Book Series="Wolverine" Number="130" Volume="1988" Year="1998">
 <Database Name="cv" Series="4250" Issue="51198" />
 </Book>
-<Book Series="Spider-Man '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Spider-Man &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60439" Issue="143310" />
 </Book>
 <Book Series="Werewolf by Night" Number="6" Volume="1998" Year="1998">
@@ -1881,7 +1881,7 @@
 <Book Series="Deadpool" Number="17" Volume="1997" Year="1998">
 <Database Name="cv" Series="6000" Issue="45064" />
 </Book>
-<Book Series="Deadpool / Death '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Deadpool / Death &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="18606" Issue="109777" />
 </Book>
 <Book Series="Deadpool" Number="18" Volume="1997" Year="1998">
@@ -1896,7 +1896,7 @@
 <Book Series="What If...?" Number="111" Volume="1989" Year="1998">
 <Database Name="cv" Series="4249" Issue="45217" />
 </Book>
-<Book Series="X-Man / Hulk '98" Number="1" Volume="1998" Year="1998">
+<Book Series="X-Man / Hulk &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="28192" Issue="173329" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="259" Volume="1976" Year="1998">
@@ -1908,7 +1908,7 @@
 <Book Series="The Spectacular Spider-Man" Number="261" Volume="1976" Year="1998">
 <Database Name="cv" Series="2870" Issue="45290" />
 </Book>
-<Book Series="Uncanny X-Men / Fantastic Four '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Uncanny X-Men / Fantastic Four &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30468" Issue="187571" />
 </Book>
 <Book Series="Journey into Mystery" Number="520" Volume="1996" Year="1998">
@@ -1947,7 +1947,7 @@
 <Book Series="Spider-Man" Number="½" Volume="1990" Year="1998">
 <Database Name="cv" Series="4421" Issue="149875" />
 </Book>
-<Book Series="Hawkeye: Earth's Mightiest Marksman" Number="1" Volume="1998" Year="1998">
+<Book Series="Hawkeye: Earth&apos;s Mightiest Marksman" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="31099" Issue="192969" />
 </Book>
 <Book Series="Excalibur" Number="124" Volume="1988" Year="1998">
@@ -2004,7 +2004,7 @@
 <Book Series="Quicksilver" Number="12" Volume="1997" Year="1998">
 <Database Name="cv" Series="6013" Issue="45393" />
 </Book>
-<Book Series="Heroes for Hire / Quicksilver '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Heroes for Hire / Quicksilver &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="19807" Issue="118824" />
 </Book>
 <Book Series="Spider-Man Unlimited" Number="21" Volume="1993" Year="1998">
@@ -2022,7 +2022,7 @@
 <Book Series="The Incredible Hulk" Number="468" Volume="1968" Year="1998">
 <Database Name="cv" Series="2406" Issue="80809" />
 </Book>
-<Book Series="Avengers / Squadron Supreme '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Avengers / Squadron Supreme &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30632" Issue="189114" />
 </Book>
 <Book Series="Fantastic Four" Number="10" Volume="1998" Year="1998">
@@ -2034,7 +2034,7 @@
 <Book Series="Fantastic Four" Number="12" Volume="1998" Year="1998">
 <Database Name="cv" Series="6211" Issue="45553" />
 </Book>
-<Book Series="X-Force / Champions '98" Number="1" Volume="1998" Year="1998">
+<Book Series="X-Force / Champions &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="34173" Issue="222916" />
 </Book>
 <Book Series="Shadows and Light" Number="3" Volume="1998" Year="1998">
@@ -2043,7 +2043,7 @@
 <Book Series="X-Factor" Number="147" Volume="1986" Year="1998">
 <Database Name="cv" Series="3657" Issue="65723" />
 </Book>
-<Book Series="Alpha Flight / Inhumans '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Alpha Flight / Inhumans &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="25658" Issue="151202" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="437" Volume="1963" Year="1998">
@@ -2067,7 +2067,7 @@
 <Book Series="Spider-Man" Number="94" Volume="1990" Year="1998">
 <Database Name="cv" Series="4421" Issue="64663" />
 </Book>
-<Book Series="Fantastic Four / Fantastic 4 '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Fantastic Four / Fantastic 4 &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60493" Issue="138969" />
 </Book>
 <Book Series="Heroes for Hire" Number="17" Volume="1997" Year="1998">
@@ -2145,7 +2145,7 @@
 <Book Series="X-Factor" Number="149" Volume="1986" Year="1998">
 <Database Name="cv" Series="3657" Issue="65725" />
 </Book>
-<Book Series="Baby's First Deadpool Book" Number="1" Volume="1998" Year="1998">
+<Book Series="Baby&apos;s First Deadpool Book" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="18600" Issue="109764" />
 </Book>
 <Book Series="Captain America" Number="13" Volume="1998" Year="1999">
@@ -2187,7 +2187,7 @@
 <Book Series="Mutant X" Number="3" Volume="1998" Year="1998">
 <Database Name="cv" Series="6217" Issue="45530" />
 </Book>
-<Book Series="Peter Parker: Spider-Man / Elektra '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Peter Parker: Spider-Man / Elektra &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="39918" Issue="269237" />
 </Book>
 <Book Series="Timeslip Special" Number="1" Volume="1998" Year="1998">
@@ -2406,7 +2406,7 @@
 <Book Series="Thunderbolts" Number="20" Volume="1997" Year="1998">
 <Database Name="cv" Series="6020" Issue="69271" />
 </Book>
-<Book Series="Captain America / Citizen V '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Captain America / Citizen V &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60452" Issue="142566" />
 </Book>
 <Book Series="Thunderbolts" Number="21" Volume="1997" Year="1998">
@@ -2502,40 +2502,40 @@
 <Book Series="The Incredible Hulk" Number="474" Volume="1968" Year="1999">
 <Database Name="cv" Series="2406" Issue="80818" />
 </Book>
-<Book Series="Avengers Forever" Number="1" Volume="1998" Year="1998">
+<Book Series="Avengers: Forever" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="11015" Issue="96135" />
 </Book>
-<Book Series="Avengers Forever" Number="2" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="2" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96136" />
 </Book>
-<Book Series="Avengers Forever" Number="3" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="3" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96137" />
 </Book>
-<Book Series="Avengers Forever" Number="4" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="4" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96138" />
 </Book>
-<Book Series="Avengers Forever" Number="5" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="5" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96139" />
 </Book>
-<Book Series="Avengers Forever" Number="6" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="6" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96140" />
 </Book>
-<Book Series="Avengers Forever" Number="7" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="7" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96141" />
 </Book>
-<Book Series="Avengers Forever" Number="8" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="8" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96142" />
 </Book>
-<Book Series="Avengers Forever" Number="59" Volume="1998" Year="1953">
+<Book Series="Avengers: Forever" Number="59" Volume="1998" Year="1953">
 <Database Name="cv" Series="11015" Issue="286637" />
 </Book>
-<Book Series="Avengers Forever" Number="10" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="10" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96144" />
 </Book>
-<Book Series="Avengers Forever" Number="11" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="11" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96145" />
 </Book>
-<Book Series="Avengers Forever" Number="12" Volume="1998" Year="2000">
+<Book Series="Avengers: Forever" Number="12" Volume="1998" Year="2000">
 <Database Name="cv" Series="11015" Issue="96146" />
 </Book>
 <Book Series="Daredevil" Number="0" Volume="1998" Year="1998">
@@ -2637,7 +2637,7 @@
 <Book Series="Generation X" Number="49" Volume="1994" Year="1999">
 <Database Name="cv" Series="5300" Issue="83114" />
 </Book>
-<Book Series="Iron Man / Captain America '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Iron Man / Captain America &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30391" Issue="138790" />
 </Book>
 <Book Series="Wolverine" Number="132" Volume="1988" Year="1998">
@@ -2667,7 +2667,7 @@
 <Book Series="Rampaging Hulk" Number="3" Volume="1998" Year="1998">
 <Database Name="cv" Series="7253" Issue="51603" />
 </Book>
-<Book Series="Generation X / Dracula '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Generation X / Dracula &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60445" Issue="123569" />
 </Book>
 <Book Series="The Supernaturals" Number="1" Volume="1998" Year="1998">
@@ -2817,7 +2817,7 @@
 <Book Series="Gambit" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="9111" Issue="66890" />
 </Book>
-<Book Series="Vertigo: Winter's Edge" Number="2" Volume="1998" Year="1999">
+<Book Series="Vertigo: Winter&apos;s Edge" Number="2" Volume="1998" Year="1999">
 <Database Name="cv" Series="20010" Issue="141630" />
 </Book>
 <Book Series="Captain America: Sentinel of Liberty" Number="2" Volume="1998" Year="1998">

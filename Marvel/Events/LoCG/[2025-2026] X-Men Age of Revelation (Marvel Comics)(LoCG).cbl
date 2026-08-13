@@ -30,13 +30,13 @@
 <Book Series="World of Revelation" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="167518" Issue="1137192" />
 </Book>
-<Book Series="Iron &#38; Frost" Number="1" Volume="2025" Year="2025">
+<Book Series="Iron &amp; Frost" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="167657" Issue="1138112" />
 </Book>
 <Book Series="Rogue Storm" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="167658" Issue="1138114" />
 </Book>
-<Book Series="Sinister's Six" Number="1" Volume="2025" Year="2025">
+<Book Series="Sinister&apos;s Six" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="167659" Issue="1138115" />
 </Book>
 <Book Series="Unbreakable X-Men" Number="1" Volume="2025" Year="2025">
@@ -84,13 +84,13 @@
 <Book Series="X-Men: Age of Revelation Infinity Comic" Number="2" Volume="2025" Year="2025">
 <Database Name="cv" Series="168174" Issue="1142834" />
 </Book>
-<Book Series="Iron &#38; Frost" Number="2" Volume="2025" Year="2026">
+<Book Series="Iron &amp; Frost" Number="2" Volume="2025" Year="2026">
 <Database Name="cv" Series="167657" Issue="1143287" />
 </Book>
 <Book Series="Rogue Storm" Number="2" Volume="2025" Year="2026">
 <Database Name="cv" Series="167658" Issue="1143301" />
 </Book>
-<Book Series="Sinister's Six" Number="2" Volume="2025" Year="2026">
+<Book Series="Sinister&apos;s Six" Number="2" Volume="2025" Year="2026">
 <Database Name="cv" Series="167659" Issue="1143302" />
 </Book>
 <Book Series="X-Men: Age of Revelation Infinity Comic" Number="3" Volume="2025" Year="2025">
@@ -144,10 +144,10 @@
 <Book Series="Longshots" Number="3" Volume="2025" Year="2026">
 <Database Name="cv" Series="167505" Issue="1147698" />
 </Book>
-<Book Series="Iron &#38; Frost" Number="3" Volume="2025" Year="2026">
+<Book Series="Iron &amp; Frost" Number="3" Volume="2025" Year="2026">
 <Database Name="cv" Series="167657" Issue="1147696" />
 </Book>
-<Book Series="Sinister's Six" Number="3" Volume="2025" Year="2026">
+<Book Series="Sinister&apos;s Six" Number="3" Volume="2025" Year="2026">
 <Database Name="cv" Series="167659" Issue="1147710" />
 </Book>
 <Book Series="Unbreakable X-Men" Number="3" Volume="2025" Year="2026">

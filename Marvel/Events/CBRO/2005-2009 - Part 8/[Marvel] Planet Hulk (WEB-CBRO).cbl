@@ -12,7 +12,7 @@
 <Book Series="Fantastic Four" Number="535" Volume="1998" Year="2006">
 <Database Name="cv" Series="6211" Issue="151582" />
 </Book>
-<Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
+<Book Series="New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18180" Issue="106482" />
 </Book>
 <Book Series="Incredible Hulk" Number="88" Volume="2000" Year="2006">

@@ -360,7 +360,7 @@
     <Book Series="X-Force" Number="18" Volume="1991" Year="1993">
       <Database Name="cv" Series="4604" Issue="107133" />
     </Book>
-    <Book Series="Stryfe's Strike File" Number="1" Volume="1993" Year="1993">
+    <Book Series="Stryfe&apos;s Strike File" Number="1" Volume="1993" Year="1993">
       <Database Name="cv" Series="18149" Issue="106316" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="297" Volume="1981" Year="1993">
