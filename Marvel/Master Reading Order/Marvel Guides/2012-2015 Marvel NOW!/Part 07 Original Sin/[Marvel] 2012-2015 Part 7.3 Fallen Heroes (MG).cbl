@@ -123,13 +123,13 @@
 <Book Series="Uncanny X-Men" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="459685" />
 </Book>
-<Book Series="All-New X-Men" Number="30" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="462241" />
 </Book>
 <Book Series="Uncanny X-Men" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="460974" />
 </Book>
-<Book Series="All-New X-Men" Number="31" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="463476" />
 </Book>
 <Book Series="Uncanny X-Men" Number="25" Volume="2013" Year="2014">

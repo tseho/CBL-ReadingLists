@@ -28,7 +28,7 @@
         <Book Series="Ultron" Number="1AU" Volume="2013" Year="2013">
             <Database Name="cv" Series="49505" Issue="396434" />
         </Book>
-        <Book Series="Wolverine &#38; the X-Men" Number="27" Volume="2011" Year="2013">
+        <Book Series="Wolverine &amp; the X-Men" Number="27" Volume="2011" Year="2013">
             <Database Name="cv" Series="43539" Issue="395260" />
         </Book>
         <Book Series="Age of Ultron" Number="6" Volume="2013" Year="2013">

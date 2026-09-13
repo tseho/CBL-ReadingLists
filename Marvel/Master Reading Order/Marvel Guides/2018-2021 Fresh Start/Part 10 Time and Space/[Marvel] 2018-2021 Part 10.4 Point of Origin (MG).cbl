@@ -7,7 +7,7 @@
         <Book Series="Fantastic Four: Grimm Noir" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="125301" Issue="738610" />
         </Book>
-        <Book Series="Fantastic Four: Negative Zone" Number="1" Volume="2019" Year="2020">
+        <Book Series="Fantastic Four: Negative Zone" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="123123" Issue="728973" />
         </Book>
         <Book Series="Invisible Woman" Number="1" Volume="2019" Year="2019">
@@ -85,7 +85,7 @@
         <Book Series="Fantastic Four" Number="20" Volume="2018" Year="2020">
             <Database Name="cv" Series="112685" Issue="742369" />
         </Book>
-        <Book Series="Fantastic Four: Road Trip" Number="1" Volume="2020" Year="2021">
+        <Book Series="Fantastic Four: Road Trip" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="132375" Issue="820022" />
         </Book>
         <Book Series="Doctor Doom" Number="1" Volume="2019" Year="2019">

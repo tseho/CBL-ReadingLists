@@ -69,16 +69,16 @@
         <Book Series="Avengers Annual" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="138528" Issue="882057" />
         </Book>
-        <Book Series="Black Cat" Number="8" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="8" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="874551" />
         </Book>
-        <Book Series="Black Cat" Number="9" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="9" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="880919" />
         </Book>
-        <Book Series="Black Cat" Number="10" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="10" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="886958" />
         </Book>
-        <Book Series="Giant-Size Black Cat: Infinity Score" Number="1" Volume="2021" Year="2022">
+        <Book Series="Giant-Size Black Cat: Infinity Score" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140355" Issue="897333" />
         </Book>
         <Book Series="Thor" Number="15" Volume="2020" Year="2021">

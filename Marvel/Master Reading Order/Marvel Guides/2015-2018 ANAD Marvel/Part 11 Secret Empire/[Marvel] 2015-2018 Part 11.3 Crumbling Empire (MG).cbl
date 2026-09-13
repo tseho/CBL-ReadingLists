@@ -16,13 +16,13 @@
         <Book Series="X-Men: Blue" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="100712" Issue="615039" />
         </Book>
-        <Book Series="Ultimates 2" Number="8" Volume="2016" Year="2017">
+        <Book Series="Ultimates 2" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="95843" Issue="603146" />
         </Book>
-        <Book Series="Ultimates 2" Number="9" Volume="2016" Year="2017">
+        <Book Series="Ultimates 2" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="95843" Issue="609367" />
         </Book>
-        <Book Series="Ultimates 2" Number="100" Volume="2016" Year="2017">
+        <Book Series="Ultimates 2" Number="100" Volume="2017" Year="2017">
             <Database Name="cv" Series="95843" Issue="615036" />
         </Book>
         <Book Series="Secret Empire: Underground" Number="1" Volume="2017" Year="2017">
@@ -79,7 +79,7 @@
         <Book Series="Secret Empire" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="100840" Issue="613803" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="8" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="617847" />
         </Book>
         <Book Series="Secret Empire" Number="9" Volume="2017" Year="2017">
@@ -88,7 +88,7 @@
         <Book Series="Secret Empire" Number="10" Volume="2017" Year="2017">
             <Database Name="cv" Series="100840" Issue="617849" />
         </Book>
-        <Book Series="Deadpool" Number="35" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="35" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="617837" />
         </Book>
         <Book Series="Secret Empire Omega" Number="1" Volume="2017" Year="2017">

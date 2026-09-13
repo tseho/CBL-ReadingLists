@@ -58,7 +58,7 @@
         <Book Series="The Amazing Spider-Man" Number="791" Volume="2015" Year="2018">
             <Database Name="cv" Series="85076" Issue="638587" />
         </Book>
-        <Book Series="Avengers" Number="11" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="11" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="622934" />
         </Book>
         <Book Series="Uncanny Avengers" Number="26" Volume="2015" Year="2017">
@@ -76,7 +76,7 @@
         <Book Series="Uncanny Avengers" Number="30" Volume="2015" Year="2018">
             <Database Name="cv" Series="85318" Issue="647961" />
         </Book>
-        <Book Series="Deadpool" Number="36" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="36" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="621660" />
         </Book>
         <Book Series="Secret Warriors" Number="6" Volume="2017" Year="2017">
@@ -127,7 +127,7 @@
         <Book Series="Doctor Strange" Number="26" Volume="2015" Year="2017">
             <Database Name="cv" Series="85094" Issue="630520" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="9" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="625315" />
         </Book>
         <Book Series="U.S.Avengers" Number="10" Volume="2017" Year="2017">
@@ -145,19 +145,19 @@
         <Book Series="All-New Guardians of the Galaxy" Number="12" Volume="2017" Year="2017">
             <Database Name="cv" Series="101158" Issue="630514" />
         </Book>
-        <Book Series="Hawkeye" Number="12" Volume="2016" Year="2018">
+        <Book Series="Hawkeye" Number="12" Volume="2017" Year="2018">
             <Database Name="cv" Series="96661" Issue="638597" />
         </Book>
-        <Book Series="Hawkeye" Number="13" Volume="2016" Year="2018">
+        <Book Series="Hawkeye" Number="13" Volume="2017" Year="2018">
             <Database Name="cv" Series="96661" Issue="644507" />
         </Book>
-        <Book Series="Hawkeye" Number="14" Volume="2016" Year="2018">
+        <Book Series="Hawkeye" Number="14" Volume="2017" Year="2018">
             <Database Name="cv" Series="96661" Issue="650917" />
         </Book>
-        <Book Series="Hawkeye" Number="15" Volume="2016" Year="2018">
+        <Book Series="Hawkeye" Number="15" Volume="2017" Year="2018">
             <Database Name="cv" Series="96661" Issue="658721" />
         </Book>
-        <Book Series="Hawkeye" Number="16" Volume="2016" Year="2018">
+        <Book Series="Hawkeye" Number="16" Volume="2017" Year="2018">
             <Database Name="cv" Series="96661" Issue="662088" />
         </Book>
         <Book Series="Captain Marvel" Number="125" Volume="2017" Year="2017">
@@ -175,19 +175,19 @@
         <Book Series="Captain Marvel" Number="129" Volume="2017" Year="2018">
             <Database Name="cv" Series="105506" Issue="661144" />
         </Book>
-        <Book Series="Tales of Suspense" Number="100" Volume="2017" Year="2018">
+        <Book Series="Tales of Suspense" Number="100" Volume="2018" Year="2018">
             <Database Name="cv" Series="107169" Issue="647956" />
         </Book>
-        <Book Series="Tales of Suspense" Number="101" Volume="2017" Year="2018">
+        <Book Series="Tales of Suspense" Number="101" Volume="2018" Year="2018">
             <Database Name="cv" Series="107169" Issue="656718" />
         </Book>
-        <Book Series="Tales of Suspense" Number="102" Volume="2017" Year="2018">
+        <Book Series="Tales of Suspense" Number="102" Volume="2018" Year="2018">
             <Database Name="cv" Series="107169" Issue="660672" />
         </Book>
-        <Book Series="Tales of Suspense" Number="103" Volume="2017" Year="2018">
+        <Book Series="Tales of Suspense" Number="103" Volume="2018" Year="2018">
             <Database Name="cv" Series="107169" Issue="663588" />
         </Book>
-        <Book Series="Tales of Suspense" Number="104" Volume="2017" Year="2018">
+        <Book Series="Tales of Suspense" Number="104" Volume="2018" Year="2018">
             <Database Name="cv" Series="107169" Issue="666816" />
         </Book>
     </Books>

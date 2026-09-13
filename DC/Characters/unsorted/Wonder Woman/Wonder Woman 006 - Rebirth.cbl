@@ -66,7 +66,7 @@
     <Book Series="Wonder Woman Annual" Number="1" Volume="2016" Year="2017">
       <Database Name="cv" Series="101798" Issue="598364" />
     </Book>
-    <Book Series="Wonder Woman: Steve Trevor Special" Number="1" Volume="2017" Year="2017">
+    <Book Series="Wonder Woman: Steve Trevor" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="101967" Issue="599852" />
     </Book>
     <Book Series="Wonder Woman" Number="16" Volume="2016" Year="2017">

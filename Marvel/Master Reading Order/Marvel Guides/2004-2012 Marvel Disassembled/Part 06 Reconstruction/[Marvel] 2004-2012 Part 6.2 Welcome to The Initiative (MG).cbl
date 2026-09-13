@@ -25,16 +25,16 @@
         <Book Series="Avengers: The Initiative" Number="3" Volume="2007" Year="2007">
             <Database Name="cv" Series="18419" Issue="110271" />
         </Book>
-        <Book Series="Iron Man" Number="15" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="15" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="106724" />
         </Book>
-        <Book Series="Iron Man" Number="16" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="16" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="108915" />
         </Book>
-        <Book Series="Iron Man" Number="17" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="17" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="109111" />
         </Book>
-        <Book Series="Iron Man" Number="18" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="18" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="110278" />
         </Book>
         <Book Series="Ms. Marvel Special" Number="1" Volume="2007" Year="2007">

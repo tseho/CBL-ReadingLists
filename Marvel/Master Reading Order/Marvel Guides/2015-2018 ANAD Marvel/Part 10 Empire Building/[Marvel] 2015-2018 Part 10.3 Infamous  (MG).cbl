@@ -58,25 +58,25 @@
         <Book Series="Spider-Man" Number="19" Volume="2016" Year="2017">
             <Database Name="cv" Series="87820" Issue="612050" />
         </Book>
-        <Book Series="Occupy Avengers" Number="3" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="3" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="575877" />
         </Book>
-        <Book Series="Occupy Avengers" Number="4" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="4" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="582538" />
         </Book>
-        <Book Series="Occupy Avengers" Number="5" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="589834" />
         </Book>
-        <Book Series="Occupy Avengers" Number="6" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="593268" />
         </Book>
-        <Book Series="Occupy Avengers" Number="7" Volume="2016" Year="2017">
+        <Book Series="Occupy Avengers" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="95431" Issue="598381" />
         </Book>
-        <Book Series="Avengers" Number="7" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="594959" />
         </Book>
-        <Book Series="Avengers" Number="8" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="599857" />
         </Book>
     </Books>

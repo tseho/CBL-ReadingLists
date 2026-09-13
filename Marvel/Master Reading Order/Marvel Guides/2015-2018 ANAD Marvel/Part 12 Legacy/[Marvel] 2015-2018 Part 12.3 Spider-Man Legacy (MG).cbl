@@ -72,37 +72,37 @@
         <Book Series="Spider-Men II" Number="5" Volume="2017" Year="2018">
             <Database Name="cv" Series="102777" Issue="649744" />
         </Book>
-        <Book Series="Venom" Number="155" Volume="2016" Year="2017">
+        <Book Series="Venom" Number="155" Volume="2017" Year="2017">
             <Database Name="cv" Series="95845" Issue="626303" />
         </Book>
-        <Book Series="Venom" Number="156" Volume="2016" Year="2017">
+        <Book Series="Venom" Number="156" Volume="2017" Year="2017">
             <Database Name="cv" Series="95845" Issue="630539" />
         </Book>
-        <Book Series="Venom" Number="157" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="157" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="636390" />
         </Book>
-        <Book Series="Venom" Number="158" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="158" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="643047" />
         </Book>
-        <Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2017" Year="2018">
+        <Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="106662" Issue="644495" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="792" Volume="2015" Year="2018">
             <Database Name="cv" Series="85076" Issue="646179" />
         </Book>
-        <Book Series="Venom" Number="159" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="159" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="647962" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="793" Volume="2015" Year="2018">
             <Database Name="cv" Series="85076" Issue="649722" />
         </Book>
-        <Book Series="Venom" Number="160" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="160" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="652644" />
         </Book>
         <Book Series="Amazing Spider-Man: Venom Inc. Omega" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="107934" Issue="654047" />
         </Book>
-        <Book Series="Venom" Number="161" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="161" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="658736" />
         </Book>
         <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2018" Year="2018">

@@ -12,10 +12,10 @@
         <Book Series="X-Force" Number="43" Volume="2020" Year="2023">
             <Database Name="cv" Series="122668" Issue="1010057" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="8" Volume="2022" Year="2023">
+        <Book Series="The Invincible Iron Man" Number="8" Volume="2023" Year="2023">
             <Database Name="cv" Series="146873" Issue="1003582" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="9" Volume="2022" Year="2023">
+        <Book Series="The Invincible Iron Man" Number="9" Volume="2023" Year="2023">
             <Database Name="cv" Series="146873" Issue="1010048" />
         </Book>
         <Book Series="Realm of X" Number="1" Volume="2023" Year="2023">

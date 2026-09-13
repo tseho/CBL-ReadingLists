@@ -21,7 +21,7 @@
 <Book Series="Wolverine" Number="30" Volume="2020" Year="2023">
 <Database Name="cv" Series="125121" Issue="971883" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="3" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="971889" />
 </Book>
 <Book Series="X-Men" Number="20" Volume="2021" Year="2023">
@@ -69,7 +69,7 @@
 <Book Series="Deadpool" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="979419" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="4" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="979424" />
 </Book>
 <Book Series="Wolverine" Number="32" Volume="2020" Year="2023">
@@ -93,25 +93,25 @@
 <Book Series="Captain Marvel" Number="49" Volume="2019" Year="2023">
 <Database Name="cv" Series="116365" Issue="987103" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="1" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="974106" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="2" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="981478" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="3" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="988125" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="4" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="994364" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="5" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="1000237" />
 </Book>
 <Book Series="Deadpool" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="145766" Issue="985710" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="5" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="985650" />
 </Book>
 <Book Series="X-Men: Before the Fall - Sons of X" Number="1" Volume="2023" Year="2023">
@@ -123,7 +123,7 @@
 <Book Series="Free Comic Book Day 2023: Avengers/X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150031" Issue="987190" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="6" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="988150" />
 </Book>
 <Book Series="X-Men: Red" Number="11" Volume="2022" Year="2023">
@@ -165,7 +165,7 @@
 <Book Series="X-Men: Before the Fall – Mutant First Strike" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="151052" Issue="993583" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="7" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="993233" />
 </Book>
 <Book Series="X-Men" Number="23" Volume="2021" Year="2023">
@@ -210,7 +210,7 @@
 <Book Series="Wolverine" Number="35" Volume="2020" Year="2023">
 <Database Name="cv" Series="125121" Issue="1003593" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="8" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="1003582" />
 </Book>
 <Book Series="X-Men: Hellfire Gala" Number="1" Volume="2023" Year="2023">

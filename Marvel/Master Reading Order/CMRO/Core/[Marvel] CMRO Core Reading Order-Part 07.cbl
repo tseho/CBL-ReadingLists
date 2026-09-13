@@ -93,7 +93,7 @@
 <Book Series="The Mighty Thor Annual" Number="15" Volume="1989" Year="1990">
 <Database Name="cv" Series="79259" Issue="32228" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="5" Volume="1989" Year="1990">
+<Book Series="West Coast Avengers Annual" Number="5" Volume="1989" Year="1990">
 <Database Name="cv" Series="4219" Issue="33189" />
 </Book>
 <Book Series="The Avengers Annual" Number="19" Volume="1967" Year="1990">
@@ -1770,7 +1770,7 @@
 <Book Series="Iron Man Annual" Number="12" Volume="1970" Year="1991">
 <Database Name="cv" Series="2905" Issue="34649" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="6" Volume="1989" Year="1991">
+<Book Series="West Coast Avengers Annual" Number="6" Volume="1989" Year="1991">
 <Database Name="cv" Series="4219" Issue="34757" />
 </Book>
 <Book Series="Deathlok" Number="1" Volume="1991" Year="1991">

@@ -78,16 +78,16 @@
     <Book Series="Fantastic Four" Number="524" Volume="1998" Year="2005">
       <Database Name="cv" Series="6211" Issue="162122" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="23574" Issue="141434" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
       <Database Name="cv" Series="23574" Issue="176055" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
       <Database Name="cv" Series="23574" Issue="176054" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
       <Database Name="cv" Series="23574" Issue="176053" />
     </Book>
     <Book Series="Spider-Man/Human Torch" Number="1" Volume="2005" Year="2005">
@@ -255,16 +255,16 @@
     <Book Series="Marvel Knights: 4" Number="27" Volume="2004" Year="2006">
       <Database Name="cv" Series="21736" Issue="131981" />
     </Book>
-    <Book Series="The Thing" Number="1" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106827" />
     </Book>
-    <Book Series="The Thing" Number="2" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="2" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106852" />
     </Book>
-    <Book Series="The Thing" Number="3" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="3" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106868" />
     </Book>
-    <Book Series="The Thing" Number="4" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="4" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106888" />
     </Book>
     <Book Series="Marvel Knights: 4" Number="28" Volume="2004" Year="2006">
@@ -273,10 +273,10 @@
     <Book Series="Marvel Knights: 4" Number="29" Volume="2004" Year="2006">
       <Database Name="cv" Series="21736" Issue="134176" />
     </Book>
-    <Book Series="The Thing" Number="5" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="5" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106953" />
     </Book>
-    <Book Series="The Thing" Number="6" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="6" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106954" />
     </Book>
     <Book Series="Fantastic Four" Number="536" Volume="1998" Year="2006">
@@ -285,13 +285,13 @@
     <Book Series="Fantastic Four" Number="537" Volume="1998" Year="2006">
       <Database Name="cv" Series="6211" Issue="108474" />
     </Book>
-    <Book Series="The Thing" Number="7" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="7" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106955" />
     </Book>
     <Book Series="Marvel Knights: 4" Number="30" Volume="2004" Year="2006">
       <Database Name="cv" Series="21736" Issue="134177" />
     </Book>
-    <Book Series="The Thing" Number="8" Volume="2005" Year="2006">
+    <Book Series="The Thing" Number="8" Volume="2006" Year="2006">
       <Database Name="cv" Series="18242" Issue="106956" />
     </Book>
     <Book Series="Books of Doom" Number="1" Volume="2006" Year="2006">

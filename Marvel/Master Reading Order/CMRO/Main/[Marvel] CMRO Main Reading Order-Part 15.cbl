@@ -156,7 +156,7 @@
 <Book Series="Marvel Knights Double Shot" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="11197" Issue="98063" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="10" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="10" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114259" />
 </Book>
 <Book Series="The Brotherhood" Number="4" Volume="2001" Year="2001">
@@ -192,7 +192,7 @@
 <Book Series="X-Force" Number="123" Volume="1991" Year="2002">
 <Database Name="cv" Series="4604" Issue="72640" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="11" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="11" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114260" />
 </Book>
 <Book Series="X-Treme X-Men 2001" Number="1" Volume="2001" Year="2002">
@@ -213,13 +213,13 @@
 <Book Series="Alias" Number="5" Volume="2001" Year="2002">
 <Database Name="cv" Series="9452" Issue="77725" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="12" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="12" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114261" />
 </Book>
 <Book Series="X-Factor" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="24239" Issue="144022" />
 </Book>
-<Book Series="Thing &#38; She-Hulk: The Long Night" Number="1" Volume="2002" Year="2002">
+<Book Series="Thing &amp; She-Hulk: The Long Night" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="28195" Issue="173346" />
 </Book>
 <Book Series="Cable" Number="101" Volume="1993" Year="2002">
@@ -309,7 +309,7 @@
 <Book Series="Wolverine" Number="180" Volume="1988" Year="2002">
 <Database Name="cv" Series="4250" Issue="93791" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="13" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="13" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114262" />
 </Book>
 <Book Series="Cable" Number="105" Volume="1993" Year="2002">
@@ -396,7 +396,7 @@
 <Book Series="The Uncanny X-Men" Number="407" Volume="1981" Year="2002">
 <Database Name="cv" Series="3092" Issue="105596" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="14" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="14" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114263" />
 </Book>
 <Book Series="Citizen V and the V-Battalion: the Everlasting" Number="1" Volume="2002" Year="2002">
@@ -453,7 +453,7 @@
 <Book Series="Muties" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="25456" Issue="150216" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="15" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="15" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114264" />
 </Book>
 <Book Series="The Punisher" Number="16" Volume="2001" Year="2002">
@@ -573,28 +573,28 @@
 <Book Series="X-Factor" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="24239" Issue="144026" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="1" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128474" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="2" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128475" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="3" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128476" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="4" Volume="2002" Year="2002">
+<Book Series="Tigra" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="9378" Issue="128477" />
 </Book>
-<Book Series="Captain Marvel" Number="32" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="32" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80570" />
 </Book>
-<Book Series="Captain Marvel" Number="33" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="33" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="80571" />
 </Book>
-<Book Series="Captain Marvel" Number="34" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="34" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="106951" />
 </Book>
-<Book Series="Captain Marvel" Number="35" Volume="2000" Year="2002">
+<Book Series="Captain Marvel" Number="35" Volume="1999" Year="2002">
 <Database Name="cv" Series="6458" Issue="106952" />
 </Book>
 <Book Series="Morlocks" Number="1" Volume="2002" Year="2002">
@@ -609,10 +609,10 @@
 <Book Series="Morlocks" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="25428" Issue="158389" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="16" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="16" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114265" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="17" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="17" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114266" />
 </Book>
 <Book Series="Weapon X: The Draft - Sauron" Number="1" Volume="2002" Year="2002">
@@ -639,7 +639,7 @@
 <Book Series="Muties" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="25456" Issue="150218" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="18" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="18" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114267" />
 </Book>
 <Book Series="The Punisher" Number="19" Volume="2001" Year="2003">
@@ -684,7 +684,7 @@
 <Book Series="Muties" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="25456" Issue="150219" />
 </Book>
-<Book Series="Captain America: Red, White &#38; Blue" Number="1" Volume="2002" Year="2007">
+<Book Series="Captain America: Red, White &amp; Blue" Number="1" Volume="2002" Year="2007">
 <Database Name="cv" Series="26426" Issue="157636" />
 </Book>
 <Book Series="Cable" Number="107" Volume="1993" Year="2002">
@@ -1050,7 +1050,7 @@
 <Book Series="Sabretooth: Mary Shelley Overdrive" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="11173" Issue="97867" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="19" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="19" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114268" />
 </Book>
 <Book Series="Exiles" Number="16" Volume="2001" Year="2002">
@@ -1197,13 +1197,13 @@
 <Book Series="Avengers Icons: The Vision" Number="4" Volume="2002" Year="2003">
 <Database Name="cv" Series="9477" Issue="77991" />
 </Book>
-<Book Series="Craptacular B-Sides" Number="1" Volume="2002" Year="2002">
+<Book Series="B-Sides" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="25414" Issue="149999" />
 </Book>
-<Book Series="Craptacular B-Sides" Number="2" Volume="2002" Year="2002">
+<Book Series="B-Sides" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="25414" Issue="150000" />
 </Book>
-<Book Series="Craptacular B-Sides" Number="3" Volume="2002" Year="2003">
+<Book Series="B-Sides" Number="3" Volume="2002" Year="2003">
 <Database Name="cv" Series="25414" Issue="150003" />
 </Book>
 <Book Series="X-Men Unlimited" Number="38" Volume="1993" Year="2002">
@@ -1413,7 +1413,7 @@
 <Book Series="Exiles" Number="19" Volume="2001" Year="2003">
 <Database Name="cv" Series="6983" Issue="105371" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="20" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="20" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114269" />
 </Book>
 <Book Series="Captain America" Number="7" Volume="2002" Year="2002">
@@ -1449,7 +1449,7 @@
 <Book Series="Iron Man" Number="63" Volume="1998" Year="2003">
 <Database Name="cv" Series="6504" Issue="131905" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="21" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="21" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114270" />
 </Book>
 <Book Series="Weapon X" Number="1" Volume="2002" Year="2002">
@@ -1464,10 +1464,10 @@
 <Book Series="Daredevil: The Target" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="25899" Issue="153056" />
 </Book>
-<Book Series="Wolverine &#38; Doop" Number="1" Volume="2003" Year="2003">
+<Book Series="Wolverine &amp; Doop" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="18514" Issue="108701" />
 </Book>
-<Book Series="Wolverine &#38; Doop" Number="2" Volume="2003" Year="2003">
+<Book Series="Wolverine &amp; Doop" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="18514" Issue="108779" />
 </Book>
 <Book Series="Thor" Number="46" Volume="1998" Year="2002">
@@ -1575,16 +1575,16 @@
 <Book Series="Incredible Hulk" Number="44" Volume="2000" Year="2002">
 <Database Name="cv" Series="6558" Issue="112793" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175541" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="2" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175543" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="3" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175546" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="4" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175548" />
 </Book>
 <Book Series="X-Men Unlimited" Number="44" Volume="1993" Year="2003">
@@ -1752,7 +1752,7 @@
 <Book Series="Soldier X" Number="7" Volume="2002" Year="2003">
 <Database Name="cv" Series="9959" Issue="136039" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="22" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="22" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114271" />
 </Book>
 <Book Series="Weapon X" Number="5" Volume="2002" Year="2003">
@@ -2988,16 +2988,16 @@
 <Book Series="Incredible Hulk" Number="76" Volume="2000" Year="2004">
 <Database Name="cv" Series="6558" Issue="99140" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="23574" Issue="141434" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="23574" Issue="176055" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
 <Database Name="cv" Series="23574" Issue="176054" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
 <Database Name="cv" Series="23574" Issue="176053" />
 </Book>
 <Book Series="Avengers" Number="72" Volume="1998" Year="2003">

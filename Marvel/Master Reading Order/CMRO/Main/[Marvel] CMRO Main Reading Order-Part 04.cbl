@@ -594,16 +594,16 @@
 <Book Series="Daredevil" Number="161" Volume="1964" Year="1979">
 <Database Name="cv" Series="2190" Issue="19917" />
 </Book>
-<Book Series="Howard the Duck" Number="28" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="28" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18987" />
 </Book>
-<Book Series="Howard the Duck" Number="29" Volume="1975" Year="1979">
+<Book Series="Howard the Duck" Number="29" Volume="1976" Year="1979">
 <Database Name="cv" Series="2859" Issue="19214" />
 </Book>
-<Book Series="Howard the Duck" Number="30" Volume="1975" Year="1979">
+<Book Series="Howard the Duck" Number="30" Volume="1976" Year="1979">
 <Database Name="cv" Series="2859" Issue="19389" />
 </Book>
-<Book Series="Howard the Duck" Number="31" Volume="1975" Year="1979">
+<Book Series="Howard the Duck" Number="31" Volume="1976" Year="1979">
 <Database Name="cv" Series="2859" Issue="19532" />
 </Book>
 <Book Series="Shogun Warriors" Number="1" Volume="1979" Year="1979">
@@ -735,7 +735,7 @@
 <Book Series="The Human Fly" Number="19" Volume="1977" Year="1979">
 <Database Name="cv" Series="2903" Issue="19368" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="10" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="10" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="19198" />
 </Book>
 <Book Series="Shogun Warriors" Number="4" Volume="1979" Year="1979">

@@ -138,19 +138,19 @@
 <Book Series="I, Vampire" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="43017" Issue="316565" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="1" Volume="2011" Year="2011">
+<Book Series="Hawk &amp; Dove" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42556" Issue="291124" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="2" Volume="2011" Year="2011">
+<Book Series="Hawk &amp; Dove" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="42556" Issue="294058" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="3" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="301016" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="4" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="305590" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="5" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="309358" />
 </Book>
 <Book Series="Justice League Dark" Number="6" Volume="2011" Year="2012">
@@ -168,13 +168,13 @@
 <Book Series="I, Vampire" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="43017" Issue="333406" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="6" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="313686" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="7" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="319043" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="8" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="326840" />
 </Book>
 <Book Series="Sword of Sorcery" Number="0" Volume="2012" Year="2012">

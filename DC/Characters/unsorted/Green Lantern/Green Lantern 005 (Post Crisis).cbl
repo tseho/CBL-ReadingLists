@@ -420,7 +420,7 @@
     <Book Series="Starman" Number="81" Volume="1994" Year="2010">
       <Database Name="cv" Series="5259" Issue="193366" />
     </Book>
-    <Book Series="The Question" Number="37" Volume="1986" Year="2010">
+    <Book Series="The Question" Number="37" Volume="1987" Year="2010">
       <Database Name="cv" Series="3805" Issue="195384" />
     </Book>
     <Book Series="Catwoman" Number="83" Volume="2002" Year="2010">
@@ -450,13 +450,13 @@
     <Book Series="Green Lantern Corps" Number="43" Volume="2006" Year="2010">
       <Database Name="cv" Series="18248" Issue="187621" />
     </Book>
-    <Book Series="Blackest Night: JSA" Number="1" Volume="2009" Year="2010">
+    <Book Series="Blackest Night: JSA" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="30673" Issue="189478" />
     </Book>
-    <Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
+    <Book Series="Blackest Night: JSA" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="30673" Issue="194482" />
     </Book>
-    <Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
+    <Book Series="Blackest Night: JSA" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="30673" Issue="198358" />
     </Book>
     <Book Series="Green Arrow" Number="30" Volume="2010" Year="2010">

@@ -10,19 +10,19 @@
         <Book Series="New Thunderbolts" Number="10" Volume="2005" Year="2005">
             <Database Name="cv" Series="11298" Issue="99222" />
         </Book>
-        <Book Series="House of M: Civil War" Number="1" Volume="2008" Year="2008">
+        <Book Series="Civil War: House of M" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="22973" Issue="138414" />
         </Book>
-        <Book Series="House of M: Civil War" Number="2" Volume="2008" Year="2008">
+        <Book Series="Civil War: House of M" Number="2" Volume="2008" Year="2008">
             <Database Name="cv" Series="22973" Issue="139693" />
         </Book>
-        <Book Series="House of M: Civil War" Number="3" Volume="2008" Year="2009">
+        <Book Series="Civil War: House of M" Number="3" Volume="2008" Year="2009">
             <Database Name="cv" Series="22973" Issue="141552" />
         </Book>
-        <Book Series="House of M: Civil War" Number="4" Volume="2008" Year="2009">
+        <Book Series="Civil War: House of M" Number="4" Volume="2008" Year="2009">
             <Database Name="cv" Series="22973" Issue="145605" />
         </Book>
-        <Book Series="House of M: Civil War" Number="5" Volume="2008" Year="2009">
+        <Book Series="Civil War: House of M" Number="5" Volume="2008" Year="2009">
             <Database Name="cv" Series="22973" Issue="150049" />
         </Book>
         <Book Series="House of M: Masters of Evil" Number="1" Volume="2009" Year="2009">

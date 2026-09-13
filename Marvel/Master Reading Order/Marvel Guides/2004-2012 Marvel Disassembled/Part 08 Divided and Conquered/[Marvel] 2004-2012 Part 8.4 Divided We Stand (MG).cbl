@@ -180,7 +180,7 @@
 <Book Series="X-Men: Manifest Destiny" Number="5" Volume="2008" Year="2009">
 <Database Name="cv" Series="22867" Issue="150496" />
 </Book>
-<Book Series="X-Force Special: Ain't No Dog" Number="1" Volume="2008" Year="2008">
+<Book Series="X-Force Special: Ain&apos;t No Dog" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21817" Issue="131468" />
 </Book>
 <Book Series="Astonishing X-Men" Number="25" Volume="2004" Year="2008">

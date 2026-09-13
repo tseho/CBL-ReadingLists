@@ -438,7 +438,7 @@
 <Book Series="The Savage Sword of Conan" Number="21" Volume="1974" Year="1977">
 <Database Name="cv" Series="2701" Issue="17699" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="2" Volume="1977" Year="1978">
+<Book Series="Marvel Super Special" Number="2" Volume="1978" Year="1978">
 <Database Name="cv" Series="2909" Issue="17014" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="22" Volume="1974" Year="1977">
@@ -579,7 +579,7 @@
 <Book Series="The Savage Sword of Conan" Number="33" Volume="1974" Year="1978">
 <Database Name="cv" Series="2701" Issue="18829" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="9" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="9" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="18101" />
 </Book>
 <Book Series="Conan the Barbarian Annual" Number="4" Volume="1973" Year="1978">
@@ -885,7 +885,7 @@
 <Book Series="The Savage Sword of Conan" Number="79" Volume="1974" Year="1982">
 <Database Name="cv" Series="2701" Issue="22388" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="21" Volume="1977" Year="1982">
+<Book Series="Marvel Super Special" Number="21" Volume="1978" Year="1982">
 <Database Name="cv" Series="2909" Issue="21805" />
 </Book>
 <Book Series="Conan the Barbarian" Number="132" Volume="1970" Year="1982">

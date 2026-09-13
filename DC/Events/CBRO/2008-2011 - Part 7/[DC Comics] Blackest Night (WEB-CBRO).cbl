@@ -168,16 +168,16 @@
 <Book Series="The Power of SHAZAM!" Number="48" Volume="1995" Year="2010">
 <Database Name="cv" Series="5515" Issue="192298" />
 </Book>
-<Book Series="The Question" Number="37" Volume="1986" Year="2010">
+<Book Series="The Question" Number="37" Volume="1987" Year="2010">
 <Database Name="cv" Series="3805" Issue="195384" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="1" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="189478" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="194482" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="198358" />
 </Book>
 <Book Series="Blackest Night: Wonder Woman" Number="1" Volume="2010" Year="2010">

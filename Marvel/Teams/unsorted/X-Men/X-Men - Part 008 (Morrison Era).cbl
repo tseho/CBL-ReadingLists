@@ -771,22 +771,22 @@
     <Book Series="X-Men Unlimited" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="10745" Issue="90577" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="1" Volume="2004" Year="2004">
+    <Book Series="Cable &amp; Deadpool" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="18070" Issue="105801" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="2" Volume="2004" Year="2004">
+    <Book Series="Cable &amp; Deadpool" Number="2" Volume="2004" Year="2004">
       <Database Name="cv" Series="18070" Issue="105828" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="3" Volume="2004" Year="2004">
+    <Book Series="Cable &amp; Deadpool" Number="3" Volume="2004" Year="2004">
       <Database Name="cv" Series="18070" Issue="105829" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="4" Volume="2004" Year="2004">
+    <Book Series="Cable &amp; Deadpool" Number="4" Volume="2004" Year="2004">
       <Database Name="cv" Series="18070" Issue="105831" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="5" Volume="2004" Year="2004">
+    <Book Series="Cable &amp; Deadpool" Number="5" Volume="2004" Year="2004">
       <Database Name="cv" Series="18070" Issue="105830" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="6" Volume="2004" Year="2004">
+    <Book Series="Cable &amp; Deadpool" Number="6" Volume="2004" Year="2004">
       <Database Name="cv" Series="18070" Issue="105832" />
     </Book>
     <Book Series="New X-Men" Number="142" Volume="2001" Year="2003">

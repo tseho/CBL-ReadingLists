@@ -471,13 +471,13 @@
 <Book Series="Silver Surfer: Black" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="119662" Issue="725256" />
 </Book>
-<Book Series="Annihilation - Scourge Alpha" Number="1" Volume="2019" Year="2020">
+<Book Series="Annihilation - Scourge Alpha" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122986" Issue="728414" />
 </Book>
-<Book Series="Annihilation - Scourge: Silver Surfer" Number="1" Volume="2019" Year="2020">
+<Book Series="Annihilation - Scourge: Silver Surfer" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123408" Issue="730328" />
 </Book>
-<Book Series="Annihilation - Scourge Omega" Number="1" Volume="2019" Year="2020">
+<Book Series="Annihilation - Scourge Omega" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123709" Issue="731504" />
 </Book>
 <Book Series="Tarot" Number="1" Volume="2020" Year="2020">
@@ -504,13 +504,13 @@
 <Book Series="Fantastic Four: Antithesis" Number="4" Volume="2020" Year="2021">
 <Database Name="cv" Series="129887" Issue="819485" />
 </Book>
-<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="825507" />
 </Book>
-<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="828857" />
 </Book>
-<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="842204" />
 </Book>
 <Book Series="Defenders" Number="1" Volume="2021" Year="2021">

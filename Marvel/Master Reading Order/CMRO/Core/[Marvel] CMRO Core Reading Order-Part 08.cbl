@@ -21,7 +21,7 @@
 <Book Series="Darkhawk Annual" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="25922" Issue="153170" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="7" Volume="1989" Year="1992">
+<Book Series="West Coast Avengers Annual" Number="7" Volume="1989" Year="1992">
 <Database Name="cv" Series="4219" Issue="35151" />
 </Book>
 <Book Series="Iron Man Annual" Number="13" Volume="1970" Year="1992">
@@ -1932,7 +1932,7 @@
 <Book Series="The New Warriors" Number="39" Volume="1990" Year="1993">
 <Database Name="cv" Series="4407" Issue="70235" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="8" Volume="1989" Year="1993">
+<Book Series="West Coast Avengers Annual" Number="8" Volume="1989" Year="1993">
 <Database Name="cv" Series="4219" Issue="36650" />
 </Book>
 <Book Series="The Punisher" Number="81" Volume="1987" Year="1993">

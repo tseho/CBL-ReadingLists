@@ -819,7 +819,7 @@
 <Book Series="The Punisher" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="41758" Issue="321301" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="6" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="329213" />
 </Book>
 <Book Series="The Punisher" Number="10" Volume="2011" Year="2012">
@@ -1281,13 +1281,13 @@
 <Book Series="War of the Realms Strikeforce: The Land of Giants" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119315" Issue="709738" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="709720" />
 </Book>
 <Book Series="War of the Realms: Journey Into Mystery" Number="2" Volume="2019" Year="2019">
@@ -1359,13 +1359,13 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="712558" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">
@@ -1458,22 +1458,22 @@
 <Book Series="Ravencroft" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="124681" Issue="772338" />
 </Book>
-<Book Series="Punisher: Soviet" Number="1" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="727265" />
 </Book>
-<Book Series="Punisher: Soviet" Number="2" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="730342" />
 </Book>
-<Book Series="Punisher: Soviet" Number="3" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="731976" />
 </Book>
-<Book Series="Punisher: Soviet" Number="4" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="738615" />
 </Book>
-<Book Series="Punisher: Soviet" Number="5" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="740823" />
 </Book>
-<Book Series="Punisher: Soviet" Number="6" Volume="2019" Year="2020">
+<Book Series="Punisher: Soviet" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122818" Issue="743444" />
 </Book>
 <Book Series="Punisher" Number="1" Volume="2022" Year="2022">

@@ -48,7 +48,7 @@
 <Book Series="Hulk: Season One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="51353" Issue="351742" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="4" Volume="2012" Year="2012">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="47809" Issue="345414" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="4" Volume="2012" Year="2012">
@@ -147,10 +147,10 @@
 <Book Series="Wolverine Annual" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="51435" Issue="352699" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="9" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="345394" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="10" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="348057" />
 </Book>
 <Book Series="Captain America" Number="15" Volume="2011" Year="2012">
@@ -303,7 +303,7 @@
 <Book Series="Captain Marvel" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="50575" Issue="364158" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="5" Volume="2012" Year="2012">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="47809" Issue="357736" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="5" Volume="2012" Year="2012">
@@ -339,13 +339,13 @@
 <Book Series="Venom" Number="25" Volume="2011" Year="2012">
 <Database Name="cv" Series="39301" Issue="357713" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="11" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="354168" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="12" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="356765" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="13" Volume="2011" Year="2012">
+<Book Series="Avenging Spider-Man" Number="13" Volume="2012" Year="2012">
 <Database Name="cv" Series="43884" Issue="360928" />
 </Book>
 <Book Series="Fantastic Four" Number="610" Volume="1998" Year="2012">
@@ -513,10 +513,10 @@
 <Book Series="Age of Apocalypse" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="46347" Issue="386131" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="14" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="14" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="366188" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="15" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="15" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="371257" />
 </Book>
 <Book Series="Captain Marvel" Number="7" Volume="2012" Year="2013">
@@ -558,7 +558,7 @@
 <Book Series="Avengers: Season One" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="64453" Issue="386970" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="6" Volume="2012" Year="2012">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="47809" Issue="356771" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="6" Volume="2012" Year="2012">
@@ -639,13 +639,13 @@
 <Book Series="Ultimate Comics Wolverine" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="23238" Issue="404703" />
 </Book>
-<Book Series="Indestructible Hulk" Number="1" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="369012" />
 </Book>
-<Book Series="Indestructible Hulk" Number="2" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="373303" />
 </Book>
-<Book Series="Indestructible Hulk" Number="3" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="380354" />
 </Book>
 <Book Series="Hawkeye" Number="6" Volume="2012" Year="2013">
@@ -666,22 +666,22 @@
 <Book Series="A+X" Number="4" Volume="2012" Year="2013">
 <Database Name="cv" Series="53535" Issue="381409" />
 </Book>
-<Book Series="Deadpool" Number="1" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="365760" />
 </Book>
-<Book Series="Deadpool" Number="2" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="369057" />
 </Book>
-<Book Series="Deadpool" Number="3" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="371106" />
 </Book>
-<Book Series="Deadpool" Number="4" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="381412" />
 </Book>
-<Book Series="Deadpool" Number="5" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="387257" />
 </Book>
-<Book Series="Deadpool" Number="6" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="394707" />
 </Book>
 <Book Series="Avengers Assemble" Number="9" Volume="2012" Year="2013">
@@ -741,16 +741,16 @@
 <Book Series="New Avengers" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="384960" />
 </Book>
-<Book Series="Avengers" Number="1" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="371103" />
 </Book>
-<Book Series="Avengers" Number="2" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="373217" />
 </Book>
-<Book Series="Avengers" Number="3" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="381411" />
 </Book>
-<Book Series="Avengers" Number="4" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="382803" />
 </Book>
 <Book Series="Punisher: War Zone" Number="1" Volume="2012" Year="2012">
@@ -789,7 +789,7 @@
 <Book Series="Doctor Strange: Season One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="52107" Issue="357023" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="7" Volume="2012" Year="2012">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="47809" Issue="360917" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="7" Volume="2012" Year="2012">
@@ -807,7 +807,7 @@
 <Book Series="The Amazing Spider-Man" Number="700" Volume="1963" Year="2013">
 <Database Name="cv" Series="2127" Issue="373805" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="15.1" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="15.1" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="374689" />
 </Book>
 <Book Series="Superior Spider-Man" Number="1" Volume="2013" Year="2013">
@@ -831,7 +831,7 @@
 <Book Series="Daredevil" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="41410" Issue="380379" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="16" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="16" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="380350" />
 </Book>
 <Book Series="Superior Spider-Man" Number="3" Volume="2013" Year="2013">
@@ -888,7 +888,7 @@
 <Book Series="Nova" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="57535" Issue="422500" />
 </Book>
-<Book Series="Avengers" Number="5" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="384953" />
 </Book>
 <Book Series="New Avengers" Number="4" Volume="2013" Year="2013">
@@ -900,16 +900,16 @@
 <Book Series="New Avengers" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="406978" />
 </Book>
-<Book Series="Avengers" Number="6" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="387252" />
 </Book>
-<Book Series="Avengers" Number="7" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="390444" />
 </Book>
-<Book Series="Avengers" Number="8" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="394701" />
 </Book>
-<Book Series="Avengers" Number="9" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="396422" />
 </Book>
 <Book Series="Thor: God of Thunder" Number="1" Volume="2013" Year="2013">
@@ -945,16 +945,16 @@
 <Book Series="Thor: God of Thunder" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="53920" Issue="421696" />
 </Book>
-<Book Series="Indestructible Hulk" Number="4" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="387258" />
 </Book>
-<Book Series="Indestructible Hulk" Number="5" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="394708" />
 </Book>
 <Book Series="Avengers: Endless Wartime" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="67985" Issue="427867" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="8" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="8" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="367810" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="8" Volume="2012" Year="2013">
@@ -993,10 +993,10 @@
 <Book Series="Red She-Hulk" Number="67" Volume="2012" Year="2013">
 <Database Name="cv" Series="52884" Issue="415240" />
 </Book>
-<Book Series="Avengers" Number="10" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="398979" />
 </Book>
-<Book Series="Avengers" Number="11" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="401202" />
 </Book>
 <Book Series="A+X" Number="5" Volume="2012" Year="2013">
@@ -1032,28 +1032,28 @@
 <Book Series="Captain Marvel" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="50575" Issue="397543" />
 </Book>
-<Book Series="All-New X-Men" Number="1" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="367691" />
 </Book>
-<Book Series="All-New X-Men" Number="2" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="370245" />
 </Book>
-<Book Series="All-New X-Men" Number="3" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="371105" />
 </Book>
-<Book Series="All-New X-Men" Number="4" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="373215" />
 </Book>
-<Book Series="All-New X-Men" Number="5" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="376661" />
 </Book>
-<Book Series="All-New X-Men" Number="6" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="380348" />
 </Book>
-<Book Series="All-New X-Men" Number="7" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="384952" />
 </Book>
-<Book Series="All-New X-Men" Number="8" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="390443" />
 </Book>
 <Book Series="Marvel Universe vs. The Avengers" Number="1" Volume="2012" Year="2012">
@@ -1149,7 +1149,7 @@
 <Book Series="Avengers: Saving the Day" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="47329" Issue="324808" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="9" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="9" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="371505" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="9" Volume="2012" Year="2013">
@@ -1314,10 +1314,10 @@
 <Book Series="Guardians of the Galaxy" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="57960" Issue="413659" />
 </Book>
-<Book Series="Avengers" Number="12" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="404693" />
 </Book>
-<Book Series="Avengers" Number="13" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="408990" />
 </Book>
 <Book Series="Thunderbolts" Number="1" Volume="2013" Year="2013">
@@ -1383,7 +1383,7 @@
 <Book Series="Journey into Mystery" Number="655" Volume="2011" Year="2013">
 <Database Name="cv" Series="39761" Issue="423676" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="10" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="10" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="378893" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="10" Volume="2012" Year="2013">
@@ -1479,7 +1479,7 @@
 <Book Series="FF" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="54295" Issue="388555" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="17" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="17" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="388553" />
 </Book>
 <Book Series="Fantastic Four" Number="4" Volume="2013" Year="2013">
@@ -1629,7 +1629,7 @@
 <Book Series="Savage Wolverine" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="55802" Issue="425937" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="11" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="11" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="386136" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="11" Volume="2012" Year="2013">
@@ -1686,25 +1686,25 @@
 <Book Series="Uncanny X-Men" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="392362" />
 </Book>
-<Book Series="All-New X-Men" Number="9" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="394700" />
 </Book>
-<Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="395700" />
 </Book>
-<Book Series="All-New X-Men" Number="11" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="400145" />
 </Book>
 <Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="396436" />
 </Book>
-<Book Series="All-New X-Men" Number="12" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="408989" />
 </Book>
-<Book Series="All-New X-Men" Number="13" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="413652" />
 </Book>
-<Book Series="All-New X-Men" Number="14" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="417830" />
 </Book>
 <Book Series="Uncanny X-Men" Number="5" Volume="2013" Year="2013">
@@ -1833,13 +1833,13 @@
 <Book Series="Iron Man: Season One" Number="11" Volume="2013" Year="1997">
 <Database Name="cv" Series="59571" Issue="44219" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="12" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="392356" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="48343" Issue="395252" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="18" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="18" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="392353" />
 </Book>
 <Book Series="Superior Spider-Man" Number="6" Volume="2013" Year="2013">
@@ -1908,22 +1908,22 @@
 <Book Series="Hawkeye" Number="22" Volume="2012" Year="2015">
 <Database Name="cv" Series="50941" Issue="495272" />
 </Book>
-<Book Series="Deadpool" Number="7" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="395701" />
 </Book>
-<Book Series="Deadpool" Number="8" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="398981" />
 </Book>
-<Book Series="Deadpool" Number="9" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="401205" />
 </Book>
-<Book Series="Deadpool" Number="10" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="404695" />
 </Book>
-<Book Series="Deadpool" Number="11" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="410319" />
 </Book>
-<Book Series="Deadpool" Number="12" Volume="2012" Year="2013">
+<Book Series="Deadpool" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="53726" Issue="413656" />
 </Book>
 <Book Series="Venom" Number="40" Volume="2011" Year="2013">
@@ -1974,7 +1974,7 @@
 <Book Series="X-Factor" Number="262" Volume="2006" Year="2013">
 <Database Name="cv" Series="18109" Issue="424542" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="13" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="13" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="396429" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="13" Volume="2012" Year="2013">
@@ -2004,13 +2004,13 @@
 <Book Series="Secret Avengers" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="57180" Issue="421694" />
 </Book>
-<Book Series="Indestructible Hulk" Number="6" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="395702" />
 </Book>
-<Book Series="Indestructible Hulk" Number="7" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="400147" />
 </Book>
-<Book Series="Indestructible Hulk" Number="8" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="406975" />
 </Book>
 <Book Series="Uncanny Avengers" Number="6" Volume="2012" Year="2013">
@@ -2145,7 +2145,7 @@
 <Book Series="Uncanny X-Force" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="56119" Issue="428302" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="19" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="19" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="396425" />
 </Book>
 <Book Series="Superior Spider-Man" Number="7" Volume="2013" Year="2013">
@@ -2160,16 +2160,16 @@
 <Book Series="Superior Spider-Man" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="55552" Issue="404702" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="20" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="20" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="401204" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="21" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="21" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="406971" />
 </Book>
 <Book Series="Wolverine: Season One" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="62974" Issue="409245" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="14" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="14" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="401208" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="14" Volume="2012" Year="2013">
@@ -2235,10 +2235,10 @@
 <Book Series="Cable and X-Force" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="54644" Issue="436193" />
 </Book>
-<Book Series="Indestructible Hulk" Number="9" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="411829" />
 </Book>
-<Book Series="Indestructible Hulk" Number="10" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="416944" />
 </Book>
 <Book Series="Superior Spider-Man" Number="11" Volume="2013" Year="2013">
@@ -2250,7 +2250,7 @@
 <Book Series="Superior Spider-Man" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="55552" Issue="416946" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="22" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="22" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="410784" />
 </Book>
 <Book Series="A+X" Number="10" Volume="2012" Year="2013">
@@ -2388,64 +2388,64 @@
 <Book Series="Superior Carnage" Number="5" Volume="2013" Year="2014">
 <Database Name="cv" Series="65378" Issue="435065" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="15" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="15" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="420771" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="15" Volume="2012" Year="2013">
 <Database Name="cv" Series="48343" Issue="413662" />
 </Book>
-<Book Series="Indestructible Hulk" Number="11" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="419970" />
 </Book>
-<Book Series="Indestructible Hulk" Number="12" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="422498" />
 </Book>
-<Book Series="Indestructible Hulk" Number="13" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="425028" />
 </Book>
-<Book Series="Indestructible Hulk" Number="14" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="430754" />
 </Book>
-<Book Series="Indestructible Hulk" Number="15" Volume="2012" Year="2014">
+<Book Series="Indestructible Hulk" Number="15" Volume="2013" Year="2014">
 <Database Name="cv" Series="54112" Issue="433846" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="1" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="417055" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="2" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="417980" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="3" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="418933" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="4" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="420204" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="5" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="420881" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="6" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="421826" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="7" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="422682" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="8" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="423823" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="9" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="424746" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="10" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="425138" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="11" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="426043" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="12" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="426965" />
 </Book>
-<Book Series="Wolverine: Japan's Most Wanted: Infinite Comic" Number="13" Volume="2013" Year="2013">
+<Book Series="Wolverine: Japan&apos;s Most Wanted: Infinite Comic" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="65112" Issue="427808" />
 </Book>
 <Book Series="Thunderbolts" Number="12" Volume="2013" Year="2013">
@@ -2526,52 +2526,52 @@
 <Book Series="Cataclysm" Number="0.1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68720" Issue="431438" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="433170" />
 </Book>
-<Book Series="Cataclysm: Ultimate X-Men" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate X-Men" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69571" Issue="435050" />
 </Book>
-<Book Series="Cataclysm: Ultimate X-Men" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate X-Men" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69571" Issue="437486" />
 </Book>
-<Book Series="Cataclysm: Ultimate X-Men" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate X-Men" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69571" Issue="442918" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="432326" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="433843" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="435576" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="436196" />
 </Book>
-<Book Series="Cataclysm: The Ultimates" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69371" Issue="442163" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="436197" />
 </Book>
-<Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="69122" Issue="441410" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="441409" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="4" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="443980" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="5" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="68921" Issue="446478" />
 </Book>
 <Book Series="Survive" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72583" Issue="448980" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="16" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="16" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="420772" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="16" Volume="2012" Year="2013">
@@ -2586,7 +2586,7 @@
 <Book Series="AAFES 16th Edition" Number="16" Volume="2013" Year="2013">
 <Database Name="cv" Series="75292" Issue="458417" />
 </Book>
-<Book Series="All-New X-Men" Number="15" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="420633" />
 </Book>
 <Book Series="All-New X-Men Special" Number="1" Volume="2013" Year="2013">
@@ -2748,10 +2748,10 @@
 <Book Series="Captain America: Living Legend" Number="4" Volume="2013" Year="2014">
 <Database Name="cv" Series="67917" Issue="436195" />
 </Book>
-<Book Series="Thunderbolts Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Thunderbolts Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="70061" Issue="437498" />
 </Book>
-<Book Series="Avengers Earth's Mightiest Heroes" Number="17" Volume="2012" Year="2013">
+<Book Series="Avengers Earth&apos;s Mightiest Heroes" Number="17" Volume="2012" Year="2013">
 <Database Name="cv" Series="47809" Issue="420644" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="17" Volume="2012" Year="2013">
@@ -2760,16 +2760,16 @@
 <Book Series="LEGO Marvel Super Heroes" Number="6" Volume="2012" Year="2013">
 <Database Name="cv" Series="70088" Issue="437607" />
 </Book>
-<Book Series="Avengers" Number="14" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="411825" />
 </Book>
-<Book Series="Avengers" Number="15" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="415233" />
 </Book>
-<Book Series="Avengers" Number="16" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="16" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="417831" />
 </Book>
-<Book Series="Avengers" Number="17" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="17" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="420634" />
 </Book>
 <Book Series="Infinity" Number="1" Volume="2013" Year="2013">
@@ -2811,7 +2811,7 @@
 <Book Series="Mighty Avengers" Number="3" Volume="2013" Year="2014">
 <Database Name="cv" Series="67223" Issue="432335" />
 </Book>
-<Book Series="Avengers" Number="18" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="18" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="422493" />
 </Book>
 <Book Series="Avengers Assemble" Number="18" Volume="2012" Year="2013">
@@ -2829,7 +2829,7 @@
 <Book Series="Thunderbolts" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="54429" Issue="425942" />
 </Book>
-<Book Series="Avengers" Number="19" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="19" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="425022" />
 </Book>
 <Book Series="Infinity" Number="3" Volume="2013" Year="2013">
@@ -2841,7 +2841,7 @@
 <Book Series="Avengers Assemble" Number="19" Volume="2012" Year="2013">
 <Database Name="cv" Series="46569" Issue="426872" />
 </Book>
-<Book Series="Avengers" Number="20" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="20" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="426871" />
 </Book>
 <Book Series="Infinity" Number="4" Volume="2013" Year="2013">
@@ -2859,7 +2859,7 @@
 <Book Series="Infinity: Heist" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="67698" Issue="426877" />
 </Book>
-<Book Series="Avengers" Number="21" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="21" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="428855" />
 </Book>
 <Book Series="New Avengers" Number="11" Volume="2013" Year="2013">
@@ -2889,7 +2889,7 @@
 <Book Series="Infinity" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="66319" Issue="431441" />
 </Book>
-<Book Series="Avengers" Number="22" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="22" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="431435" />
 </Book>
 <Book Series="Infinity: Heist" Number="3" Volume="2013" Year="2014">
@@ -2904,7 +2904,7 @@
 <Book Series="Infinity: The Hunt" Number="4" Volume="2013" Year="2014">
 <Database Name="cv" Series="67222" Issue="435057" />
 </Book>
-<Book Series="Avengers" Number="23" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="433840" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="8" Volume="2013" Year="2013">
@@ -2919,7 +2919,7 @@
 <Book Series="New Avengers" Number="12" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="435060" />
 </Book>
-<Book Series="Wolverine &amp; the X-Men Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Wolverine &amp; the X-Men Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69573" Issue="435070" />
 </Book>
 <Book Series="Thanos: A God Up There Listening" Number="1" Volume="2014" Year="2014">
@@ -2988,10 +2988,10 @@
 <Book Series="Superior Spider-Man" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="55552" Issue="433177" />
 </Book>
-<Book Series="Superior Spider-Man Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Superior Spider-Man Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69348" Issue="433849" />
 </Book>
-<Book Series="Inhumanity" Number="1" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="435583" />
 </Book>
 </Books>

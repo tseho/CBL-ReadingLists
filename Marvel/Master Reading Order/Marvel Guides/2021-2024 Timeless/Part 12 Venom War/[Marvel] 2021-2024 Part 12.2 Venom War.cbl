@@ -18,13 +18,13 @@
         <Book Series="Venom War" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="159190" Issue="1066309" />
         </Book>
-        <Book Series="Venom" Number="36" Volume="2021" Year="2024">
+        <Book Series="Venom" Number="36" Volume="2022" Year="2024">
             <Database Name="cv" Series="140084" Issue="1066708" />
         </Book>
-        <Book Series="Venom" Number="37" Volume="2021" Year="2024">
+        <Book Series="Venom" Number="37" Volume="2022" Year="2024">
             <Database Name="cv" Series="140084" Issue="1069424" />
         </Book>
-        <Book Series="Venom" Number="38" Volume="2021" Year="2024">
+        <Book Series="Venom" Number="38" Volume="2022" Year="2024">
             <Database Name="cv" Series="140084" Issue="1073276" />
         </Book>
         <Book Series="Venom War: Spider-Man" Number="1" Volume="2024" Year="2024">
@@ -42,13 +42,13 @@
         <Book Series="Venom War: Venomous" Number="2" Volume="2024" Year="2024">
             <Database Name="cv" Series="159326" Issue="1070141" />
         </Book>
-        <Book Series="Venom War: Zombiotes" Number="1" Volume="2024" Year="2024">
+        <Book Series="Venom War: Zombiotes!" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="159486" Issue="1067989" />
         </Book>
-        <Book Series="Venom War: Zombiotes" Number="2" Volume="2024" Year="2024">
+        <Book Series="Venom War: Zombiotes!" Number="2" Volume="2024" Year="2024">
             <Database Name="cv" Series="159486" Issue="1071612" />
         </Book>
-        <Book Series="Venom War: Zombiotes" Number="3" Volume="2024" Year="2024">
+        <Book Series="Venom War: Zombiotes!" Number="3" Volume="2024" Year="2024">
             <Database Name="cv" Series="159486" Issue="1075690" />
         </Book>
         <Book Series="Venom War: Lethal Protectors" Number="1" Volume="2024" Year="2024">
@@ -60,7 +60,7 @@
         <Book Series="Venom War: Lethal Protectors" Number="3" Volume="2024" Year="2025">
             <Database Name="cv" Series="159814" Issue="1078510" />
         </Book>
-        <Book Series="Venom War: It’s Jeff!" Number="1" Volume="2025" Year="2025">
+        <Book Series="Venom War: It&apos;s Jeff!" Number="1" Volume="2025" Year="2025">
             <Database Name="cv" Series="161144" Issue="1078509" />
         </Book>
         <Book Series="Venom War: Daredevil" Number="1" Volume="2024" Year="2024">
@@ -93,7 +93,7 @@
         <Book Series="Venom War" Number="4" Volume="2024" Year="2025">
             <Database Name="cv" Series="159190" Issue="1076639" />
         </Book>
-        <Book Series="Venom" Number="39" Volume="2021" Year="2025">
+        <Book Series="Venom" Number="39" Volume="2022" Year="2025">
             <Database Name="cv" Series="140084" Issue="1077649" />
         </Book>
         <Book Series="Venom War: Spider-Man" Number="4" Volume="2024" Year="2025">

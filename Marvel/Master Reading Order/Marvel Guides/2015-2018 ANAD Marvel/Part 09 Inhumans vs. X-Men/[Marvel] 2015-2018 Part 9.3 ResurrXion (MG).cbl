@@ -127,25 +127,25 @@
         <Book Series="Generation X" Number="9" Volume="2017" Year="2018">
             <Database Name="cv" Series="101478" Issue="641404" />
         </Book>
-        <Book Series="Mighty Thor" Number="13" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="558971" />
         </Book>
-        <Book Series="Mighty Thor" Number="14" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="14" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="571674" />
         </Book>
-        <Book Series="Mighty Thor" Number="15" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="575875" />
         </Book>
-        <Book Series="Mighty Thor" Number="16" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="16" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="581561" />
         </Book>
-        <Book Series="Mighty Thor" Number="17" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="17" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="587411" />
         </Book>
-        <Book Series="Mighty Thor" Number="18" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="18" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="593265" />
         </Book>
-        <Book Series="Mighty Thor" Number="19" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="19" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="595694" />
         </Book>
         <Book Series="Generation X" Number="85" Volume="2017" Year="2018">
@@ -205,22 +205,22 @@
         <Book Series="Iceman" Number="11" Volume="2017" Year="2018">
             <Database Name="cv" Series="101937" Issue="662089" />
         </Book>
-        <Book Series="All-New Wolverine" Number="19" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="19" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="590785" />
         </Book>
-        <Book Series="All-New Wolverine" Number="20" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="20" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="594954" />
         </Book>
-        <Book Series="All-New Wolverine" Number="21" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="21" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="601783" />
         </Book>
-        <Book Series="All-New Wolverine" Number="22" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="22" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="606616" />
         </Book>
-        <Book Series="All-New Wolverine" Number="23" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="23" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="613782" />
         </Book>
-        <Book Series="All-New Wolverine" Number="24" Volume="2015" Year="2017">
+        <Book Series="All-New Wolverine" Number="24" Volume="2016" Year="2017">
             <Database Name="cv" Series="85930" Issue="621655" />
         </Book>
         <Book Series="Old Man Logan" Number="25" Volume="2016" Year="2017">

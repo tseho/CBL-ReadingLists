@@ -12,10 +12,10 @@
 <Book Series="Batwing" Number="26" Volume="2011" Year="2014">
 <Database Name="cv" Series="42602" Issue="435542" />
 </Book>
-<Book Series="Worlds' Finest" Number="14" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="14" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="416912" />
 </Book>
-<Book Series="Worlds' Finest" Number="15" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="15" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="421665" />
 </Book>
 <Book Series="Earth 2" Number="15.1" Volume="2012" Year="2013">
@@ -66,10 +66,10 @@
 <Book Series="Red Hood and the Outlaws Annual" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="62346" Issue="406952" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="9" Volume="2013" Year="2014">
+<Book Series="Justice League of America&apos;s Vibe" Number="9" Volume="2013" Year="2014">
 <Database Name="cv" Series="57486" Issue="433120" />
 </Book>
-<Book Series="Justice League of America's Vibe" Number="10" Volume="2013" Year="2014">
+<Book Series="Justice League of America&apos;s Vibe" Number="10" Volume="2013" Year="2014">
 <Database Name="cv" Series="57486" Issue="437424" />
 </Book>
 <Book Series="Green Arrow" Number="26" Volume="2011" Year="2014">
@@ -132,13 +132,13 @@
 <Book Series="Batwing" Number="32" Volume="2011" Year="2014">
 <Database Name="cv" Series="42602" Issue="455432" />
 </Book>
-<Book Series="Worlds' Finest" Number="16" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="16" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="428260" />
 </Book>
-<Book Series="Worlds' Finest" Number="17" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="17" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="433122" />
 </Book>
-<Book Series="Worlds' Finest" Number="18" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="18" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="436158" />
 </Book>
 <Book Series="Catwoman" Number="29" Volume="2011" Year="2014">
@@ -360,25 +360,25 @@
 <Book Series="Birds of Prey" Number="31" Volume="2011" Year="2014">
 <Database Name="cv" Series="42806" Issue="453358" />
 </Book>
-<Book Series="Worlds' Finest Annual" Number="1" Volume="2014" Year="2014">
+<Book Series="Worlds&apos; Finest Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="71304" Issue="443955" />
 </Book>
-<Book Series="Worlds' Finest" Number="19" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="19" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="442116" />
 </Book>
 <Book Series="Batman/Superman" Number="8" Volume="2013" Year="2014">
 <Database Name="cv" Series="64203" Issue="446427" />
 </Book>
-<Book Series="Worlds' Finest" Number="20" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="20" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="446438" />
 </Book>
 <Book Series="Batman/Superman" Number="9" Volume="2013" Year="2014">
 <Database Name="cv" Series="64203" Issue="451040" />
 </Book>
-<Book Series="Worlds' Finest" Number="21" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="21" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="448921" />
 </Book>
-<Book Series="Worlds' Finest" Number="22" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="22" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="450043" />
 </Book>
 <Book Series="Batman: The Dark Knight" Number="28" Volume="2011" Year="2014">
@@ -630,10 +630,10 @@
 <Book Series="The Flash" Number="40" Volume="2011" Year="2015">
 <Database Name="cv" Series="43018" Issue="483305" />
 </Book>
-<Book Series="Worlds' Finest" Number="23" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="23" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="452812" />
 </Book>
-<Book Series="Worlds' Finest" Number="24" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="24" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="455981" />
 </Book>
 <Book Series="Justice League Dark" Number="33" Volume="2011" Year="2014">
@@ -684,22 +684,22 @@
 <Book Series="Harley Quinn" Number="13" Volume="2013" Year="2015">
 <Database Name="cv" Series="69322" Issue="474565" />
 </Book>
-<Book Series="Harley Quinn/Power Girl" Number="1" Volume="2015" Year="2015">
+<Book Series="Harley Quinn and Power Girl" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82657" Issue="492161" />
 </Book>
-<Book Series="Harley Quinn/Power Girl" Number="2" Volume="2015" Year="2015">
+<Book Series="Harley Quinn and Power Girl" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82657" Issue="495780" />
 </Book>
-<Book Series="Harley Quinn/Power Girl" Number="3" Volume="2015" Year="2015">
+<Book Series="Harley Quinn and Power Girl" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82657" Issue="497917" />
 </Book>
-<Book Series="Harley Quinn/Power Girl" Number="4" Volume="2015" Year="2015">
+<Book Series="Harley Quinn and Power Girl" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82657" Issue="500556" />
 </Book>
-<Book Series="Harley Quinn/Power Girl" Number="5" Volume="2015" Year="2016">
+<Book Series="Harley Quinn and Power Girl" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="82657" Issue="504916" />
 </Book>
-<Book Series="Harley Quinn/Power Girl" Number="6" Volume="2015" Year="2016">
+<Book Series="Harley Quinn and Power Girl" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="82657" Issue="509682" />
 </Book>
 <Book Series="Action Comics" Number="26" Volume="2011" Year="2014">
@@ -1077,34 +1077,34 @@
 <Book Series="Earth 2" Number="26" Volume="2012" Year="2014">
 <Database Name="cv" Series="48505" Issue="461686" />
 </Book>
-<Book Series="Worlds' Finest" Number="25" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="459132" />
 </Book>
-<Book Series="Worlds' Finest" Number="26" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="26" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="462212" />
 </Book>
-<Book Series="Earth 2: World's End" Number="1" Volume="2014" Year="2014">
+<Book Series="Earth 2: World&apos;s End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77406" Issue="467598" />
 </Book>
-<Book Series="Worlds' Finest" Number="27" Volume="2012" Year="2014">
+<Book Series="Worlds&apos; Finest" Number="27" Volume="2012" Year="2014">
 <Database Name="cv" Series="48417" Issue="467606" />
 </Book>
-<Book Series="Worlds' Finest" Number="28" Volume="2012" Year="2015">
+<Book Series="Worlds&apos; Finest" Number="28" Volume="2012" Year="2015">
 <Database Name="cv" Series="48417" Issue="469799" />
 </Book>
-<Book Series="Worlds' Finest" Number="29" Volume="2012" Year="2015">
+<Book Series="Worlds&apos; Finest" Number="29" Volume="2012" Year="2015">
 <Database Name="cv" Series="48417" Issue="472843" />
 </Book>
-<Book Series="Worlds' Finest" Number="30" Volume="2012" Year="2015">
+<Book Series="Worlds&apos; Finest" Number="30" Volume="2012" Year="2015">
 <Database Name="cv" Series="48417" Issue="475896" />
 </Book>
-<Book Series="Worlds' Finest" Number="31" Volume="2012" Year="2015">
+<Book Series="Worlds&apos; Finest" Number="31" Volume="2012" Year="2015">
 <Database Name="cv" Series="48417" Issue="479210" />
 </Book>
-<Book Series="Worlds' Finest" Number="32" Volume="2012" Year="2015">
+<Book Series="Worlds&apos; Finest" Number="32" Volume="2012" Year="2015">
 <Database Name="cv" Series="48417" Issue="482121" />
 </Book>
-<Book Series="Earth 2: World's End" Number="2" Volume="2014" Year="2014">
+<Book Series="Earth 2: World&apos;s End" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="77406" Issue="468020" />
 </Book>
 <Book Series="Constantine" Number="18" Volume="2013" Year="2014">
@@ -1125,7 +1125,7 @@
 <Book Series="Constantine" Number="23" Volume="2013" Year="2015">
 <Database Name="cv" Series="59156" Issue="482114" />
 </Book>
-<Book Series="Earth 2: World's End" Number="3" Volume="2014" Year="2014">
+<Book Series="Earth 2: World&apos;s End" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="77406" Issue="468410" />
 </Book>
 <Book Series="Earth 2" Number="27" Volume="2012" Year="2014">
@@ -1134,16 +1134,16 @@
 <Book Series="Earth 2" Number="28" Volume="2012" Year="2015">
 <Database Name="cv" Series="48505" Issue="469427" />
 </Book>
-<Book Series="Earth 2: World's End" Number="4" Volume="2014" Year="2014">
+<Book Series="Earth 2: World&apos;s End" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="77406" Issue="468861" />
 </Book>
-<Book Series="Earth 2: World's End" Number="5" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="5" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="469428" />
 </Book>
-<Book Series="Earth 2: World's End" Number="6" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="6" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="469793" />
 </Book>
-<Book Series="Earth 2: World's End" Number="7" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="7" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="470369" />
 </Book>
 <Book Series="Detective Comics" Number="35" Volume="2011" Year="2014">
@@ -1164,7 +1164,7 @@
 <Book Series="Detective Comics" Number="40" Volume="2011" Year="2015">
 <Database Name="cv" Series="42594" Issue="481563" />
 </Book>
-<Book Series="Harley Quinn Valentine's Day Special" Number="1" Volume="2015" Year="2015">
+<Book Series="Harley Quinn Valentine&apos;s Day Special" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79967" Issue="479204" />
 </Book>
 <Book Series="Harley Quinn" Number="14" Volume="2013" Year="2015">
@@ -1176,73 +1176,73 @@
 <Book Series="Harley Quinn" Number="16" Volume="2013" Year="2015">
 <Database Name="cv" Series="69322" Issue="484845" />
 </Book>
-<Book Series="Earth 2: World's End" Number="8" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="471252" />
 </Book>
 <Book Series="Earth 2" Number="29" Volume="2012" Year="2015">
 <Database Name="cv" Series="48505" Issue="471915" />
 </Book>
-<Book Series="Earth 2: World's End" Number="9" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="471916" />
 </Book>
 <Book Series="Earth 2" Number="30" Volume="2012" Year="2015">
 <Database Name="cv" Series="48505" Issue="475412" />
 </Book>
-<Book Series="Earth 2: World's End" Number="10" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="10" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="472836" />
 </Book>
-<Book Series="Earth 2: World's End" Number="11" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="11" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="473588" />
 </Book>
-<Book Series="Earth 2: World's End" Number="12" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="474559" />
 </Book>
-<Book Series="Earth 2: World's End" Number="13" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="13" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="475074" />
 </Book>
-<Book Series="Earth 2: World's End" Number="14" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="14" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="475411" />
 </Book>
-<Book Series="Earth 2: World's End" Number="15" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="15" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="475889" />
 </Book>
-<Book Series="Earth 2: World's End" Number="16" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="16" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="476743" />
 </Book>
-<Book Series="Earth 2: World's End" Number="17" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="17" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="477793" />
 </Book>
-<Book Series="Earth 2: World's End" Number="18" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="18" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="478566" />
 </Book>
 <Book Series="Earth 2" Number="31" Volume="2012" Year="2015">
 <Database Name="cv" Series="48505" Issue="478565" />
 </Book>
-<Book Series="Earth 2: World's End" Number="19" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="19" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="479201" />
 </Book>
-<Book Series="Earth 2: World's End" Number="20" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="20" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="479931" />
 </Book>
-<Book Series="Earth 2: World's End" Number="21" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="21" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="480627" />
 </Book>
 <Book Series="Earth 2" Number="32" Volume="2012" Year="2015">
 <Database Name="cv" Series="48505" Issue="481564" />
 </Book>
-<Book Series="Earth 2: World's End" Number="22" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="22" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="481565" />
 </Book>
-<Book Series="Earth 2: World's End" Number="23" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="23" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="482116" />
 </Book>
-<Book Series="Earth 2: World's End" Number="24" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="24" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="482619" />
 </Book>
-<Book Series="Earth 2: World's End" Number="25" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="25" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="483303" />
 </Book>
-<Book Series="Earth 2: World's End" Number="26" Volume="2014" Year="2015">
+<Book Series="Earth 2: World&apos;s End" Number="26" Volume="2014" Year="2015">
 <Database Name="cv" Series="77406" Issue="484842" />
 </Book>
 <Book Series="Batman Eternal" Number="21" Volume="2014" Year="2014">

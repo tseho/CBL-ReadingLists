@@ -141,10 +141,10 @@
 <Book Series="Captain America Comics" Number="73" Volume="1941" Year="1949">
 <Database Name="cv" Series="1628" Issue="140220" />
 </Book>
-<Book Series="Captain America's Weird Tales" Number="74" Volume="1949" Year="1949">
+<Book Series="Captain America&apos;s Weird Tales" Number="74" Volume="1949" Year="1949">
 <Database Name="cv" Series="51066" Issue="140224" />
 </Book>
-<Book Series="Captain America's Weird Tales" Number="75" Volume="1949" Year="1950">
+<Book Series="Captain America&apos;s Weird Tales" Number="75" Volume="1949" Year="1950">
 <Database Name="cv" Series="51066" Issue="140225" />
 </Book>
 </Books>

@@ -12,7 +12,7 @@
 <Book Series="World War Hulk" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18686" Issue="110435" />
 </Book>
-<Book Series="Iron Man" Number="19" Volume="2004" Year="2007">
+<Book Series="Iron Man" Number="19" Volume="2005" Year="2007">
 <Database Name="cv" Series="18220" Issue="110667" />
 </Book>
 <Book Series="Heroes for Hire" Number="11" Volume="2006" Year="2007">
@@ -48,7 +48,7 @@
 <Book Series="World War Hulk: Gamma Corps" Number="4" Volume="2007" Year="2008">
 <Database Name="cv" Series="18903" Issue="117844" />
 </Book>
-<Book Series="Iron Man" Number="20" Volume="2004" Year="2007">
+<Book Series="Iron Man" Number="20" Volume="2005" Year="2007">
 <Database Name="cv" Series="18220" Issue="111936" />
 </Book>
 <Book Series="World War Hulk: X-Men" Number="1" Volume="2007" Year="2007">
@@ -135,28 +135,28 @@
 <Book Series="Incredible Hercules" Number="115" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="125757" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Damage Control" Number="1" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Damage Control" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20402" Issue="122005" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Damage Control" Number="2" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Damage Control" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="20402" Issue="124233" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Damage Control" Number="3" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Damage Control" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="20402" Issue="126245" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="120239" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="2" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Warbound" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="125754" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="3" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Warbound" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="125758" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="4" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Warbound" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="125756" />
 </Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="5" Volume="2008" Year="2008">
+<Book Series="WWH Aftersmash: Warbound" Number="5" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="156498" />
 </Book>
 </Books>

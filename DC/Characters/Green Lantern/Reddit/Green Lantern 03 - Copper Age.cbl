@@ -408,7 +408,7 @@
 <Book Series="Green Lantern" Number="25" Volume="1990" Year="1992">
 <Database Name="cv" Series="4363" Issue="35750" />
 </Book>
-<Book Series="Green Lantern: Ganthet's Tale" Number="1" Volume="1992" Year="1992">
+<Book Series="Green Lantern: Ganthet&apos;s Tale" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="22313" Issue="134179" />
 </Book>
 <Book Series="Green Lantern" Number="26" Volume="1990" Year="1992">
@@ -657,7 +657,7 @@
 <Book Series="The Darkstars" Number="20" Volume="1992" Year="1994">
 <Database Name="cv" Series="7273" Issue="76339" />
 </Book>
-<Book Series="Showcase '93" Number="12" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="12" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="134659" />
 </Book>
 <Book Series="Superman" Number="81" Volume="1987" Year="1993">

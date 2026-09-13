@@ -14,10 +14,10 @@
         <Book Series="Thor" Number="13" Volume="2018" Year="2019">
             <Database Name="cv" Series="111590" Issue="710121" />
         </Book>
-        <Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+        <Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
             <Database Name="cv" Series="116160" Issue="711332" />
         </Book>
-        <Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+        <Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
             <Database Name="cv" Series="116160" Issue="712551" />
         </Book>
         <Book Series="War of the Realms Strikeforce: The Land of Giants" Number="1" Volume="2019"
@@ -45,15 +45,15 @@
         <Book Series="War of the Realms: Journey Into Mystery" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="118281" Issue="711966" />
         </Book>
-        <Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1"
+        <Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1"
             Volume="2019" Year="2019">
             <Database Name="cv" Series="119169" Issue="709219" />
         </Book>
-        <Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2"
+        <Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2"
             Volume="2019" Year="2019">
             <Database Name="cv" Series="119169" Issue="710123" />
         </Book>
-        <Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3"
+        <Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3"
             Volume="2019" Year="2019">
             <Database Name="cv" Series="119169" Issue="711967" />
         </Book>

@@ -24,7 +24,7 @@
 <Book Series="Spider-Island: The Amazing Spider-Girl" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="42131" Issue="292619" />
 </Book>
-<Book Series="Spider-Island: The Avengers" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42663" Issue="292003" />
 </Book>
 <Book Series="Spider-Island: I Love New York City" Number="1" Volume="2011" Year="2011">

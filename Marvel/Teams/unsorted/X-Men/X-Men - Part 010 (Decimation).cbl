@@ -42,19 +42,19 @@
     <Book Series="Decimation: House of M - The Day After" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="18132" Issue="106215" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="19" Volume="2004" Year="2005">
+    <Book Series="Cable &amp; Deadpool" Number="19" Volume="2004" Year="2005">
       <Database Name="cv" Series="18070" Issue="106396" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="20" Volume="2004" Year="2005">
+    <Book Series="Cable &amp; Deadpool" Number="20" Volume="2004" Year="2005">
       <Database Name="cv" Series="18070" Issue="106407" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="21" Volume="2004" Year="2005">
+    <Book Series="Cable &amp; Deadpool" Number="21" Volume="2004" Year="2005">
       <Database Name="cv" Series="18070" Issue="106408" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="22" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="22" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106409" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="23" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="23" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106410" />
     </Book>
     <Book Series="X-Men" Number="177" Volume="2004" Year="2006">
@@ -204,16 +204,16 @@
     <Book Series="Wolverine" Number="41" Volume="2003" Year="2006">
       <Database Name="cv" Series="10809" Issue="113031" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="24" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="24" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106411" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="25" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="25" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106412" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="26" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="26" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106413" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="27" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="27" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106414" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="469" Volume="1981" Year="2006">
@@ -309,10 +309,10 @@
     <Book Series="X-Men" Number="187" Volume="2004" Year="2006">
       <Database Name="cv" Series="10731" Issue="106212" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="28" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="28" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106442" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="29" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="29" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106443" />
     </Book>
     <Book Series="New Excalibur" Number="10" Volume="2006" Year="2006">
@@ -513,13 +513,13 @@
     <Book Series="Civil War" Number="7" Volume="2006" Year="2007">
       <Database Name="cv" Series="18023" Issue="106626" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="30" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="30" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106444" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="31" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="31" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106445" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="32" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="32" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106446" />
     </Book>
     <Book Series="New X-Men" Number="28" Volume="2004" Year="2006">
@@ -534,13 +534,13 @@
     <Book Series="New X-Men" Number="31" Volume="2004" Year="2006">
       <Database Name="cv" Series="18078" Issue="106358" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="33" Volume="2004" Year="2006">
+    <Book Series="Cable &amp; Deadpool" Number="33" Volume="2004" Year="2006">
       <Database Name="cv" Series="18070" Issue="106447" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="34" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="34" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="106448" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="35" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="35" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="106075" />
     </Book>
     <Book Series="New X-Men" Number="32" Volume="2004" Year="2007">
@@ -561,16 +561,16 @@
     <Book Series="New Excalibur" Number="15" Volume="2006" Year="2007">
       <Database Name="cv" Series="18019" Issue="106205" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="36" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="36" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="107058" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="37" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="37" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="107253" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="38" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="38" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="107252" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="39" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="39" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="108553" />
     </Book>
     <Book Series="X-Men: Phoenix Warsong" Number="1" Volume="2006" Year="2006">
@@ -819,40 +819,40 @@
     <Book Series="X-Men" Number="198" Volume="2004" Year="2007">
       <Database Name="cv" Series="10731" Issue="108555" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="40" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="40" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="109608" />
     </Book>
     <Book Series="X-Men" Number="199" Volume="2004" Year="2007">
       <Database Name="cv" Series="10731" Issue="109821" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="41" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="41" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="110433" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="42" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="42" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="111382" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="43" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="43" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="113260" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="44" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="44" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="113776" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="45" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="45" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="115029" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="46" Volume="2004" Year="2007">
+    <Book Series="Cable &amp; Deadpool" Number="46" Volume="2004" Year="2007">
       <Database Name="cv" Series="18070" Issue="115850" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="47" Volume="2004" Year="2008">
+    <Book Series="Cable &amp; Deadpool" Number="47" Volume="2004" Year="2008">
       <Database Name="cv" Series="18070" Issue="118643" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="48" Volume="2004" Year="2008">
+    <Book Series="Cable &amp; Deadpool" Number="48" Volume="2004" Year="2008">
       <Database Name="cv" Series="18070" Issue="120276" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="49" Volume="2004" Year="2008">
+    <Book Series="Cable &amp; Deadpool" Number="49" Volume="2004" Year="2008">
       <Database Name="cv" Series="18070" Issue="121623" />
     </Book>
-    <Book Series="Cable &#38; Deadpool" Number="50" Volume="2004" Year="2008">
+    <Book Series="Cable &amp; Deadpool" Number="50" Volume="2004" Year="2008">
       <Database Name="cv" Series="18070" Issue="123541" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="487" Volume="1981" Year="2007">

@@ -55,22 +55,22 @@
         <Book Series="Runaways" Number="38" Volume="2017" Year="2021">
             <Database Name="cv" Series="104320" Issue="878826" />
         </Book>
-        <Book Series="Dr. Strange" Number="1" Volume="2019" Year="2020">
+        <Book Series="Dr. Strange" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="123765" Issue="731665" />
         </Book>
-        <Book Series="Dr. Strange" Number="2" Volume="2019" Year="2020">
+        <Book Series="Dr. Strange" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="123765" Issue="735521" />
         </Book>
-        <Book Series="Dr. Strange" Number="3" Volume="2019" Year="2020">
+        <Book Series="Dr. Strange" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="123765" Issue="737155" />
         </Book>
-        <Book Series="Dr. Strange" Number="4" Volume="2019" Year="2020">
+        <Book Series="Dr. Strange" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="123765" Issue="739557" />
         </Book>
-        <Book Series="Dr. Strange" Number="5" Volume="2019" Year="2020">
+        <Book Series="Dr. Strange" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="123765" Issue="775008" />
         </Book>
-        <Book Series="Dr. Strange" Number="6" Volume="2019" Year="2020">
+        <Book Series="Dr. Strange" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="123765" Issue="787347" />
         </Book>
         <Book Series="Captain Marvel" Number="27" Volume="2019" Year="2021">
@@ -118,19 +118,19 @@
         <Book Series="Captain Marvel" Number="41" Volume="2019" Year="2022">
             <Database Name="cv" Series="116365" Issue="946711" />
         </Book>
-        <Book Series="Morbius" Number="1" Volume="2019" Year="2020">
+        <Book Series="Morbius" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="122817" Issue="727264" />
         </Book>
-        <Book Series="Morbius" Number="2" Volume="2019" Year="2020">
+        <Book Series="Morbius" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="122817" Issue="730340" />
         </Book>
-        <Book Series="Morbius" Number="3" Volume="2019" Year="2020">
+        <Book Series="Morbius" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="122817" Issue="732886" />
         </Book>
-        <Book Series="Morbius" Number="4" Volume="2019" Year="2020">
+        <Book Series="Morbius" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="122817" Issue="737164" />
         </Book>
-        <Book Series="Morbius" Number="5" Volume="2019" Year="2020">
+        <Book Series="Morbius" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="122817" Issue="742374" />
         </Book>
         <Book Series="Morbius: Bond of Blood" Number="1" Volume="2021" Year="2021">

@@ -46,16 +46,16 @@
         <Book Series="Marvel Knights: 4" Number="14" Volume="2004" Year="2005">
             <Database Name="cv" Series="21736" Issue="131967" />
         </Book>
-        <Book Series="Hulk &#38; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
+        <Book Series="Hulk &amp; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
             <Database Name="cv" Series="23574" Issue="141434" />
         </Book>
-        <Book Series="Hulk &#38; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
+        <Book Series="Hulk &amp; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
             <Database Name="cv" Series="23574" Issue="176055" />
         </Book>
-        <Book Series="Hulk &#38; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
+        <Book Series="Hulk &amp; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
             <Database Name="cv" Series="23574" Issue="176054" />
         </Book>
-        <Book Series="Hulk &#38; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
+        <Book Series="Hulk &amp; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
             <Database Name="cv" Series="23574" Issue="176053" />
         </Book>
         <Book Series="Fantastic Four" Number="527" Volume="1998" Year="2005">

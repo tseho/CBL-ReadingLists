@@ -324,10 +324,10 @@
 <Book Series="Astonishing X-Men" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5536" Issue="40582" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="1" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40588" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="2" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40728" />
 </Book>
 <Book Series="X-Calibre" Number="1" Volume="1995" Year="1995">
@@ -405,10 +405,10 @@
 <Book Series="Generation Next" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5547" Issue="40977" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="3" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40852" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="4" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40976" />
 </Book>
 <Book Series="Amazing X-Men" Number="4" Volume="1995" Year="1995">

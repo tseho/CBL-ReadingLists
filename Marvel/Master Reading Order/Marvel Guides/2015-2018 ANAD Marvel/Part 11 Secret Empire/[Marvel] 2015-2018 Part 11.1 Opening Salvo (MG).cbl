@@ -13,13 +13,13 @@
         <Book Series="Captain America: Steve Rogers" Number="16" Volume="2016" Year="2017">
             <Database Name="cv" Series="90698" Issue="592593" />
         </Book>
-        <Book Series="Deadpool" Number="31" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="31" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="598369" />
         </Book>
         <Book Series="Secret Empire" Number="0" Volume="2017" Year="2017">
             <Database Name="cv" Series="100840" Issue="592609" />
         </Book>
-        <Book Series="The Mighty Captain Marvel" Number="5" Volume="2016" Year="2017">
+        <Book Series="The Mighty Captain Marvel" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="97062" Issue="597196" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="29" Volume="2015" Year="2017">
@@ -40,7 +40,7 @@
         <Book Series="X-Men: Gold" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="100603" Issue="609368" />
         </Book>
-        <Book Series="Ultimates 2" Number="7" Volume="2016" Year="2017">
+        <Book Series="Ultimates 2" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="95843" Issue="595706" />
         </Book>
         <Book Series="Free Comic Book Day 2017 (Secret Empire)" Number="1" Volume="2017" Year="2017">
@@ -49,7 +49,7 @@
         <Book Series="U.S.Avengers" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="97772" Issue="603145" />
         </Book>
-        <Book Series="Avengers" Number="9" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="606617" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="30" Volume="2015" Year="2017">

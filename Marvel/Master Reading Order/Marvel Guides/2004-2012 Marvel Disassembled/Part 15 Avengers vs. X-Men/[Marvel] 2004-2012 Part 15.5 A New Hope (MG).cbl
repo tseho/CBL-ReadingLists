@@ -57,7 +57,7 @@
 <Book Series="Avengers Vs. X-Men" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="356764" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="18" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="356777" />
 </Book>
 <Book Series="AVX: VS" Number="6" Volume="2012" Year="2012">
@@ -66,7 +66,7 @@
 <Book Series="Avengers Vs. X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="359916" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="19" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="360032" />
 </Book>
 </Books>

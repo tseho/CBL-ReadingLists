@@ -411,16 +411,16 @@
 <Book Series="Thanos Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="74330" Issue="454106" />
 </Book>
-<Book Series="Thanos vs. Hulk" Number="1" Volume="2014" Year="2015">
+<Book Series="Thanos vs. Hulk" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78550" Issue="471970" />
 </Book>
-<Book Series="Thanos vs. Hulk" Number="2" Volume="2014" Year="2015">
+<Book Series="Thanos vs. Hulk" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78550" Issue="475946" />
 </Book>
-<Book Series="Thanos vs. Hulk" Number="3" Volume="2014" Year="2015">
+<Book Series="Thanos vs. Hulk" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78550" Issue="479264" />
 </Book>
-<Book Series="Thanos vs. Hulk" Number="4" Volume="2014" Year="2015">
+<Book Series="Thanos vs. Hulk" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78550" Issue="483360" />
 </Book>
 <Book Series="Thanos: The Infinity Revelation" Number="1" Volume="2014" Year="2014">

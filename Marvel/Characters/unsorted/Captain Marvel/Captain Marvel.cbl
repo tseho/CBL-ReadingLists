@@ -390,112 +390,112 @@
     <Book Series="Captain Marvel" Number="6" Volume="1995" Year="1996">
       <Database Name="cv" Series="18270" Issue="107049" />
     </Book>
-    <Book Series="Captain Marvel" Number="0" Volume="2000" Year="1999">
+    <Book Series="Captain Marvel" Number="0" Volume="1999" Year="1999">
       <Database Name="cv" Series="6458" Issue="46105" />
     </Book>
-    <Book Series="Captain Marvel" Number="1" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="1" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="65843" />
     </Book>
-    <Book Series="Captain Marvel" Number="2" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="2" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="46250" />
     </Book>
-    <Book Series="Captain Marvel" Number="3" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="3" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="65844" />
     </Book>
-    <Book Series="Captain Marvel" Number="4" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="4" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="65845" />
     </Book>
-    <Book Series="Captain Marvel" Number="5" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="5" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="65846" />
     </Book>
-    <Book Series="Captain Marvel" Number="6" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="6" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="65847" />
     </Book>
-    <Book Series="Captain Marvel" Number="7" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="7" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="80545" />
     </Book>
-    <Book Series="Captain Marvel" Number="8" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="8" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="80546" />
     </Book>
-    <Book Series="Captain Marvel" Number="9" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="9" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="80547" />
     </Book>
-    <Book Series="Captain Marvel" Number="10" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="10" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="80548" />
     </Book>
-    <Book Series="Captain Marvel" Number="11" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="11" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="80549" />
     </Book>
-    <Book Series="Captain Marvel" Number="12" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="12" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="80550" />
     </Book>
-    <Book Series="Captain Marvel" Number="13" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="13" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80551" />
     </Book>
-    <Book Series="Captain Marvel" Number="14" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="14" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80552" />
     </Book>
-    <Book Series="Captain Marvel" Number="15" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="15" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80553" />
     </Book>
-    <Book Series="Captain Marvel" Number="16" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="16" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80554" />
     </Book>
-    <Book Series="Captain Marvel" Number="17" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="17" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80555" />
     </Book>
-    <Book Series="Captain Marvel" Number="18" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="18" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80556" />
     </Book>
-    <Book Series="Captain Marvel" Number="19" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="19" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80557" />
     </Book>
-    <Book Series="Captain Marvel" Number="20" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="20" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80558" />
     </Book>
-    <Book Series="Captain Marvel" Number="21" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="21" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80559" />
     </Book>
-    <Book Series="Captain Marvel" Number="22" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="22" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80560" />
     </Book>
-    <Book Series="Captain Marvel" Number="23" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="23" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80561" />
     </Book>
-    <Book Series="Captain Marvel" Number="24" Volume="2000" Year="2001">
+    <Book Series="Captain Marvel" Number="24" Volume="1999" Year="2001">
       <Database Name="cv" Series="6458" Issue="80562" />
     </Book>
-    <Book Series="Captain Marvel" Number="25" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="25" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80563" />
     </Book>
-    <Book Series="Captain Marvel" Number="26" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="26" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80564" />
     </Book>
-    <Book Series="Captain Marvel" Number="27" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="27" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80565" />
     </Book>
-    <Book Series="Captain Marvel" Number="28" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="28" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80566" />
     </Book>
-    <Book Series="Captain Marvel" Number="29" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="29" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80567" />
     </Book>
-    <Book Series="Captain Marvel" Number="30" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="30" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80568" />
     </Book>
-    <Book Series="Captain Marvel" Number="31" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="31" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80569" />
     </Book>
-    <Book Series="Captain Marvel" Number="32" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="32" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80570" />
     </Book>
-    <Book Series="Captain Marvel" Number="33" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="33" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="80571" />
     </Book>
-    <Book Series="Captain Marvel" Number="34" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="34" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="106951" />
     </Book>
-    <Book Series="Captain Marvel" Number="35" Volume="2000" Year="2002">
+    <Book Series="Captain Marvel" Number="35" Volume="1999" Year="2002">
       <Database Name="cv" Series="6458" Issue="106952" />
     </Book>
     <Book Series="Captain Marvel" Number="1" Volume="2002" Year="2002">
@@ -675,19 +675,19 @@
     <Book Series="Ms. Marvel" Number="24" Volume="2006" Year="2008">
       <Database Name="cv" Series="17990" Issue="122546" />
     </Book>
-    <Book Series="Captain Marvel" Number="1" Volume="2007" Year="2008">
+    <Book Series="Captain Marvel" Number="1" Volume="2008" Year="2008">
       <Database Name="cv" Series="19633" Issue="117782" />
     </Book>
-    <Book Series="Captain Marvel" Number="2" Volume="2007" Year="2008">
+    <Book Series="Captain Marvel" Number="2" Volume="2008" Year="2008">
       <Database Name="cv" Series="19633" Issue="120875" />
     </Book>
-    <Book Series="Captain Marvel" Number="3" Volume="2007" Year="2008">
+    <Book Series="Captain Marvel" Number="3" Volume="2008" Year="2008">
       <Database Name="cv" Series="19633" Issue="122806" />
     </Book>
-    <Book Series="Captain Marvel" Number="4" Volume="2007" Year="2008">
+    <Book Series="Captain Marvel" Number="4" Volume="2008" Year="2008">
       <Database Name="cv" Series="19633" Issue="125718" />
     </Book>
-    <Book Series="Captain Marvel" Number="5" Volume="2007" Year="2008">
+    <Book Series="Captain Marvel" Number="5" Volume="2008" Year="2008">
       <Database Name="cv" Series="19633" Issue="127560" />
     </Book>
     <Book Series="Ms. Marvel" Number="25" Volume="2006" Year="2008">

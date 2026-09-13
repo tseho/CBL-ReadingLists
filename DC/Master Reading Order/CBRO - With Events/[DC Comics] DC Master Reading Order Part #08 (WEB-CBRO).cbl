@@ -960,187 +960,187 @@
 <Book Series="Injustice 2" Number="72" Volume="2017" Year="2018">
 <Database Name="cv" Series="100663" Issue="680365" />
 </Book>
-<Book Series="Batman '66" Number="1" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="415586" />
 </Book>
-<Book Series="Batman '66" Number="2" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="417121" />
 </Book>
-<Book Series="Batman '66" Number="3" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="417985" />
 </Book>
-<Book Series="Batman '66" Number="4" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="418977" />
 </Book>
-<Book Series="Batman '66" Number="5" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="420237" />
 </Book>
-<Book Series="Batman '66" Number="6" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="420922" />
 </Book>
-<Book Series="Batman '66" Number="7" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="421844" />
 </Book>
-<Book Series="Batman '66" Number="8" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="422796" />
 </Book>
-<Book Series="Batman '66" Number="9" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="423832" />
 </Book>
-<Book Series="Batman '66" Number="10" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="424688" />
 </Book>
-<Book Series="Batman '66" Number="11" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="425189" />
 </Book>
-<Book Series="Batman '66" Number="12" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="426100" />
 </Book>
-<Book Series="Batman '66" Number="13" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="427032" />
 </Book>
-<Book Series="Batman '66" Number="14" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="427837" />
 </Book>
-<Book Series="Batman '66" Number="15" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="428375" />
 </Book>
-<Book Series="Batman '66" Number="16" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="16" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="428987" />
 </Book>
-<Book Series="Batman '66" Number="17" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="17" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="430919" />
 </Book>
-<Book Series="Batman '66" Number="18" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="18" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="431587" />
 </Book>
-<Book Series="Batman '66" Number="19" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="19" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="432491" />
 </Book>
-<Book Series="Batman '66" Number="20" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="20" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="433352" />
 </Book>
-<Book Series="Batman '66" Number="21" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="21" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="433966" />
 </Book>
-<Book Series="Batman '66" Number="22" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="22" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="435236" />
 </Book>
-<Book Series="Batman '66" Number="23" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="23" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="436368" />
 </Book>
-<Book Series="Batman '66" Number="24" Volume="2013" Year="2013">
+<Book Series="Batman &apos;66" Number="24" Volume="2013" Year="2013">
 <Database Name="cv" Series="64763" Issue="438543" />
 </Book>
-<Book Series="Batman '66" Number="25" Volume="2013" Year="2014">
+<Book Series="Batman &apos;66" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="64763" Issue="441595" />
 </Book>
-<Book Series="Batman '66" Number="26" Volume="2013" Year="2014">
+<Book Series="Batman &apos;66" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="64763" Issue="443055" />
 </Book>
-<Book Series="Batman '66" Number="27" Volume="2013" Year="2014">
+<Book Series="Batman &apos;66" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="64763" Issue="444755" />
 </Book>
-<Book Series="Batman '66" Number="28" Volume="2013" Year="2014">
+<Book Series="Batman &apos;66" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="64763" Issue="445797" />
 </Book>
-<Book Series="Batman '66" Number="29" Volume="2013" Year="2014">
+<Book Series="Batman &apos;66" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="64763" Issue="446976" />
 </Book>
-<Book Series="Batman '66" Number="30" Volume="2013" Year="2014">
+<Book Series="Batman &apos;66" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="64763" Issue="447980" />
 </Book>
-<Book Series="Batman '66 Meets the Green Hornet" Number="1" Volume="2014" Year="2014">
+<Book Series="Batman &apos;66 Meets the Green Hornet" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="74110" Issue="453397" />
 </Book>
-<Book Series="Batman '66 Meets the Green Hornet" Number="2" Volume="2014" Year="2014">
+<Book Series="Batman &apos;66 Meets the Green Hornet" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="74110" Issue="455467" />
 </Book>
-<Book Series="Batman '66 Meets the Green Hornet" Number="3" Volume="2014" Year="2014">
+<Book Series="Batman &apos;66 Meets the Green Hornet" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="74110" Issue="456532" />
 </Book>
-<Book Series="Batman '66 Meets the Green Hornet" Number="4" Volume="2014" Year="2014">
+<Book Series="Batman &apos;66 Meets the Green Hornet" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="74110" Issue="458600" />
 </Book>
-<Book Series="Batman '66 Meets the Green Hornet" Number="5" Volume="2014" Year="2014">
+<Book Series="Batman &apos;66 Meets the Green Hornet" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="74110" Issue="459655" />
 </Book>
-<Book Series="Batman '66 Meets the Green Hornet" Number="6" Volume="2014" Year="2014">
+<Book Series="Batman &apos;66 Meets the Green Hornet" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="74110" Issue="460949" />
 </Book>
-<Book Series="Batman '66: The Lost Episode" Number="1" Volume="2014" Year="2015">
+<Book Series="Batman &apos;66: The Lost Episode" Number="1" Volume="2014" Year="2015">
 <Database Name="cv" Series="78195" Issue="470403" />
 </Book>
-<Book Series="Batman '66 Meets The Man From U.N.C.L.E." Number="1" Volume="2015" Year="2016">
+<Book Series="Batman &apos;66 Meets The Man From U.N.C.L.E." Number="1" Volume="2015" Year="2016">
 <Database Name="cv" Series="86766" Issue="508860" />
 </Book>
-<Book Series="Batman '66 Meets The Man From U.N.C.L.E." Number="2" Volume="2015" Year="2016">
+<Book Series="Batman &apos;66 Meets The Man From U.N.C.L.E." Number="2" Volume="2015" Year="2016">
 <Database Name="cv" Series="86766" Issue="510907" />
 </Book>
-<Book Series="Batman '66 Meets The Man From U.N.C.L.E." Number="3" Volume="2015" Year="2016">
+<Book Series="Batman &apos;66 Meets The Man From U.N.C.L.E." Number="3" Volume="2015" Year="2016">
 <Database Name="cv" Series="86766" Issue="514393" />
 </Book>
-<Book Series="Batman '66 Meets The Man From U.N.C.L.E." Number="4" Volume="2015" Year="2015">
+<Book Series="Batman &apos;66 Meets The Man From U.N.C.L.E." Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="86766" Issue="517805" />
 </Book>
-<Book Series="Batman '66 Meets The Man From U.N.C.L.E." Number="5" Volume="2015" Year="2016">
+<Book Series="Batman &apos;66 Meets The Man From U.N.C.L.E." Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="86766" Issue="527105" />
 </Book>
-<Book Series="Batman '66 Meets The Man From U.N.C.L.E." Number="6" Volume="2015" Year="2016">
+<Book Series="Batman &apos;66 Meets The Man From U.N.C.L.E." Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="86766" Issue="531849" />
 </Book>
-<Book Series="Batman '66 Meets Steed and Mrs Peel" Number="1" Volume="2016" Year="2016">
+<Book Series="Batman &apos;66 Meets Steed and Mrs Peel" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="91132" Issue="534255" />
 </Book>
-<Book Series="Batman '66 Meets Steed and Mrs Peel" Number="2" Volume="2016" Year="2016">
+<Book Series="Batman &apos;66 Meets Steed and Mrs Peel" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="91132" Issue="537208" />
 </Book>
-<Book Series="Batman '66 Meets Steed and Mrs Peel" Number="3" Volume="2016" Year="2016">
+<Book Series="Batman &apos;66 Meets Steed and Mrs Peel" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="91132" Issue="538481" />
 </Book>
-<Book Series="Batman '66 Meets Steed and Mrs Peel" Number="4" Volume="2016" Year="2016">
+<Book Series="Batman &apos;66 Meets Steed and Mrs Peel" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="91132" Issue="540048" />
 </Book>
-<Book Series="Batman '66 Meets Steed and Mrs Peel" Number="5" Volume="2016" Year="2016">
+<Book Series="Batman &apos;66 Meets Steed and Mrs Peel" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="91132" Issue="542597" />
 </Book>
-<Book Series="Batman '66 Meets Steed and Mrs Peel" Number="6" Volume="2016" Year="2016">
+<Book Series="Batman &apos;66 Meets Steed and Mrs Peel" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="91132" Issue="544956" />
 </Book>
-<Book Series="Batman '66 Meets Wonder Woman '77" Number="1" Volume="2017" Year="2017">
+<Book Series="Batman &apos;66 Meets Wonder Woman &apos;77" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="98394" Issue="578706" />
 </Book>
-<Book Series="Batman '66 Meets Wonder Woman '77" Number="2" Volume="2017" Year="2017">
+<Book Series="Batman &apos;66 Meets Wonder Woman &apos;77" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="98394" Issue="582678" />
 </Book>
-<Book Series="Batman '66 Meets Wonder Woman '77" Number="3" Volume="2017" Year="2017">
+<Book Series="Batman &apos;66 Meets Wonder Woman &apos;77" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="98394" Issue="588530" />
 </Book>
-<Book Series="Batman '66 Meets Wonder Woman '77" Number="4" Volume="2017" Year="2017">
+<Book Series="Batman &apos;66 Meets Wonder Woman &apos;77" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="98394" Issue="593397" />
 </Book>
-<Book Series="Batman '66 Meets Wonder Woman '77" Number="5" Volume="2017" Year="2017">
+<Book Series="Batman &apos;66 Meets Wonder Woman &apos;77" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="98394" Issue="597156" />
 </Book>
-<Book Series="Batman '66 Meets Wonder Woman '77" Number="6" Volume="2017" Year="2017">
+<Book Series="Batman &apos;66 Meets Wonder Woman &apos;77" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="98394" Issue="605048" />
 </Book>
-<Book Series="Archie Meets Batman '66" Number="1" Volume="2018" Year="2018">
+<Book Series="Archie Meets Batman &apos;66" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112293" Issue="677362" />
 </Book>
-<Book Series="Archie Meets Batman '66" Number="2" Volume="2018" Year="2018">
+<Book Series="Archie Meets Batman &apos;66" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="112293" Issue="679882" />
 </Book>
-<Book Series="Archie Meets Batman '66" Number="3" Volume="2018" Year="2018">
+<Book Series="Archie Meets Batman &apos;66" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="112293" Issue="686288" />
 </Book>
-<Book Series="Archie Meets Batman '66" Number="4" Volume="2018" Year="2018">
+<Book Series="Archie Meets Batman &apos;66" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="112293" Issue="690715" />
 </Book>
-<Book Series="Archie Meets Batman '66" Number="5" Volume="2018" Year="2019">
+<Book Series="Archie Meets Batman &apos;66" Number="5" Volume="2018" Year="2019">
 <Database Name="cv" Series="112293" Issue="694160" />
 </Book>
-<Book Series="Archie Meets Batman '66" Number="6" Volume="2018" Year="2019">
+<Book Series="Archie Meets Batman &apos;66" Number="6" Volume="2018" Year="2019">
 <Database Name="cv" Series="112293" Issue="696884" />
 </Book>
 <Book Series="DC Universe vs. Masters of the Universe" Number="1" Volume="2013" Year="2013">
@@ -1212,34 +1212,34 @@
 <Book Series="Infinite Crisis: Fight For the Multiverse" Number="12" Volume="2014" Year="2014">
 <Database Name="cv" Series="74090" Issue="461624" />
 </Book>
-<Book Series="Wonder Woman '77" Number="1" Volume="2015" Year="2015">
+<Book Series="Wonder Woman &apos;77" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81826" Issue="487825" />
 </Book>
-<Book Series="Wonder Woman '77" Number="2" Volume="2015" Year="2015">
+<Book Series="Wonder Woman &apos;77" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="81826" Issue="501603" />
 </Book>
-<Book Series="Wonder Woman '77" Number="3" Volume="2015" Year="2016">
+<Book Series="Wonder Woman &apos;77" Number="3" Volume="2015" Year="2016">
 <Database Name="cv" Series="81826" Issue="525182" />
 </Book>
-<Book Series="Wonder Woman '77" Number="4" Volume="2015" Year="2016">
+<Book Series="Wonder Woman &apos;77" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="81826" Issue="550480" />
 </Book>
-<Book Series="Wonder Woman '77 Meets The Bionic Woman" Number="1" Volume="2016" Year="2016">
+<Book Series="Wonder Woman &apos;77 Meets The Bionic Woman" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="96316" Issue="563736" />
 </Book>
-<Book Series="Wonder Woman '77 Meets The Bionic Woman" Number="2" Volume="2016" Year="2017">
+<Book Series="Wonder Woman &apos;77 Meets The Bionic Woman" Number="2" Volume="2016" Year="2017">
 <Database Name="cv" Series="96316" Issue="578486" />
 </Book>
-<Book Series="Wonder Woman '77 Meets The Bionic Woman" Number="3" Volume="2016" Year="2017">
+<Book Series="Wonder Woman &apos;77 Meets The Bionic Woman" Number="3" Volume="2016" Year="2017">
 <Database Name="cv" Series="96316" Issue="587429" />
 </Book>
-<Book Series="Wonder Woman '77 Meets The Bionic Woman" Number="4" Volume="2016" Year="2017">
+<Book Series="Wonder Woman &apos;77 Meets The Bionic Woman" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="96316" Issue="595714" />
 </Book>
-<Book Series="Wonder Woman '77 Meets The Bionic Woman" Number="5" Volume="2016" Year="2017">
+<Book Series="Wonder Woman &apos;77 Meets The Bionic Woman" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="96316" Issue="605084" />
 </Book>
-<Book Series="Wonder Woman '77 Meets The Bionic Woman" Number="6" Volume="2016" Year="2017">
+<Book Series="Wonder Woman &apos;77 Meets The Bionic Woman" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="96316" Issue="622906" />
 </Book>
 <Book Series="Star Trek/Green Lantern" Number="1" Volume="2015" Year="2015">
@@ -1524,22 +1524,22 @@
 <Book Series="Batman/Teenage Mutant Ninja Turtles III" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="118647" Issue="721036" />
 </Book>
-<Book Series="Harley's Little Black Book" Number="1" Volume="2015" Year="2016">
+<Book Series="Harley&apos;s Little Black Book" Number="1" Volume="2015" Year="2016">
 <Database Name="cv" Series="86360" Issue="507156" />
 </Book>
-<Book Series="Harley's Little Black Book" Number="2" Volume="2015" Year="2016">
+<Book Series="Harley&apos;s Little Black Book" Number="2" Volume="2015" Year="2016">
 <Database Name="cv" Series="86360" Issue="514214" />
 </Book>
-<Book Series="Harley's Little Black Book" Number="3" Volume="2015" Year="2016">
+<Book Series="Harley&apos;s Little Black Book" Number="3" Volume="2015" Year="2016">
 <Database Name="cv" Series="86360" Issue="526018" />
 </Book>
-<Book Series="Harley's Little Black Book" Number="4" Volume="2015" Year="2016">
+<Book Series="Harley&apos;s Little Black Book" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="86360" Issue="546034" />
 </Book>
-<Book Series="Harley's Little Black Book" Number="5" Volume="2015" Year="2017">
+<Book Series="Harley&apos;s Little Black Book" Number="5" Volume="2015" Year="2017">
 <Database Name="cv" Series="86360" Issue="571638" />
 </Book>
-<Book Series="Harley's Little Black Book" Number="6" Volume="2015" Year="2017">
+<Book Series="Harley&apos;s Little Black Book" Number="6" Volume="2015" Year="2017">
 <Database Name="cv" Series="86360" Issue="589808" />
 </Book>
 <Book Series="Lumberjanes/Gotham Academy" Number="1" Volume="2016" Year="2016">
@@ -2136,7 +2136,7 @@
 <Book Series="Suicide Squad: Hell To Pay" Number="12" Volume="2018" Year="2018">
 <Database Name="cv" Series="109348" Issue="672119" />
 </Book>
-<Book Series="DC's Beach Blanket Bad Guys Summer Special" Number="1" Volume="2018" Year="2018">
+<Book Series="DC&apos;s Beach Blanket Bad Guys Summer Special" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112444" Issue="677943" />
 </Book>
 <Book Series="Aquaman/Jabberjaw Special" Number="1" Volume="2018" Year="2018">
@@ -2289,49 +2289,49 @@
 <Book Series="DCeased: Unkillables" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="125115" Issue="762177" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="1" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="762198" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="2" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="766054" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="3" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="768228" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="4" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="771750" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="5" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="778238" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="6" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="783108" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="7" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="7" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="790231" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="8" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="8" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="795879" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="9" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="9" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="797680" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="10" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="10" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="802670" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="11" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="11" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="806715" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="12" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="12" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="812513" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="13" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="13" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="815609" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="14" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="14" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="818595" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="15" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="15" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="819876" />
 </Book>
 <Book Series="DCeased: Dead Planet" Number="1" Volume="2020" Year="2020">
@@ -2616,40 +2616,40 @@
 <Book Series="Batman: The Smile Killer" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="128084" Issue="769599" />
 </Book>
-<Book Series="The Batman's Grave" Number="1" Volume="2019" Year="2019">
+<Book Series="The Batman&apos;s Grave" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121883" Issue="721743" />
 </Book>
-<Book Series="The Batman's Grave" Number="2" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="2" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="726895" />
 </Book>
-<Book Series="The Batman's Grave" Number="3" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="3" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="730199" />
 </Book>
-<Book Series="The Batman's Grave" Number="4" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="4" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="733633" />
 </Book>
-<Book Series="The Batman's Grave" Number="5" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="5" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="736996" />
 </Book>
-<Book Series="The Batman's Grave" Number="6" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="740561" />
 </Book>
-<Book Series="The Batman's Grave" Number="7" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="7" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="767304" />
 </Book>
-<Book Series="The Batman's Grave" Number="8" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="8" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="774430" />
 </Book>
-<Book Series="The Batman's Grave" Number="9" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="9" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="790342" />
 </Book>
-<Book Series="The Batman's Grave" Number="10" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="10" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="798858" />
 </Book>
-<Book Series="The Batman's Grave" Number="11" Volume="2019" Year="2020">
+<Book Series="The Batman&apos;s Grave" Number="11" Volume="2019" Year="2020">
 <Database Name="cv" Series="121883" Issue="809823" />
 </Book>
-<Book Series="The Batman's Grave" Number="12" Volume="2019" Year="2021">
+<Book Series="The Batman&apos;s Grave" Number="12" Volume="2019" Year="2021">
 <Database Name="cv" Series="121883" Issue="821187" />
 </Book>
 <Book Series="The Last God" Number="1" Volume="2019" Year="2019">
@@ -2724,7 +2724,7 @@
 <Book Series="Shadow of the Batgirl" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124625" Issue="735354" />
 </Book>
-<Book Series="DC's Crimes of Passion" Number="1" Volume="2020" Year="2020">
+<Book Series="DC&apos;s Crimes of Passion" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124787" Issue="736301" />
 </Book>
 <Book Series="Zatanna and the House of Secrets" Number="1" Volume="2020" Year="2020">
@@ -3048,13 +3048,13 @@
 <Book Series="Ghosts" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="128239" Issue="773867" />
 </Book>
-<Book Series="Harley Quinn: Make 'em Laugh" Number="1" Volume="2020" Year="2020">
+<Book Series="Harley Quinn: Make &apos;em Laugh" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="127646" Issue="766279" />
 </Book>
-<Book Series="Harley Quinn: Make 'em Laugh" Number="2" Volume="2020" Year="2020">
+<Book Series="Harley Quinn: Make &apos;em Laugh" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="127646" Issue="767297" />
 </Book>
-<Book Series="Harley Quinn: Make 'em Laugh" Number="3" Volume="2020" Year="2020">
+<Book Series="Harley Quinn: Make &apos;em Laugh" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="127646" Issue="778951" />
 </Book>
 <Book Series="Titans: Titans Together" Number="1" Volume="2020" Year="2020">
@@ -3069,10 +3069,10 @@
 <Book Series="Titans: Titans Together" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="128077" Issue="779454" />
 </Book>
-<Book Series="World's Finest: Batwoman and Supergirl" Number="1" Volume="2020" Year="2020">
+<Book Series="World&apos;s Finest: Batwoman and Supergirl" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="127588" Issue="765847" />
 </Book>
-<Book Series="World's Finest: Batwoman and Supergirl" Number="2" Volume="2020" Year="2020">
+<Book Series="World&apos;s Finest: Batwoman and Supergirl" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="127588" Issue="767300" />
 </Book>
 <Book Series="Gotham High" Number="1" Volume="2020" Year="2020">
@@ -3168,7 +3168,7 @@
 <Book Series="The Other History of the DC Universe" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="132163" Issue="873940" />
 </Book>
-<Book Series="DC's Very Merry Multiverse" Number="1" Volume="2020" Year="2021">
+<Book Series="DC&apos;s Very Merry Multiverse" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132461" Issue="820471" />
 </Book>
 <Book Series="Batman Black &amp; White" Number="1" Volume="2021" Year="2021">
@@ -3597,22 +3597,22 @@
 <Book Series="Wonder Woman Black &amp; Gold" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="137008" Issue="895162" />
 </Book>
-<Book Series="Batman '89" Number="1" Volume="2021" Year="2021">
+<Book Series="Batman &apos;89" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138183" Issue="878412" />
 </Book>
-<Book Series="Batman '89" Number="2" Volume="2021" Year="2021">
+<Book Series="Batman &apos;89" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="138183" Issue="884628" />
 </Book>
-<Book Series="Batman '89" Number="3" Volume="2021" Year="2021">
+<Book Series="Batman &apos;89" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="138183" Issue="889250" />
 </Book>
-<Book Series="Batman '89" Number="4" Volume="2021" Year="2022">
+<Book Series="Batman &apos;89" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="138183" Issue="897150" />
 </Book>
-<Book Series="Batman '89" Number="5" Volume="2021" Year="2022">
+<Book Series="Batman &apos;89" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="138183" Issue="916173" />
 </Book>
-<Book Series="Batman '89" Number="6" Volume="2021" Year="2022">
+<Book Series="Batman &apos;89" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="138183" Issue="934933" />
 </Book>
 <Book Series="The Joker Presents: A Puzzlebox" Number="1" Volume="2021" Year="2021">
@@ -3666,22 +3666,22 @@
 <Book Series="Suicide Squad: Get Joker!" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="138019" Issue="922157" />
 </Book>
-<Book Series="Superman '78" Number="1" Volume="2021" Year="2021">
+<Book Series="Superman &apos;78" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138503" Issue="881608" />
 </Book>
-<Book Series="Superman '78" Number="2" Volume="2021" Year="2021">
+<Book Series="Superman &apos;78" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="138503" Issue="886391" />
 </Book>
-<Book Series="Superman '78" Number="3" Volume="2021" Year="2022">
+<Book Series="Superman &apos;78" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="138503" Issue="891951" />
 </Book>
-<Book Series="Superman '78" Number="4" Volume="2021" Year="2022">
+<Book Series="Superman &apos;78" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="138503" Issue="895150" />
 </Book>
-<Book Series="Superman '78" Number="5" Volume="2021" Year="2022">
+<Book Series="Superman &apos;78" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="138503" Issue="900141" />
 </Book>
-<Book Series="Superman '78" Number="6" Volume="2021" Year="2022">
+<Book Series="Superman &apos;78" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="138503" Issue="904502" />
 </Book>
 <Book Series="Superman vs. Lobo" Number="1" Volume="2021" Year="2021">
@@ -3819,7 +3819,7 @@
 <Book Series="Catwoman: Lonely City" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="139667" Issue="952404" />
 </Book>
-<Book Series="Tis The Season To Be Freezin'" Number="1" Volume="2022" Year="2022">
+<Book Series="Tis The Season To Be Freezin&apos;" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140427" Issue="898185" />
 </Book>
 <Book Series="Dark Knights of Steel" Number="1" Volume="2021" Year="2022">

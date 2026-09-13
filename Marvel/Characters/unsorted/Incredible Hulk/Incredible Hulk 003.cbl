@@ -48,10 +48,10 @@
     <Book Series="Peter Parker: Spider-Man" Number="14" Volume="1999" Year="2000">
       <Database Name="cv" Series="9142" Issue="68491" />
     </Book>
-    <Book Series="Captain Marvel" Number="2" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="2" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="46250" />
     </Book>
-    <Book Series="Captain Marvel" Number="3" Volume="2000" Year="2000">
+    <Book Series="Captain Marvel" Number="3" Volume="1999" Year="2000">
       <Database Name="cv" Series="6458" Issue="65844" />
     </Book>
     <Book Series="Hulk 1999" Number="1" Volume="1999" Year="1999">
@@ -363,16 +363,16 @@
     <Book Series="Incredible Hulk" Number="76" Volume="2000" Year="2004">
       <Database Name="cv" Series="6558" Issue="99140" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="23574" Issue="141434" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
       <Database Name="cv" Series="23574" Issue="176055" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
       <Database Name="cv" Series="23574" Issue="176054" />
     </Book>
-    <Book Series="Hulk &#38; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
+    <Book Series="Hulk &amp; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
       <Database Name="cv" Series="23574" Issue="176053" />
     </Book>
     <Book Series="Avengers" Number="74" Volume="1998" Year="2004">
@@ -381,10 +381,10 @@
     <Book Series="Avengers" Number="75" Volume="1998" Year="2004">
       <Database Name="cv" Series="7084" Issue="114479" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="3" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="3" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="105569" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="4" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="4" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="105631" />
     </Book>
     <Book Series="Captain Universe / The Incredible Hulk" Number="1" Volume="2006" Year="2006">
@@ -444,7 +444,7 @@
     <Book Series="Fantastic Four" Number="535" Volume="1998" Year="2006">
       <Database Name="cv" Series="6211" Issue="151582" />
     </Book>
-    <Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
+    <Book Series="New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="18180" Issue="106482" />
     </Book>
     <Book Series="Incredible Hulk" Number="88" Volume="2000" Year="2006">
@@ -519,7 +519,7 @@
     <Book Series="Incredible Hulk" Number="107" Volume="2000" Year="2007">
       <Database Name="cv" Series="6558" Issue="110665" />
     </Book>
-    <Book Series="Iron Man" Number="19" Volume="2004" Year="2007">
+    <Book Series="Iron Man" Number="19" Volume="2005" Year="2007">
       <Database Name="cv" Series="18220" Issue="110667" />
     </Book>
     <Book Series="Ghost Rider" Number="12" Volume="2006" Year="2007">
@@ -555,7 +555,7 @@
     <Book Series="Ghost Rider" Number="13" Volume="2006" Year="2007">
       <Database Name="cv" Series="18138" Issue="111669" />
     </Book>
-    <Book Series="Iron Man" Number="20" Volume="2004" Year="2007">
+    <Book Series="Iron Man" Number="20" Volume="2005" Year="2007">
       <Database Name="cv" Series="18220" Issue="111936" />
     </Book>
     <Book Series="Heroes for Hire" Number="12" Volume="2006" Year="2007">
@@ -831,10 +831,10 @@
     <Book Series="Hulk" Number="23" Volume="2008" Year="2010">
       <Database Name="cv" Series="20291" Issue="220729" />
     </Book>
-    <Book Series="World War Hulks: Captain America vs. Wolverine" Number="1" Volume="2010" Year="2010">
+    <Book Series="World War Hulks: Wolverine vs. Captain America" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="34414" Issue="224633" />
     </Book>
-    <Book Series="World War Hulks: Captain America vs. Wolverine" Number="2" Volume="2010" Year="2010">
+    <Book Series="World War Hulks: Wolverine vs. Captain America" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="34414" Issue="227127" />
     </Book>
     <Book Series="World War Hulks: Spider-Man vs. Thor" Number="1" Volume="2010" Year="2010">

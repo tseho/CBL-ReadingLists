@@ -36,37 +36,37 @@
 <Book Series="Spider-Gwen" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="85311" Issue="518865" />
 </Book>
-<Book Series="Web Warriors" Number="1" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="505531" />
 </Book>
-<Book Series="Web Warriors" Number="2" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="508443" />
 </Book>
-<Book Series="Web Warriors" Number="3" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="510958" />
 </Book>
-<Book Series="Web Warriors" Number="4" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="516097" />
 </Book>
-<Book Series="Web Warriors" Number="5" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="520216" />
 </Book>
-<Book Series="Web Warriors" Number="6" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="525042" />
 </Book>
-<Book Series="Web Warriors" Number="7" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="529669" />
 </Book>
-<Book Series="Web Warriors" Number="8" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="537253" />
 </Book>
-<Book Series="Web Warriors" Number="9" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="539260" />
 </Book>
-<Book Series="Web Warriors" Number="10" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="544999" />
 </Book>
-<Book Series="Web Warriors" Number="11" Volume="2015" Year="2016">
+<Book Series="Web Warriors" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85976" Issue="551326" />
 </Book>
 <Book Series="Spider-Gwen Annual" Number="1" Volume="2016" Year="2016">

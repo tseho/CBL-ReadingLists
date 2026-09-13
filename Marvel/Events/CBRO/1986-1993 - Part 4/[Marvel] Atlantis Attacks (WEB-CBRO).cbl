@@ -45,7 +45,7 @@
 <Book Series="Avengers West Coast" Number="56" Volume="1989" Year="1990">
 <Database Name="cv" Series="18494" Issue="114102" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="4" Volume="1989" Year="1989">
+<Book Series="West Coast Avengers Annual" Number="4" Volume="1989" Year="1989">
 <Database Name="cv" Series="4219" Issue="31863" />
 </Book>
 <Book Series="The Mighty Thor Annual" Number="14" Volume="1989" Year="1989">

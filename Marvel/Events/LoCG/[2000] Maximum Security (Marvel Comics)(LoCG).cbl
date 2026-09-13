@@ -15,7 +15,7 @@
 <Book Series="Thor" Number="30" Volume="1998" Year="2000">
 <Database Name="cv" Series="6226" Issue="128472" />
 </Book>
-<Book Series="Captain Marvel" Number="12" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="12" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80550" />
 </Book>
 <Book Series="Iron Man" Number="35" Volume="1998" Year="2000">

@@ -408,19 +408,19 @@
 <Book Series="All-New Ghost Rider" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="72579" Issue="483341" />
 </Book>
-<Book Series="Ghost Rider" Number="1" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="562594" />
 </Book>
-<Book Series="Ghost Rider" Number="2" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="571666" />
 </Book>
-<Book Series="Ghost Rider" Number="3" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="578460" />
 </Book>
-<Book Series="Ghost Rider" Number="4" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="582530" />
 </Book>
-<Book Series="Ghost Rider" Number="5" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="589826" />
 </Book>
 <Book Series="Spirits of Vengeance" Number="1" Volume="2017" Year="2017">
@@ -609,13 +609,13 @@
 <Book Series="War of the Realms Strikeforce: The Land of Giants" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119315" Issue="709738" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="709720" />
 </Book>
 <Book Series="War of the Realms: Journey Into Mystery" Number="2" Volume="2019" Year="2019">
@@ -687,13 +687,13 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="712558" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">
@@ -750,7 +750,7 @@
 <Book Series="Spirits of Ghost Rider: Mother of Demons" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124990" Issue="737167" />
 </Book>
-<Book Series="Ghost Rider: Return of Vengeance" Number="1" Volume="2020" Year="2021">
+<Book Series="Ghost Rider: Return of Vengeance" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132912" Issue="823344" />
 </Book>
 <Book Series="King In Black: Ghost Rider" Number="1" Volume="2021" Year="2021">

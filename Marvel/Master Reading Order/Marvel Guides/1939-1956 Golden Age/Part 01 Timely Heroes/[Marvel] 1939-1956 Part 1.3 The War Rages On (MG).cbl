@@ -12,7 +12,7 @@
 <Book Series="Marvel Mystery Comics" Number="28" Volume="1939" Year="1942">
 <Database Name="cv" Series="19137" Issue="132184" />
 </Book>
-<Book Series="Young Allies Comics" Number="3" Volume="1941" Year="1942">
+<Book Series="Young Allies" Number="3" Volume="1941" Year="1942">
 <Database Name="cv" Series="19571" Issue="139050" />
 </Book>
 <Book Series="The Human Torch" Number="7" Volume="1940" Year="1942">
@@ -27,7 +27,7 @@
 <Book Series="Marvel Mystery Comics" Number="29" Volume="1939" Year="1942">
 <Database Name="cv" Series="19137" Issue="132185" />
 </Book>
-<Book Series="All Winners Comics" Number="4" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="4" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="114343" />
 </Book>
 <Book Series="Tough Kid Squad Comics" Number="1" Volume="1942" Year="1942">
@@ -51,13 +51,13 @@
 <Book Series="Sub-Mariner Comics" Number="6" Volume="1941" Year="1942">
 <Database Name="cv" Series="18548" Issue="109456" />
 </Book>
-<Book Series="Young Allies Comics" Number="4" Volume="1941" Year="1942">
+<Book Series="Young Allies" Number="4" Volume="1941" Year="1942">
 <Database Name="cv" Series="19571" Issue="139051" />
 </Book>
 <Book Series="The Human Torch" Number="8" Volume="1940" Year="1942">
 <Database Name="cv" Series="832" Issue="129474" />
 </Book>
-<Book Series="All Winners Comics" Number="5" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="5" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="138672" />
 </Book>
 <Book Series="USA Comics" Number="5" Volume="1941" Year="1942">
@@ -84,13 +84,13 @@
 <Book Series="Sub-Mariner Comics" Number="7" Volume="1941" Year="1942">
 <Database Name="cv" Series="18548" Issue="109457" />
 </Book>
-<Book Series="All Winners Comics" Number="6" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="6" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="138673" />
 </Book>
 <Book Series="Captain America Comics" Number="18" Volume="1941" Year="1942">
 <Database Name="cv" Series="1628" Issue="117562" />
 </Book>
-<Book Series="Young Allies Comics" Number="5" Volume="1941" Year="1942">
+<Book Series="Young Allies" Number="5" Volume="1941" Year="1942">
 <Database Name="cv" Series="19571" Issue="139052" />
 </Book>
 <Book Series="Marvel Mystery Comics" Number="35" Volume="1939" Year="1942">
@@ -111,7 +111,7 @@
 <Book Series="Marvel Mystery Comics" Number="37" Volume="1939" Year="1942">
 <Database Name="cv" Series="19137" Issue="132193" />
 </Book>
-<Book Series="All Winners Comics" Number="7" Volume="1941" Year="1942">
+<Book Series="All-Winners Comics" Number="7" Volume="1941" Year="1942">
 <Database Name="cv" Series="18581" Issue="138674" />
 </Book>
 <Book Series="Captain America Comics" Number="21" Volume="1941" Year="1942">

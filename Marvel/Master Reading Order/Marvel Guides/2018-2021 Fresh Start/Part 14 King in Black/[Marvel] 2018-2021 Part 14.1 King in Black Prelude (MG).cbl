@@ -8,19 +8,19 @@
             Year="2021">
             <Database Name="cv" Series="138341" Issue="880889" />
         </Book>
-        <Book Series="Symbiote Spider-Man: King In Black" Number="1" Volume="2020" Year="2021">
+        <Book Series="Symbiote Spider-Man: King in Black" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="132130" Issue="819124" />
         </Book>
-        <Book Series="Symbiote Spider-Man: King In Black" Number="2" Volume="2020" Year="2021">
+        <Book Series="Symbiote Spider-Man: King in Black" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="132130" Issue="821501" />
         </Book>
-        <Book Series="Symbiote Spider-Man: King In Black" Number="3" Volume="2020" Year="2021">
+        <Book Series="Symbiote Spider-Man: King in Black" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="132130" Issue="824033" />
         </Book>
-        <Book Series="Symbiote Spider-Man: King In Black" Number="4" Volume="2020" Year="2021">
+        <Book Series="Symbiote Spider-Man: King in Black" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="132130" Issue="830032" />
         </Book>
-        <Book Series="Symbiote Spider-Man: King In Black" Number="5" Volume="2020" Year="2021">
+        <Book Series="Symbiote Spider-Man: King in Black" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="132130" Issue="840958" />
         </Book>
         <Book Series="Symbiote Spider-Man: Crossroads" Number="1" Volume="2021" Year="2021">
@@ -95,7 +95,7 @@
         <Book Series="The Immortal Hulk" Number="41" Volume="2018" Year="2021">
             <Database Name="cv" Series="111425" Issue="821495" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="1" Volume="2020" Year="2021">
+        <Book Series="S.W.O.R.D." Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="132511" Issue="820748" />
         </Book>
         <Book Series="Fantastic Four" Number="25" Volume="2018" Year="2020">

@@ -357,7 +357,7 @@
     <Book Series="The Avengers Annual" Number="18" Volume="1967" Year="1989">
       <Database Name="cv" Series="2350" Issue="30682" />
     </Book>
-    <Book Series="Avengers West Coast Annual" Number="4" Volume="1989" Year="1989">
+    <Book Series="West Coast Avengers Annual" Number="4" Volume="1989" Year="1989">
       <Database Name="cv" Series="4219" Issue="31863" />
     </Book>
     <Book Series="The Mighty Thor Annual" Number="14" Volume="1989" Year="1989">
@@ -594,7 +594,7 @@
     <Book Series="The Mighty Thor Annual" Number="15" Volume="1989" Year="1990">
       <Database Name="cv" Series="79259" Issue="32228" />
     </Book>
-    <Book Series="Avengers West Coast Annual" Number="5" Volume="1989" Year="1990">
+    <Book Series="West Coast Avengers Annual" Number="5" Volume="1989" Year="1990">
       <Database Name="cv" Series="4219" Issue="33189" />
     </Book>
     <Book Series="The Avengers Annual" Number="19" Volume="1967" Year="1990">
@@ -849,13 +849,13 @@
     <Book Series="Alpha Flight" Number="100" Volume="1983" Year="1991">
       <Database Name="cv" Series="3217" Issue="34636" />
     </Book>
-    <Book Series="Punisher/Captain America: Blood &#38; Glory" Number="1" Volume="1992" Year="1992">
+    <Book Series="Punisher/Captain America: Blood &amp; Glory" Number="1" Volume="1992" Year="1992">
       <Database Name="cv" Series="25894" Issue="201359" />
     </Book>
-    <Book Series="Punisher/Captain America: Blood &#38; Glory" Number="2" Volume="1992" Year="1992">
+    <Book Series="Punisher/Captain America: Blood &amp; Glory" Number="2" Volume="1992" Year="1992">
       <Database Name="cv" Series="25894" Issue="201360" />
     </Book>
-    <Book Series="Punisher/Captain America: Blood &#38; Glory" Number="3" Volume="1992" Year="1992">
+    <Book Series="Punisher/Captain America: Blood &amp; Glory" Number="3" Volume="1992" Year="1992">
       <Database Name="cv" Series="25894" Issue="153042" />
     </Book>
     <Book Series="Namor, the Sub-Mariner" Number="13" Volume="1990" Year="1991">

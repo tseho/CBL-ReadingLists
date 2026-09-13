@@ -6,7 +6,7 @@
 <Book Series="Guardians of the Galaxy" Number="16" Volume="2020" Year="2021">
 <Database Name="cv" Series="124447" Issue="872882" />
 </Book>
-<Book Series="S.W.O.R.D." Number="7" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="7" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="874522" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="17" Volume="2020" Year="2021">

@@ -187,25 +187,25 @@
         <Book Series="Thunderbolts" Number="13" Volume="2013" Year="2013">
             <Database Name="cv" Series="54429" Issue="417846" />
         </Book>
-        <Book Series="Deadpool" Number="1" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="1" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="365760" />
         </Book>
-        <Book Series="Deadpool" Number="2" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="2" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="369057" />
         </Book>
-        <Book Series="Deadpool" Number="3" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="3" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="371106" />
         </Book>
-        <Book Series="Deadpool" Number="4" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="4" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="381412" />
         </Book>
-        <Book Series="Deadpool" Number="5" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="5" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="387257" />
         </Book>
-        <Book Series="Deadpool" Number="6" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="6" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="394707" />
         </Book>
-        <Book Series="Deadpool" Number="7" Volume="2012" Year="2013">
+        <Book Series="Deadpool" Number="7" Volume="2013" Year="2013">
             <Database Name="cv" Series="53726" Issue="395701" />
         </Book>
     </Books>

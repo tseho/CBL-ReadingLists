@@ -153,7 +153,7 @@
     <Book Series="X-Calibre" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="5566" Issue="40600" />
     </Book>
-    <Book Series="Gambit &#38; The X-Ternals" Number="1" Volume="1995" Year="1995">
+    <Book Series="Gambit &amp; The X-Ternals" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="5546" Issue="40588" />
     </Book>
     <Book Series="Weapon X" Number="1" Volume="1995" Year="1995">
@@ -180,7 +180,7 @@
     <Book Series="Weapon X" Number="2" Volume="1995" Year="1995">
       <Database Name="cv" Series="5564" Issue="40733" />
     </Book>
-    <Book Series="Gambit &#38; The X-Ternals" Number="2" Volume="1995" Year="1995">
+    <Book Series="Gambit &amp; The X-Ternals" Number="2" Volume="1995" Year="1995">
       <Database Name="cv" Series="5546" Issue="40728" />
     </Book>
     <Book Series="X-Calibre" Number="2" Volume="1995" Year="1995">
@@ -210,7 +210,7 @@
     <Book Series="Weapon X" Number="3" Volume="1995" Year="1995">
       <Database Name="cv" Series="5564" Issue="40859" />
     </Book>
-    <Book Series="Gambit &#38; The X-Ternals" Number="3" Volume="1995" Year="1995">
+    <Book Series="Gambit &amp; The X-Ternals" Number="3" Volume="1995" Year="1995">
       <Database Name="cv" Series="5546" Issue="40852" />
     </Book>
     <Book Series="Generation Next" Number="3" Volume="1995" Year="1995">
@@ -234,7 +234,7 @@
     <Book Series="Factor X" Number="4" Volume="1995" Year="1995">
       <Database Name="cv" Series="5543" Issue="40973" />
     </Book>
-    <Book Series="Gambit &#38; The X-Ternals" Number="4" Volume="1995" Year="1995">
+    <Book Series="Gambit &amp; The X-Ternals" Number="4" Volume="1995" Year="1995">
       <Database Name="cv" Series="5546" Issue="40976" />
     </Book>
     <Book Series="Amazing X-Men" Number="4" Volume="1995" Year="1995">
@@ -309,7 +309,7 @@
     <Book Series="Cable" Number="22" Volume="1993" Year="1995">
       <Database Name="cv" Series="4993" Issue="41282" />
     </Book>
-    <Book Series="Wolverine '95" Number="1" Volume="1995" Year="1995">
+    <Book Series="Wolverine &apos;95" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="27130" Issue="164831" />
     </Book>
     <Book Series="X-Force" Number="45" Volume="1991" Year="1995">
@@ -366,7 +366,7 @@
     <Book Series="X-Man" Number="7" Volume="1995" Year="1995">
       <Database Name="cv" Series="5567" Issue="41390" />
     </Book>
-    <Book Series="X-Men '95" Number="1" Volume="1995" Year="1995">
+    <Book Series="X-Men &apos;95" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="60462" Issue="178116" />
     </Book>
     <Book Series="Wolverine" Number="93" Volume="1988" Year="1995">
@@ -405,16 +405,16 @@
     <Book Series="X-Men: Books of Askani" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="18153" Issue="106330" />
     </Book>
-    <Book Series="Askani'Son" Number="1" Volume="1996" Year="1996">
+    <Book Series="Askani&apos;Son" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="18151" Issue="106318" />
     </Book>
-    <Book Series="Askani'Son" Number="2" Volume="1996" Year="1996">
+    <Book Series="Askani&apos;Son" Number="2" Volume="1996" Year="1996">
       <Database Name="cv" Series="18151" Issue="106322" />
     </Book>
-    <Book Series="Askani'Son" Number="3" Volume="1996" Year="1996">
+    <Book Series="Askani&apos;Son" Number="3" Volume="1996" Year="1996">
       <Database Name="cv" Series="18151" Issue="106323" />
     </Book>
-    <Book Series="Askani'Son" Number="4" Volume="1996" Year="1996">
+    <Book Series="Askani&apos;Son" Number="4" Volume="1996" Year="1996">
       <Database Name="cv" Series="18151" Issue="106324" />
     </Book>
     <Book Series="Cable" Number="23" Volume="1993" Year="1995">
@@ -465,7 +465,7 @@
     <Book Series="X-Force" Number="48" Volume="1991" Year="1995">
       <Database Name="cv" Series="4604" Issue="64522" />
     </Book>
-    <Book Series="Uncanny X-Men '95" Number="1" Volume="1995" Year="1995">
+    <Book Series="Uncanny X-Men &apos;95" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="60468" Issue="136045" />
     </Book>
     <Book Series="Excalibur" Number="93" Volume="1988" Year="1996">
@@ -477,7 +477,7 @@
     <Book Series="X-Factor" Number="116" Volume="1986" Year="1995">
       <Database Name="cv" Series="3657" Issue="65696" />
     </Book>
-    <Book Series="Generation X '95" Number="1" Volume="1995" Year="1995">
+    <Book Series="Generation X &apos;95" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="18594" Issue="109694" />
     </Book>
     <Book Series="Generation X" Number="10" Volume="1994" Year="1995">
@@ -522,7 +522,7 @@
     <Book Series="Cable" Number="28" Volume="1993" Year="1996">
       <Database Name="cv" Series="4993" Issue="42115" />
     </Book>
-    <Book Series="X-Force / Cable '95" Number="1" Volume="1995" Year="1995">
+    <Book Series="X-Force / Cable &apos;95" Number="1" Volume="1995" Year="1995">
       <Database Name="cv" Series="20136" Issue="120182" />
     </Book>
     <Book Series="X-Man" Number="12" Volume="1995" Year="1996">
@@ -690,7 +690,7 @@
     <Book Series="X-Factor" Number="124" Volume="1986" Year="1996">
       <Database Name="cv" Series="3657" Issue="65703" />
     </Book>
-    <Book Series="Uncanny X-Men '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="Uncanny X-Men &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="60469" Issue="136046" />
     </Book>
     <Book Series="XSE" Number="1" Volume="1996" Year="1996">
@@ -858,16 +858,16 @@
     <Book Series="X-Man" Number="20" Volume="1995" Year="1996">
       <Database Name="cv" Series="5567" Issue="42888" />
     </Book>
-    <Book Series="Mystique &#38; Sabretooth" Number="1" Volume="1996" Year="1996">
+    <Book Series="Mystique &amp; Sabretooth" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="5787" Issue="43117" />
     </Book>
-    <Book Series="Mystique &#38; Sabretooth" Number="2" Volume="1996" Year="1997">
+    <Book Series="Mystique &amp; Sabretooth" Number="2" Volume="1996" Year="1997">
       <Database Name="cv" Series="5787" Issue="43313" />
     </Book>
-    <Book Series="Mystique &#38; Sabretooth" Number="3" Volume="1996" Year="1997">
+    <Book Series="Mystique &amp; Sabretooth" Number="3" Volume="1996" Year="1997">
       <Database Name="cv" Series="5787" Issue="43425" />
     </Book>
-    <Book Series="Mystique &#38; Sabretooth" Number="4" Volume="1996" Year="1997">
+    <Book Series="Mystique &amp; Sabretooth" Number="4" Volume="1996" Year="1997">
       <Database Name="cv" Series="5787" Issue="43519" />
     </Book>
     <Book Series="X-Force" Number="59" Volume="1991" Year="1996">
@@ -897,7 +897,7 @@
     <Book Series="Pryde and Wisdom" Number="3" Volume="1996" Year="1996">
       <Database Name="cv" Series="5785" Issue="42986" />
     </Book>
-    <Book Series="X-Men '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="X-Men &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="20710" Issue="178122" />
     </Book>
     <Book Series="The Rise of Apocalypse" Number="1" Volume="1996" Year="1996">
@@ -921,7 +921,7 @@
     <Book Series="Excalibur" Number="103" Volume="1988" Year="1996">
       <Database Name="cv" Series="4052" Issue="66386" />
     </Book>
-    <Book Series="X-Force / Cable '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="X-Force / Cable &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="20138" Issue="120187" />
     </Book>
     <Book Series="X-Force" Number="62" Volume="1991" Year="1997">

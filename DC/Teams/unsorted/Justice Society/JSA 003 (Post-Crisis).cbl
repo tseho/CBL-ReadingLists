@@ -345,13 +345,13 @@
     <Book Series="Blackest Night" Number="4" Volume="2009" Year="2009">
       <Database Name="cv" Series="26266" Issue="179009" />
     </Book>
-    <Book Series="Blackest Night: JSA" Number="1" Volume="2009" Year="2010">
+    <Book Series="Blackest Night: JSA" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="30673" Issue="189478" />
     </Book>
-    <Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
+    <Book Series="Blackest Night: JSA" Number="2" Volume="2010" Year="2010">
       <Database Name="cv" Series="30673" Issue="194482" />
     </Book>
-    <Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
+    <Book Series="Blackest Night: JSA" Number="3" Volume="2010" Year="2010">
       <Database Name="cv" Series="30673" Issue="198358" />
     </Book>
     <Book Series="Blackest Night" Number="8" Volume="2009" Year="2010">

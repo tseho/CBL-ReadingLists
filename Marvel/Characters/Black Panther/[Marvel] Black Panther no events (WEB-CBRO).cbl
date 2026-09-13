@@ -537,70 +537,70 @@
 <Book Series="Black Panther and the Crew" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="100687" Issue="617835" />
 </Book>
-<Book Series="Ultimates" Number="1" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="505529" />
 </Book>
-<Book Series="Ultimates" Number="2" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="507785" />
 </Book>
-<Book Series="Ultimates" Number="3" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="510620" />
 </Book>
-<Book Series="Ultimates" Number="4" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="514454" />
 </Book>
-<Book Series="Ultimates" Number="5" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="521346" />
 </Book>
-<Book Series="Ultimates" Number="6" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="527158" />
 </Book>
-<Book Series="Ultimates" Number="7" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="529664" />
 </Book>
-<Book Series="Ultimates" Number="8" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="537250" />
 </Book>
-<Book Series="Ultimates" Number="9" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="540090" />
 </Book>
-<Book Series="Ultimates" Number="10" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="544996" />
 </Book>
-<Book Series="Ultimates" Number="11" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="551323" />
 </Book>
-<Book Series="Ultimates" Number="12" Volume="2015" Year="2016">
+<Book Series="Ultimates" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85972" Issue="555543" />
 </Book>
-<Book Series="Ultimates 2" Number="1" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="558977" />
 </Book>
-<Book Series="Ultimates 2" Number="2" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="569351" />
 </Book>
-<Book Series="Ultimates 2" Number="3" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="576639" />
 </Book>
-<Book Series="Ultimates 2" Number="4" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="581571" />
 </Book>
-<Book Series="Ultimates 2" Number="5" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="588575" />
 </Book>
-<Book Series="Ultimates 2" Number="6" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="593275" />
 </Book>
-<Book Series="Ultimates 2" Number="7" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="595706" />
 </Book>
-<Book Series="Ultimates 2" Number="8" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="603146" />
 </Book>
-<Book Series="Ultimates 2" Number="9" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="609367" />
 </Book>
-<Book Series="Ultimates 2" Number="100" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="100" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="615036" />
 </Book>
 <Book Series="Black Panther" Number="13" Volume="2016" Year="2017">
@@ -870,25 +870,25 @@
 <Book Series="Avengers" Number="44" Volume="2018" Year="2021">
 <Database Name="cv" Series="110496" Issue="842200" />
 </Book>
-<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="820024" />
 </Book>
 <Book Series="King In Black: Black Panther" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133724" Issue="828193" />
 </Book>
-<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="822349" />
 </Book>
-<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="825507" />
 </Book>
-<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="828857" />
 </Book>
 <Book Series="Avengers" Number="45" Volume="2018" Year="2021">
 <Database Name="cv" Series="110496" Issue="844966" />
 </Book>
-<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="842204" />
 </Book>
 <Book Series="Black Panther Legends" Number="1" Volume="2021" Year="2021">
@@ -927,7 +927,7 @@
 <Book Series="Black Panther" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140222" Issue="941558" />
 </Book>
-<Book Series="Black Panther: Unconquered" Number="1" Volume="2022" Year="2023">
+<Book Series="Black Panther: Unconquered" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="145972" Issue="954281" />
 </Book>
 <Book Series="Black Panther" Number="9" Volume="2022" Year="2022">
@@ -1056,25 +1056,25 @@
 <Book Series="Predator vs. Black Panther" Number="4" Volume="2024" Year="2025">
 <Database Name="cv" Series="159324" Issue="1078501" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="23" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="23" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1066700" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="24" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="24" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1068656" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="25" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="25" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1073886" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="26" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="26" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1078497" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="27" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="27" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1080274" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="28" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="28" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1088572" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="29" Volume="2022" Year="2025">
+<Book Series="Miles Morales: Spider-Man" Number="29" Volume="2023" Year="2025">
 <Database Name="cv" Series="146734" Issue="1090272" />
 </Book>
 <Book Series="Avengers" Number="25" Volume="2023" Year="2025">

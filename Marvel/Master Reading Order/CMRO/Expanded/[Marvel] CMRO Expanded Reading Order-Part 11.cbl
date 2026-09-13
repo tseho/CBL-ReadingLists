@@ -93,7 +93,7 @@
 <Book Series="Alpha Flight" Number="21" Volume="1983" Year="1985">
 <Database Name="cv" Series="3217" Issue="25378" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="38" Volume="1977" Year="1985">
+<Book Series="Marvel Super Special" Number="38" Volume="1978" Year="1985">
 <Database Name="cv" Series="2909" Issue="25095" />
 </Book>
 <Book Series="Peter Parker, the Spectacular Spider-Man" Number="97" Volume="1980" Year="1984">
@@ -2094,7 +2094,7 @@
 <Book Series="Captain America" Number="320" Volume="1968" Year="1986">
 <Database Name="cv" Series="2400" Issue="27078" />
 </Book>
-<Book Series="Howard the Duck" Number="32" Volume="1975" Year="1986">
+<Book Series="Howard the Duck" Number="32" Volume="1976" Year="1986">
 <Database Name="cv" Series="2859" Issue="265972" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="124" Volume="1978" Year="1986">
@@ -2337,7 +2337,7 @@
 <Book Series="The Transformers" Number="48" Volume="1984" Year="1986">
 <Database Name="cv" Series="20559" Issue="171966" />
 </Book>
-<Book Series="Howard the Duck" Number="33" Volume="1975" Year="1986">
+<Book Series="Howard the Duck" Number="33" Volume="1976" Year="1986">
 <Database Name="cv" Series="2859" Issue="265973" />
 </Book>
 <Book Series="Daredevil" Number="235" Volume="1964" Year="1986">

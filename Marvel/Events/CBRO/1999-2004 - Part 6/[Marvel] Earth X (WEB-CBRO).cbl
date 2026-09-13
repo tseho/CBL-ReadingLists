@@ -69,7 +69,7 @@
 <Book Series="Universe X" Number="0" Volume="2000" Year="2000">
 <Database Name="cv" Series="9149" Issue="69359" />
 </Book>
-<Book Series="Universe X Special: 4" Number="1" Volume="2000" Year="2000">
+<Book Series="4" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="24355" Issue="144663" />
 </Book>
 <Book Series="Universe X" Number="1" Volume="2000" Year="2000">
@@ -81,13 +81,13 @@
 <Book Series="Universe X" Number="3" Volume="2000" Year="2000">
 <Database Name="cv" Series="9149" Issue="69362" />
 </Book>
-<Book Series="Universe X Special: Spidey" Number="1" Volume="2000" Year="2000">
+<Book Series="Universe X Spidey" Number="1" Volume="2001" Year="2000">
 <Database Name="cv" Series="24356" Issue="144664" />
 </Book>
 <Book Series="Universe X" Number="4" Volume="2000" Year="2001">
 <Database Name="cv" Series="9149" Issue="69363" />
 </Book>
-<Book Series="Universe X Special: Cap" Number="1" Volume="2001" Year="2001">
+<Book Series="Universe X: Cap" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="24360" Issue="144682" />
 </Book>
 <Book Series="Universe X" Number="5" Volume="2000" Year="2001">
@@ -102,7 +102,7 @@
 <Book Series="Universe X" Number="8" Volume="2000" Year="2001">
 <Database Name="cv" Series="9149" Issue="69367" />
 </Book>
-<Book Series="Universe X Special: Beasts" Number="1" Volume="2001" Year="2001">
+<Book Series="Universe X: Beasts" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="24495" Issue="145107" />
 </Book>
 <Book Series="Universe X" Number="9" Volume="2000" Year="2001">
@@ -114,7 +114,7 @@
 <Book Series="Universe X" Number="11" Volume="2000" Year="2001">
 <Database Name="cv" Series="9149" Issue="69370" />
 </Book>
-<Book Series="Universe X Special: Iron Men" Number="1" Volume="2001" Year="2001">
+<Book Series="Universe X: Iron Men" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="24499" Issue="145247" />
 </Book>
 <Book Series="Universe X" Number="12" Volume="2000" Year="2001">

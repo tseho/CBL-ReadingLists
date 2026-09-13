@@ -444,22 +444,22 @@
 <Book Series="Detective Comics" Number="987" Volume="2016" Year="2018">
 <Database Name="cv" Series="91098" Issue="680702" />
 </Book>
-<Book Series="Deathstroke" Number="30" Volume="2017" Year="2018">
+<Book Series="Deathstroke" Number="30" Volume="2016" Year="2018">
 <Database Name="cv" Series="93375" Issue="664886" />
 </Book>
-<Book Series="Deathstroke" Number="31" Volume="2017" Year="2018">
+<Book Series="Deathstroke" Number="31" Volume="2016" Year="2018">
 <Database Name="cv" Series="93375" Issue="668751" />
 </Book>
-<Book Series="Deathstroke" Number="32" Volume="2017" Year="2018">
+<Book Series="Deathstroke" Number="32" Volume="2016" Year="2018">
 <Database Name="cv" Series="93375" Issue="672253" />
 </Book>
-<Book Series="Deathstroke" Number="33" Volume="2017" Year="2018">
+<Book Series="Deathstroke" Number="33" Volume="2016" Year="2018">
 <Database Name="cv" Series="93375" Issue="675951" />
 </Book>
-<Book Series="Deathstroke" Number="34" Volume="2017" Year="2018">
+<Book Series="Deathstroke" Number="34" Volume="2016" Year="2018">
 <Database Name="cv" Series="93375" Issue="678507" />
 </Book>
-<Book Series="Deathstroke" Number="35" Volume="2017" Year="2018">
+<Book Series="Deathstroke" Number="35" Volume="2016" Year="2018">
 <Database Name="cv" Series="93375" Issue="683806" />
 </Book>
 <Book Series="Batman" Number="54" Volume="2016" Year="2018">

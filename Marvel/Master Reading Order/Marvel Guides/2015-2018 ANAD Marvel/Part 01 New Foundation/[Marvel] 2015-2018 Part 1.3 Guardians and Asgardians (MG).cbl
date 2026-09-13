@@ -37,37 +37,37 @@
         <Book Series="Vote Loki" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="91303" Issue="550373" />
         </Book>
-        <Book Series="Drax" Number="1" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="504936" />
         </Book>
-        <Book Series="Drax" Number="2" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="509701" />
         </Book>
-        <Book Series="Drax" Number="3" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="511511" />
         </Book>
-        <Book Series="Drax" Number="4" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="516952" />
         </Book>
-        <Book Series="Drax" Number="5" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="522428" />
         </Book>
-        <Book Series="Drax" Number="6" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="527141" />
         </Book>
-        <Book Series="Drax" Number="7" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="531880" />
         </Book>
-        <Book Series="Drax" Number="8" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="8" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="537233" />
         </Book>
-        <Book Series="Drax" Number="9" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="9" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="541201" />
         </Book>
-        <Book Series="Drax" Number="10" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="546056" />
         </Book>
-        <Book Series="Drax" Number="11" Volume="2015" Year="2016">
+        <Book Series="Drax" Number="11" Volume="2016" Year="2016">
             <Database Name="cv" Series="85753" Issue="551304" />
         </Book>
         <Book Series="Star-Lord" Number="1" Volume="2017" Year="2017">

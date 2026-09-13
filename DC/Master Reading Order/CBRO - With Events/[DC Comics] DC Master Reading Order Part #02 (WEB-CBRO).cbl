@@ -708,37 +708,37 @@
 <Book Series="Wonder Woman" Number="9" Volume="1987" Year="1987">
 <Database Name="cv" Series="3824" Issue="28657" />
 </Book>
-<Book Series="The Question" Number="1" Volume="1986" Year="1987">
+<Book Series="The Question" Number="1" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="27749" />
 </Book>
-<Book Series="The Question" Number="2" Volume="1986" Year="1987">
+<Book Series="The Question" Number="2" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="27861" />
 </Book>
-<Book Series="The Question" Number="3" Volume="1986" Year="1987">
+<Book Series="The Question" Number="3" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="27967" />
 </Book>
-<Book Series="The Question" Number="4" Volume="1986" Year="1987">
+<Book Series="The Question" Number="4" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28079" />
 </Book>
-<Book Series="The Question" Number="5" Volume="1986" Year="1987">
+<Book Series="The Question" Number="5" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28180" />
 </Book>
-<Book Series="The Question" Number="6" Volume="1986" Year="1987">
+<Book Series="The Question" Number="6" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28293" />
 </Book>
-<Book Series="The Question" Number="7" Volume="1986" Year="1987">
+<Book Series="The Question" Number="7" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28417" />
 </Book>
-<Book Series="The Question" Number="8" Volume="1986" Year="1987">
+<Book Series="The Question" Number="8" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28524" />
 </Book>
-<Book Series="The Question" Number="9" Volume="1986" Year="1987">
+<Book Series="The Question" Number="9" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28643" />
 </Book>
-<Book Series="The Question" Number="10" Volume="1986" Year="1987">
+<Book Series="The Question" Number="10" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28757" />
 </Book>
-<Book Series="The Question" Number="11" Volume="1986" Year="1987">
+<Book Series="The Question" Number="11" Volume="1987" Year="1987">
 <Database Name="cv" Series="3805" Issue="28878" />
 </Book>
 <Book Series="Action Comics" Number="590" Volume="1938" Year="1987">
@@ -1125,31 +1125,31 @@
 <Book Series="Green Arrow" Number="8" Volume="1988" Year="1988">
 <Database Name="cv" Series="4003" Issue="66699" />
 </Book>
-<Book Series="The Question" Number="12" Volume="1986" Year="1988">
+<Book Series="The Question" Number="12" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29097" />
 </Book>
-<Book Series="The Question" Number="13" Volume="1986" Year="1988">
+<Book Series="The Question" Number="13" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29216" />
 </Book>
-<Book Series="The Question" Number="14" Volume="1986" Year="1988">
+<Book Series="The Question" Number="14" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29325" />
 </Book>
-<Book Series="The Question" Number="15" Volume="1986" Year="1988">
+<Book Series="The Question" Number="15" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29441" />
 </Book>
-<Book Series="The Question" Number="16" Volume="1986" Year="1988">
+<Book Series="The Question" Number="16" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29546" />
 </Book>
-<Book Series="The Question" Number="17" Volume="1986" Year="1988">
+<Book Series="The Question" Number="17" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29668" />
 </Book>
-<Book Series="The Question" Number="18" Volume="1986" Year="1988">
+<Book Series="The Question" Number="18" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29786" />
 </Book>
-<Book Series="The Question" Number="19" Volume="1986" Year="1988">
+<Book Series="The Question" Number="19" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="29909" />
 </Book>
-<Book Series="The Question" Number="20" Volume="1986" Year="1988">
+<Book Series="The Question" Number="20" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="30140" />
 </Book>
 <Book Series="Animal Man" Number="1" Volume="1988" Year="1988">
@@ -1725,34 +1725,34 @@
 <Book Series="Legion of Super-Heroes" Number="63" Volume="1984" Year="1989">
 <Database Name="cv" Series="3310" Issue="31507" />
 </Book>
-<Book Series="The Question" Number="21" Volume="1986" Year="1988">
+<Book Series="The Question" Number="21" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="30271" />
 </Book>
-<Book Series="The Question" Number="22" Volume="1986" Year="1988">
+<Book Series="The Question" Number="22" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="30399" />
 </Book>
-<Book Series="The Question" Number="23" Volume="1986" Year="1988">
+<Book Series="The Question" Number="23" Volume="1987" Year="1988">
 <Database Name="cv" Series="3805" Issue="30535" />
 </Book>
-<Book Series="The Question" Number="24" Volume="1986" Year="1989">
+<Book Series="The Question" Number="24" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="30744" />
 </Book>
-<Book Series="The Question" Number="25" Volume="1986" Year="1989">
+<Book Series="The Question" Number="25" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="164698" />
 </Book>
-<Book Series="The Question" Number="26" Volume="1986" Year="1989">
+<Book Series="The Question" Number="26" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="135920" />
 </Book>
-<Book Series="The Question" Number="27" Volume="1986" Year="1989">
+<Book Series="The Question" Number="27" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31295" />
 </Book>
-<Book Series="The Question" Number="28" Volume="1986" Year="1989">
+<Book Series="The Question" Number="28" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31405" />
 </Book>
-<Book Series="The Question" Number="29" Volume="1986" Year="1989">
+<Book Series="The Question" Number="29" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31512" />
 </Book>
-<Book Series="The Question" Number="30" Volume="1986" Year="1989">
+<Book Series="The Question" Number="30" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31620" />
 </Book>
 <Book Series="Doom Patrol" Number="19" Volume="1987" Year="1989">
@@ -2091,22 +2091,22 @@
 <Book Series="Legion of Super-Heroes" Number="7" Volume="1989" Year="1990">
 <Database Name="cv" Series="4201" Issue="32700" />
 </Book>
-<Book Series="The Question" Number="31" Volume="1986" Year="1989">
+<Book Series="The Question" Number="31" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31729" />
 </Book>
-<Book Series="The Question" Number="32" Volume="1986" Year="1989">
+<Book Series="The Question" Number="32" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31837" />
 </Book>
-<Book Series="The Question" Number="33" Volume="1986" Year="1989">
+<Book Series="The Question" Number="33" Volume="1987" Year="1989">
 <Database Name="cv" Series="3805" Issue="31969" />
 </Book>
-<Book Series="The Question" Number="34" Volume="1986" Year="1990">
+<Book Series="The Question" Number="34" Volume="1987" Year="1990">
 <Database Name="cv" Series="3805" Issue="32297" />
 </Book>
-<Book Series="The Question" Number="35" Volume="1986" Year="1990">
+<Book Series="The Question" Number="35" Volume="1987" Year="1990">
 <Database Name="cv" Series="3805" Issue="164711" />
 </Book>
-<Book Series="The Question" Number="36" Volume="1986" Year="1990">
+<Book Series="The Question" Number="36" Volume="1987" Year="1990">
 <Database Name="cv" Series="3805" Issue="32601" />
 </Book>
 <Book Series="Hellblazer" Number="28" Volume="1988" Year="1990">
@@ -2325,13 +2325,13 @@
 <Book Series="Wonder Woman" Number="44" Volume="1987" Year="1990">
 <Database Name="cv" Series="3824" Issue="63508" />
 </Book>
-<Book Series="World's Finest" Number="1" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199247" />
 </Book>
-<Book Series="World's Finest" Number="2" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="2" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199248" />
 </Book>
-<Book Series="World's Finest" Number="3" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="3" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199249" />
 </Book>
 <Book Series="Doom Patrol" Number="30" Volume="1987" Year="1990">
@@ -2529,7 +2529,7 @@
 <Book Series="Suicide Squad" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3815" Issue="33915" />
 </Book>
-<Book Series="Batman &#38; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
+<Book Series="Batman &amp; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="19168" Issue="114715" />
 </Book>
 <Book Series="Batman: Bloodstorm" Number="1" Volume="1994" Year="1995">

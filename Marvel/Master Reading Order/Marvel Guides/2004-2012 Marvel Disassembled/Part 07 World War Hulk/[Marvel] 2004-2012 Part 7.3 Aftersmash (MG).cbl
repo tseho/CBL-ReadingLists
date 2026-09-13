@@ -13,31 +13,31 @@
         <Book Series="World War Hulk: Aftersmash" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="19919" Issue="119219" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Damage Control" Number="1" Volume="2008"
+        <Book Series="WWH Aftersmash: Damage Control" Number="1" Volume="2008"
             Year="2008">
             <Database Name="cv" Series="20402" Issue="122005" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Damage Control" Number="2" Volume="2008"
+        <Book Series="WWH Aftersmash: Damage Control" Number="2" Volume="2008"
             Year="2008">
             <Database Name="cv" Series="20402" Issue="124233" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Damage Control" Number="3" Volume="2008"
+        <Book Series="WWH Aftersmash: Damage Control" Number="3" Volume="2008"
             Year="2008">
             <Database Name="cv" Series="20402" Issue="126245" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
+        <Book Series="WWH Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="20153" Issue="120239" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Warbound" Number="2" Volume="2008" Year="2008">
+        <Book Series="WWH Aftersmash: Warbound" Number="2" Volume="2008" Year="2008">
             <Database Name="cv" Series="20153" Issue="125754" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Warbound" Number="3" Volume="2008" Year="2008">
+        <Book Series="WWH Aftersmash: Warbound" Number="3" Volume="2008" Year="2008">
             <Database Name="cv" Series="20153" Issue="125758" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Warbound" Number="4" Volume="2008" Year="2008">
+        <Book Series="WWH Aftersmash: Warbound" Number="4" Volume="2008" Year="2008">
             <Database Name="cv" Series="20153" Issue="125756" />
         </Book>
-        <Book Series="World War Hulk Aftersmash: Warbound" Number="5" Volume="2008" Year="2008">
+        <Book Series="WWH Aftersmash: Warbound" Number="5" Volume="2008" Year="2008">
             <Database Name="cv" Series="20153" Issue="156498" />
         </Book>
         <Book Series="Incredible Hulk" Number="112" Volume="2000" Year="2008">

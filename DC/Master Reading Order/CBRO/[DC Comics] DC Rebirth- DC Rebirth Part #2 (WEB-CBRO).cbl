@@ -993,7 +993,7 @@
 <Book Series="Detective Comics" Number="982" Volume="2016" Year="2018">
 <Database Name="cv" Series="91098" Issue="672989" />
 </Book>
-<Book Series="Batman: Prelude To the Wedding: Robin vs. Ra's Al Ghul" Number="1" Volume="2018" Year="2018">
+<Book Series="Batman: Prelude To the Wedding: Robin vs. Ra&apos;s Al Ghul" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="111130" Issue="671309" />
 </Book>
 <Book Series="Batman: Prelude To the Wedding: Nightwing vs. Hush" Number="1" Volume="2018" Year="2018">

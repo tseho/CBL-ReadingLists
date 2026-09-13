@@ -6,7 +6,7 @@
 <Book Series="The Untold Legend of the Batman" Number="3" Volume="1980" Year="1980">
 <Database Name="cv" Series="3039" Issue="20649" />
 </Book>
-<Book Series="World's Finest Comics" Number="146" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="146" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="124948" />
 </Book>
 <Book Series="Detective Comics" Number="235" Volume="1937" Year="1956">
@@ -48,7 +48,7 @@
 <Book Series="Detective Comics" Number="226" Volume="1937" Year="1955">
 <Database Name="cv" Series="18058" Issue="112343" />
 </Book>
-<Book Series="World's Finest Comics" Number="84" Volume="1941" Year="1956">
+<Book Series="World&apos;s Finest Comics" Number="84" Volume="1941" Year="1956">
 <Database Name="cv" Series="18006" Issue="121232" />
 </Book>
 <Book Series="Adventure Comics" Number="275" Volume="1938" Year="1960">
@@ -93,16 +93,16 @@
 <Book Series="Detective Comics" Number="474" Volume="1937" Year="1977">
 <Database Name="cv" Series="18058" Issue="112799" />
 </Book>
-<Book Series="World's Finest Comics" Number="94" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="94" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="121789" />
 </Book>
 <Book Series="Superman" Number="76" Volume="1939" Year="1952">
 <Database Name="cv" Series="773" Issue="120155" />
 </Book>
-<Book Series="World's Finest Comics" Number="156" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="156" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="125596" />
 </Book>
-<Book Series="World's Finest Comics" Number="251" Volume="1941" Year="1978">
+<Book Series="World&apos;s Finest Comics" Number="251" Volume="1941" Year="1978">
 <Database Name="cv" Series="18006" Issue="131938" />
 </Book>
 <Book Series="Batman" Number="81" Volume="1940" Year="1954">
@@ -111,43 +111,43 @@
 <Book Series="Batman" Number="101" Volume="1940" Year="1956">
 <Database Name="cv" Series="796" Issue="2604" />
 </Book>
-<Book Series="World's Finest Comics" Number="71" Volume="1941" Year="1954">
+<Book Series="World&apos;s Finest Comics" Number="71" Volume="1941" Year="1954">
 <Database Name="cv" Series="18006" Issue="120154" />
 </Book>
-<Book Series="World's Finest Comics" Number="72" Volume="1941" Year="1954">
+<Book Series="World&apos;s Finest Comics" Number="72" Volume="1941" Year="1954">
 <Database Name="cv" Series="18006" Issue="120212" />
 </Book>
 <Book Series="Detective Comics" Number="213" Volume="1937" Year="1954">
 <Database Name="cv" Series="18058" Issue="112330" />
 </Book>
-<Book Series="World's Finest Comics" Number="73" Volume="1941" Year="1954">
+<Book Series="World&apos;s Finest Comics" Number="73" Volume="1941" Year="1954">
 <Database Name="cv" Series="18006" Issue="120259" />
 </Book>
 <Book Series="Detective Comics" Number="215" Volume="1937" Year="1955">
 <Database Name="cv" Series="18058" Issue="112332" />
 </Book>
-<Book Series="World's Finest Comics" Number="74" Volume="1941" Year="1955">
+<Book Series="World&apos;s Finest Comics" Number="74" Volume="1941" Year="1955">
 <Database Name="cv" Series="18006" Issue="120633" />
 </Book>
-<Book Series="World's Finest Comics" Number="75" Volume="1941" Year="1955">
+<Book Series="World&apos;s Finest Comics" Number="75" Volume="1941" Year="1955">
 <Database Name="cv" Series="18006" Issue="120634" />
 </Book>
-<Book Series="World's Finest Comics" Number="76" Volume="1941" Year="1955">
+<Book Series="World&apos;s Finest Comics" Number="76" Volume="1941" Year="1955">
 <Database Name="cv" Series="18006" Issue="120715" />
 </Book>
 <Book Series="Batman" Number="92" Volume="1940" Year="1955">
 <Database Name="cv" Series="796" Issue="1815" />
 </Book>
-<Book Series="World's Finest Comics" Number="77" Volume="1941" Year="1955">
+<Book Series="World&apos;s Finest Comics" Number="77" Volume="1941" Year="1955">
 <Database Name="cv" Series="18006" Issue="120776" />
 </Book>
-<Book Series="World's Finest Comics" Number="78" Volume="1941" Year="1955">
+<Book Series="World&apos;s Finest Comics" Number="78" Volume="1941" Year="1955">
 <Database Name="cv" Series="18006" Issue="120856" />
 </Book>
 <Book Series="Detective Comics" Number="225" Volume="1937" Year="1955">
 <Database Name="cv" Series="18058" Issue="106648" />
 </Book>
-<Book Series="World's Finest Comics" Number="79" Volume="1941" Year="1955">
+<Book Series="World&apos;s Finest Comics" Number="79" Volume="1941" Year="1955">
 <Database Name="cv" Series="18006" Issue="120913" />
 </Book>
 <Book Series="Batman" Number="96" Volume="1940" Year="1955">
@@ -156,7 +156,7 @@
 <Book Series="Detective Comics" Number="227" Volume="1937" Year="1956">
 <Database Name="cv" Series="18058" Issue="112344" />
 </Book>
-<Book Series="World's Finest Comics" Number="80" Volume="1941" Year="1956">
+<Book Series="World&apos;s Finest Comics" Number="80" Volume="1941" Year="1956">
 <Database Name="cv" Series="18006" Issue="120938" />
 </Book>
 <Book Series="Batman" Number="97" Volume="1940" Year="1956">
@@ -171,7 +171,7 @@
 <Book Series="Detective Comics" Number="229" Volume="1937" Year="1956">
 <Database Name="cv" Series="18058" Issue="112346" />
 </Book>
-<Book Series="World's Finest Comics" Number="81" Volume="1941" Year="1956">
+<Book Series="World&apos;s Finest Comics" Number="81" Volume="1941" Year="1956">
 <Database Name="cv" Series="18006" Issue="120987" />
 </Book>
 <Book Series="Batman" Number="99" Volume="1940" Year="1956">
@@ -183,7 +183,7 @@
 <Book Series="Detective Comics" Number="231" Volume="1937" Year="1956">
 <Database Name="cv" Series="18058" Issue="112348" />
 </Book>
-<Book Series="World's Finest Comics" Number="82" Volume="1941" Year="1956">
+<Book Series="World&apos;s Finest Comics" Number="82" Volume="1941" Year="1956">
 <Database Name="cv" Series="18006" Issue="121042" />
 </Book>
 <Book Series="Batman" Number="100" Volume="1940" Year="1956">
@@ -195,7 +195,7 @@
 <Book Series="Detective Comics" Number="233" Volume="1937" Year="1956">
 <Database Name="cv" Series="18058" Issue="109585" />
 </Book>
-<Book Series="World's Finest Comics" Number="83" Volume="1941" Year="1956">
+<Book Series="World&apos;s Finest Comics" Number="83" Volume="1941" Year="1956">
 <Database Name="cv" Series="18006" Issue="121167" />
 </Book>
 <Book Series="Detective Comics" Number="234" Volume="1937" Year="1956">
@@ -213,7 +213,7 @@
 <Book Series="Detective Comics" Number="237" Volume="1937" Year="1956">
 <Database Name="cv" Series="18058" Issue="112354" />
 </Book>
-<Book Series="World's Finest Comics" Number="85" Volume="1941" Year="1956">
+<Book Series="World&apos;s Finest Comics" Number="85" Volume="1941" Year="1956">
 <Database Name="cv" Series="18006" Issue="121351" />
 </Book>
 <Book Series="Batman" Number="104" Volume="1940" Year="1956">
@@ -225,7 +225,7 @@
 <Book Series="Detective Comics" Number="239" Volume="1937" Year="1957">
 <Database Name="cv" Series="18058" Issue="112356" />
 </Book>
-<Book Series="World's Finest Comics" Number="86" Volume="1941" Year="1957">
+<Book Series="World&apos;s Finest Comics" Number="86" Volume="1941" Year="1957">
 <Database Name="cv" Series="18006" Issue="121349" />
 </Book>
 <Book Series="Batman" Number="105" Volume="1940" Year="1957">
@@ -240,7 +240,7 @@
 <Book Series="Detective Comics" Number="241" Volume="1937" Year="1957">
 <Database Name="cv" Series="18058" Issue="112358" />
 </Book>
-<Book Series="World's Finest Comics" Number="87" Volume="1941" Year="1957">
+<Book Series="World&apos;s Finest Comics" Number="87" Volume="1941" Year="1957">
 <Database Name="cv" Series="18006" Issue="121448" />
 </Book>
 <Book Series="Batman" Number="107" Volume="1940" Year="1957">
@@ -252,7 +252,7 @@
 <Book Series="Detective Comics" Number="243" Volume="1937" Year="1957">
 <Database Name="cv" Series="18058" Issue="112360" />
 </Book>
-<Book Series="World's Finest Comics" Number="88" Volume="1941" Year="1957">
+<Book Series="World&apos;s Finest Comics" Number="88" Volume="1941" Year="1957">
 <Database Name="cv" Series="18006" Issue="121522" />
 </Book>
 <Book Series="Batman" Number="108" Volume="1940" Year="1957">
@@ -261,7 +261,7 @@
 <Book Series="Detective Comics" Number="245" Volume="1937" Year="1957">
 <Database Name="cv" Series="18058" Issue="112373" />
 </Book>
-<Book Series="World's Finest Comics" Number="89" Volume="1941" Year="1957">
+<Book Series="World&apos;s Finest Comics" Number="89" Volume="1941" Year="1957">
 <Database Name="cv" Series="18006" Issue="121571" />
 </Book>
 <Book Series="Batman" Number="109" Volume="1940" Year="1957">
@@ -276,7 +276,7 @@
 <Book Series="Detective Comics" Number="247" Volume="1937" Year="1957">
 <Database Name="cv" Series="18058" Issue="112380" />
 </Book>
-<Book Series="World's Finest Comics" Number="90" Volume="1941" Year="1957">
+<Book Series="World&apos;s Finest Comics" Number="90" Volume="1941" Year="1957">
 <Database Name="cv" Series="18006" Issue="121628" />
 </Book>
 <Book Series="Batman" Number="111" Volume="1940" Year="1957">
@@ -288,7 +288,7 @@
 <Book Series="Detective Comics" Number="249" Volume="1937" Year="1957">
 <Database Name="cv" Series="18058" Issue="112382" />
 </Book>
-<Book Series="World's Finest Comics" Number="91" Volume="1941" Year="1957">
+<Book Series="World&apos;s Finest Comics" Number="91" Volume="1941" Year="1957">
 <Database Name="cv" Series="18006" Issue="121672" />
 </Book>
 <Book Series="Batman" Number="112" Volume="1940" Year="1957">
@@ -300,7 +300,7 @@
 <Book Series="Detective Comics" Number="251" Volume="1937" Year="1958">
 <Database Name="cv" Series="18058" Issue="112385" />
 </Book>
-<Book Series="World's Finest Comics" Number="92" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="92" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="121711" />
 </Book>
 <Book Series="Batman" Number="113" Volume="1940" Year="1958">
@@ -315,7 +315,7 @@
 <Book Series="Detective Comics" Number="253" Volume="1937" Year="1958">
 <Database Name="cv" Series="18058" Issue="112393" />
 </Book>
-<Book Series="World's Finest Comics" Number="93" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="93" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="121713" />
 </Book>
 <Book Series="Batman" Number="115" Volume="1940" Year="1958">
@@ -339,7 +339,7 @@
 <Book Series="Detective Comics" Number="257" Volume="1937" Year="1958">
 <Database Name="cv" Series="18058" Issue="112397" />
 </Book>
-<Book Series="World's Finest Comics" Number="95" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="95" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="116530" />
 </Book>
 <Book Series="Batman" Number="117" Volume="1940" Year="1958">
@@ -354,7 +354,7 @@
 <Book Series="Detective Comics" Number="259" Volume="1937" Year="1958">
 <Database Name="cv" Series="18058" Issue="112399" />
 </Book>
-<Book Series="World's Finest Comics" Number="96" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="96" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="121824" />
 </Book>
 <Book Series="Batman" Number="119" Volume="1940" Year="1958">
@@ -363,7 +363,7 @@
 <Book Series="Detective Comics" Number="260" Volume="1937" Year="1958">
 <Database Name="cv" Series="18058" Issue="112400" />
 </Book>
-<Book Series="World's Finest Comics" Number="97" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="97" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="121868" />
 </Book>
 <Book Series="Detective Comics" Number="261" Volume="1937" Year="1958">
@@ -375,7 +375,7 @@
 <Book Series="Detective Comics" Number="262" Volume="1937" Year="1958">
 <Database Name="cv" Series="18058" Issue="112418" />
 </Book>
-<Book Series="World's Finest Comics" Number="98" Volume="1941" Year="1958">
+<Book Series="World&apos;s Finest Comics" Number="98" Volume="1941" Year="1958">
 <Database Name="cv" Series="18006" Issue="105406" />
 </Book>
 <Book Series="Detective Comics" Number="263" Volume="1937" Year="1959">
@@ -390,13 +390,13 @@
 <Book Series="Justice League of America" Number="144" Volume="1960" Year="1977">
 <Database Name="cv" Series="2014" Issue="17566" />
 </Book>
-<Book Series="World's Finest Comics" Number="99" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="99" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="121903" />
 </Book>
 <Book Series="Batman" Number="122" Volume="1940" Year="1959">
 <Database Name="cv" Series="796" Issue="4232" />
 </Book>
-<Book Series="World's Finest Comics" Number="100" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="100" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="121942" />
 </Book>
 <Book Series="Batman" Number="123" Volume="1940" Year="1959">
@@ -411,7 +411,7 @@
 <Book Series="Detective Comics" Number="267" Volume="1937" Year="1959">
 <Database Name="cv" Series="18058" Issue="112423" />
 </Book>
-<Book Series="World's Finest Comics" Number="101" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="101" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="122001" />
 </Book>
 <Book Series="Batman" Number="124" Volume="1940" Year="1959">
@@ -420,7 +420,7 @@
 <Book Series="Detective Comics" Number="268" Volume="1937" Year="1959">
 <Database Name="cv" Series="18058" Issue="112424" />
 </Book>
-<Book Series="World's Finest Comics" Number="102" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="102" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="122033" />
 </Book>
 <Book Series="Detective Comics" Number="269" Volume="1937" Year="1959">
@@ -435,7 +435,7 @@
 <Book Series="Detective Comics" Number="270" Volume="1937" Year="1959">
 <Database Name="cv" Series="18058" Issue="112426" />
 </Book>
-<Book Series="World's Finest Comics" Number="103" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="103" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="122060" />
 </Book>
 <Book Series="Batman" Number="126" Volume="1940" Year="1959">
@@ -444,7 +444,7 @@
 <Book Series="Detective Comics" Number="271" Volume="1937" Year="1959">
 <Database Name="cv" Series="18058" Issue="112427" />
 </Book>
-<Book Series="World's Finest Comics" Number="104" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="104" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="122089" />
 </Book>
 <Book Series="Justice League of America" Number="9" Volume="1960" Year="1962">
@@ -459,7 +459,7 @@
 <Book Series="Detective Comics" Number="272" Volume="1937" Year="1959">
 <Database Name="cv" Series="18058" Issue="112428" />
 </Book>
-<Book Series="World's Finest Comics" Number="105" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="105" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="122142" />
 </Book>
 <Book Series="Batman" Number="128" Volume="1940" Year="1959">
@@ -468,7 +468,7 @@
 <Book Series="Detective Comics" Number="274" Volume="1937" Year="1959">
 <Database Name="cv" Series="18058" Issue="112430" />
 </Book>
-<Book Series="World's Finest Comics" Number="106" Volume="1941" Year="1959">
+<Book Series="World&apos;s Finest Comics" Number="106" Volume="1941" Year="1959">
 <Database Name="cv" Series="18006" Issue="122209" />
 </Book>
 <Book Series="Detective Comics" Number="275" Volume="1937" Year="1960">
@@ -483,7 +483,7 @@
 <Book Series="Detective Comics" Number="276" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112432" />
 </Book>
-<Book Series="World's Finest Comics" Number="107" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="107" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122253" />
 </Book>
 <Book Series="Batman" Number="130" Volume="1940" Year="1960">
@@ -492,7 +492,7 @@
 <Book Series="Detective Comics" Number="277" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112434" />
 </Book>
-<Book Series="World's Finest Comics" Number="108" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="108" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122284" />
 </Book>
 <Book Series="Batman" Number="131" Volume="1940" Year="1960">
@@ -507,7 +507,7 @@
 <Book Series="Detective Comics" Number="279" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112437" />
 </Book>
-<Book Series="World's Finest Comics" Number="109" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="109" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122328" />
 </Book>
 <Book Series="Batman" Number="132" Volume="1940" Year="1960">
@@ -519,7 +519,7 @@
 <Book Series="Detective Comics" Number="280" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112438" />
 </Book>
-<Book Series="World's Finest Comics" Number="110" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="110" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122364" />
 </Book>
 <Book Series="Superman" Number="138" Volume="1939" Year="1960">
@@ -534,7 +534,7 @@
 <Book Series="Detective Comics" Number="282" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112440" />
 </Book>
-<Book Series="World's Finest Comics" Number="111" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="111" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122441" />
 </Book>
 <Book Series="Batman" Number="134" Volume="1940" Year="1960">
@@ -543,7 +543,7 @@
 <Book Series="Detective Comics" Number="283" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112441" />
 </Book>
-<Book Series="World's Finest Comics" Number="112" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="112" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122505" />
 </Book>
 <Book Series="Batman" Number="135" Volume="1940" Year="1960">
@@ -561,7 +561,7 @@
 <Book Series="Action Comics" Number="270" Volume="1938" Year="1960">
 <Database Name="cv" Series="18005" Issue="115022" />
 </Book>
-<Book Series="World's Finest Comics" Number="113" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="113" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122562" />
 </Book>
 <Book Series="Batman" Number="136" Volume="1940" Year="1960">
@@ -573,7 +573,7 @@
 <Book Series="Detective Comics" Number="286" Volume="1937" Year="1960">
 <Database Name="cv" Series="18058" Issue="112446" />
 </Book>
-<Book Series="World's Finest Comics" Number="114" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="114" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122602" />
 </Book>
 <Book Series="Superman" Number="142" Volume="1939" Year="1961">
@@ -594,7 +594,7 @@
 <Book Series="Detective Comics" Number="288" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112448" />
 </Book>
-<Book Series="World's Finest Comics" Number="115" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="115" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="122677" />
 </Book>
 <Book Series="Batman" Number="138" Volume="1940" Year="1961">
@@ -603,7 +603,7 @@
 <Book Series="Detective Comics" Number="289" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112449" />
 </Book>
-<Book Series="World's Finest Comics" Number="116" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="116" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="122726" />
 </Book>
 <Book Series="Batman" Number="139" Volume="1940" Year="1961">
@@ -618,7 +618,7 @@
 <Book Series="Detective Comics" Number="291" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112461" />
 </Book>
-<Book Series="World's Finest Comics" Number="117" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="117" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="122753" />
 </Book>
 <Book Series="Batman" Number="140" Volume="1940" Year="1961">
@@ -630,7 +630,7 @@
 <Book Series="Detective Comics" Number="292" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112462" />
 </Book>
-<Book Series="World's Finest Comics" Number="118" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="118" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="122825" />
 </Book>
 <Book Series="Detective Comics" Number="293" Volume="1937" Year="1961">
@@ -642,7 +642,7 @@
 <Book Series="Detective Comics" Number="294" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112464" />
 </Book>
-<Book Series="World's Finest Comics" Number="119" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="119" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="122928" />
 </Book>
 <Book Series="Batman" Number="142" Volume="1940" Year="1961">
@@ -651,7 +651,7 @@
 <Book Series="Detective Comics" Number="295" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112465" />
 </Book>
-<Book Series="World's Finest Comics" Number="120" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="120" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="122959" />
 </Book>
 <Book Series="Batman" Number="143" Volume="1940" Year="1961">
@@ -663,13 +663,13 @@
 <Book Series="Detective Comics" Number="296" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112466" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="29" Volume="1958" Year="1961">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="29" Volume="1958" Year="1961">
 <Database Name="cv" Series="19245" Issue="117840" />
 </Book>
 <Book Series="Detective Comics" Number="297" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112467" />
 </Book>
-<Book Series="World's Finest Comics" Number="121" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="121" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="123029" />
 </Book>
 <Book Series="Batman" Number="144" Volume="1940" Year="1961">
@@ -678,10 +678,10 @@
 <Book Series="Detective Comics" Number="298" Volume="1937" Year="1961">
 <Database Name="cv" Series="18058" Issue="112468" />
 </Book>
-<Book Series="World's Finest Comics" Number="122" Volume="1941" Year="1961">
+<Book Series="World&apos;s Finest Comics" Number="122" Volume="1941" Year="1961">
 <Database Name="cv" Series="18006" Issue="123124" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="58" Volume="1954" Year="1962">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="58" Volume="1954" Year="1962">
 <Database Name="cv" Series="19172" Issue="125458" />
 </Book>
 <Book Series="Detective Comics" Number="299" Volume="1937" Year="1962">
@@ -693,7 +693,7 @@
 <Book Series="Detective Comics" Number="300" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112470" />
 </Book>
-<Book Series="World's Finest Comics" Number="123" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="123" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123249" />
 </Book>
 <Book Series="Batman" Number="146" Volume="1940" Year="1962">
@@ -702,7 +702,7 @@
 <Book Series="Detective Comics" Number="301" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112471" />
 </Book>
-<Book Series="World's Finest Comics" Number="124" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="124" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123311" />
 </Book>
 <Book Series="Detective Comics" Number="302" Volume="1937" Year="1962">
@@ -720,7 +720,7 @@
 <Book Series="Detective Comics" Number="303" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112473" />
 </Book>
-<Book Series="World's Finest Comics" Number="125" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="125" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123449" />
 </Book>
 <Book Series="Batman" Number="148" Volume="1940" Year="1962">
@@ -732,7 +732,7 @@
 <Book Series="Detective Comics" Number="304" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112474" />
 </Book>
-<Book Series="World's Finest Comics" Number="126" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="126" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123492" />
 </Book>
 <Book Series="Detective Comics" Number="305" Volume="1937" Year="1962">
@@ -747,7 +747,7 @@
 <Book Series="Detective Comics" Number="306" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112476" />
 </Book>
-<Book Series="World's Finest Comics" Number="127" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="127" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="109640" />
 </Book>
 <Book Series="Batman" Number="150" Volume="1940" Year="1962">
@@ -759,7 +759,7 @@
 <Book Series="Detective Comics" Number="307" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112477" />
 </Book>
-<Book Series="World's Finest Comics" Number="128" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="128" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123575" />
 </Book>
 <Book Series="Superman" Number="156" Volume="1939" Year="1962">
@@ -777,7 +777,7 @@
 <Book Series="Detective Comics" Number="309" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112479" />
 </Book>
-<Book Series="World's Finest Comics" Number="129" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="129" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123606" />
 </Book>
 <Book Series="Batman" Number="152" Volume="1940" Year="1962">
@@ -789,7 +789,7 @@
 <Book Series="Detective Comics" Number="310" Volume="1937" Year="1962">
 <Database Name="cv" Series="18058" Issue="112480" />
 </Book>
-<Book Series="World's Finest Comics" Number="130" Volume="1941" Year="1962">
+<Book Series="World&apos;s Finest Comics" Number="130" Volume="1941" Year="1962">
 <Database Name="cv" Series="18006" Issue="123650" />
 </Book>
 <Book Series="Detective Comics" Number="311" Volume="1937" Year="1963">
@@ -804,7 +804,7 @@
 <Book Series="Detective Comics" Number="312" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112482" />
 </Book>
-<Book Series="World's Finest Comics" Number="131" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="131" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="123786" />
 </Book>
 <Book Series="Batman" Number="154" Volume="1940" Year="1963">
@@ -816,7 +816,7 @@
 <Book Series="Detective Comics" Number="313" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112483" />
 </Book>
-<Book Series="World's Finest Comics" Number="132" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="132" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="123988" />
 </Book>
 <Book Series="Detective Comics" Number="314" Volume="1937" Year="1963">
@@ -831,7 +831,7 @@
 <Book Series="Detective Comics" Number="315" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112484" />
 </Book>
-<Book Series="World's Finest Comics" Number="133" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="133" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="124072" />
 </Book>
 <Book Series="Batman" Number="156" Volume="1940" Year="1963">
@@ -843,7 +843,7 @@
 <Book Series="Detective Comics" Number="316" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112486" />
 </Book>
-<Book Series="World's Finest Comics" Number="134" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="134" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="124194" />
 </Book>
 <Book Series="Detective Comics" Number="317" Volume="1937" Year="1963">
@@ -855,7 +855,7 @@
 <Book Series="Detective Comics" Number="318" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112488" />
 </Book>
-<Book Series="World's Finest Comics" Number="135" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="135" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="124251" />
 </Book>
 <Book Series="Batman" Number="158" Volume="1940" Year="1963">
@@ -870,7 +870,7 @@
 <Book Series="Detective Comics" Number="319" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112489" />
 </Book>
-<Book Series="World's Finest Comics" Number="136" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="136" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="124318" />
 </Book>
 <Book Series="Detective Comics" Number="320" Volume="1937" Year="1963">
@@ -885,7 +885,7 @@
 <Book Series="Detective Comics" Number="321" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112508" />
 </Book>
-<Book Series="World's Finest Comics" Number="137" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="137" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="124425" />
 </Book>
 <Book Series="Batman" Number="160" Volume="1940" Year="1963">
@@ -897,7 +897,7 @@
 <Book Series="Detective Comics" Number="322" Volume="1937" Year="1963">
 <Database Name="cv" Series="18058" Issue="112513" />
 </Book>
-<Book Series="World's Finest Comics" Number="138" Volume="1941" Year="1963">
+<Book Series="World&apos;s Finest Comics" Number="138" Volume="1941" Year="1963">
 <Database Name="cv" Series="18006" Issue="124540" />
 </Book>
 <Book Series="Detective Comics" Number="323" Volume="1937" Year="1964">
@@ -909,7 +909,7 @@
 <Book Series="Detective Comics" Number="324" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112529" />
 </Book>
-<Book Series="World's Finest Comics" Number="139" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="139" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="124615" />
 </Book>
 <Book Series="Batman" Number="162" Volume="1940" Year="1964">
@@ -921,7 +921,7 @@
 <Book Series="Detective Comics" Number="325" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112531" />
 </Book>
-<Book Series="World's Finest Comics" Number="140" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="140" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="116568" />
 </Book>
 <Book Series="Action Comics" Number="309" Volume="1938" Year="1964">
@@ -945,7 +945,7 @@
 <Book Series="Detective Comics" Number="327" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112535" />
 </Book>
-<Book Series="World's Finest Comics" Number="141" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="141" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="124744" />
 </Book>
 <Book Series="Batman" Number="164" Volume="1940" Year="1964">
@@ -960,7 +960,7 @@
 <Book Series="Detective Comics" Number="328" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112537" />
 </Book>
-<Book Series="World's Finest Comics" Number="142" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="142" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="114767" />
 </Book>
 <Book Series="Action Comics" Number="314" Volume="1938" Year="1964">
@@ -975,7 +975,7 @@
 <Book Series="Detective Comics" Number="330" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112539" />
 </Book>
-<Book Series="World's Finest Comics" Number="143" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="143" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="124813" />
 </Book>
 <Book Series="Batman" Number="166" Volume="1940" Year="1964">
@@ -990,7 +990,7 @@
 <Book Series="Detective Comics" Number="331" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112540" />
 </Book>
-<Book Series="World's Finest Comics" Number="144" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="144" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="116569" />
 </Book>
 <Book Series="Detective Comics" Number="332" Volume="1937" Year="1964">
@@ -1011,7 +1011,7 @@
 <Book Series="Detective Comics" Number="333" Volume="1937" Year="1964">
 <Database Name="cv" Series="18058" Issue="112542" />
 </Book>
-<Book Series="World's Finest Comics" Number="145" Volume="1941" Year="1964">
+<Book Series="World&apos;s Finest Comics" Number="145" Volume="1941" Year="1964">
 <Database Name="cv" Series="18006" Issue="124895" />
 </Book>
 <Book Series="Batman" Number="168" Volume="1940" Year="1964">
@@ -1038,7 +1038,7 @@
 <Book Series="Detective Comics" Number="336" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112545" />
 </Book>
-<Book Series="World's Finest Comics" Number="147" Volume="1941" Year="1965">
+<Book Series="World&apos;s Finest Comics" Number="147" Volume="1941" Year="1965">
 <Database Name="cv" Series="18006" Issue="125007" />
 </Book>
 <Book Series="Batman" Number="170" Volume="1940" Year="1965">
@@ -1053,7 +1053,7 @@
 <Book Series="Detective Comics" Number="337" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112546" />
 </Book>
-<Book Series="World's Finest Comics" Number="148" Volume="1941" Year="1965">
+<Book Series="World&apos;s Finest Comics" Number="148" Volume="1941" Year="1965">
 <Database Name="cv" Series="18006" Issue="109663" />
 </Book>
 <Book Series="The Brave and the Bold" Number="59" Volume="1955" Year="1965">
@@ -1068,7 +1068,7 @@
 <Book Series="Detective Comics" Number="339" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112548" />
 </Book>
-<Book Series="World's Finest Comics" Number="149" Volume="1941" Year="1965">
+<Book Series="World&apos;s Finest Comics" Number="149" Volume="1941" Year="1965">
 <Database Name="cv" Series="18006" Issue="125072" />
 </Book>
 <Book Series="The Brave and the Bold" Number="60" Volume="1955" Year="1965">
@@ -1083,7 +1083,7 @@
 <Book Series="Detective Comics" Number="340" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112549" />
 </Book>
-<Book Series="World's Finest Comics" Number="150" Volume="1941" Year="1965">
+<Book Series="World&apos;s Finest Comics" Number="150" Volume="1941" Year="1965">
 <Database Name="cv" Series="18006" Issue="125140" />
 </Book>
 <Book Series="Detective Comics" Number="341" Volume="1937" Year="1965">
@@ -1092,13 +1092,13 @@
 <Book Series="Batman" Number="173" Volume="1940" Year="1965">
 <Database Name="cv" Series="796" Issue="7932" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="59" Volume="1958" Year="1965">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="59" Volume="1958" Year="1965">
 <Database Name="cv" Series="19245" Issue="120749" />
 </Book>
 <Book Series="Detective Comics" Number="342" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112551" />
 </Book>
-<Book Series="World's Finest Comics" Number="151" Volume="1941" Year="1965">
+<Book Series="World&apos;s Finest Comics" Number="151" Volume="1941" Year="1965">
 <Database Name="cv" Series="18006" Issue="125232" />
 </Book>
 <Book Series="Batman" Number="174" Volume="1940" Year="1965">
@@ -1110,7 +1110,7 @@
 <Book Series="Detective Comics" Number="343" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112552" />
 </Book>
-<Book Series="World's Finest Comics" Number="152" Volume="1941" Year="1965">
+<Book Series="World&apos;s Finest Comics" Number="152" Volume="1941" Year="1965">
 <Database Name="cv" Series="18006" Issue="125308" />
 </Book>
 <Book Series="Detective Comics" Number="344" Volume="1937" Year="1965">
@@ -1155,13 +1155,13 @@
 <Book Series="Detective Comics" Number="348" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112560" />
 </Book>
-<Book Series="World's Finest Comics" Number="155" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="155" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="125538" />
 </Book>
 <Book Series="Batman" Number="179" Volume="1940" Year="1966">
 <Database Name="cv" Series="796" Issue="8397" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="91" Volume="1954" Year="1966">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="91" Volume="1954" Year="1966">
 <Database Name="cv" Series="19172" Issue="127997" />
 </Book>
 <Book Series="Justice League of America" Number="43" Volume="1960" Year="1966">
@@ -1170,7 +1170,7 @@
 <Book Series="Detective Comics" Number="349" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112561" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="92" Volume="1954" Year="1966">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="92" Volume="1954" Year="1966">
 <Database Name="cv" Series="19172" Issue="128213" />
 </Book>
 <Book Series="Batman" Number="180" Volume="1940" Year="1966">
@@ -1200,7 +1200,7 @@
 <Book Series="Detective Comics" Number="352" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112594" />
 </Book>
-<Book Series="World's Finest Comics" Number="158" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="158" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="125680" />
 </Book>
 <Book Series="Detective Comics" Number="353" Volume="1937" Year="1966">
@@ -1218,7 +1218,7 @@
 <Book Series="Detective Comics" Number="354" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112604" />
 </Book>
-<Book Series="World's Finest Comics" Number="159" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="159" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="121465" />
 </Book>
 <Book Series="Batman" Number="184" Volume="1940" Year="1966">
@@ -1233,7 +1233,7 @@
 <Book Series="Detective Comics" Number="355" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112605" />
 </Book>
-<Book Series="World's Finest Comics" Number="160" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="160" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="125745" />
 </Book>
 <Book Series="The Brave and the Bold" Number="68" Volume="1955" Year="1966">
@@ -1263,7 +1263,7 @@
 <Book Series="Detective Comics" Number="357" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112607" />
 </Book>
-<Book Series="World's Finest Comics" Number="162" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="162" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="125860" />
 </Book>
 <Book Series="The Brave and the Bold" Number="69" Volume="1955" Year="1967">
@@ -1281,13 +1281,13 @@
 <Book Series="Detective Comics" Number="358" Volume="1937" Year="1966">
 <Database Name="cv" Series="18058" Issue="112608" />
 </Book>
-<Book Series="World's Finest Comics" Number="163" Volume="1941" Year="1966">
+<Book Series="World&apos;s Finest Comics" Number="163" Volume="1941" Year="1966">
 <Database Name="cv" Series="18006" Issue="125906" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="70" Volume="1958" Year="1966">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="70" Volume="1958" Year="1966">
 <Database Name="cv" Series="19245" Issue="349909" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="71" Volume="1958" Year="1967">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="71" Volume="1958" Year="1967">
 <Database Name="cv" Series="19245" Issue="120745" />
 </Book>
 <Book Series="Detective Comics" Number="359" Volume="1937" Year="1967">
@@ -1302,7 +1302,7 @@
 <Book Series="Detective Comics" Number="360" Volume="1937" Year="1967">
 <Database Name="cv" Series="18058" Issue="112610" />
 </Book>
-<Book Series="World's Finest Comics" Number="164" Volume="1941" Year="1967">
+<Book Series="World&apos;s Finest Comics" Number="164" Volume="1941" Year="1967">
 <Database Name="cv" Series="18006" Issue="125964" />
 </Book>
 <Book Series="Batman" Number="190" Volume="1940" Year="1967">
@@ -1311,7 +1311,7 @@
 <Book Series="Detective Comics" Number="361" Volume="1937" Year="1967">
 <Database Name="cv" Series="18058" Issue="112611" />
 </Book>
-<Book Series="World's Finest Comics" Number="165" Volume="1941" Year="1967">
+<Book Series="World&apos;s Finest Comics" Number="165" Volume="1941" Year="1967">
 <Database Name="cv" Series="18006" Issue="126010" />
 </Book>
 <Book Series="The Brave and the Bold" Number="71" Volume="1955" Year="1967">
@@ -1323,7 +1323,7 @@
 <Book Series="Batman" Number="191" Volume="1940" Year="1967">
 <Database Name="cv" Series="796" Issue="9325" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="74" Volume="1958" Year="1967">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="74" Volume="1958" Year="1967">
 <Database Name="cv" Series="19245" Issue="121578" />
 </Book>
 <Book Series="Justice League of America" Number="53" Volume="1960" Year="1967">
@@ -1353,7 +1353,7 @@
 <Book Series="Superman" Number="199" Volume="1939" Year="1967">
 <Database Name="cv" Series="773" Issue="9534" />
 </Book>
-<Book Series="World's Finest Comics" Number="168" Volume="1941" Year="1967">
+<Book Series="World&apos;s Finest Comics" Number="168" Volume="1941" Year="1967">
 <Database Name="cv" Series="18006" Issue="114878" />
 </Book>
 <Book Series="Batman" Number="195" Volume="1940" Year="1967">
@@ -1365,7 +1365,7 @@
 <Book Series="Detective Comics" Number="367" Volume="1937" Year="1967">
 <Database Name="cv" Series="18058" Issue="112617" />
 </Book>
-<Book Series="World's Finest Comics" Number="169" Volume="1941" Year="1967">
+<Book Series="World&apos;s Finest Comics" Number="169" Volume="1941" Year="1967">
 <Database Name="cv" Series="18006" Issue="126251" />
 </Book>
 <Book Series="The Brave and the Bold" Number="74" Volume="1955" Year="1967">
@@ -1377,7 +1377,7 @@
 <Book Series="Batman" Number="196" Volume="1940" Year="1967">
 <Database Name="cv" Series="796" Issue="9723" />
 </Book>
-<Book Series="World's Finest Comics" Number="171" Volume="1941" Year="1967">
+<Book Series="World&apos;s Finest Comics" Number="171" Volume="1941" Year="1967">
 <Database Name="cv" Series="18006" Issue="126535" />
 </Book>
 <Book Series="The Brave and the Bold" Number="75" Volume="1955" Year="1968">
@@ -1413,7 +1413,7 @@
 <Book Series="Detective Comics" Number="372" Volume="1937" Year="1968">
 <Database Name="cv" Series="18058" Issue="112622" />
 </Book>
-<Book Series="World's Finest Comics" Number="173" Volume="1941" Year="1968">
+<Book Series="World&apos;s Finest Comics" Number="173" Volume="1941" Year="1968">
 <Database Name="cv" Series="18006" Issue="126769" />
 </Book>
 <Book Series="Batman" Number="200" Volume="1940" Year="1968">
@@ -1425,7 +1425,7 @@
 <Book Series="Detective Comics" Number="373" Volume="1937" Year="1968">
 <Database Name="cv" Series="18058" Issue="112623" />
 </Book>
-<Book Series="World's Finest Comics" Number="174" Volume="1941" Year="1968">
+<Book Series="World&apos;s Finest Comics" Number="174" Volume="1941" Year="1968">
 <Database Name="cv" Series="18006" Issue="126878" />
 </Book>
 <Book Series="The Brave and the Bold" Number="77" Volume="1955" Year="1968">
@@ -1443,7 +1443,7 @@
 <Book Series="Detective Comics" Number="375" Volume="1937" Year="1968">
 <Database Name="cv" Series="18058" Issue="112625" />
 </Book>
-<Book Series="World's Finest Comics" Number="175" Volume="1941" Year="1968">
+<Book Series="World&apos;s Finest Comics" Number="175" Volume="1941" Year="1968">
 <Database Name="cv" Series="18006" Issue="124029" />
 </Book>
 <Book Series="The Brave and the Bold" Number="78" Volume="1955" Year="1968">
@@ -1452,7 +1452,7 @@
 <Book Series="Batman" Number="202" Volume="1940" Year="1968">
 <Database Name="cv" Series="796" Issue="123755" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="111" Volume="1954" Year="1968">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="111" Volume="1954" Year="1968">
 <Database Name="cv" Series="19172" Issue="129894" />
 </Book>
 <Book Series="Justice League of America" Number="63" Volume="1960" Year="1968">
@@ -1461,7 +1461,7 @@
 <Book Series="Detective Comics" Number="376" Volume="1937" Year="1968">
 <Database Name="cv" Series="18058" Issue="112626" />
 </Book>
-<Book Series="World's Finest Comics" Number="176" Volume="1941" Year="1968">
+<Book Series="World&apos;s Finest Comics" Number="176" Volume="1941" Year="1968">
 <Database Name="cv" Series="18006" Issue="126905" />
 </Book>
 <Book Series="Justice League of America" Number="240" Volume="1960" Year="1985">
@@ -1479,7 +1479,7 @@
 <Book Series="Action Comics" Number="366" Volume="1938" Year="1968">
 <Database Name="cv" Series="18005" Issue="121691" />
 </Book>
-<Book Series="World's Finest Comics" Number="177" Volume="1941" Year="1968">
+<Book Series="World&apos;s Finest Comics" Number="177" Volume="1941" Year="1968">
 <Database Name="cv" Series="18006" Issue="124030" />
 </Book>
 <Book Series="Batman" Number="204" Volume="1940" Year="1968">
@@ -1506,7 +1506,7 @@
 <Book Series="Justice League of America" Number="66" Volume="1960" Year="1968">
 <Database Name="cv" Series="2014" Issue="114361" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="117" Volume="1954" Year="1969">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="117" Volume="1954" Year="1969">
 <Database Name="cv" Series="19172" Issue="130424" />
 </Book>
 <Book Series="Detective Comics" Number="380" Volume="1937" Year="1968">
@@ -1530,7 +1530,7 @@
 <Book Series="Detective Comics" Number="382" Volume="1937" Year="1968">
 <Database Name="cv" Series="18058" Issue="112632" />
 </Book>
-<Book Series="World's Finest Comics" Number="181" Volume="1941" Year="1968">
+<Book Series="World&apos;s Finest Comics" Number="181" Volume="1941" Year="1968">
 <Database Name="cv" Series="18006" Issue="124034" />
 </Book>
 <Book Series="Detective Comics" Number="383" Volume="1937" Year="1969">
@@ -1548,7 +1548,7 @@
 <Book Series="Detective Comics" Number="384" Volume="1937" Year="1969">
 <Database Name="cv" Series="18058" Issue="112634" />
 </Book>
-<Book Series="World's Finest Comics" Number="182" Volume="1941" Year="1969">
+<Book Series="World&apos;s Finest Comics" Number="182" Volume="1941" Year="1969">
 <Database Name="cv" Series="18006" Issue="124036" />
 </Book>
 <Book Series="Batman" Number="210" Volume="1940" Year="1969">
@@ -1560,7 +1560,7 @@
 <Book Series="Detective Comics" Number="385" Volume="1937" Year="1969">
 <Database Name="cv" Series="18058" Issue="112635" />
 </Book>
-<Book Series="World's Finest Comics" Number="183" Volume="1941" Year="1969">
+<Book Series="World&apos;s Finest Comics" Number="183" Volume="1941" Year="1969">
 <Database Name="cv" Series="18006" Issue="124038" />
 </Book>
 <Book Series="The Brave and the Bold" Number="83" Volume="1955" Year="1969">
@@ -1578,10 +1578,10 @@
 <Book Series="Justice League of America" Number="71" Volume="1960" Year="1969">
 <Database Name="cv" Series="2014" Issue="10184" />
 </Book>
-<Book Series="World's Finest Comics" Number="189" Volume="1941" Year="1969">
+<Book Series="World&apos;s Finest Comics" Number="189" Volume="1941" Year="1969">
 <Database Name="cv" Series="18006" Issue="124041" />
 </Book>
-<Book Series="World's Finest Comics" Number="190" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="190" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="115328" />
 </Book>
 <Book Series="Detective Comics" Number="387" Volume="1937" Year="1969">
@@ -1593,7 +1593,7 @@
 <Book Series="Detective Comics" Number="388" Volume="1937" Year="1969">
 <Database Name="cv" Series="18058" Issue="112640" />
 </Book>
-<Book Series="World's Finest Comics" Number="185" Volume="1941" Year="1969">
+<Book Series="World&apos;s Finest Comics" Number="185" Volume="1941" Year="1969">
 <Database Name="cv" Series="18006" Issue="124033" />
 </Book>
 <Book Series="Detective Comics" Number="389" Volume="1937" Year="1969">
@@ -1620,10 +1620,10 @@
 <Book Series="Detective Comics" Number="391" Volume="1937" Year="1969">
 <Database Name="cv" Series="18058" Issue="112643" />
 </Book>
-<Book Series="World's Finest Comics" Number="186" Volume="1941" Year="1969">
+<Book Series="World&apos;s Finest Comics" Number="186" Volume="1941" Year="1969">
 <Database Name="cv" Series="18006" Issue="124035" />
 </Book>
-<Book Series="World's Finest Comics" Number="187" Volume="1941" Year="1969">
+<Book Series="World&apos;s Finest Comics" Number="187" Volume="1941" Year="1969">
 <Database Name="cv" Series="18006" Issue="124037" />
 </Book>
 <Book Series="The Brave and the Bold" Number="85" Volume="1955" Year="1969">
@@ -1662,7 +1662,7 @@
 <Book Series="Detective Comics" Number="394" Volume="1937" Year="1969">
 <Database Name="cv" Series="18058" Issue="112646" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="125" Volume="1954" Year="1969">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="125" Volume="1954" Year="1969">
 <Database Name="cv" Series="19172" Issue="130724" />
 </Book>
 <Book Series="Justice League of America" Number="77" Volume="1960" Year="1969">
@@ -1683,7 +1683,7 @@
 <Book Series="Detective Comics" Number="396" Volume="1937" Year="1970">
 <Database Name="cv" Series="18058" Issue="112648" />
 </Book>
-<Book Series="World's Finest Comics" Number="191" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="191" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128118" />
 </Book>
 <Book Series="Batman" Number="220" Volume="1940" Year="1970">
@@ -1704,10 +1704,10 @@
 <Book Series="The Brave and the Bold" Number="89" Volume="1955" Year="1970">
 <Database Name="cv" Series="1683" Issue="10733" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="99" Volume="1958" Year="1970">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="99" Volume="1958" Year="1970">
 <Database Name="cv" Series="19245" Issue="122599" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="100" Volume="1958" Year="1970">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="100" Volume="1958" Year="1970">
 <Database Name="cv" Series="19245" Issue="122668" />
 </Book>
 <Book Series="Detective Comics" Number="398" Volume="1937" Year="1970">
@@ -1722,10 +1722,10 @@
 <Book Series="Detective Comics" Number="399" Volume="1937" Year="1970">
 <Database Name="cv" Series="18058" Issue="112651" />
 </Book>
-<Book Series="World's Finest Comics" Number="192" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="192" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128200" />
 </Book>
-<Book Series="World's Finest Comics" Number="193" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="193" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128384" />
 </Book>
 <Book Series="Batman" Number="222" Volume="1940" Year="1970">
@@ -1755,10 +1755,10 @@
 <Book Series="Detective Comics" Number="407" Volume="1937" Year="1971">
 <Database Name="cv" Series="18058" Issue="112659" />
 </Book>
-<Book Series="World's Finest Comics" Number="194" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="194" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128483" />
 </Book>
-<Book Series="World's Finest Comics" Number="195" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="195" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128638" />
 </Book>
 <Book Series="Batman" Number="225" Volume="1940" Year="1970">
@@ -1773,7 +1773,7 @@
 <Book Series="Detective Comics" Number="403" Volume="1937" Year="1970">
 <Database Name="cv" Series="18058" Issue="112654" />
 </Book>
-<Book Series="World's Finest Comics" Number="196" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="196" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128667" />
 </Book>
 <Book Series="The Brave and the Bold" Number="92" Volume="1955" Year="1970">
@@ -1803,10 +1803,10 @@
 <Book Series="Detective Comics" Number="406" Volume="1937" Year="1970">
 <Database Name="cv" Series="18058" Issue="112658" />
 </Book>
-<Book Series="World's Finest Comics" Number="198" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="198" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="128978" />
 </Book>
-<Book Series="World's Finest Comics" Number="199" Volume="1941" Year="1970">
+<Book Series="World&apos;s Finest Comics" Number="199" Volume="1941" Year="1970">
 <Database Name="cv" Series="18006" Issue="129025" />
 </Book>
 <Book Series="Batman" Number="229" Volume="1940" Year="1971">
@@ -1851,7 +1851,7 @@
 <Book Series="Detective Comics" Number="411" Volume="1937" Year="1971">
 <Database Name="cv" Series="18058" Issue="112680" />
 </Book>
-<Book Series="World's Finest Comics" Number="202" Volume="1941" Year="1971">
+<Book Series="World&apos;s Finest Comics" Number="202" Volume="1941" Year="1971">
 <Database Name="cv" Series="18006" Issue="129225" />
 </Book>
 <Book Series="Batman" Number="232" Volume="1940" Year="1971">
@@ -1890,7 +1890,7 @@
 <Book Series="Detective Comics" Number="417" Volume="1937" Year="1971">
 <Database Name="cv" Series="18058" Issue="112686" />
 </Book>
-<Book Series="World's Finest Comics" Number="207" Volume="1941" Year="1971">
+<Book Series="World&apos;s Finest Comics" Number="207" Volume="1941" Year="1971">
 <Database Name="cv" Series="18006" Issue="129842" />
 </Book>
 <Book Series="Batman" Number="237" Volume="1940" Year="1971">
@@ -1956,7 +1956,7 @@
 <Book Series="Justice League of America" Number="98" Volume="1960" Year="1972">
 <Database Name="cv" Series="2014" Issue="12166" />
 </Book>
-<Book Series="World's Finest Comics" Number="211" Volume="1941" Year="1972">
+<Book Series="World&apos;s Finest Comics" Number="211" Volume="1941" Year="1972">
 <Database Name="cv" Series="18006" Issue="130078" />
 </Book>
 <Book Series="The Brave and the Bold" Number="102" Volume="1955" Year="1972">
@@ -2004,7 +2004,7 @@
 <Book Series="Detective Comics" Number="428" Volume="1937" Year="1972">
 <Database Name="cv" Series="18058" Issue="112698" />
 </Book>
-<Book Series="World's Finest Comics" Number="214" Volume="1941" Year="1972">
+<Book Series="World&apos;s Finest Comics" Number="214" Volume="1941" Year="1972">
 <Database Name="cv" Series="18006" Issue="130422" />
 </Book>
 <Book Series="The Brave and the Bold" Number="104" Volume="1955" Year="1972">
@@ -2016,7 +2016,7 @@
 <Book Series="Batman" Number="246" Volume="1940" Year="1972">
 <Database Name="cv" Series="796" Issue="12704" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="128" Volume="1958" Year="1972">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="128" Volume="1958" Year="1972">
 <Database Name="cv" Series="19245" Issue="124946" />
 </Book>
 <Book Series="Justice League of America" Number="103" Volume="1960" Year="1972">
@@ -2049,7 +2049,7 @@
 <Book Series="Batman" Number="248" Volume="1940" Year="1973">
 <Database Name="cv" Series="796" Issue="13066" />
 </Book>
-<Book Series="World's Finest Comics" Number="217" Volume="1941" Year="1973">
+<Book Series="World&apos;s Finest Comics" Number="217" Volume="1941" Year="1973">
 <Database Name="cv" Series="18006" Issue="130540" />
 </Book>
 <Book Series="The Brave and the Bold" Number="107" Volume="1955" Year="1973">
@@ -2073,7 +2073,7 @@
 <Book Series="Justice League of America" Number="106" Volume="1960" Year="1973">
 <Database Name="cv" Series="2014" Issue="13349" />
 </Book>
-<Book Series="World's Finest Comics" Number="218" Volume="1941" Year="1973">
+<Book Series="World&apos;s Finest Comics" Number="218" Volume="1941" Year="1973">
 <Database Name="cv" Series="18006" Issue="130642" />
 </Book>
 <Book Series="Detective Comics" Number="436" Volume="1937" Year="1973">
@@ -2112,10 +2112,10 @@
 <Book Series="The Saga of Swamp Thing" Number="7" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="253929" />
 </Book>
-<Book Series="World's Finest Comics" Number="219" Volume="1941" Year="1973">
+<Book Series="World&apos;s Finest Comics" Number="219" Volume="1941" Year="1973">
 <Database Name="cv" Series="18006" Issue="130722" />
 </Book>
-<Book Series="World's Finest Comics" Number="220" Volume="1941" Year="1973">
+<Book Series="World&apos;s Finest Comics" Number="220" Volume="1941" Year="1973">
 <Database Name="cv" Series="18006" Issue="130820" />
 </Book>
 <Book Series="The Brave and the Bold" Number="110" Volume="1955" Year="1974">
@@ -2187,7 +2187,7 @@
 <Book Series="Justice League of America" Number="113" Volume="1960" Year="1974">
 <Database Name="cv" Series="2014" Issue="14547" />
 </Book>
-<Book Series="World's Finest Comics" Number="225" Volume="1941" Year="1974">
+<Book Series="World&apos;s Finest Comics" Number="225" Volume="1941" Year="1974">
 <Database Name="cv" Series="18006" Issue="131127" />
 </Book>
 <Book Series="The Brave and the Bold" Number="115" Volume="1955" Year="1974">
@@ -2202,7 +2202,7 @@
 <Book Series="Justice League of America" Number="114" Volume="1960" Year="1974">
 <Database Name="cv" Series="2014" Issue="14726" />
 </Book>
-<Book Series="World's Finest Comics" Number="226" Volume="1941" Year="1974">
+<Book Series="World&apos;s Finest Comics" Number="226" Volume="1941" Year="1974">
 <Database Name="cv" Series="18006" Issue="131178" />
 </Book>
 <Book Series="Wonder Woman" Number="215" Volume="1942" Year="1975">
@@ -2310,7 +2310,7 @@
 <Book Series="Detective Comics" Number="451" Volume="1937" Year="1975">
 <Database Name="cv" Series="18058" Issue="112753" />
 </Book>
-<Book Series="World's Finest Comics" Number="232" Volume="1941" Year="1975">
+<Book Series="World&apos;s Finest Comics" Number="232" Volume="1941" Year="1975">
 <Database Name="cv" Series="18006" Issue="131498" />
 </Book>
 <Book Series="The Brave and the Bold" Number="122" Volume="1955" Year="1975">
@@ -2349,7 +2349,7 @@
 <Book Series="Detective Comics" Number="454" Volume="1937" Year="1975">
 <Database Name="cv" Series="18058" Issue="112760" />
 </Book>
-<Book Series="World's Finest Comics" Number="234" Volume="1941" Year="1975">
+<Book Series="World&apos;s Finest Comics" Number="234" Volume="1941" Year="1975">
 <Database Name="cv" Series="18006" Issue="131602" />
 </Book>
 <Book Series="Batman" Number="271" Volume="1940" Year="1976">
@@ -2358,7 +2358,7 @@
 <Book Series="Detective Comics" Number="455" Volume="1937" Year="1976">
 <Database Name="cv" Series="18058" Issue="112761" />
 </Book>
-<Book Series="World's Finest Comics" Number="235" Volume="1941" Year="1976">
+<Book Series="World&apos;s Finest Comics" Number="235" Volume="1941" Year="1976">
 <Database Name="cv" Series="18006" Issue="131677" />
 </Book>
 <Book Series="Justice League of America" Number="127" Volume="1960" Year="1976">
@@ -2373,7 +2373,7 @@
 <Book Series="The Batman Family" Number="4" Volume="1975" Year="1976">
 <Database Name="cv" Series="2727" Issue="16126" />
 </Book>
-<Book Series="World's Finest Comics" Number="236" Volume="1941" Year="1976">
+<Book Series="World&apos;s Finest Comics" Number="236" Volume="1941" Year="1976">
 <Database Name="cv" Series="18006" Issue="131685" />
 </Book>
 <Book Series="The Brave and the Bold" Number="126" Volume="1955" Year="1976">
@@ -2394,7 +2394,7 @@
 <Book Series="Detective Comics" Number="458" Volume="1937" Year="1976">
 <Database Name="cv" Series="18058" Issue="112765" />
 </Book>
-<Book Series="World's Finest Comics" Number="237" Volume="1941" Year="1976">
+<Book Series="World&apos;s Finest Comics" Number="237" Volume="1941" Year="1976">
 <Database Name="cv" Series="18006" Issue="131743" />
 </Book>
 <Book Series="Batman" Number="272" Volume="1940" Year="1976">
@@ -2427,7 +2427,7 @@
 <Book Series="Batman" Number="277" Volume="1940" Year="1976">
 <Database Name="cv" Series="796" Issue="16464" />
 </Book>
-<Book Series="World's Finest Comics" Number="239" Volume="1941" Year="1976">
+<Book Series="World&apos;s Finest Comics" Number="239" Volume="1941" Year="1976">
 <Database Name="cv" Series="18006" Issue="133966" />
 </Book>
 <Book Series="Batman" Number="278" Volume="1940" Year="1976">
@@ -2457,7 +2457,7 @@
 <Book Series="The Batman Family" Number="7" Volume="1975" Year="1976">
 <Database Name="cv" Series="2727" Issue="16639" />
 </Book>
-<Book Series="World's Finest Comics" Number="240" Volume="1941" Year="1976">
+<Book Series="World&apos;s Finest Comics" Number="240" Volume="1941" Year="1976">
 <Database Name="cv" Series="18006" Issue="134036" />
 </Book>
 <Book Series="The Brave and the Bold" Number="129" Volume="1955" Year="1976">
@@ -2475,7 +2475,7 @@
 <Book Series="Detective Comics" Number="464" Volume="1937" Year="1976">
 <Database Name="cv" Series="18058" Issue="112770" />
 </Book>
-<Book Series="World's Finest Comics" Number="241" Volume="1941" Year="1976">
+<Book Series="World&apos;s Finest Comics" Number="241" Volume="1941" Year="1976">
 <Database Name="cv" Series="18006" Issue="134108" />
 </Book>
 <Book Series="The Batman Family" Number="8" Volume="1975" Year="1976">
@@ -2511,7 +2511,7 @@
 <Book Series="Justice League of America" Number="139" Volume="1960" Year="1977">
 <Database Name="cv" Series="2014" Issue="17153" />
 </Book>
-<Book Series="World's Finest Comics" Number="243" Volume="1941" Year="1977">
+<Book Series="World&apos;s Finest Comics" Number="243" Volume="1941" Year="1977">
 <Database Name="cv" Series="18006" Issue="134272" />
 </Book>
 <Book Series="Batman" Number="284" Volume="1940" Year="1977">
@@ -2532,7 +2532,7 @@
 <Book Series="Batman" Number="286" Volume="1940" Year="1977">
 <Database Name="cv" Series="796" Issue="17308" />
 </Book>
-<Book Series="World's Finest Comics" Number="244" Volume="1941" Year="1977">
+<Book Series="World&apos;s Finest Comics" Number="244" Volume="1941" Year="1977">
 <Database Name="cv" Series="18006" Issue="134377" />
 </Book>
 <Book Series="The Brave and the Bold" Number="134" Volume="1955" Year="1977">
@@ -2562,7 +2562,7 @@
 <Book Series="DC Special" Number="28" Volume="1975" Year="1977">
 <Database Name="cv" Series="2730" Issue="17469" />
 </Book>
-<Book Series="World's Finest Comics" Number="245" Volume="1941" Year="1977">
+<Book Series="World&apos;s Finest Comics" Number="245" Volume="1941" Year="1977">
 <Database Name="cv" Series="18006" Issue="134581" />
 </Book>
 <Book Series="Action Comics" Number="472" Volume="1938" Year="1977">
@@ -2601,10 +2601,10 @@
 <Book Series="DC Special Series" Number="6" Volume="1977" Year="1977">
 <Database Name="cv" Series="2886" Issue="220107" />
 </Book>
-<Book Series="World's Finest Comics" Number="246" Volume="1941" Year="1977">
+<Book Series="World&apos;s Finest Comics" Number="246" Volume="1941" Year="1977">
 <Database Name="cv" Series="18006" Issue="131757" />
 </Book>
-<Book Series="World's Finest Comics" Number="247" Volume="1941" Year="1977">
+<Book Series="World&apos;s Finest Comics" Number="247" Volume="1941" Year="1977">
 <Database Name="cv" Series="18006" Issue="131773" />
 </Book>
 <Book Series="The Brave and the Bold" Number="138" Volume="1955" Year="1977">
@@ -2631,7 +2631,7 @@
 <Book Series="Action Comics" Number="478" Volume="1938" Year="1977">
 <Database Name="cv" Series="18005" Issue="121673" />
 </Book>
-<Book Series="World's Finest Comics" Number="248" Volume="1941" Year="1978">
+<Book Series="World&apos;s Finest Comics" Number="248" Volume="1941" Year="1978">
 <Database Name="cv" Series="18006" Issue="131806" />
 </Book>
 <Book Series="The Brave and the Bold" Number="139" Volume="1955" Year="1978">
@@ -2682,7 +2682,7 @@
 <Book Series="Batman" Number="296" Volume="1940" Year="1978">
 <Database Name="cv" Series="796" Issue="18209" />
 </Book>
-<Book Series="World's Finest Comics" Number="249" Volume="1941" Year="1978">
+<Book Series="World&apos;s Finest Comics" Number="249" Volume="1941" Year="1978">
 <Database Name="cv" Series="18006" Issue="131819" />
 </Book>
 <Book Series="The Brave and the Bold" Number="140" Volume="1955" Year="1978">
@@ -2703,7 +2703,7 @@
 <Book Series="The Batman Family" Number="17" Volume="1975" Year="1978">
 <Database Name="cv" Series="2727" Issue="18368" />
 </Book>
-<Book Series="World's Finest Comics" Number="250" Volume="1941" Year="1978">
+<Book Series="World&apos;s Finest Comics" Number="250" Volume="1941" Year="1978">
 <Database Name="cv" Series="18006" Issue="131910" />
 </Book>
 <Book Series="The Brave and the Bold" Number="141" Volume="1955" Year="1978">
@@ -2760,7 +2760,7 @@
 <Book Series="DC Special Series" Number="15" Volume="1977" Year="1978">
 <Database Name="cv" Series="2886" Issue="18691" />
 </Book>
-<Book Series="World's Finest Comics" Number="252" Volume="1941" Year="1978">
+<Book Series="World&apos;s Finest Comics" Number="252" Volume="1941" Year="1978">
 <Database Name="cv" Series="18006" Issue="133561" />
 </Book>
 <Book Series="The Brave and the Bold" Number="142" Volume="1955" Year="1978">
@@ -2781,7 +2781,7 @@
 <Book Series="The Batman Family" Number="20" Volume="1975" Year="1978">
 <Database Name="cv" Series="2727" Issue="18857" />
 </Book>
-<Book Series="World's Finest Comics" Number="253" Volume="1941" Year="1978">
+<Book Series="World&apos;s Finest Comics" Number="253" Volume="1941" Year="1978">
 <Database Name="cv" Series="18006" Issue="133746" />
 </Book>
 <Book Series="The Brave and the Bold" Number="144" Volume="1955" Year="1978">
@@ -2811,7 +2811,7 @@
 <Book Series="Batman" Number="306" Volume="1940" Year="1978">
 <Database Name="cv" Series="796" Issue="19006" />
 </Book>
-<Book Series="World's Finest Comics" Number="254" Volume="1941" Year="1979">
+<Book Series="World&apos;s Finest Comics" Number="254" Volume="1941" Year="1979">
 <Database Name="cv" Series="18006" Issue="134213" />
 </Book>
 <Book Series="Action Comics" Number="489" Volume="1938" Year="1978">
@@ -2850,7 +2850,7 @@
 <Book Series="Justice League of America" Number="168" Volume="1960" Year="1979">
 <Database Name="cv" Series="2014" Issue="19619" />
 </Book>
-<Book Series="World's Finest Comics" Number="255" Volume="1941" Year="1979">
+<Book Series="World&apos;s Finest Comics" Number="255" Volume="1941" Year="1979">
 <Database Name="cv" Series="18006" Issue="134731" />
 </Book>
 <Book Series="Batman" Number="308" Volume="1940" Year="1979">
@@ -2877,7 +2877,7 @@
 <Book Series="Detective Comics" Number="483" Volume="1937" Year="1979">
 <Database Name="cv" Series="18058" Issue="112365" />
 </Book>
-<Book Series="World's Finest Comics" Number="256" Volume="1941" Year="1979">
+<Book Series="World&apos;s Finest Comics" Number="256" Volume="1941" Year="1979">
 <Database Name="cv" Series="18006" Issue="135277" />
 </Book>
 <Book Series="The Brave and the Bold" Number="150" Volume="1955" Year="1979">
@@ -2892,7 +2892,7 @@
 <Book Series="Detective Comics" Number="484" Volume="1937" Year="1979">
 <Database Name="cv" Series="18058" Issue="112810" />
 </Book>
-<Book Series="World's Finest Comics" Number="257" Volume="1941" Year="1979">
+<Book Series="World&apos;s Finest Comics" Number="257" Volume="1941" Year="1979">
 <Database Name="cv" Series="18006" Issue="135793" />
 </Book>
 <Book Series="The Brave and the Bold" Number="152" Volume="1955" Year="1979">
@@ -2913,7 +2913,7 @@
 <Book Series="Detective Comics" Number="485" Volume="1937" Year="1979">
 <Database Name="cv" Series="18058" Issue="112832" />
 </Book>
-<Book Series="World's Finest Comics" Number="258" Volume="1941" Year="1979">
+<Book Series="World&apos;s Finest Comics" Number="258" Volume="1941" Year="1979">
 <Database Name="cv" Series="18006" Issue="135891" />
 </Book>
 <Book Series="The Brave and the Bold" Number="154" Volume="1955" Year="1979">
@@ -2940,7 +2940,7 @@
 <Book Series="Detective Comics" Number="486" Volume="1937" Year="1979">
 <Database Name="cv" Series="18058" Issue="112833" />
 </Book>
-<Book Series="World's Finest Comics" Number="259" Volume="1941" Year="1979">
+<Book Series="World&apos;s Finest Comics" Number="259" Volume="1941" Year="1979">
 <Database Name="cv" Series="18006" Issue="135966" />
 </Book>
 <Book Series="The Brave and the Bold" Number="156" Volume="1955" Year="1979">
@@ -2967,7 +2967,7 @@
 <Book Series="Detective Comics" Number="487" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112834" />
 </Book>
-<Book Series="World's Finest Comics" Number="260" Volume="1941" Year="1980">
+<Book Series="World&apos;s Finest Comics" Number="260" Volume="1941" Year="1980">
 <Database Name="cv" Series="18006" Issue="136081" />
 </Book>
 <Book Series="The Brave and the Bold" Number="158" Volume="1955" Year="1980">
@@ -2991,7 +2991,7 @@
 <Book Series="Detective Comics" Number="488" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112835" />
 </Book>
-<Book Series="World's Finest Comics" Number="261" Volume="1941" Year="1980">
+<Book Series="World&apos;s Finest Comics" Number="261" Volume="1941" Year="1980">
 <Database Name="cv" Series="18006" Issue="136180" />
 </Book>
 <Book Series="The Brave and the Bold" Number="160" Volume="1955" Year="1980">
@@ -3012,7 +3012,7 @@
 <Book Series="Detective Comics" Number="489" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112836" />
 </Book>
-<Book Series="World's Finest Comics" Number="262" Volume="1941" Year="1980">
+<Book Series="World&apos;s Finest Comics" Number="262" Volume="1941" Year="1980">
 <Database Name="cv" Series="18006" Issue="136748" />
 </Book>
 <Book Series="Justice League of America" Number="177" Volume="1960" Year="1980">
@@ -3039,7 +3039,7 @@
 <Book Series="Detective Comics" Number="491" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112900" />
 </Book>
-<Book Series="World's Finest Comics" Number="263" Volume="1941" Year="1980">
+<Book Series="World&apos;s Finest Comics" Number="263" Volume="1941" Year="1980">
 <Database Name="cv" Series="18006" Issue="136943" />
 </Book>
 <Book Series="The Brave and the Bold" Number="164" Volume="1955" Year="1980">
@@ -3066,7 +3066,7 @@
 <Book Series="Detective Comics" Number="493" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112902" />
 </Book>
-<Book Series="World's Finest Comics" Number="264" Volume="1941" Year="1980">
+<Book Series="World&apos;s Finest Comics" Number="264" Volume="1941" Year="1980">
 <Database Name="cv" Series="18006" Issue="137268" />
 </Book>
 <Book Series="The Brave and the Bold" Number="166" Volume="1955" Year="1980">
@@ -3087,7 +3087,7 @@
 <Book Series="Detective Comics" Number="495" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112904" />
 </Book>
-<Book Series="World's Finest Comics" Number="265" Volume="1941" Year="1980">
+<Book Series="World&apos;s Finest Comics" Number="265" Volume="1941" Year="1980">
 <Database Name="cv" Series="18006" Issue="137340" />
 </Book>
 <Book Series="The Brave and the Bold" Number="168" Volume="1955" Year="1980">
@@ -3126,7 +3126,7 @@
 <Book Series="Detective Comics" Number="497" Volume="1937" Year="1980">
 <Database Name="cv" Series="18058" Issue="112906" />
 </Book>
-<Book Series="World's Finest Comics" Number="266" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="266" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="105407" />
 </Book>
 <Book Series="The Brave and the Bold" Number="170" Volume="1955" Year="1981">
@@ -3141,7 +3141,7 @@
 <Book Series="Detective Comics" Number="499" Volume="1937" Year="1981">
 <Database Name="cv" Series="18058" Issue="112908" />
 </Book>
-<Book Series="World's Finest Comics" Number="267" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="267" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="137518" />
 </Book>
 <Book Series="The Brave and the Bold" Number="172" Volume="1955" Year="1981">
@@ -3162,7 +3162,7 @@
 <Book Series="The Best of DC" Number="10" Volume="1979" Year="1981">
 <Database Name="cv" Series="2989" Issue="21072" />
 </Book>
-<Book Series="World's Finest Comics" Number="268" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="268" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="136892" />
 </Book>
 <Book Series="The Brave and the Bold" Number="173" Volume="1955" Year="1981">
@@ -3207,7 +3207,7 @@
 <Book Series="Detective Comics" Number="503" Volume="1937" Year="1981">
 <Database Name="cv" Series="18058" Issue="112911" />
 </Book>
-<Book Series="World's Finest Comics" Number="269" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="269" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="138817" />
 </Book>
 <Book Series="The Brave and the Bold" Number="176" Volume="1955" Year="1981">
@@ -3234,7 +3234,7 @@
 <Book Series="Detective Comics" Number="505" Volume="1937" Year="1981">
 <Database Name="cv" Series="18058" Issue="112913" />
 </Book>
-<Book Series="World's Finest Comics" Number="270" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="270" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="138950" />
 </Book>
 <Book Series="The Brave and the Bold" Number="178" Volume="1955" Year="1981">
@@ -3246,7 +3246,7 @@
 <Book Series="The Brave and the Bold" Number="182" Volume="1955" Year="1982">
 <Database Name="cv" Series="1683" Issue="21823" />
 </Book>
-<Book Series="World's Finest Comics" Number="271" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="271" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="138996" />
 </Book>
 <Book Series="The Brave and the Bold" Number="179" Volume="1955" Year="1981">
@@ -3288,19 +3288,19 @@
 <Book Series="Detective Comics" Number="509" Volume="1937" Year="1981">
 <Database Name="cv" Series="18058" Issue="112917" />
 </Book>
-<Book Series="World's Finest Comics" Number="272" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="272" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="139089" />
 </Book>
-<Book Series="World's Finest Comics" Number="273" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="273" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="139182" />
 </Book>
-<Book Series="World's Finest Comics" Number="274" Volume="1941" Year="1981">
+<Book Series="World&apos;s Finest Comics" Number="274" Volume="1941" Year="1981">
 <Database Name="cv" Series="18006" Issue="139223" />
 </Book>
 <Book Series="Batman" Number="343" Volume="1940" Year="1982">
 <Database Name="cv" Series="796" Issue="21821" />
 </Book>
-<Book Series="World's Finest Comics" Number="275" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="275" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="137680" />
 </Book>
 <Book Series="The Brave and the Bold" Number="183" Volume="1955" Year="1982">
@@ -3321,7 +3321,7 @@
 <Book Series="DC Comics Presents" Number="41" Volume="1978" Year="1982">
 <Database Name="cv" Series="2943" Issue="21824" />
 </Book>
-<Book Series="World's Finest Comics" Number="276" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="276" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="139350" />
 </Book>
 <Book Series="Justice League of America" Number="200" Volume="1960" Year="1982">
@@ -3333,7 +3333,7 @@
 <Book Series="Detective Comics" Number="512" Volume="1937" Year="1982">
 <Database Name="cv" Series="18058" Issue="112919" />
 </Book>
-<Book Series="World's Finest Comics" Number="277" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="277" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="139497" />
 </Book>
 <Book Series="The Brave and the Bold" Number="185" Volume="1955" Year="1982">
@@ -3357,7 +3357,7 @@
 <Book Series="The Phantom Zone" Number="4" Volume="1982" Year="1982">
 <Database Name="cv" Series="3120" Issue="22060" />
 </Book>
-<Book Series="World's Finest Comics" Number="278" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="278" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="139565" />
 </Book>
 <Book Series="Batman" Number="347" Volume="1940" Year="1982">
@@ -3378,13 +3378,13 @@
 <Book Series="Wonder Woman" Number="291" Volume="1942" Year="1982">
 <Database Name="cv" Series="18525" Issue="109897" />
 </Book>
-<Book Series="World's Finest Comics" Number="279" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="279" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="139792" />
 </Book>
-<Book Series="World's Finest Comics" Number="280" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="280" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="139261" />
 </Book>
-<Book Series="World's Finest Comics" Number="281" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="281" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="140272" />
 </Book>
 <Book Series="The Brave and the Bold" Number="188" Volume="1955" Year="1982">
@@ -3396,7 +3396,7 @@
 <Book Series="Justice League of America" Number="205" Volume="1960" Year="1982">
 <Database Name="cv" Series="2014" Issue="22348" />
 </Book>
-<Book Series="World's Finest Comics" Number="282" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="282" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="140727" />
 </Book>
 <Book Series="The Brave and the Bold" Number="190" Volume="1955" Year="1982">
@@ -3483,28 +3483,28 @@
 <Book Series="The Brave and the Bold" Number="196" Volume="1955" Year="1983">
 <Database Name="cv" Series="1683" Issue="22914" />
 </Book>
-<Book Series="World's Finest Comics" Number="283" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="283" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="141062" />
 </Book>
-<Book Series="World's Finest Comics" Number="284" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="284" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="124598" />
 </Book>
-<Book Series="World's Finest Comics" Number="285" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="285" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="141122" />
 </Book>
 <Book Series="Wonder Woman" Number="300" Volume="1942" Year="1983">
 <Database Name="cv" Series="18525" Issue="109944" />
 </Book>
-<Book Series="World's Finest Comics" Number="286" Volume="1941" Year="1982">
+<Book Series="World&apos;s Finest Comics" Number="286" Volume="1941" Year="1982">
 <Database Name="cv" Series="18006" Issue="138220" />
 </Book>
-<Book Series="World's Finest Comics" Number="287" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="287" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141311" />
 </Book>
-<Book Series="World's Finest Comics" Number="288" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="288" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141401" />
 </Book>
-<Book Series="World's Finest Comics" Number="289" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="289" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141456" />
 </Book>
 <Book Series="The Brave and the Bold" Number="198" Volume="1955" Year="1983">
@@ -3528,10 +3528,10 @@
 <Book Series="Detective Comics" Number="526" Volume="1937" Year="1983">
 <Database Name="cv" Series="18058" Issue="112940" />
 </Book>
-<Book Series="World's Finest Comics" Number="290" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="290" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="139942" />
 </Book>
-<Book Series="World's Finest Comics" Number="291" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="291" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141532" />
 </Book>
 <Book Series="DC Comics Presents Annual" Number="2" Volume="1982" Year="1983">
@@ -3540,7 +3540,7 @@
 <Book Series="The Brave and the Bold" Number="199" Volume="1955" Year="1983">
 <Database Name="cv" Series="1683" Issue="23165" />
 </Book>
-<Book Series="World's Finest Comics" Number="292" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="292" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141602" />
 </Book>
 <Book Series="Batman" Number="360" Volume="1940" Year="1983">
@@ -3570,7 +3570,7 @@
 <Book Series="Detective Comics" Number="528" Volume="1937" Year="1983">
 <Database Name="cv" Series="18058" Issue="112942" />
 </Book>
-<Book Series="World's Finest Comics" Number="293" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="293" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141613" />
 </Book>
 <Book Series="Batman" Number="362" Volume="1940" Year="1983">
@@ -3579,7 +3579,7 @@
 <Book Series="Detective Comics" Number="529" Volume="1937" Year="1983">
 <Database Name="cv" Series="18058" Issue="112943" />
 </Book>
-<Book Series="World's Finest Comics" Number="294" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="294" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141731" />
 </Book>
 <Book Series="Superman Annual" Number="9" Volume="1960" Year="1983">
@@ -3597,7 +3597,7 @@
 <Book Series="Batman and the Outsiders" Number="3" Volume="1983" Year="1983">
 <Database Name="cv" Series="3194" Issue="23496" />
 </Book>
-<Book Series="World's Finest Comics" Number="295" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="295" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141807" />
 </Book>
 <Book Series="Batman and the Outsiders" Number="4" Volume="1983" Year="1983">
@@ -3666,25 +3666,25 @@
 <Book Series="Batman and the Outsiders" Number="8" Volume="1983" Year="1984">
 <Database Name="cv" Series="3194" Issue="24044" />
 </Book>
-<Book Series="World's Finest Comics" Number="296" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="296" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141870" />
 </Book>
-<Book Series="World's Finest Comics" Number="297" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="297" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="141973" />
 </Book>
-<Book Series="World's Finest Comics" Number="298" Volume="1941" Year="1983">
+<Book Series="World&apos;s Finest Comics" Number="298" Volume="1941" Year="1983">
 <Database Name="cv" Series="18006" Issue="142040" />
 </Book>
-<Book Series="World's Finest Comics" Number="299" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="299" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="142117" />
 </Book>
-<Book Series="World's Finest Comics" Number="300" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="300" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="141181" />
 </Book>
-<Book Series="World's Finest Comics" Number="302" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="302" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="142449" />
 </Book>
-<Book Series="World's Finest Comics" Number="301" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="301" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="142369" />
 </Book>
 <Book Series="Batman and the Outsiders" Number="9" Volume="1983" Year="1984">
@@ -3699,7 +3699,7 @@
 <Book Series="Detective Comics" Number="538" Volume="1937" Year="1984">
 <Database Name="cv" Series="18058" Issue="112992" />
 </Book>
-<Book Series="World's Finest Comics" Number="303" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="303" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="142584" />
 </Book>
 <Book Series="Action Comics" Number="556" Volume="1938" Year="1984">
@@ -3732,19 +3732,19 @@
 <Book Series="Batman and the Outsiders Annual" Number="1" Volume="1984" Year="1984">
 <Database Name="cv" Series="3305" Issue="23773" />
 </Book>
-<Book Series="World's Finest Comics" Number="304" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="304" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="142719" />
 </Book>
-<Book Series="World's Finest Comics" Number="305" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="305" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="142773" />
 </Book>
-<Book Series="World's Finest Comics" Number="306" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="306" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="143001" />
 </Book>
-<Book Series="World's Finest Comics" Number="307" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="307" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="143073" />
 </Book>
-<Book Series="World's Finest Comics" Number="308" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="308" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="143110" />
 </Book>
 <Book Series="Batman" Number="374" Volume="1940" Year="1984">
@@ -3762,10 +3762,10 @@
 <Book Series="Batman and the Outsiders" Number="14" Volume="1983" Year="1984">
 <Database Name="cv" Series="3194" Issue="24738" />
 </Book>
-<Book Series="World's Finest Comics" Number="309" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="309" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="143183" />
 </Book>
-<Book Series="World's Finest Comics" Number="310" Volume="1941" Year="1984">
+<Book Series="World&apos;s Finest Comics" Number="310" Volume="1941" Year="1984">
 <Database Name="cv" Series="18006" Issue="141500" />
 </Book>
 <Book Series="Batman" Number="376" Volume="1940" Year="1984">
@@ -3804,7 +3804,7 @@
 <Book Series="Batman" Number="381" Volume="1940" Year="1985">
 <Database Name="cv" Series="796" Issue="124727" />
 </Book>
-<Book Series="World's Finest Comics" Number="311" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="311" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="140244" />
 </Book>
 <Book Series="Action Comics" Number="565" Volume="1938" Year="1985">
@@ -3840,16 +3840,16 @@
 <Book Series="Detective Comics" Number="549" Volume="1937" Year="1985">
 <Database Name="cv" Series="18058" Issue="113004" />
 </Book>
-<Book Series="World's Finest Comics" Number="312" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="312" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143600" />
 </Book>
-<Book Series="World's Finest Comics" Number="313" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="313" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143730" />
 </Book>
-<Book Series="World's Finest Comics" Number="314" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="314" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143801" />
 </Book>
-<Book Series="World's Finest Comics" Number="315" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="315" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143458" />
 </Book>
 <Book Series="Batman" Number="383" Volume="1940" Year="1985">
@@ -3876,13 +3876,13 @@
 <Book Series="Detective Comics" Number="552" Volume="1937" Year="1985">
 <Database Name="cv" Series="18058" Issue="113007" />
 </Book>
-<Book Series="World's Finest Comics" Number="316" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="316" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143804" />
 </Book>
-<Book Series="World's Finest Comics" Number="317" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="317" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143805" />
 </Book>
-<Book Series="World's Finest Comics" Number="318" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="318" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143806" />
 </Book>
 <Book Series="Detective Comics" Number="553" Volume="1937" Year="1985">
@@ -3909,13 +3909,13 @@
 <Book Series="Superman Annual" Number="11" Volume="1960" Year="1985">
 <Database Name="cv" Series="2016" Issue="119463" />
 </Book>
-<Book Series="World's Finest Comics" Number="319" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="319" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143807" />
 </Book>
-<Book Series="World's Finest Comics" Number="320" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="320" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="142313" />
 </Book>
-<Book Series="World's Finest Comics" Number="321" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="321" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143808" />
 </Book>
 <Book Series="Batman and the Outsiders" Number="24" Volume="1983" Year="1985">
@@ -3930,7 +3930,7 @@
 <Book Series="Batman and the Outsiders" Number="27" Volume="1983" Year="1985">
 <Database Name="cv" Series="3194" Issue="144080" />
 </Book>
-<Book Series="World's Finest Comics" Number="322" Volume="1941" Year="1985">
+<Book Series="World&apos;s Finest Comics" Number="322" Volume="1941" Year="1985">
 <Database Name="cv" Series="18006" Issue="143809" />
 </Book>
 <Book Series="Batman" Number="389" Volume="1940" Year="1985">
@@ -3987,7 +3987,7 @@
 <Book Series="Crisis on Infinite Earths" Number="12" Volume="1985" Year="1986">
 <Database Name="cv" Series="3441" Issue="26556" />
 </Book>
-<Book Series="World's Finest Comics" Number="323" Volume="1941" Year="1986">
+<Book Series="World&apos;s Finest Comics" Number="323" Volume="1941" Year="1986">
 <Database Name="cv" Series="18006" Issue="143480" />
 </Book>
 <Book Series="Batman" Number="392" Volume="1940" Year="1986">

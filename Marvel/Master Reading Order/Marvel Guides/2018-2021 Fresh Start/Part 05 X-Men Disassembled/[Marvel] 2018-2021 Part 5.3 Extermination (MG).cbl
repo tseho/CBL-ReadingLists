@@ -88,7 +88,7 @@
         <Book Series="Extermination" Number="5" Volume="2018" Year="2019">
             <Database Name="cv" Series="112807" Issue="695634" />
         </Book>
-        <Book Series="X-Men: The Exterminated" Number="1" Volume="2018" Year="2019">
+        <Book Series="X-Men: The Exterminated" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115775" Issue="694156" />
         </Book>
         <Book Series="Astonishing X-Men Annual" Number="1" Volume="2018" Year="2018">

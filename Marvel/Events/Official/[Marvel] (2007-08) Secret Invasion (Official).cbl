@@ -5,13 +5,13 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] Secret Invasion (Official)</Name>
     <Books>
-        <Book Series="New Avengers" Number="33" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="33" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="112960" />
         </Book>
         <Book Series="The Mighty Avengers" Number="7" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="121087" />
         </Book>
-        <Book Series="New Avengers" Number="34" Volume="2004" Year="2007">
+        <Book Series="New Avengers" Number="34" Volume="2005" Year="2007">
             <Database Name="cv" Series="11497" Issue="114394" />
         </Book>
         <Book Series="New Avengers: Illuminati" Number="5" Volume="2007" Year="2008">
@@ -23,7 +23,7 @@
         <Book Series="The Mighty Avengers" Number="12" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="128210" />
         </Book>
-        <Book Series="New Avengers" Number="40" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="40" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="128969" />
         </Book>
         <Book Series="Secret Invasion" Number="2" Volume="2008" Year="2008">
@@ -44,7 +44,7 @@
         <Book Series="Incredible Hercules" Number="117" Volume="2008" Year="2008">
             <Database Name="cv" Series="20588" Issue="130620" />
         </Book>
-        <Book Series="New Avengers" Number="41" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="41" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="130973" />
         </Book>
         <Book Series="Secret Invasion" Number="3" Volume="2008" Year="2008">
@@ -74,7 +74,7 @@
         <Book Series="Ms. Marvel" Number="28" Volume="2006" Year="2008">
             <Database Name="cv" Series="17990" Issue="131799" />
         </Book>
-        <Book Series="New Avengers" Number="42" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="42" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="131808" />
         </Book>
         <Book Series="Secret Invasion: Front Line" Number="1" Volume="2008" Year="2008">
@@ -104,7 +104,7 @@
         <Book Series="She-Hulk" Number="31" Volume="2005" Year="2008">
             <Database Name="cv" Series="18293" Issue="134099" />
         </Book>
-        <Book Series="New Avengers" Number="43" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="43" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="134066" />
         </Book>
         <Book Series="Thunderbolts" Number="122" Volume="2006" Year="2008">
@@ -170,7 +170,7 @@
         <Book Series="Black Panther" Number="40" Volume="2005" Year="2008">
             <Database Name="cv" Series="11502" Issue="136702" />
         </Book>
-        <Book Series="New Avengers" Number="44" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="44" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="136523" />
         </Book>
         <Book Series="Thunderbolts" Number="123" Volume="2006" Year="2008">
@@ -203,7 +203,7 @@
         <Book Series="The Mighty Avengers" Number="18" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="139015" />
         </Book>
-        <Book Series="Iron Man" Number="33" Volume="2004" Year="2008">
+        <Book Series="Iron Man" Number="33" Volume="2005" Year="2008">
             <Database Name="cv" Series="18220" Issue="138979" />
         </Book>
         <Book Series="Deadpool" Number="2" Volume="2008" Year="2008">
@@ -224,7 +224,7 @@
         <Book Series="Black Panther" Number="41" Volume="2005" Year="2008">
             <Database Name="cv" Series="11502" Issue="139342" />
         </Book>
-        <Book Series="New Avengers" Number="45" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="45" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="139334" />
         </Book>
         <Book Series="Thunderbolts" Number="124" Volume="2006" Year="2008">
@@ -245,7 +245,7 @@
         <Book Series="The Mighty Avengers" Number="19" Volume="2007" Year="2008">
             <Database Name="cv" Series="18239" Issue="140548" />
         </Book>
-        <Book Series="Iron Man" Number="34" Volume="2004" Year="2008">
+        <Book Series="Iron Man" Number="34" Volume="2005" Year="2008">
             <Database Name="cv" Series="18220" Issue="140556" />
         </Book>
         <Book Series="Secret Invasion: The Amazing Spider-Man" Number="3" Volume="2008" Year="2008">
@@ -254,7 +254,7 @@
         <Book Series="Secret Invasion" Number="7" Volume="2008" Year="2008">
             <Database Name="cv" Series="21076" Issue="140851" />
         </Book>
-        <Book Series="New Avengers" Number="46" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="46" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="140897" />
         </Book>
         <Book Series="Thunderbolts" Number="125" Volume="2006" Year="2008">
@@ -275,7 +275,7 @@
         <Book Series="Punisher War Journal" Number="25" Volume="2007" Year="2009">
             <Database Name="cv" Series="18152" Issue="142547" />
         </Book>
-        <Book Series="Iron Man" Number="35" Volume="2004" Year="2009">
+        <Book Series="Iron Man" Number="35" Volume="2005" Year="2009">
             <Database Name="cv" Series="18220" Issue="142482" />
         </Book>
         <Book Series="Secret Invasion: X-Men" Number="4" Volume="2008" Year="2009">
@@ -290,7 +290,7 @@
         <Book Series="Secret Invasion" Number="8" Volume="2008" Year="2009">
             <Database Name="cv" Series="21076" Issue="144233" />
         </Book>
-        <Book Series="New Avengers" Number="47" Volume="2004" Year="2009">
+        <Book Series="New Avengers" Number="47" Volume="2005" Year="2009">
             <Database Name="cv" Series="11497" Issue="144345" />
         </Book>
         <Book Series="Secret Invasion: Dark Reign" Number="1" Volume="2009" Year="2009">
@@ -301,10 +301,10 @@
         </Book>
 <!-- 
     The following issues are missing from the official list but are official tie-ins:
-        <Book Series="Captain Marvel" Number="4" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="4" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="125718" />
         </Book>
-        <Book Series="Captain Marvel" Number="5" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="5" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="127560" />
         </Book>
         <Book Series="Secret Invasion Saga" Number="1" Volume="2008" Year="2008">

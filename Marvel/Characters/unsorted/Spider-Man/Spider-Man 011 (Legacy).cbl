@@ -3,7 +3,7 @@
   <Name>Spider-Man 011 (Legacy)</Name>
   <NumIssues>137</NumIssues>
   <Books>
-    <Book Series="Generations: Miles Morales: Spider-Man &#38; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
+    <Book Series="Generations: Miles Morales: Spider-Man &amp; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="104612" Issue="625306" />
     </Book>
     <Book Series="Champions" Number="13" Volume="2015" Year="0">
@@ -21,34 +21,34 @@
     <Book Series="Champions" Number="17" Volume="2015" Year="0">
       <Database Name="cv" Series="141587" Issue="906612" />
     </Book>
-    <Book Series="Venom" Number="150" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="150" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="597207" />
     </Book>
     <Book Series="Champions" Number="18" Volume="2016" Year="2018">
       <Database Name="cv" Series="94612" Issue="664294" />
     </Book>
-    <Book Series="Venom" Number="151" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="151" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="601809" />
     </Book>
-    <Book Series="Venom" Number="152" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="152" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="608263" />
     </Book>
-    <Book Series="Venom" Number="153" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="153" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="613809" />
     </Book>
-    <Book Series="Venom" Number="154" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="154" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="622959" />
     </Book>
-    <Book Series="Venom" Number="155" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="155" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="626303" />
     </Book>
-    <Book Series="Venom" Number="156" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="156" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="630539" />
     </Book>
-    <Book Series="Venom" Number="157" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="157" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="636390" />
     </Book>
-    <Book Series="Venom" Number="158" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="158" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="643047" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="789" Volume="2015" Year="2017">
@@ -144,19 +144,19 @@
     <Book Series="Ben Reilly: Scarlet Spider" Number="14" Volume="2017" Year="2018">
       <Database Name="cv" Series="100966" Issue="660008" />
     </Book>
-    <Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2017" Year="2018">
+    <Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2018" Year="2018">
       <Database Name="cv" Series="106662" Issue="644495" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="792" Volume="2015" Year="2018">
       <Database Name="cv" Series="85076" Issue="646179" />
     </Book>
-    <Book Series="Venom" Number="159" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="159" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="647962" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="793" Volume="2015" Year="2018">
       <Database Name="cv" Series="85076" Issue="649722" />
     </Book>
-    <Book Series="Venom" Number="160" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="160" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="652644" />
     </Book>
     <Book Series="Amazing Spider-Man: Venom Inc. Omega" Number="1" Volume="2018" Year="2018">
@@ -243,10 +243,10 @@
     <Book Series="Venomverse" Number="5" Volume="2017" Year="2017">
       <Database Name="cv" Series="104088" Issue="626304" />
     </Book>
-    <Book Series="Venom" Number="162" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="162" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="660673" />
     </Book>
-    <Book Series="Venom" Number="163" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="163" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="662102" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="29" Volume="2016" Year="2018">
@@ -345,7 +345,7 @@
     <Book Series="The Amazing Spider-Man" Number="796" Volume="2015" Year="2018">
       <Database Name="cv" Series="85076" Issue="660651" />
     </Book>
-    <Book Series="Amazing Spider-Man Annual" Number="42" Volume="2016" Year="2018">
+    <Book Series="Amazing Spider-Man Annual" Number="42" Volume="2017" Year="2018">
       <Database Name="cv" Series="95808" Issue="660005" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="797" Volume="2015" Year="2018">
@@ -378,13 +378,13 @@
     <Book Series="Spider-Gwen" Number="34" Volume="2015" Year="2018">
       <Database Name="cv" Series="85311" Issue="677293" />
     </Book>
-    <Book Series="Venom" Number="161" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="161" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="658736" />
     </Book>
-    <Book Series="Venom" Number="164" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="164" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="664929" />
     </Book>
-    <Book Series="Venom" Number="165" Volume="2016" Year="2018">
+    <Book Series="Venom" Number="165" Volume="2017" Year="2018">
       <Database Name="cv" Series="95845" Issue="667664" />
     </Book>
     <Book Series="Venomized" Number="1" Volume="2018" Year="2018">

@@ -207,7 +207,7 @@
 <Book Series="Teen Titans" Number="78" Volume="2003" Year="2010">
 <Database Name="cv" Series="10414" Issue="189489" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="1" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="189478" />
 </Book>
 <Book Series="Blackest Night" Number="6" Volume="2009" Year="2010">
@@ -249,10 +249,10 @@
 <Book Series="The Atom &amp; Hawkman" Number="46" Volume="1968" Year="2010">
 <Database Name="cv" Series="2387" Issue="194433" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="194482" />
 </Book>
-<Book Series="The Question" Number="37" Volume="1986" Year="2010">
+<Book Series="The Question" Number="37" Volume="1987" Year="2010">
 <Database Name="cv" Series="3805" Issue="195384" />
 </Book>
 <Book Series="Blackest Night: Wonder Woman" Number="3" Volume="2010" Year="2010">
@@ -273,7 +273,7 @@
 <Book Series="Blackest Night: The Flash" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30162" Issue="197542" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="198358" />
 </Book>
 <Book Series="Green Arrow" Number="30" Volume="2010" Year="2010">

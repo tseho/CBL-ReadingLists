@@ -1485,7 +1485,7 @@
 <Book Series="Master of Kung Fu" Number="122" Volume="1974" Year="1983">
 <Database Name="cv" Series="2697" Issue="22958" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="29" Volume="1977" Year="1984">
+<Book Series="Marvel Super Special" Number="29" Volume="1978" Year="1984">
 <Database Name="cv" Series="2909" Issue="22746" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="90" Volume="1978" Year="1983">

@@ -7,7 +7,7 @@
         <Book Series="Civil War II" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="90521" Issue="535350" />
         </Book>
-        <Book Series="Scarlet Witch" Number="9" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="9" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="543755" />
         </Book>
         <Book Series="Guardians of the Galaxy" Number="6" Volume="2015" Year="2016">
@@ -82,13 +82,13 @@
         <Book Series="Captain Marvel" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="87428" Issue="541197" />
         </Book>
-        <Book Series="Ms. Marvel" Number="8" Volume="2015" Year="2016">
+        <Book Series="Ms. Marvel" Number="8" Volume="2016" Year="2016">
             <Database Name="cv" Series="86114" Issue="537240" />
         </Book>
-        <Book Series="Ms. Marvel" Number="9" Volume="2015" Year="2016">
+        <Book Series="Ms. Marvel" Number="9" Volume="2016" Year="2016">
             <Database Name="cv" Series="86114" Issue="541214" />
         </Book>
-        <Book Series="Ms. Marvel" Number="10" Volume="2015" Year="2016">
+        <Book Series="Ms. Marvel" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="86114" Issue="547287" />
         </Book>
         <Book Series="Civil War II: Kingpin" Number="1" Volume="2016" Year="2016">

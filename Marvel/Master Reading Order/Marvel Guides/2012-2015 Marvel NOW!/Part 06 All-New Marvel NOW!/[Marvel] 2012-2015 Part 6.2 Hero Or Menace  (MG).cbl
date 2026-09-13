@@ -60,10 +60,10 @@
 <Book Series="Thunderbolts" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="54429" Issue="468914" />
 </Book>
-<Book Series="Deadpool" Number="27" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="450073" />
 </Book>
-<Book Series="Deadpool" Number="28" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="452851" />
 </Book>
 <Book Series="Deadpool Bi-Annual" Number="1" Volume="2014" Year="2014">
@@ -171,7 +171,7 @@
 <Book Series="Iron Fist: The Living Weapon" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="72933" Issue="489904" />
 </Book>
-<Book Series="Superior Spider-Man Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Superior Spider-Man Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69348" Issue="433849" />
 </Book>
 <Book Series="Superior Spider-Man" Number="17" Volume="2013" Year="2013">

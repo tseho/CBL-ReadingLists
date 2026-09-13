@@ -84,10 +84,10 @@
     <Book Series="Green Arrow" Number="6" Volume="1988" Year="1988">
       <Database Name="cv" Series="4003" Issue="66697" />
     </Book>
-    <Book Series="The Question" Number="17" Volume="1986" Year="1988">
+    <Book Series="The Question" Number="17" Volume="1987" Year="1988">
       <Database Name="cv" Series="3805" Issue="29668" />
     </Book>
-    <Book Series="The Question" Number="18" Volume="1986" Year="1988">
+    <Book Series="The Question" Number="18" Volume="1987" Year="1988">
       <Database Name="cv" Series="3805" Issue="29786" />
     </Book>
     <Book Series="Green Arrow" Number="7" Volume="1988" Year="1988">

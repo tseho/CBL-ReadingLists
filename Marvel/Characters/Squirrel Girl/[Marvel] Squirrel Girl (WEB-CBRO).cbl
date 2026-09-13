@@ -21,7 +21,7 @@
 <Book Series="I (heart) Marvel: Masked Intentions" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="50788" Issue="347368" />
 </Book>
-<Book Series="The Thing" Number="8" Volume="2005" Year="2006">
+<Book Series="The Thing" Number="8" Volume="2006" Year="2006">
 <Database Name="cv" Series="18242" Issue="106956" />
 </Book>
 <Book Series="GLX-Mas Special" Number="1" Volume="2006" Year="2006">

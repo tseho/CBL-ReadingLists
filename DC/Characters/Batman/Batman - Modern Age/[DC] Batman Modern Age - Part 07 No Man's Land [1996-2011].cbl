@@ -60,16 +60,16 @@
 <Book Series="Batman: GCPD" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="5732" Issue="43008" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="1" Volume="1996" Year="1996">
+<Book Series="Batman: Gordon&apos;s Law" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="33178" Issue="214615" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="2" Volume="1996" Year="1997">
+<Book Series="Batman: Gordon&apos;s Law" Number="2" Volume="1996" Year="1997">
 <Database Name="cv" Series="33178" Issue="214616" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="3" Volume="1996" Year="1997">
+<Book Series="Batman: Gordon&apos;s Law" Number="3" Volume="1996" Year="1997">
 <Database Name="cv" Series="33178" Issue="214617" />
 </Book>
-<Book Series="Batman: Gordon's Law" Number="4" Volume="1996" Year="1997">
+<Book Series="Batman: Gordon&apos;s Law" Number="4" Volume="1996" Year="1997">
 <Database Name="cv" Series="33178" Issue="214618" />
 </Book>
 <Book Series="Batman 80-Page Giant" Number="1" Volume="1998" Year="1998">
@@ -220,11 +220,11 @@
 <Database Name="cv" Series="19721" Issue="123238" />
 </Book>
 <!-- The TPBs pick individual stories from Secret Files as it is an anthology.  This is the first reference. -->
-<Book Series="Batman: No Man's Land Secret Files" Number="1" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="33363" Issue="238533" />
 </Book>
 <!-- These TPBs were based off the 4 volume 2011/2012 release, which have the NML comics that aren't just Bat-comics.  This is the way. -->
-<Book Series="Batman: No Man's Land" Number="1" Volume="2011" Year="2011">
+<Book Series="Batman: No Man&apos;s Land" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="44947" Issue="309367" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="83" Volume="1992" Year="1999">
@@ -302,7 +302,7 @@
 <Book Series="Detective Comics" Number="734" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113208" />
 </Book>
-<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
+<Book Series="Young Justice in No Man&apos;s Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="120" Volume="1992" Year="1999">
@@ -444,7 +444,7 @@
 <Book Series="Nightwing" Number="39" Volume="1996" Year="2000">
 <Database Name="cv" Series="5755" Issue="46229" />
 </Book>
-<Book Series="Batman: No Man's Land" Number="0" Volume="1999" Year="1999">
+<Book Series="Batman: No Man&apos;s Land" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131872" />
 </Book>
 <Book Series="Batman" Number="573" Volume="1940" Year="2000">

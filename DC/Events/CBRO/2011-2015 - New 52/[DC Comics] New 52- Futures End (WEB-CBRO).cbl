@@ -207,7 +207,7 @@
 <Book Series="Superman/Wonder Woman: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76958" Issue="465799" />
 </Book>
-<Book Series="Worlds' Finest: Futures End" Number="1" Volume="2014" Year="2014">
+<Book Series="Worlds&apos; Finest: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76844" Issue="464945" />
 </Book>
 <Book Series="The New 52: Futures End" Number="28" Volume="2014" Year="2015">

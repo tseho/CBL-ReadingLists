@@ -39,10 +39,10 @@
 <Book Series="Prowler" Number="3" Volume="2016" Year="2017">
 <Database Name="cv" Series="95232" Issue="571680" />
 </Book>
-<Book Series="Silk" Number="14" Volume="2015" Year="2017">
+<Book Series="Silk" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="558421" />
 </Book>
-<Book Series="Silk" Number="15" Volume="2015" Year="2017">
+<Book Series="Silk" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="566723" />
 </Book>
 <Book Series="The Clone Conspiracy" Number="3" Volume="2016" Year="2017">
@@ -57,7 +57,7 @@
 <Book Series="The Amazing Spider-Man" Number="23" Volume="2015" Year="2017">
 <Database Name="cv" Series="85076" Issue="576613" />
 </Book>
-<Book Series="Silk" Number="16" Volume="2015" Year="2017">
+<Book Series="Silk" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="575881" />
 </Book>
 <Book Series="Prowler" Number="4" Volume="2016" Year="2017">
@@ -69,7 +69,7 @@
 <Book Series="The Clone Conspiracy" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94788" Issue="581550" />
 </Book>
-<Book Series="Silk" Number="17" Volume="2015" Year="2017">
+<Book Series="Silk" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="581567" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="24" Volume="2015" Year="2017">

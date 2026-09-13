@@ -79,7 +79,7 @@
         <Book Series="Guardians of the Galaxy" Number="8" Volume="2020" Year="2021">
             <Database Name="cv" Series="124447" Issue="816467" />
         </Book>
-        <Book Series="Web of Venom: Empyre's End" Number="1" Volume="2020" Year="2021">
+        <Book Series="Web of Venom: Empyre&apos;s End" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="131733" Issue="816471" />
         </Book>
     </Books>

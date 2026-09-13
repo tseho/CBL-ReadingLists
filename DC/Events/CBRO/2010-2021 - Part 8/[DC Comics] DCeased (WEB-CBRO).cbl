@@ -33,49 +33,49 @@
 <Book Series="DCeased: Unkillables" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="125115" Issue="762177" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="1" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="762198" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="2" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="766054" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="3" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="768228" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="4" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="771750" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="5" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="778238" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="6" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="783108" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="7" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="7" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="790231" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="8" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="8" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="795879" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="9" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="9" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="797680" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="10" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="10" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="802670" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="11" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="11" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="806715" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="12" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="12" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="812513" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="13" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="13" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="815609" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="14" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="14" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="818595" />
 </Book>
-<Book Series="DCeased: Hope At World's End" Number="15" Volume="2020" Year="2020">
+<Book Series="DCeased: Hope At World&apos;s End" Number="15" Volume="2020" Year="2020">
 <Database Name="cv" Series="127132" Issue="819876" />
 </Book>
 <Book Series="DCeased: Dead Planet" Number="1" Volume="2020" Year="2020">

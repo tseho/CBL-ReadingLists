@@ -255,7 +255,7 @@
 <Book Series="Georgie Comics" Number="9" Volume="1945" Year="1947">
 <Database Name="cv" Series="1057" Issue="90763" />
 </Book>
-<Book Series="All Teen" Number="20" Volume="1947" Year="1947">
+<Book Series="All Teen Comics" Number="20" Volume="1947" Year="1947">
 <Database Name="cv" Series="22987" Issue="138670" />
 </Book>
 <Book Series="Nellie the Nurse" Number="5" Volume="1945" Year="1947">
@@ -612,7 +612,7 @@
 <Book Series="Miss America Magazine" Number="11" Volume="1944" Year="1945">
 <Database Name="cv" Series="21618" Issue="188786" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="2" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="2" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188549" />
 </Book>
 <Book Series="Nellie the Nurse" Number="13" Volume="1945" Year="1948">
@@ -687,7 +687,7 @@
 <Book Series="Annie Oakley" Number="3" Volume="1948" Year="1948">
 <Database Name="cv" Series="1699" Issue="188230" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="3" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="3" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188550" />
 </Book>
 <Book Series="Nellie the Nurse" Number="14" Volume="1945" Year="1948">
@@ -753,7 +753,7 @@
 <Book Series="Miss America Magazine" Number="15" Volume="1944" Year="1945">
 <Database Name="cv" Series="21618" Issue="188790" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="4" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="4" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188551" />
 </Book>
 <Book Series="Nellie the Nurse" Number="15" Volume="1945" Year="1948">
@@ -828,7 +828,7 @@
 <Book Series="Miss America Magazine" Number="17" Volume="1944" Year="1946">
 <Database Name="cv" Series="21618" Issue="188792" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="5" Volume="1948" Year="1948">
+<Book Series="Mitzi&apos;s Boy Friend" Number="5" Volume="1948" Year="1948">
 <Database Name="cv" Series="30574" Issue="188552" />
 </Book>
 <Book Series="Nellie the Nurse" Number="16" Volume="1945" Year="1948">
@@ -894,7 +894,7 @@
 <Book Series="Miss America Magazine" Number="19" Volume="1944" Year="1946">
 <Database Name="cv" Series="21618" Issue="188794" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="6" Volume="1948" Year="1949">
+<Book Series="Mitzi&apos;s Boy Friend" Number="6" Volume="1948" Year="1949">
 <Database Name="cv" Series="30574" Issue="188553" />
 </Book>
 <Book Series="Nellie the Nurse" Number="17" Volume="1945" Year="1949">
@@ -951,7 +951,7 @@
 <Book Series="Miss America Magazine" Number="21" Volume="1944" Year="1946">
 <Database Name="cv" Series="21618" Issue="188796" />
 </Book>
-<Book Series="Mitzi's Boy Friend" Number="7" Volume="1948" Year="1949">
+<Book Series="Mitzi&apos;s Boy Friend" Number="7" Volume="1948" Year="1949">
 <Database Name="cv" Series="30574" Issue="188554" />
 </Book>
 <Book Series="Nellie the Nurse" Number="18" Volume="1945" Year="1949">
@@ -1089,7 +1089,7 @@
 <Book Series="Junior Miss" Number="36" Volume="1947" Year="1949">
 <Database Name="cv" Series="10750" Issue="90912" />
 </Book>
-<Book Series="Li'l Willie Comics" Number="21" Volume="1949" Year="1949">
+<Book Series="Li&apos;l Willie Comics" Number="21" Volume="1949" Year="1949">
 <Database Name="cv" Series="30510" Issue="187711" />
 </Book>
 <Book Series="Little Aspirin" Number="2" Volume="1949" Year="1949">
@@ -1158,7 +1158,7 @@
 <Book Series="Miss America Magazine" Number="29" Volume="1944" Year="1947">
 <Database Name="cv" Series="21618" Issue="188804" />
 </Book>
-<Book Series="Mitzi's Romances" Number="10" Volume="1949" Year="1949">
+<Book Series="Mitzi&apos;s Romances" Number="10" Volume="1949" Year="1949">
 <Database Name="cv" Series="30596" Issue="188873" />
 </Book>
 <Book Series="Comedy Comics" Number="10" Volume="1948" Year="1950">
@@ -1314,7 +1314,7 @@
 <Book Series="Patsy Walker" Number="32" Volume="1945" Year="1951">
 <Database Name="cv" Series="1062" Issue="73640" />
 </Book>
-<Book Series="It's a Duck's Life" Number="5" Volume="1950" Year="1951">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="5" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151388" />
 </Book>
 <Book Series="My Friend Irma" Number="7" Volume="1950" Year="1951">
@@ -1434,7 +1434,7 @@
 <Book Series="Patsy Walker" Number="38" Volume="1945" Year="1952">
 <Database Name="cv" Series="1062" Issue="73646" />
 </Book>
-<Book Series="It's a Duck's Life" Number="11" Volume="1950" Year="1952">
+<Book Series="It&apos;s a Duck&apos;s Life" Number="11" Volume="1950" Year="1952">
 <Database Name="cv" Series="25707" Issue="151394" />
 </Book>
 <Book Series="Georgie Comics" Number="35" Volume="1949" Year="1952">
@@ -1704,7 +1704,7 @@
 <Book Series="Patsy and Hedy" Number="22" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185907" />
 </Book>
-<Book Series="Girls' Life" Number="1" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="1" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188267" />
 </Book>
 <Book Series="Millie the Model" Number="50" Volume="1945" Year="1954">
@@ -1734,7 +1734,7 @@
 <Book Series="Patsy and Hedy" Number="24" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185909" />
 </Book>
-<Book Series="Girls' Life" Number="2" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="2" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188268" />
 </Book>
 <Book Series="Millie the Model" Number="52" Volume="1945" Year="1954">
@@ -1764,7 +1764,7 @@
 <Book Series="Patsy and Hedy" Number="26" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185911" />
 </Book>
-<Book Series="Girls' Life" Number="3" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="3" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188269" />
 </Book>
 <Book Series="Patsy and Hedy" Number="27" Volume="1952" Year="1954">
@@ -1788,7 +1788,7 @@
 <Book Series="Patsy and Hedy" Number="28" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185913" />
 </Book>
-<Book Series="Girls' Life" Number="4" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="4" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188270" />
 </Book>
 <Book Series="Patsy and Hedy" Number="29" Volume="1952" Year="1954">
@@ -1812,7 +1812,7 @@
 <Book Series="Patsy and Hedy" Number="30" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185915" />
 </Book>
-<Book Series="Girls' Life" Number="5" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="5" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188271" />
 </Book>
 <Book Series="Patsy and Her Pals" Number="9" Volume="1953" Year="1954">
@@ -1830,7 +1830,7 @@
 <Book Series="Patsy and Hedy" Number="31" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185916" />
 </Book>
-<Book Series="Girls' Life" Number="6" Volume="1954" Year="1954">
+<Book Series="Girls&apos; Life" Number="6" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188272" />
 </Book>
 <Book Series="Patsy and Her Pals" Number="10" Volume="1953" Year="1954">

@@ -357,28 +357,28 @@
 <Book Series="Guardians 3000" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="77224" Issue="487834" />
 </Book>
-<Book Series="Guardians of Infinity" Number="1" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="507181" />
 </Book>
-<Book Series="Guardians of Infinity" Number="2" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="510498" />
 </Book>
-<Book Series="Guardians of Infinity" Number="3" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="513648" />
 </Book>
-<Book Series="Guardians of Infinity" Number="4" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="517828" />
 </Book>
-<Book Series="Guardians of Infinity" Number="5" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="526052" />
 </Book>
-<Book Series="Guardians of Infinity" Number="6" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="529657" />
 </Book>
-<Book Series="Guardians of Infinity" Number="7" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="535353" />
 </Book>
-<Book Series="Guardians of Infinity" Number="8" Volume="2015" Year="2016">
+<Book Series="Guardians of Infinity" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86359" Issue="540075" />
 </Book>
 </Books>

@@ -21,19 +21,19 @@
 <Book Series="X-23" Number="21" Volume="2010" Year="2012">
 <Database Name="cv" Series="35496" Issue="321362" />
 </Book>
-<Book Series="X-Club" Number="1" Volume="2011" Year="2012">
+<Book Series="X-Club" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44386" Issue="305786" />
 </Book>
-<Book Series="X-Club" Number="2" Volume="2011" Year="2012">
+<Book Series="X-Club" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="44386" Issue="309474" />
 </Book>
-<Book Series="X-Club" Number="3" Volume="2011" Year="2012">
+<Book Series="X-Club" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="44386" Issue="313896" />
 </Book>
-<Book Series="X-Club" Number="4" Volume="2011" Year="2012">
+<Book Series="X-Club" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="44386" Issue="319376" />
 </Book>
-<Book Series="X-Club" Number="5" Volume="2011" Year="2012">
+<Book Series="X-Club" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="44386" Issue="326873" />
 </Book>
 <Book Series="Avengers Academy" Number="22" Volume="2010" Year="2012">
@@ -60,25 +60,25 @@
 <Book Series="X-Treme X-Men" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="50754" Issue="356783" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2011" Year="2011">
+<Book Series="Wolverine &amp; the X-Men" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43539" Issue="299471" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="2" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="303379" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="3" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="307452" />
 </Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="301011" />
 </Book>
-<Book Series="Uncanny X-Men" Number="2" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="304473" />
 </Book>
-<Book Series="Uncanny X-Men" Number="3" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="308437" />
 </Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="309467" />
 </Book>
 <Book Series="Journey into Mystery" Number="632" Volume="2011" Year="2012">
@@ -156,34 +156,34 @@
 <Book Series="Uncanny X-Force" Number="23" Volume="2010" Year="2012">
 <Database Name="cv" Series="35835" Issue="324701" />
 </Book>
-<Book Series="Uncanny X-Men" Number="5" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="311756" />
 </Book>
-<Book Series="Uncanny X-Men" Number="6" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="313845" />
 </Book>
-<Book Series="Uncanny X-Men" Number="7" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="315783" />
 </Book>
-<Book Series="Uncanny X-Men" Number="8" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="8" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="319363" />
 </Book>
 <Book Series="Uncanny X-Force" Number="24" Volume="2010" Year="2012">
 <Database Name="cv" Series="35835" Issue="331917" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="4" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="310892" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="5" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="315083" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="6" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="316711" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="7" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="321295" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="8" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="326863" />
 </Book>
 <Book Series="Generation Hope" Number="13" Volume="2011" Year="2012">
@@ -261,19 +261,19 @@
 <Book Series="New Mutants" Number="37" Volume="2009" Year="2012">
 <Database Name="cv" Series="26327" Issue="315085" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="1" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="309473" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="2" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="315084" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="3" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="319369" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="4" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="326868" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="5" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="334165" />
 </Book>
 <Book Series="New Mutants" Number="38" Volume="2009" Year="2012">
@@ -399,7 +399,7 @@
 <Book Series="Astonishing X-Men" Number="56" Volume="2004" Year="2013">
 <Database Name="cv" Series="10746" Issue="369079" />
 </Book>
-<Book Series="Astonishing X-Men Annual" Number="1" Volume="2012" Year="2013">
+<Book Series="Astonishing X-Men Annual" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="54341" Issue="370561" />
 </Book>
 <Book Series="X-Men" Number="38" Volume="2010" Year="2013">

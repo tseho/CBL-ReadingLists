@@ -9,10 +9,10 @@
 <Book Series="Avengers: The Initiative" Number="31" Volume="2007" Year="2010">
 <Database Name="cv" Series="18419" Issue="189500" />
 </Book>
-<Book Series="New Avengers" Number="61" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="61" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="194421" />
 </Book>
-<Book Series="New Avengers" Number="62" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="62" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="198259" />
 </Book>
 <Book Series="Dark Avengers" Number="13" Volume="2009" Year="2010">
@@ -24,7 +24,7 @@
 <Book Series="Dark Avengers" Number="15" Volume="2009" Year="2010">
 <Database Name="cv" Series="25512" Issue="200762" />
 </Book>
-<Book Series="Origins of Siege" Number="1" Volume="2009" Year="2010">
+<Book Series="Origins of Siege" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30823" Issue="190503" />
 </Book>
 <Book Series="Siege: Storming Asgard –– Heroes &amp; Villains" Number="1" Volume="2010" Year="2010">
@@ -84,7 +84,7 @@
 <Book Series="Avengers: The Initiative" Number="34" Volume="2007" Year="2010">
 <Database Name="cv" Series="18419" Issue="201700" />
 </Book>
-<Book Series="New Avengers" Number="63" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="63" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="201704" />
 </Book>
 <Book Series="Siege: Captain America" Number="1" Volume="2010" Year="2010">
@@ -114,7 +114,7 @@
 <Book Series="Siege: Embedded" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="30906" Issue="213458" />
 </Book>
-<Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
+<Book Series="New Avengers" Number="64" Volume="2005" Year="2010">
 <Database Name="cv" Series="11497" Issue="210216" />
 </Book>
 <Book Series="New Avengers Finale" Number="1" Volume="2010" Year="2010">

@@ -3,13 +3,13 @@
 <Name>[2021-2022] Trial of the Amazons (DC Comics)(LoCG)</Name>
 <NumIssues>21</NumIssues>
 <Books>
-<Book Series="Nubia &#38; the Amazons" Number="1" Volume="2021" Year="2021">
+<Book Series="Nubia &amp; the Amazons" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139671" Issue="890036" />
 </Book>
 <Book Series="Wonder Woman" Number="781" Volume="2016" Year="2022">
 <Database Name="cv" Series="91774" Issue="894138" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="2" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="2" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="894448" />
 </Book>
 <Book Series="Wonder Woman 2021 Annual" Number="1" Volume="2021" Year="2022">
@@ -18,25 +18,25 @@
 <Book Series="Wonder Woman" Number="782" Volume="2016" Year="2022">
 <Database Name="cv" Series="91774" Issue="898173" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="3" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="899054" />
 </Book>
 <Book Series="Wonder Woman" Number="783" Volume="2016" Year="2022">
 <Database Name="cv" Series="91774" Issue="903447" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="4" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="903451" />
 </Book>
 <Book Series="Wonder Woman" Number="784" Volume="2016" Year="2022">
 <Database Name="cv" Series="91774" Issue="907429" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="5" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="907426" />
 </Book>
 <Book Series="Trial of the Amazons" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141823" Issue="910556" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="6" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="910257" />
 </Book>
 <Book Series="Wonder Woman" Number="785" Volume="2016" Year="2022">

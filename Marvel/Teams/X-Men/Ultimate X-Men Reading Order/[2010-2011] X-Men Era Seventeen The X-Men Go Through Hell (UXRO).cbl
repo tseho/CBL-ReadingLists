@@ -174,7 +174,7 @@
 <Book Series="Namor: The First Mutant" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34839" Issue="231613" />
 </Book>
-<Book Series="X-Men: Curse of the Mutants - Storm &#38; Gambit" Number="1" Volume="2010" Year="2010">
+<Book Series="X-Men: Curse of the Mutants - Storm &amp; Gambit" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35104" Issue="231617" />
 </Book>
 <Book Series="X-Men" Number="3" Volume="2010" Year="2010">
@@ -495,31 +495,31 @@
 <Book Series="Fear Itself" Number="7" Volume="2011" Year="2011">
 <Database Name="cv" Series="39611" Issue="297217" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="1" Volume="2010" Year="2010">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34241" Issue="223380" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="2" Volume="2010" Year="2010">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="34241" Issue="232535" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="3" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="242038" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="4" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="254667" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="5" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="267533" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="6" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="276706" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="7" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="293355" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="8" Volume="2010" Year="2012">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="8" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="308624" />
 </Book>
-<Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
+<Book Series="Avengers: The Children&apos;s Crusade" Number="9" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="319366" />
 </Book>
 <Book Series="X-Men" Number="7" Volume="2010" Year="2011">

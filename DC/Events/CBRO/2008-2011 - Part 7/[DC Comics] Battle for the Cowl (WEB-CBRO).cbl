@@ -9,7 +9,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="153443" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="153683" />
 </Book>
 <Book Series="Oracle: The Cure" Number="1" Volume="2009" Year="2009">
@@ -24,7 +24,7 @@
 <Book Series="Batman: Battle for the Cowl" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="155147" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="155917" />
 </Book>
 <Book Series="Oracle: The Cure" Number="2" Volume="2009" Year="2009">
@@ -42,7 +42,7 @@
 <Book Series="Batman: Battle for the Cowl: The Network" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26323" Issue="156624" />
 </Book>
-<Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+<Book Series="Azrael: Death&apos;s Dark Knight" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26000" Issue="157147" />
 </Book>
 <Book Series="Oracle: The Cure" Number="3" Volume="2009" Year="2009">

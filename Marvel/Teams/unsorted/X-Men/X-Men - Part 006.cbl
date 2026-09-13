@@ -15,7 +15,7 @@
     <Book Series="Generation X" Number="22" Volume="1994" Year="1996">
       <Database Name="cv" Series="5300" Issue="43076" />
     </Book>
-    <Book Series="Generation X '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="Generation X &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="60443" Issue="109932" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="339" Volume="1981" Year="1996">
@@ -24,7 +24,7 @@
     <Book Series="X-Men" Number="59" Volume="1991" Year="1996">
       <Database Name="cv" Series="4605" Issue="65759" />
     </Book>
-    <Book Series="Wolverine '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="Wolverine &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="27145" Issue="164958" />
     </Book>
     <Book Series="X-Men Unlimited" Number="13" Volume="1993" Year="1996">
@@ -114,7 +114,7 @@
     <Book Series="Generation X" Number="23" Volume="1994" Year="1997">
       <Database Name="cv" Series="5300" Issue="43272" />
     </Book>
-    <Book Series="X-Men '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="X-Men &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="60464" Issue="161832" />
     </Book>
     <Book Series="X-Men Unlimited" Number="14" Volume="1993" Year="1997">
@@ -126,7 +126,7 @@
     <Book Series="X-Man" Number="23" Volume="1995" Year="1997">
       <Database Name="cv" Series="5567" Issue="43285" />
     </Book>
-    <Book Series="X-Man '96" Number="1" Volume="1996" Year="1996">
+    <Book Series="X-Man &apos;96" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="18050" Issue="105728" />
     </Book>
     <Book Series="Cable" Number="41" Volume="1993" Year="1997">
@@ -186,13 +186,13 @@
     <Book Series="Imperial Guard" Number="3" Volume="1997" Year="1997">
       <Database Name="cv" Series="18172" Issue="106419" />
     </Book>
-    <Book Series="Generation X '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="Generation X &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="60444" Issue="123437" />
     </Book>
     <Book Series="Generation X" Number="25" Volume="1994" Year="1997">
       <Database Name="cv" Series="5300" Issue="43482" />
     </Book>
-    <Book Series="X-Force / Cable '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="X-Force / Cable &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="20139" Issue="120196" />
     </Book>
     <Book Series="X-Factor" Number="132" Volume="1986" Year="1997">
@@ -252,7 +252,7 @@
     <Book Series="Excalibur" Number="113" Volume="1988" Year="1997">
       <Database Name="cv" Series="4052" Issue="66395" />
     </Book>
-    <Book Series="Uncanny X-Men '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="Uncanny X-Men &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="60470" Issue="136051" />
     </Book>
     <Book Series="Wolverine" Number="112" Volume="1988" Year="1997">
@@ -264,16 +264,16 @@
     <Book Series="Wolverine" Number="114" Volume="1988" Year="1997">
       <Database Name="cv" Series="4250" Issue="51182" />
     </Book>
-    <Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
+    <Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="20650" Issue="123844" />
     </Book>
-    <Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
+    <Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
       <Database Name="cv" Series="20650" Issue="135794" />
     </Book>
-    <Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
+    <Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
       <Database Name="cv" Series="20650" Issue="135795" />
     </Book>
-    <Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
+    <Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
       <Database Name="cv" Series="20650" Issue="135796" />
     </Book>
     <Book Series="Generation X" Number="26" Volume="1994" Year="1997">
@@ -426,7 +426,7 @@
     <Book Series="X-Factor" Number="138" Volume="1986" Year="1997">
       <Database Name="cv" Series="3657" Issue="65716" />
     </Book>
-    <Book Series="Wolverine '97" Number="1" Volume="1997" Year="1998">
+    <Book Series="Wolverine &apos;97" Number="1" Volume="1997" Year="1998">
       <Database Name="cv" Series="27129" Issue="164830" />
     </Book>
     <Book Series="Excalibur" Number="114" Volume="1988" Year="1997">
@@ -444,7 +444,7 @@
     <Book Series="X-Man" Number="31" Volume="1995" Year="1997">
       <Database Name="cv" Series="5567" Issue="44202" />
     </Book>
-    <Book Series="X-Man '97" Number="1" Volume="1997" Year="1997">
+    <Book Series="X-Man &apos;97" Number="1" Volume="1997" Year="1997">
       <Database Name="cv" Series="39814" Issue="269206" />
     </Book>
     <Book Series="X-Factor" Number="139" Volume="1986" Year="1997">
@@ -570,10 +570,10 @@
     <Book Series="X-Force" Number="76" Volume="1991" Year="1998">
       <Database Name="cv" Series="4604" Issue="64549" />
     </Book>
-    <Book Series="Cable / Machine Man '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Cable / Machine Man &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="18365" Issue="117675" />
     </Book>
-    <Book Series="Machine Man / Bastion '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Machine Man / Bastion &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="26009" Issue="153754" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="353" Volume="1981" Year="1998">
@@ -741,7 +741,7 @@
     <Book Series="X-Men Unlimited" Number="20" Volume="1993" Year="1998">
       <Database Name="cv" Series="5066" Issue="45305" />
     </Book>
-    <Book Series="X-Man / Hulk '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="X-Man / Hulk &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="28192" Issue="173329" />
     </Book>
     <Book Series="Excalibur" Number="124" Volume="1988" Year="1998">
@@ -759,7 +759,7 @@
     <Book Series="X-Factor" Number="149" Volume="1986" Year="1998">
       <Database Name="cv" Series="3657" Issue="65725" />
     </Book>
-    <Book Series="Uncanny X-Men / Fantastic Four '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Uncanny X-Men / Fantastic Four &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="30468" Issue="187571" />
     </Book>
     <Book Series="X-Men" Number="79" Volume="1991" Year="1998">
@@ -807,7 +807,7 @@
     <Book Series="X-Force" Number="85" Volume="1991" Year="1999">
       <Database Name="cv" Series="4604" Issue="64556" />
     </Book>
-    <Book Series="X-Force / Champions '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="X-Force / Champions &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="34173" Issue="222916" />
     </Book>
     <Book Series="X-Man" Number="42" Volume="1995" Year="1998">
@@ -852,7 +852,7 @@
     <Book Series="X-Men Unlimited" Number="22" Volume="1993" Year="1999">
       <Database Name="cv" Series="5066" Issue="45718" />
     </Book>
-    <Book Series="X-Men / Dr. Doom '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="X-Men / Dr. Doom &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="26316" Issue="178128" />
     </Book>
     <Book Series="Wolverine" Number="133" Volume="1988" Year="1999">
@@ -903,7 +903,7 @@
     <Book Series="Gambit" Number="1" Volume="1999" Year="1999">
       <Database Name="cv" Series="9111" Issue="66890" />
     </Book>
-    <Book Series="Generation X / Dracula '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Generation X / Dracula &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="60445" Issue="123569" />
     </Book>
     <Book Series="Generation X" Number="48" Volume="1994" Year="1999">

@@ -15,7 +15,7 @@
     <Book Series="Iron Man Annual" Number="12" Volume="1970" Year="1991">
       <Database Name="cv" Series="2905" Issue="34649" />
     </Book>
-    <Book Series="Avengers West Coast Annual" Number="6" Volume="1989" Year="1991">
+    <Book Series="West Coast Avengers Annual" Number="6" Volume="1989" Year="1991">
       <Database Name="cv" Series="4219" Issue="34757" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="348" Volume="1963" Year="1991">
@@ -387,7 +387,7 @@
     <Book Series="Darkhawk Annual" Number="1" Volume="1992" Year="1992">
       <Database Name="cv" Series="25922" Issue="153170" />
     </Book>
-    <Book Series="Avengers West Coast Annual" Number="7" Volume="1989" Year="1992">
+    <Book Series="West Coast Avengers Annual" Number="7" Volume="1989" Year="1992">
       <Database Name="cv" Series="4219" Issue="35151" />
     </Book>
     <Book Series="Iron Man Annual" Number="13" Volume="1970" Year="1992">

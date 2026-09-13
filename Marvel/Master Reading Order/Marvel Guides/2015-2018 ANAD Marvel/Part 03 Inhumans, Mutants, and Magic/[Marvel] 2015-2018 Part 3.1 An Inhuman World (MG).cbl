@@ -19,16 +19,16 @@
         <Book Series="Uncanny Inhumans" Number="4" Volume="2015" Year="2016">
             <Database Name="cv" Series="81092" Issue="511528" />
         </Book>
-        <Book Series="All-New Inhumans" Number="1" Volume="2015" Year="2016">
+        <Book Series="All-New Inhumans" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="86333" Issue="507174" />
         </Book>
-        <Book Series="All-New Inhumans" Number="2" Volume="2015" Year="2016">
+        <Book Series="All-New Inhumans" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="86333" Issue="508421" />
         </Book>
-        <Book Series="All-New Inhumans" Number="3" Volume="2015" Year="2016">
+        <Book Series="All-New Inhumans" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="86333" Issue="512416" />
         </Book>
-        <Book Series="All-New Inhumans" Number="4" Volume="2015" Year="2016">
+        <Book Series="All-New Inhumans" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="86333" Issue="516945" />
         </Book>
         <Book Series="Karnak" Number="1" Volume="2015" Year="2015">
@@ -49,34 +49,34 @@
         <Book Series="Karnak" Number="6" Volume="2015" Year="2017">
             <Database Name="cv" Series="85437" Issue="579315" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="1" Volume="2015" Year="2016">
+        <Book Series="The Totally Awesome Hulk" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="86408" Issue="507189" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="2" Volume="2015" Year="2016">
+        <Book Series="The Totally Awesome Hulk" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="86408" Issue="510506" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="3" Volume="2015" Year="2016">
+        <Book Series="The Totally Awesome Hulk" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="86408" Issue="514453" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="4" Volume="2015" Year="2016">
+        <Book Series="The Totally Awesome Hulk" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="86408" Issue="521345" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="1" Volume="2015" Year="2016">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="86245" Issue="506660" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="2" Volume="2015" Year="2016">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="86245" Issue="508896" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="3" Volume="2015" Year="2016">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="86245" Issue="512431" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="4" Volume="2015" Year="2016">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="86245" Issue="516961" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="5" Volume="2015" Year="2016">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="86245" Issue="522434" />
         </Book>
-        <Book Series="Moon Girl and Devil Dinosaur" Number="6" Volume="2015" Year="2016">
+        <Book Series="Moon Girl and Devil Dinosaur" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="86245" Issue="527147" />
         </Book>
         <Book Series="Daredevil" Number="10" Volume="2016" Year="2016">

@@ -3,7 +3,7 @@
 <Name>[1996-1997] X-Men Era Nine Outlaw Mutants (UXRO)</Name>
 <NumIssues>101</NumIssues>
 <Books>
-<Book Series="X-Men '96" Number="1" Volume="1996" Year="1996">
+<Book Series="X-Men &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="20710" Issue="178122" />
 </Book>
 <Book Series="X-Men" Number="57" Volume="1991" Year="1996">
@@ -15,7 +15,7 @@
 <Book Series="X-Men" Number="58" Volume="1991" Year="1996">
 <Database Name="cv" Series="4605" Issue="65758" />
 </Book>
-<Book Series="X-Force / Cable '96" Number="1" Volume="1996" Year="1996">
+<Book Series="X-Force / Cable &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="20138" Issue="120187" />
 </Book>
 <Book Series="Generation X" Number="20" Volume="1994" Year="1996">
@@ -72,13 +72,13 @@
 <Book Series="The Beast" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="22443" Issue="134701" />
 </Book>
-<Book Series="Uncanny X-Men '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Uncanny X-Men &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60470" Issue="136051" />
 </Book>
-<Book Series="Generation X '96" Number="1" Volume="1996" Year="1996">
+<Book Series="Generation X &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="60443" Issue="109932" />
 </Book>
-<Book Series="Generation X '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Generation X &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60444" Issue="123437" />
 </Book>
 <Book Series="Cable" Number="42" Volume="1993" Year="1997">
@@ -114,7 +114,7 @@
 <Book Series="X-Force" Number="64" Volume="1991" Year="1997">
 <Database Name="cv" Series="4604" Issue="64538" />
 </Book>
-<Book Series="X-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="X-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="39814" Issue="269206" />
 </Book>
 <Book Series="Domino" Number="1" Volume="1997" Year="1997">
@@ -126,7 +126,7 @@
 <Book Series="Domino" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="22683" Issue="136043" />
 </Book>
-<Book Series="X-Force / Cable '97" Number="1" Volume="1997" Year="1997">
+<Book Series="X-Force / Cable &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20139" Issue="120196" />
 </Book>
 <Book Series="X-Force" Number="65" Volume="1991" Year="1997">
@@ -153,16 +153,16 @@
 <Book Series="New Mutants: Truth or Death" Number="3" Volume="1997" Year="1998">
 <Database Name="cv" Series="6012" Issue="44566" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="123844" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135794" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135795" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135796" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="420" Volume="1963" Year="1997">

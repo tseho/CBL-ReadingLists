@@ -82,19 +82,19 @@
         <Book Series="Black Panther Annual" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="108798" Issue="660655" />
         </Book>
-        <Book Series="Avengers" Number="672" Volume="2016" Year="2017">
+        <Book Series="Avengers" Number="672" Volume="2017" Year="2017">
             <Database Name="cv" Series="95402" Issue="626276" />
         </Book>
         <Book Series="Champions" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="94612" Issue="630518" />
         </Book>
-        <Book Series="Avengers" Number="673" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="673" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="634525" />
         </Book>
         <Book Series="Champions" Number="14" Volume="2016" Year="2018">
             <Database Name="cv" Series="94612" Issue="638591" />
         </Book>
-        <Book Series="Avengers" Number="674" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="674" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="644497" />
         </Book>
         <Book Series="Champions" Number="15" Volume="2016" Year="2018">
@@ -118,7 +118,7 @@
         <Book Series="Champions" Number="21" Volume="2016" Year="2018">
             <Database Name="cv" Series="94612" Issue="674127" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="23" Volume="2015" Year="2017">
+        <Book Series="The Totally Awesome Hulk" Number="23" Volume="2016" Year="2017">
             <Database Name="cv" Series="86408" Issue="622957" />
         </Book>
         <Book Series="Incredible Hulk" Number="709" Volume="2017" Year="2017">
@@ -148,52 +148,52 @@
         <Book Series="Incredible Hulk" Number="717" Volume="2017" Year="2018">
             <Database Name="cv" Series="105325" Issue="670745" />
         </Book>
-        <Book Series="Avengers" Number="675" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="675" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="652621" />
         </Book>
-        <Book Series="Avengers" Number="676" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="676" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="654049" />
         </Book>
-        <Book Series="Avengers" Number="677" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="677" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="655499" />
         </Book>
-        <Book Series="Avengers" Number="678" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="678" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="656696" />
         </Book>
-        <Book Series="Avengers" Number="679" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="679" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="658716" />
         </Book>
-        <Book Series="Avengers" Number="680" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="680" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="660007" />
         </Book>
-        <Book Series="Avengers" Number="681" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="681" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="660654" />
         </Book>
-        <Book Series="Avengers" Number="682" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="682" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="661139" />
         </Book>
-        <Book Series="Avengers" Number="683" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="683" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="662081" />
         </Book>
-        <Book Series="Avengers" Number="684" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="684" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="662737" />
         </Book>
-        <Book Series="Avengers" Number="685" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="685" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="663566" />
         </Book>
-        <Book Series="Avengers" Number="686" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="686" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="664290" />
         </Book>
-        <Book Series="Avengers" Number="687" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="687" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="664907" />
         </Book>
-        <Book Series="Avengers" Number="688" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="688" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="665903" />
         </Book>
-        <Book Series="Avengers" Number="689" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="689" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="666800" />
         </Book>
-        <Book Series="Avengers" Number="690" Volume="2016" Year="2018">
+        <Book Series="Avengers" Number="690" Volume="2017" Year="2018">
             <Database Name="cv" Series="95402" Issue="667631" />
         </Book>
         <Book Series="The Punisher" Number="218" Volume="2016" Year="2018">
@@ -214,25 +214,25 @@
         <Book Series="The Punisher" Number="223" Volume="2016" Year="2018">
             <Database Name="cv" Series="90118" Issue="664918" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="11" Volume="2016" Year="2017">
+        <Book Series="Invincible Iron Man" Number="11" Volume="2017" Year="2017">
             <Database Name="cv" Series="95596" Issue="622941" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="593" Volume="2016" Year="2017">
+        <Book Series="Invincible Iron Man" Number="593" Volume="2017" Year="2017">
             <Database Name="cv" Series="95596" Issue="630524" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="594" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="594" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="641408" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="595" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="595" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="649732" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="596" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="596" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="656705" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="597" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="597" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="661150" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="598" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="598" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="664299" />
         </Book>
         <Book Series="The Punisher" Number="224" Volume="2016" Year="2018">
@@ -244,10 +244,10 @@
         <Book Series="The Punisher" Number="226" Volume="2016" Year="2018">
             <Database Name="cv" Series="90118" Issue="673029" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="599" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="599" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="667643" />
         </Book>
-        <Book Series="Invincible Iron Man" Number="600" Volume="2016" Year="2018">
+        <Book Series="Invincible Iron Man" Number="600" Volume="2017" Year="2018">
             <Database Name="cv" Series="95596" Issue="670747" />
         </Book>
         <Book Series="The Punisher" Number="227" Volume="2016" Year="2018">
@@ -410,40 +410,40 @@
         <Book Series="Spider-Man/Deadpool" Number="50" Volume="2016" Year="2019">
             <Database Name="cv" Series="87182" Issue="708139" />
         </Book>
-        <Book Series="Mighty Thor" Number="700" Volume="2015" Year="2017">
+        <Book Series="Mighty Thor" Number="700" Volume="2016" Year="2017">
             <Database Name="cv" Series="86113" Issue="630529" />
         </Book>
-        <Book Series="Mighty Thor" Number="701" Volume="2015" Year="2018">
+        <Book Series="Mighty Thor" Number="701" Volume="2016" Year="2018">
             <Database Name="cv" Series="86113" Issue="638601" />
         </Book>
-        <Book Series="She-Hulk" Number="159" Volume="2017" Year="2018">
+        <Book Series="She-Hulk" Number="159" Volume="2018" Year="2018">
             <Database Name="cv" Series="105965" Issue="636382" />
         </Book>
-        <Book Series="She-Hulk" Number="160" Volume="2017" Year="2018">
+        <Book Series="She-Hulk" Number="160" Volume="2018" Year="2018">
             <Database Name="cv" Series="105965" Issue="646199" />
         </Book>
-        <Book Series="She-Hulk" Number="161" Volume="2017" Year="2018">
+        <Book Series="She-Hulk" Number="161" Volume="2018" Year="2018">
             <Database Name="cv" Series="105965" Issue="652639" />
         </Book>
-        <Book Series="She-Hulk" Number="162" Volume="2017" Year="2018">
+        <Book Series="She-Hulk" Number="162" Volume="2018" Year="2018">
             <Database Name="cv" Series="105965" Issue="658730" />
         </Book>
-        <Book Series="She-Hulk" Number="163" Volume="2017" Year="2018">
+        <Book Series="She-Hulk" Number="163" Volume="2018" Year="2018">
             <Database Name="cv" Series="105965" Issue="662095" />
         </Book>
-        <Book Series="Mighty Thor" Number="702" Volume="2015" Year="2018">
+        <Book Series="Mighty Thor" Number="702" Volume="2016" Year="2018">
             <Database Name="cv" Series="86113" Issue="647948" />
         </Book>
-        <Book Series="Mighty Thor" Number="703" Volume="2015" Year="2018">
+        <Book Series="Mighty Thor" Number="703" Volume="2016" Year="2018">
             <Database Name="cv" Series="86113" Issue="654056" />
         </Book>
-        <Book Series="Mighty Thor" Number="704" Volume="2015" Year="2018">
+        <Book Series="Mighty Thor" Number="704" Volume="2016" Year="2018">
             <Database Name="cv" Series="86113" Issue="660667" />
         </Book>
-        <Book Series="Mighty Thor" Number="705" Volume="2015" Year="2018">
+        <Book Series="Mighty Thor" Number="705" Volume="2016" Year="2018">
             <Database Name="cv" Series="86113" Issue="663579" />
         </Book>
-        <Book Series="Mighty Thor" Number="706" Volume="2015" Year="2018">
+        <Book Series="Mighty Thor" Number="706" Volume="2016" Year="2018">
             <Database Name="cv" Series="86113" Issue="667649" />
         </Book>
         <Book Series="Mighty Thor: At the Gates of Valhalla" Number="1" Volume="2018" Year="2018">

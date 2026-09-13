@@ -36,7 +36,7 @@
 <Book Series="X-Force" Number="22" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="878792" />
 </Book>
-<Book Series="S.W.O.R.D." Number="7" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="7" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="874522" />
 </Book>
 <Book Series="New Mutants" Number="20" Volume="2020" Year="2021">
@@ -93,7 +93,7 @@
 <Book Series="X-Men" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="137402" Issue="885604" />
 </Book>
-<Book Series="S.W.O.R.D." Number="8" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="8" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="886939" />
 </Book>
 <Book Series="Inferno" Number="1" Volume="2021" Year="2021">
@@ -114,7 +114,7 @@
 <Book Series="X-Force" Number="24" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="889465" />
 </Book>
-<Book Series="S.W.O.R.D." Number="9" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="9" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="891564" />
 </Book>
 <Book Series="Wolverine" Number="17" Volume="2020" Year="2021">
@@ -135,7 +135,7 @@
 <Book Series="Hellions" Number="17" Volume="2020" Year="2022">
 <Database Name="cv" Series="126015" Issue="893934" />
 </Book>
-<Book Series="S.W.O.R.D." Number="10" Volume="2020" Year="2022">
+<Book Series="S.W.O.R.D." Number="10" Volume="2021" Year="2022">
 <Database Name="cv" Series="132511" Issue="894139" />
 </Book>
 <Book Series="New Mutants" Number="23" Volume="2020" Year="2022">
@@ -174,7 +174,7 @@
 <Book Series="Wolverine" Number="19" Volume="2020" Year="2022">
 <Database Name="cv" Series="125121" Issue="899167" />
 </Book>
-<Book Series="S.W.O.R.D." Number="11" Volume="2020" Year="2022">
+<Book Series="S.W.O.R.D." Number="11" Volume="2021" Year="2022">
 <Database Name="cv" Series="132511" Issue="899166" />
 </Book>
 <Book Series="X-Men" Number="6" Volume="2021" Year="2022">

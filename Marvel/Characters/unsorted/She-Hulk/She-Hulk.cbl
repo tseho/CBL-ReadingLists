@@ -270,7 +270,7 @@
     <Book Series="The Sensational She-Hulk" Number="60" Volume="1989" Year="1994">
       <Database Name="cv" Series="4243" Issue="130940" />
     </Book>
-    <Book Series="Thing &#38; She-Hulk: The Long Night" Number="1" Volume="2002" Year="2002">
+    <Book Series="Thing &amp; She-Hulk: The Long Night" Number="1" Volume="2002" Year="2002">
       <Database Name="cv" Series="28195" Issue="173346" />
     </Book>
     <Book Series="Avengers" Number="72" Volume="1998" Year="2003">
@@ -321,13 +321,13 @@
     <Book Series="She-Hulk" Number="12" Volume="2004" Year="2005">
       <Database Name="cv" Series="11058" Issue="99192" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="11" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="11" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120886" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="12" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="12" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120887" />
     </Book>
-    <Book Series="Marvel Team-Up" Number="13" Volume="2004" Year="2005">
+    <Book Series="Marvel Team-Up" Number="13" Volume="2005" Year="2005">
       <Database Name="cv" Series="18024" Issue="120888" />
     </Book>
     <Book Series="She-Hulk" Number="1" Volume="2005" Year="2005">
@@ -573,52 +573,52 @@
     <Book Series="She-Hulk" Number="12" Volume="2014" Year="2015">
       <Database Name="cv" Series="71612" Issue="479981" />
     </Book>
-    <Book Series="Hulk" Number="1" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="571670" />
     </Book>
-    <Book Series="Hulk" Number="2" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="2" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="578462" />
     </Book>
-    <Book Series="Hulk" Number="3" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="3" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="582532" />
     </Book>
-    <Book Series="Hulk" Number="4" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="4" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="588566" />
     </Book>
-    <Book Series="Hulk" Number="5" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="5" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="593261" />
     </Book>
-    <Book Series="Hulk" Number="6" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="6" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="598377" />
     </Book>
-    <Book Series="Hulk" Number="7" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="7" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="601794" />
     </Book>
-    <Book Series="Hulk" Number="8" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="8" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="608246" />
     </Book>
-    <Book Series="Hulk" Number="9" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="9" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="613791" />
     </Book>
-    <Book Series="Hulk" Number="10" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="10" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="621666" />
     </Book>
-    <Book Series="Hulk" Number="11" Volume="2016" Year="2017">
+    <Book Series="Hulk" Number="11" Volume="2017" Year="2017">
       <Database Name="cv" Series="97422" Issue="628581" />
     </Book>
-    <Book Series="She-Hulk" Number="159" Volume="2017" Year="2018">
+    <Book Series="She-Hulk" Number="159" Volume="2018" Year="2018">
       <Database Name="cv" Series="105965" Issue="636382" />
     </Book>
-    <Book Series="She-Hulk" Number="160" Volume="2017" Year="2018">
+    <Book Series="She-Hulk" Number="160" Volume="2018" Year="2018">
       <Database Name="cv" Series="105965" Issue="646199" />
     </Book>
-    <Book Series="She-Hulk" Number="161" Volume="2017" Year="2018">
+    <Book Series="She-Hulk" Number="161" Volume="2018" Year="2018">
       <Database Name="cv" Series="105965" Issue="652639" />
     </Book>
-    <Book Series="She-Hulk" Number="162" Volume="2017" Year="2018">
+    <Book Series="She-Hulk" Number="162" Volume="2018" Year="2018">
       <Database Name="cv" Series="105965" Issue="658730" />
     </Book>
-    <Book Series="She-Hulk" Number="163" Volume="2017" Year="2018">
+    <Book Series="She-Hulk" Number="163" Volume="2018" Year="2018">
       <Database Name="cv" Series="105965" Issue="662095" />
     </Book>
   </Books>

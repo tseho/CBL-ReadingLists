@@ -531,7 +531,7 @@
     <Book Series="Alpha Flight" Number="16" Volume="1997" Year="1998">
       <Database Name="cv" Series="11291" Issue="99077" />
     </Book>
-    <Book Series="Alpha Flight / Inhumans '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Alpha Flight / Inhumans &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="25658" Issue="151202" />
     </Book>
     <Book Series="Alpha Flight" Number="17" Volume="1997" Year="1998">

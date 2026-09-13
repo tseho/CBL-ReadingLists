@@ -24,40 +24,40 @@
 <Book Series="Spider-Man" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="145364" Issue="1008953" />
 </Book>
-<Book Series="Venom" Number="1" Volume="2021" Year="2022">
+<Book Series="Venom" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="893910" />
 </Book>
-<Book Series="Venom" Number="2" Volume="2021" Year="2022">
+<Book Series="Venom" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="896095" />
 </Book>
-<Book Series="Venom" Number="3" Volume="2021" Year="2022">
+<Book Series="Venom" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="899169" />
 </Book>
-<Book Series="Venom" Number="4" Volume="2021" Year="2022">
+<Book Series="Venom" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="903919" />
 </Book>
-<Book Series="Venom" Number="5" Volume="2021" Year="2022">
+<Book Series="Venom" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="907434" />
 </Book>
-<Book Series="Venom" Number="6" Volume="2021" Year="2022">
+<Book Series="Venom" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="910623" />
 </Book>
-<Book Series="Venom" Number="7" Volume="2021" Year="2022">
+<Book Series="Venom" Number="7" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="916413" />
 </Book>
-<Book Series="Venom" Number="8" Volume="2021" Year="2022">
+<Book Series="Venom" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="929644" />
 </Book>
-<Book Series="Venom" Number="9" Volume="2021" Year="2022">
+<Book Series="Venom" Number="9" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="939095" />
 </Book>
-<Book Series="Venom" Number="10" Volume="2021" Year="2022">
+<Book Series="Venom" Number="10" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="946723" />
 </Book>
-<Book Series="Venom" Number="11" Volume="2021" Year="2022">
+<Book Series="Venom" Number="11" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="950377" />
 </Book>
-<Book Series="Venom" Number="12" Volume="2021" Year="2022">
+<Book Series="Venom" Number="12" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="952299" />
 </Book>
 <Book Series="Ms. Marvel &amp; Moon Knight" Number="1" Volume="2022" Year="2022">
@@ -69,7 +69,7 @@
 <Book Series="X-Men Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146988" Issue="960987" />
 </Book>
-<Book Series="Gold Goblin" Number="1" Volume="2022" Year="2023">
+<Book Series="Gold Goblin" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146113" Issue="955122" />
 </Book>
 <Book Series="Free Comic Book Day 2022: Spider-Man/Venom" Number="1" Volume="2022" Year="2022">
@@ -78,7 +78,7 @@
 <Book Series="The Amazing Spider-Man" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="956770" />
 </Book>
-<Book Series="Venom" Number="13" Volume="2021" Year="2023">
+<Book Series="Venom" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
 </Books>

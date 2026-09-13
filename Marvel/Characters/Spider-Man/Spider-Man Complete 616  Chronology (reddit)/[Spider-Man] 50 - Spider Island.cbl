@@ -42,7 +42,7 @@
 <Book Series="Venom" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="39301" Issue="286935" />
 </Book>
-<Book Series="Spider-Island: The Avengers" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42663" Issue="292003" />
 </Book>
 <Book Series="Black Panther: The Most Dangerous Man Alive" Number="524" Volume="2011" Year="2011">

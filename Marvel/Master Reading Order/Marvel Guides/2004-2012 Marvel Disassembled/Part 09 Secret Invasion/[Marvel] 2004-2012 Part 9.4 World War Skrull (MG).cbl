@@ -4,13 +4,13 @@
     <Name>[Marvel] 2004-2012 Part 9.4 World War Skrull (MG)</Name>
     <NumIssues>33</NumIssues>
     <Books>
-        <Book Series="New Avengers" Number="44" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="44" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="136523" />
         </Book>
-        <Book Series="New Avengers" Number="45" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="45" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="139334" />
         </Book>
-        <Book Series="New Avengers" Number="46" Volume="2004" Year="2008">
+        <Book Series="New Avengers" Number="46" Volume="2005" Year="2008">
             <Database Name="cv" Series="11497" Issue="140897" />
         </Book>
         <Book Series="Avengers: The Initiative" Number="17" Volume="2007" Year="2008">
@@ -67,10 +67,10 @@
         <Book Series="She-Hulk" Number="33" Volume="2005" Year="2008">
             <Database Name="cv" Series="18293" Issue="139371" />
         </Book>
-        <Book Series="Iron Man" Number="34" Volume="2004" Year="2008">
+        <Book Series="Iron Man" Number="34" Volume="2005" Year="2008">
             <Database Name="cv" Series="18220" Issue="140556" />
         </Book>
-        <Book Series="Iron Man" Number="35" Volume="2004" Year="2009">
+        <Book Series="Iron Man" Number="35" Volume="2005" Year="2009">
             <Database Name="cv" Series="18220" Issue="142482" />
         </Book>
         <Book Series="Punisher War Journal" Number="24" Volume="2007" Year="2008">

@@ -7,7 +7,7 @@
         <Book Series="Giant-Size Ms. Marvel" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="22510" Issue="135114" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="18" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="18" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="106395" />
         </Book>
         <Book Series="Mutopia X" Number="5" Volume="2005" Year="2006">
@@ -256,25 +256,25 @@
         <Book Series="Giant-Size Wolverine" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="20385" Issue="121915" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="19" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="19" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="106396" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="20" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="20" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="106407" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="21" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="21" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="106408" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="22" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="22" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106409" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="23" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="23" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106410" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="24" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="24" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106411" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="25" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="25" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106412" />
         </Book>
         <Book Series="X-Men: Apocalypse/Dracula" Number="1" Volume="2006" Year="2006">
@@ -289,16 +289,16 @@
         <Book Series="X-Men: Apocalypse/Dracula" Number="4" Volume="2006" Year="2006">
             <Database Name="cv" Series="18303" Issue="107125" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="26" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="26" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106413" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="27" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="27" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106414" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="28" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="28" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106442" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="29" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="29" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106443" />
         </Book>
         <Book Series="Nextwave: Agents of H.A.T.E." Number="1" Volume="2006" Year="2006">
@@ -328,13 +328,13 @@
         <Book Series="Claws" Number="3" Volume="2006" Year="2006">
             <Database Name="cv" Series="18502" Issue="108684" />
         </Book>
-        <Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="1" Volume="2011" Year="2011">
+        <Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="1" Volume="2011" Year="2011">
             <Database Name="cv" Series="41136" Issue="277526" />
         </Book>
-        <Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="2" Volume="2011" Year="2011">
+        <Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="2" Volume="2011" Year="2011">
             <Database Name="cv" Series="41136" Issue="286960" />
         </Book>
-        <Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="3" Volume="2011" Year="2011">
+        <Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="3" Volume="2011" Year="2011">
             <Database Name="cv" Series="41136" Issue="294781" />
         </Book>
     </Books>

@@ -705,7 +705,7 @@
 <Book Series="Rawhide Kid" Number="9" Volume="1955" Year="1956">
 <Database Name="cv" Series="1712" Issue="2565" />
 </Book>
-<Book Series="Two-Gun Western" Number="5" Volume="1956" Year="1956">
+<Book Series="Two Gun Western" Number="5" Volume="1956" Year="1956">
 <Database Name="cv" Series="1796" Issue="91109" />
 </Book>
 <Book Series="Wild Western" Number="50" Volume="1948" Year="1956">
@@ -1158,7 +1158,7 @@
 <Book Series="Rawhide Kid" Number="14" Volume="1955" Year="1957">
 <Database Name="cv" Series="1712" Issue="3080" />
 </Book>
-<Book Series="Two-Gun Western" Number="10" Volume="1956" Year="1957">
+<Book Series="Two Gun Western" Number="10" Volume="1956" Year="1957">
 <Database Name="cv" Series="1796" Issue="3082" />
 </Book>
 <Book Series="Western Trails" Number="1" Volume="1957" Year="1957">
@@ -1332,7 +1332,7 @@
 <Book Series="Marines in Action" Number="14" Volume="1955" Year="1957">
 <Database Name="cv" Series="30550" Issue="187952" />
 </Book>
-<Book Series="The Black Rider Rides Again!" Number="1" Volume="1957" Year="1957">
+<Book Series="Black Rider" Number="1" Volume="1957" Year="1957">
 <Database Name="cv" Series="30493" Issue="187606" />
 </Book>
 <Book Series="The Outlaw Kid" Number="19" Volume="1954" Year="1957">

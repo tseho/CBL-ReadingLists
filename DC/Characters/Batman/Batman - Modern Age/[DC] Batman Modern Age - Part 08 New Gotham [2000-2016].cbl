@@ -166,10 +166,10 @@
 <Book Series="Batman/Scarface: A Psychodrama" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="25423" Issue="150024" />
 </Book>
-<Book Series="Batman: The Ankh" Number="1" Volume="2001" Year="2002">
+<Book Series="Batman: The Ankh" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="34427" Issue="224810" />
 </Book>
-<Book Series="Batman: The Ankh" Number="2" Volume="2001" Year="2002">
+<Book Series="Batman: The Ankh" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="34427" Issue="224811" />
 </Book>
 <Book Series="Batman: Through the Looking Glass" Number="1" Volume="2012" Year="2011">

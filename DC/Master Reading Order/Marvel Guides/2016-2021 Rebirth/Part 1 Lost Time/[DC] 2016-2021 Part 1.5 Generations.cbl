@@ -90,7 +90,7 @@
 <Book Series="Green Arrow: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="90872" Issue="533010" />
 </Book>
-<Book Series="Batgirl &#38; the Birds of Prey: Rebirth" Number="1" Volume="2016" Year="2016">
+<Book Series="Batgirl &amp; the Birds of Prey: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92351" Issue="540045" />
 </Book>
 <Book Series="Batgirl and the Birds of Prey" Number="1" Volume="2016" Year="2016">

@@ -2742,7 +2742,7 @@
 <Book Series="Web of Spider-Man Annual" Number="5" Volume="1985" Year="1989">
 <Database Name="cv" Series="3520" Issue="30615" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="4" Volume="1989" Year="1989">
+<Book Series="West Coast Avengers Annual" Number="4" Volume="1989" Year="1989">
 <Database Name="cv" Series="4219" Issue="31863" />
 </Book>
 <Book Series="The Mighty Thor Annual" Number="14" Volume="1989" Year="1989">

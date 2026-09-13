@@ -588,7 +588,7 @@
 <Book Series="Wonder Woman" Number="223" Volume="1987" Year="2006">
 <Database Name="cv" Series="3824" Issue="107687" />
 </Book>
-<Book Series="JSA Classified" Number="4" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="111276" />
 </Book>
 <Book Series="Infinite Crisis" Number="2" Volume="2005" Year="2006">
@@ -651,10 +651,10 @@
 <Book Series="Day of Vengeance: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="24042" Issue="143052" />
 </Book>
-<Book Series="JSA Classified" Number="8" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="8" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126503" />
 </Book>
-<Book Series="JSA Classified" Number="9" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="9" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126505" />
 </Book>
 <Book Series="Batman" Number="648" Volume="1940" Year="2006">
@@ -738,7 +738,7 @@
 <Book Series="Teen Titans" Number="33" Volume="2003" Year="2006">
 <Database Name="cv" Series="10414" Issue="111169" />
 </Book>
-<Book Series="Infinite Crisis Secret Files" Number="1" Volume="2006" Year="2006">
+<Book Series="Infinite Crisis Secret Files 2006" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="21773" Issue="131296" />
 </Book>
 <Book Series="Batman Annual" Number="25" Volume="1961" Year="2006">
@@ -777,13 +777,13 @@
 <Book Series="Superman/Batman" Number="26" Volume="2003" Year="2006">
 <Database Name="cv" Series="10938" Issue="111198" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167758" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167770" />
 </Book>
-<Book Series="Infinite Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
+<Book Series="Crisis Aftermath: The Spectre" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="27522" Issue="167771" />
 </Book>
 <Book Series="Superman" Number="712" Volume="1939" Year="2011">

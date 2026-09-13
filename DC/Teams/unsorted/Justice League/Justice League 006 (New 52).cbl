@@ -111,13 +111,13 @@
     <Book Series="Katana" Number="1" Volume="2013" Year="2013">
       <Database Name="cv" Series="57151" Issue="386091" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="1" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="1" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="387207" />
     </Book>
     <Book Series="Justice League of America" Number="1" Volume="2013" Year="2013">
       <Database Name="cv" Series="57485" Issue="387206" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="2" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="2" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="394653" />
     </Book>
     <Book Series="Katana" Number="2" Volume="2013" Year="2013">
@@ -135,13 +135,13 @@
     <Book Series="Justice League of America" Number="5" Volume="2013" Year="2013">
       <Database Name="cv" Series="57485" Issue="413616" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="3" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="3" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="397496" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="4" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="4" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="402243" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="5" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="5" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="411789" />
     </Book>
     <Book Series="Katana" Number="3" Volume="2013" Year="2013">
@@ -156,13 +156,13 @@
     <Book Series="Katana" Number="6" Volume="2013" Year="2013">
       <Database Name="cv" Series="57151" Issue="416910" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="6" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="6" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="417795" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="7" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="7" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="422441" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="8" Volume="2013" Year="2013">
+    <Book Series="Justice League of America&apos;s Vibe" Number="8" Volume="2013" Year="2013">
       <Database Name="cv" Series="57486" Issue="428963" />
     </Book>
     <Book Series="Justice League of America" Number="7.3" Volume="2013" Year="2013">
@@ -183,10 +183,10 @@
     <Book Series="Justice League" Number="18" Volume="2011" Year="2013">
       <Database Name="cv" Series="42488" Issue="394651" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="9" Volume="2013" Year="2014">
+    <Book Series="Justice League of America&apos;s Vibe" Number="9" Volume="2013" Year="2014">
       <Database Name="cv" Series="57486" Issue="433120" />
     </Book>
-    <Book Series="Justice League of America's Vibe" Number="10" Volume="2013" Year="2014">
+    <Book Series="Justice League of America&apos;s Vibe" Number="10" Volume="2013" Year="2014">
       <Database Name="cv" Series="57486" Issue="437424" />
     </Book>
     <Book Series="Justice League" Number="23.3" Volume="2011" Year="2013">

@@ -21,16 +21,16 @@
 <Book Series="The Sensational Spider-Man" Number="6" Volume="1996" Year="1996">
 <Database Name="cv" Series="5788" Issue="77947" />
 </Book>
-<Book Series="Askani'Son" Number="1" Volume="1996" Year="1996">
+<Book Series="Askani&apos;Son" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18151" Issue="106318" />
 </Book>
-<Book Series="Askani'Son" Number="2" Volume="1996" Year="1996">
+<Book Series="Askani&apos;Son" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="18151" Issue="106322" />
 </Book>
-<Book Series="Askani'Son" Number="3" Volume="1996" Year="1996">
+<Book Series="Askani&apos;Son" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="18151" Issue="106323" />
 </Book>
-<Book Series="Askani'Son" Number="4" Volume="1996" Year="1996">
+<Book Series="Askani&apos;Son" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="18151" Issue="106324" />
 </Book>
 <Book Series="Daredevil" Number="352" Volume="1964" Year="1996">
@@ -618,22 +618,22 @@
 <Book Series="The Amazing Spider-Man" Number="417" Volume="1963" Year="1996">
 <Database Name="cv" Series="2127" Issue="64454" />
 </Book>
-<Book Series="The Amazing Spider-Man '96" Number="1" Volume="1996" Year="1996">
+<Book Series="The Amazing Spider-Man &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="60436" Issue="143308" />
 </Book>
 <Book Series="Wolverine" Number="½" Volume="1988" Year="1996">
 <Database Name="cv" Series="4250" Issue="274894" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="1" Volume="1996" Year="1996">
+<Book Series="Mystique &amp; Sabretooth" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="5787" Issue="43117" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="2" Volume="1996" Year="1997">
+<Book Series="Mystique &amp; Sabretooth" Number="2" Volume="1996" Year="1997">
 <Database Name="cv" Series="5787" Issue="43313" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="3" Volume="1996" Year="1997">
+<Book Series="Mystique &amp; Sabretooth" Number="3" Volume="1996" Year="1997">
 <Database Name="cv" Series="5787" Issue="43425" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="4" Volume="1996" Year="1997">
+<Book Series="Mystique &amp; Sabretooth" Number="4" Volume="1996" Year="1997">
 <Database Name="cv" Series="5787" Issue="43519" />
 </Book>
 <Book Series="Excalibur" Number="103" Volume="1988" Year="1996">
@@ -1728,7 +1728,7 @@
 <Book Series="Excalibur" Number="115" Volume="1988" Year="1997">
 <Database Name="cv" Series="4052" Issue="66397" />
 </Book>
-<Book Series="The Amazing Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="The Amazing Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60438" Issue="143309" />
 </Book>
 <Book Series="Generation X" Number="34" Volume="1994" Year="1998">
@@ -2628,7 +2628,7 @@
 <Book Series="Wolverine" Number="130" Volume="1988" Year="1998">
 <Database Name="cv" Series="4250" Issue="51198" />
 </Book>
-<Book Series="Spider-Man '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Spider-Man &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60439" Issue="143310" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="356" Volume="1981" Year="1998">
@@ -2757,7 +2757,7 @@
 <Book Series="X-Force" Number="84" Volume="1991" Year="1998">
 <Database Name="cv" Series="4604" Issue="64555" />
 </Book>
-<Book Series="Hawkeye: Earth's Mightiest Marksman" Number="1" Volume="1998" Year="1998">
+<Book Series="Hawkeye: Earth&apos;s Mightiest Marksman" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="31099" Issue="192969" />
 </Book>
 <Book Series="Excalibur" Number="124" Volume="1988" Year="1998">
@@ -2811,7 +2811,7 @@
 <Book Series="Quicksilver" Number="12" Volume="1997" Year="1998">
 <Database Name="cv" Series="6013" Issue="45393" />
 </Book>
-<Book Series="Heroes for Hire / Quicksilver '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Heroes for Hire / Quicksilver &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="19807" Issue="118824" />
 </Book>
 <Book Series="Spider-Man Unlimited" Number="21" Volume="1993" Year="1998">
@@ -2826,7 +2826,7 @@
 <Book Series="The Incredible Hulk" Number="468" Volume="1968" Year="1998">
 <Database Name="cv" Series="2406" Issue="80809" />
 </Book>
-<Book Series="Avengers / Squadron Supreme '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Avengers / Squadron Supreme &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30632" Issue="189114" />
 </Book>
 <Book Series="Fantastic Four" Number="10" Volume="1998" Year="1998">
@@ -2853,7 +2853,7 @@
 <Book Series="Spider-Man" Number="94" Volume="1990" Year="1998">
 <Database Name="cv" Series="4421" Issue="64663" />
 </Book>
-<Book Series="Fantastic Four / Fantastic 4 '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Fantastic Four / Fantastic 4 &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="60493" Issue="138969" />
 </Book>
 <Book Series="Heroes for Hire" Number="17" Volume="1997" Year="1998">

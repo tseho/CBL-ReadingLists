@@ -27,16 +27,16 @@
         <Book Series="Hellions" Number="18" Volume="2020" Year="2022">
             <Database Name="cv" Series="126015" Issue="897328" />
         </Book>
-        <Book Series="New Mutants" Number="25" Volume="2019" Year="2022">
+        <Book Series="New Mutants" Number="25" Volume="2020" Year="2022">
             <Database Name="cv" Series="122666" Issue="924785" />
         </Book>
-        <Book Series="New Mutants" Number="26" Volume="2019" Year="2022">
+        <Book Series="New Mutants" Number="26" Volume="2020" Year="2022">
             <Database Name="cv" Series="122666" Issue="931631" />
         </Book>
-        <Book Series="New Mutants" Number="27" Volume="2019" Year="2022">
+        <Book Series="New Mutants" Number="27" Volume="2020" Year="2022">
             <Database Name="cv" Series="122666" Issue="935764" />
         </Book>
-        <Book Series="New Mutants" Number="28" Volume="2019" Year="2022">
+        <Book Series="New Mutants" Number="28" Volume="2020" Year="2022">
             <Database Name="cv" Series="122666" Issue="942712" />
         </Book>
 <!-- 

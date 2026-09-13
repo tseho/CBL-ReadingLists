@@ -12,13 +12,13 @@
 <Book Series="War of the Realms Strikeforce: The Land of Giants" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119315" Issue="709738" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
 <Book Series="War of the Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="707534" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
 <Book Series="War of the Realms" Number="4" Volume="2019" Year="2019">
@@ -39,7 +39,7 @@
 <Book Series="War of the Realms" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="712557" />
 </Book>
-<Book Series="Superior Spider-Man" Number="9" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="9" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="713867" />
 </Book>
 </Books>

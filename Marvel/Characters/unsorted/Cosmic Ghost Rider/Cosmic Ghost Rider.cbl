@@ -3,22 +3,22 @@
   <Name>Cosmic Ghost Rider</Name>
   <NumIssues>34</NumIssues>
   <Books>
-    <Book Series="Thanos" Number="13" Volume="2016" Year="2018">
+    <Book Series="Thanos" Number="13" Volume="2017" Year="2018">
       <Database Name="cv" Series="95750" Issue="641419" />
     </Book>
-    <Book Series="Thanos" Number="14" Volume="2016" Year="2018">
+    <Book Series="Thanos" Number="14" Volume="2017" Year="2018">
       <Database Name="cv" Series="95750" Issue="649747" />
     </Book>
-    <Book Series="Thanos" Number="15" Volume="2016" Year="2018">
+    <Book Series="Thanos" Number="15" Volume="2017" Year="2018">
       <Database Name="cv" Series="95750" Issue="655513" />
     </Book>
-    <Book Series="Thanos" Number="16" Volume="2016" Year="2018">
+    <Book Series="Thanos" Number="16" Volume="2017" Year="2018">
       <Database Name="cv" Series="95750" Issue="661162" />
     </Book>
-    <Book Series="Thanos" Number="17" Volume="2016" Year="2018">
+    <Book Series="Thanos" Number="17" Volume="2017" Year="2018">
       <Database Name="cv" Series="95750" Issue="663589" />
     </Book>
-    <Book Series="Thanos" Number="18" Volume="2016" Year="2018">
+    <Book Series="Thanos" Number="18" Volume="2017" Year="2018">
       <Database Name="cv" Series="95750" Issue="665923" />
     </Book>
     <Book Series="Thanos Annual" Number="1" Volume="2018" Year="2018">
@@ -87,22 +87,22 @@
     <Book Series="Avengers" Number="25" Volume="2018" Year="2019">
       <Database Name="cv" Series="110496" Issue="723852" />
     </Book>
-    <Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2019" Year="2020">
+    <Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2020" Year="2020">
       <Database Name="cv" Series="123712" Issue="731523" />
     </Book>
-    <Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2019" Year="2020">
+    <Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2020" Year="2020">
       <Database Name="cv" Series="123712" Issue="733826" />
     </Book>
-    <Book Series="Revenge of the Cosmic Ghost Rider" Number="3" Volume="2019" Year="2020">
+    <Book Series="Revenge of the Cosmic Ghost Rider" Number="3" Volume="2020" Year="2020">
       <Database Name="cv" Series="123712" Issue="737762" />
     </Book>
-    <Book Series="Revenge of the Cosmic Ghost Rider" Number="4" Volume="2019" Year="2020">
+    <Book Series="Revenge of the Cosmic Ghost Rider" Number="4" Volume="2020" Year="2020">
       <Database Name="cv" Series="123712" Issue="743446" />
     </Book>
-    <Book Series="Revenge of the Cosmic Ghost Rider" Number="5" Volume="2019" Year="2020">
+    <Book Series="Revenge of the Cosmic Ghost Rider" Number="5" Volume="2020" Year="2020">
       <Database Name="cv" Series="123712" Issue="766405" />
     </Book>
-    <Book Series="Wolverine: Black, White &#38; Blood" Number="3" Volume="2020" Year="2021">
+    <Book Series="Wolverine: Black, White &amp; Blood" Number="3" Volume="2021" Year="2021">
       <Database Name="cv" Series="131734" Issue="828199" />
     </Book>
   </Books>

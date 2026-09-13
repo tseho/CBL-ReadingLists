@@ -120,7 +120,7 @@
 <Book Series="Superboy" Number="68" Volume="1949" Year="1958">
 <Database Name="cv" Series="19154" Issue="123995" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="5" Volume="1958" Year="1958">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="5" Volume="1958" Year="1958">
 <Database Name="cv" Series="19245" Issue="115773" />
 </Book>
 <Book Series="Superman" Number="129" Volume="1939" Year="1959">
@@ -144,7 +144,7 @@
 <Book Series="Adventure Comics" Number="266" Volume="1938" Year="1959">
 <Database Name="cv" Series="3105" Issue="140728" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="14" Volume="1958" Year="1960">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="14" Volume="1958" Year="1960">
 <Database Name="cv" Series="19245" Issue="116438" />
 </Book>
 <Book Series="The Flash" Number="110" Volume="1959" Year="1960">
@@ -162,7 +162,7 @@
 <Book Series="Superboy" Number="85" Volume="1949" Year="1960">
 <Database Name="cv" Series="19154" Issue="125309" />
 </Book>
-<Book Series="World's Finest Comics" Number="113" Volume="1941" Year="1960">
+<Book Series="World&apos;s Finest Comics" Number="113" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122562" />
 </Book>
 <Book Series="The Flash" Number="117" Volume="1959" Year="1960">
@@ -204,7 +204,7 @@
 <Book Series="Showcase" Number="40" Volume="1956" Year="1962">
 <Database Name="cv" Series="1770" Issue="6051" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="61" Volume="1954" Year="1962">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="61" Volume="1954" Year="1962">
 <Database Name="cv" Series="19172" Issue="125647" />
 </Book>
 <Book Series="The Flash" Number="131" Volume="1959" Year="1962">
@@ -213,7 +213,7 @@
 <Book Series="Superman" Number="156" Volume="1939" Year="1962">
 <Database Name="cv" Series="773" Issue="6100" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="39" Volume="1958" Year="1963">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="39" Volume="1958" Year="1963">
 <Database Name="cv" Series="19245" Issue="118924" />
 </Book>
 <Book Series="Superman" Number="159" Volume="1939" Year="1963">
@@ -540,7 +540,7 @@
 <Book Series="Action Comics" Number="340" Volume="1938" Year="1966">
 <Database Name="cv" Series="18005" Issue="114746" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="68" Volume="1958" Year="1966">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="68" Volume="1958" Year="1966">
 <Database Name="cv" Series="19245" Issue="121362" />
 </Book>
 <Book Series="Adventure Comics" Number="352" Volume="1938" Year="1967">
@@ -555,7 +555,7 @@
 <Book Series="The Brave and the Bold" Number="71" Volume="1955" Year="1967">
 <Database Name="cv" Series="1683" Issue="9261" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="104" Volume="1954" Year="1967">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="104" Volume="1954" Year="1967">
 <Database Name="cv" Series="19172" Issue="129368" />
 </Book>
 <Book Series="Metal Men" Number="27" Volume="1963" Year="1967">
@@ -642,7 +642,7 @@
 <Book Series="Aquaman" Number="48" Volume="1962" Year="1969">
 <Database Name="cv" Series="2050" Issue="10490" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="113" Volume="1954" Year="1968">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="113" Volume="1954" Year="1968">
 <Database Name="cv" Series="19172" Issue="130085" />
 </Book>
 <Book Series="Action Comics" Number="373" Volume="1938" Year="1969">
@@ -684,7 +684,7 @@
 <Book Series="The Brave and the Bold" Number="85" Volume="1955" Year="1969">
 <Database Name="cv" Series="1683" Issue="10332" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="122" Volume="1954" Year="1969">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="122" Volume="1954" Year="1969">
 <Database Name="cv" Series="19172" Issue="130503" />
 </Book>
 <Book Series="Green Lantern" Number="76" Volume="1960" Year="1970">
@@ -729,10 +729,10 @@
 <Book Series="Green Lantern" Number="89" Volume="1960" Year="1972">
 <Database Name="cv" Series="2839" Issue="12097" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="131" Volume="1954" Year="1970">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="131" Volume="1954" Year="1970">
 <Database Name="cv" Series="19172" Issue="131129" />
 </Book>
-<Book Series="Superman's Girl Friend, Lois Lane" Number="106" Volume="1958" Year="1970">
+<Book Series="Superman&apos;s Girl Friend, Lois Lane" Number="106" Volume="1958" Year="1970">
 <Database Name="cv" Series="19245" Issue="122712" />
 </Book>
 <Book Series="Detective Comics" Number="411" Volume="1937" Year="1971">
@@ -915,49 +915,49 @@
 <Book Series="Batman" Number="251" Volume="1940" Year="1973">
 <Database Name="cv" Series="796" Issue="13531" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">
 <Database Name="cv" Series="19172" Issue="131243" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="134" Volume="1954" Year="1970">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="134" Volume="1954" Year="1970">
 <Database Name="cv" Series="19172" Issue="115210" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="135" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="135" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131289" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="136" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="136" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131333" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="137" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="137" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131416" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="138" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="138" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131449" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="139" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="139" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131500" />
 </Book>
 <Book Series="The Forever People" Number="1" Volume="1971" Year="1971">
 <Database Name="cv" Series="2501" Issue="11255" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="141" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="141" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131616" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="142" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="142" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131679" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="144" Volume="1954" Year="1971">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="144" Volume="1954" Year="1971">
 <Database Name="cv" Series="19172" Issue="131744" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="145" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="145" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131775" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="146" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="146" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131823" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="147" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="147" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131913" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen" Number="148" Volume="1954" Year="1972">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="148" Volume="1954" Year="1972">
 <Database Name="cv" Series="19172" Issue="131941" />
 </Book>
 <Book Series="The Forever People" Number="2" Volume="1971" Year="1971">

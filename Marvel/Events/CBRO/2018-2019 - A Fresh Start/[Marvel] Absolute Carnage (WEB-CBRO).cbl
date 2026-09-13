@@ -15,7 +15,7 @@
 <Book Series="Absolute Carnage: Separation Anxiety" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120628" Issue="716348" />
 </Book>
-<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122664" Issue="726199" />
 </Book>
 <Book Series="Absolute Carnage" Number="1" Volume="2019" Year="2019">
@@ -87,7 +87,7 @@
 <Book Series="The Amazing Spider-Man" Number="31" Volume="2018" Year="2019">
 <Database Name="cv" Series="112161" Issue="721778" />
 </Book>
-<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122985" Issue="728410" />
 </Book>
 <Book Series="Absolute Carnage" Number="5" Volume="2019" Year="2020">

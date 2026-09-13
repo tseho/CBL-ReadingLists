@@ -3,19 +3,19 @@
 <Name>[2013-2014] Inhumanity (Marvel Comics)(LoCG)</Name>
 <NumIssues>21</NumIssues>
 <Books>
-<Book Series="Inhumanity" Number="1" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="435583" />
 </Book>
-<Book Series="Inhumanity: The Awakening" Number="1" Volume="2013" Year="2014">
+<Book Series="Inhumanity: The Awakening" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69866" Issue="436199" />
 </Book>
-<Book Series="Inhumanity: The Awakening" Number="2" Volume="2013" Year="2014">
+<Book Series="Inhumanity: The Awakening" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69866" Issue="441415" />
 </Book>
 <Book Series="Uncanny X-Men" Number="15" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="436208" />
 </Book>
-<Book Series="Inhumanity" Number="2" Volume="2013" Year="2014">
+<Book Series="Inhumanity" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="69688" Issue="443983" />
 </Book>
 <Book Series="Avengers Assemble" Number="21" Volume="2012" Year="2014">
@@ -48,19 +48,19 @@
 <Book Series="Iron Man" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="53725" Issue="441416" />
 </Book>
-<Book Series="Indestructible Hulk" Number="16" Volume="2012" Year="2014">
+<Book Series="Indestructible Hulk" Number="16" Volume="2013" Year="2014">
 <Database Name="cv" Series="54112" Issue="435054" />
 </Book>
-<Book Series="Indestructible Hulk" Number="17" Volume="2012" Year="2014">
+<Book Series="Indestructible Hulk" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="54112" Issue="437491" />
 </Book>
-<Book Series="Indestructible Hulk" Number="18" Volume="2012" Year="2014">
+<Book Series="Indestructible Hulk" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="54112" Issue="442922" />
 </Book>
-<Book Series="Indestructible Hulk" Number="19" Volume="2012" Year="2014">
+<Book Series="Indestructible Hulk" Number="19" Volume="2013" Year="2014">
 <Database Name="cv" Series="54112" Issue="446484" />
 </Book>
-<Book Series="Indestructible Hulk" Number="20" Volume="2012" Year="2014">
+<Book Series="Indestructible Hulk" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="54112" Issue="448969" />
 </Book>
 <Book Series="New Avengers" Number="13" Volume="2013" Year="2014">

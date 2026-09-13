@@ -4,73 +4,73 @@
     <Name>[Marvel] 2015-2018 Part 8.3 After Dead No More (MG)</Name>
     <NumIssues>56</NumIssues>
     <Books>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="1" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="557354" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="2" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="2" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="566703" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="3" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="3" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="575856" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="4" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="4" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="580740" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="588555" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="6" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="591747" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="7" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="7" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="594956" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="8" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="8" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="601784" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="9" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="9" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="609335" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="10" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="10" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="615014" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="11" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="11" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="622932" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="12" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="12" Volume="2017" Year="2017">
             <Database Name="cv" Series="95572" Issue="628576" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="13" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="13" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="641397" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="14" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="14" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="649723" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="15" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="15" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="656695" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="16" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="16" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="660006" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="17" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="17" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="663565" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="18" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="18" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="666799" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="19" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="19" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="671326" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="20" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="20" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="674120" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="21" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="21" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="676691" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="22" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="22" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="679404" />
         </Book>
-        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="23" Volume="2016" Year="2018">
+        <Book Series="Amazing Spider-Man: Renew Your Vows" Number="23" Volume="2017" Year="2018">
             <Database Name="cv" Series="95572" Issue="685834" />
         </Book>
         <Book Series="Spider-Gwen" Number="19" Volume="2015" Year="2017">

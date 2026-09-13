@@ -4,22 +4,22 @@
     <Name>[Marvel] 2018-2021 Part 7.3 Age of X-Man (MG)</Name>
     <NumIssues>39</NumIssues>
     <Books>
-        <Book Series="Uncanny X-Men" Number="16" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="16" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="706426" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="17" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="17" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="707533" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="18" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="18" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="709217" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="19" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="19" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="710699" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="20" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="20" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="711963" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="21" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="21" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="713087" />
         </Book>
         <Book Series="Age of X-Man Alpha" Number="1" Volume="2019" Year="2019">
@@ -123,7 +123,7 @@
         <Book Series="Age of X-Man Omega" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="120236" Issue="713851" />
         </Book>
-        <Book Series="Uncanny X-Men" Number="22" Volume="2018" Year="2019">
+        <Book Series="Uncanny X-Men" Number="22" Volume="2019" Year="2019">
             <Database Name="cv" Series="115285" Issue="713870" />
         </Book>
     </Books>

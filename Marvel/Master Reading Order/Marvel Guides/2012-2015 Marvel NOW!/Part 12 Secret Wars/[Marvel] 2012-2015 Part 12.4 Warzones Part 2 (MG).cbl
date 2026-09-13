@@ -36,16 +36,16 @@
         <Book Series="Spider-Verse" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="81681" Issue="487443" />
         </Book>
-        <Book Series="Spider-Verse" Number="2" Volume="2014" Year="2015">
+        <Book Series="Spider-Verse" Number="2" Volume="2015" Year="2015">
             <Database Name="cv" Series="78047" Issue="475945" />
         </Book>
-        <Book Series="Spider-Verse" Number="3" Volume="2014" Year="2015">
+        <Book Series="Spider-Verse" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="78047" Issue="494330" />
         </Book>
-        <Book Series="Spider-Verse" Number="4" Volume="2014" Year="2015">
+        <Book Series="Spider-Verse" Number="4" Volume="2015" Year="2015">
             <Database Name="cv" Series="78047" Issue="497959" />
         </Book>
-        <Book Series="Spider-Verse" Number="5" Volume="2014" Year="2015">
+        <Book Series="Spider-Verse" Number="5" Volume="2015" Year="2015">
             <Database Name="cv" Series="78047" Issue="500308" />
         </Book>
         <Book Series="Where Monsters Dwell" Number="1" Volume="2015" Year="2015">
@@ -63,16 +63,16 @@
         <Book Series="Where Monsters Dwell" Number="5" Volume="2015" Year="2015">
             <Database Name="cv" Series="82217" Issue="504349" />
         </Book>
-        <Book Series="X-Men '92" Number="1" Volume="2015" Year="2015">
+        <Book Series="X-Men &apos;92" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="82858" Issue="493055" />
         </Book>
-        <Book Series="X-Men '92" Number="2" Volume="2015" Year="2015">
+        <Book Series="X-Men &apos;92" Number="2" Volume="2015" Year="2015">
             <Database Name="cv" Series="82858" Issue="496401" />
         </Book>
-        <Book Series="X-Men '92" Number="3" Volume="2015" Year="2015">
+        <Book Series="X-Men &apos;92" Number="3" Volume="2015" Year="2015">
             <Database Name="cv" Series="82858" Issue="498402" />
         </Book>
-        <Book Series="X-Men '92" Number="4" Volume="2015" Year="2015">
+        <Book Series="X-Men &apos;92" Number="4" Volume="2015" Year="2015">
             <Database Name="cv" Series="82858" Issue="501620" />
         </Book>
         <Book Series="X-Tinction Agenda" Number="1" Volume="2015" Year="2015">

@@ -228,10 +228,10 @@
 <Book Series="Convergence Infinity INC." Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="81581" Issue="489846" />
 </Book>
-<Book Series="Convergence World's Finest" Number="1" Volume="2015" Year="2015">
+<Book Series="Convergence World&apos;s Finest" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81584" Issue="487173" />
 </Book>
-<Book Series="Convergence World's Finest" Number="2" Volume="2015" Year="2015">
+<Book Series="Convergence World&apos;s Finest" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="81584" Issue="489850" />
 </Book>
 <Book Series="Convergence Plastic Man and the Freedom Fighters" Number="1" Volume="2015" Year="2015">

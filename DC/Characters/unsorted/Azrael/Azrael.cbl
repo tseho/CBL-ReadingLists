@@ -24,7 +24,7 @@
     <Book Series="Batman: Knightfall" Number="3" Volume="2012" Year="2012">
       <Database Name="cv" Series="50979" Issue="357159" />
     </Book>
-    <Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+    <Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
       <Database Name="cv" Series="21865" Issue="134775" />
     </Book>
     <Book Series="Azrael" Number="1" Volume="1995" Year="1995">
@@ -333,13 +333,13 @@
     <Book Series="Azrael: Agent of the Bat" Number="100" Volume="1998" Year="2003">
       <Database Name="cv" Series="19721" Issue="121365" />
     </Book>
-    <Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+    <Book Series="Azrael: Death&apos;s Dark Knight" Number="1" Volume="2009" Year="2009">
       <Database Name="cv" Series="26000" Issue="153683" />
     </Book>
-    <Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+    <Book Series="Azrael: Death&apos;s Dark Knight" Number="2" Volume="2009" Year="2009">
       <Database Name="cv" Series="26000" Issue="155917" />
     </Book>
-    <Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+    <Book Series="Azrael: Death&apos;s Dark Knight" Number="3" Volume="2009" Year="2009">
       <Database Name="cv" Series="26000" Issue="157147" />
     </Book>
     <Book Series="Azrael" Number="1" Volume="2009" Year="2009">

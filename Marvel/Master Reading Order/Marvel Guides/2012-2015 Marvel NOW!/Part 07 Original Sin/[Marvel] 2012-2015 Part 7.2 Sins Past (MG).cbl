@@ -18,7 +18,7 @@
 <Book Series="Nova" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="57535" Issue="456551" />
 </Book>
-<Book Series="Deadpool" Number="29" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="454095" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="4" Volume="2014" Year="2014">
@@ -66,19 +66,19 @@
 <Book Series="Original Sin" Number="5.5" Volume="2014" Year="2014">
 <Database Name="cv" Series="73241" Issue="465848" />
 </Book>
-<Book Series="Deadpool" Number="30" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="456022" />
 </Book>
-<Book Series="Deadpool" Number="31" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="459169" />
 </Book>
-<Book Series="Deadpool" Number="32" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="460311" />
 </Book>
-<Book Series="Deadpool" Number="33" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="462248" />
 </Book>
-<Book Series="Deadpool" Number="34" Volume="2012" Year="2014">
+<Book Series="Deadpool" Number="34" Volume="2013" Year="2014">
 <Database Name="cv" Series="53726" Issue="464977" />
 </Book>
 <Book Series="Fantastic Four" Number="6" Volume="2013" Year="2013">
@@ -114,22 +114,22 @@
 <Book Series="Mighty Avengers" Number="14" Volume="2013" Year="2014">
 <Database Name="cv" Series="67223" Issue="466331" />
 </Book>
-<Book Series="Avengers" Number="29" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="452846" />
 </Book>
-<Book Series="Avengers" Number="30" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="454094" />
 </Book>
-<Book Series="Avengers" Number="31" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="456544" />
 </Book>
-<Book Series="Avengers" Number="32" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="459164" />
 </Book>
-<Book Series="Avengers" Number="33" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="460962" />
 </Book>
-<Book Series="Avengers" Number="34" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="34" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="463478" />
 </Book>
 <Book Series="Original Sins" Number="1" Volume="2014" Year="2014">

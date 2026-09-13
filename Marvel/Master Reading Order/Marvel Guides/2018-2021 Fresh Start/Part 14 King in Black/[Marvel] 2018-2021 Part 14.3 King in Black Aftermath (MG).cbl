@@ -31,13 +31,13 @@
         <Book Series="Avengers" Number="45" Volume="2018" Year="2021">
             <Database Name="cv" Series="110496" Issue="844966" />
         </Book>
-        <Book Series="The Union" Number="3" Volume="2020" Year="2021">
+        <Book Series="The Union" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="132378" Issue="830034" />
         </Book>
-        <Book Series="The Union" Number="4" Volume="2020" Year="2021">
+        <Book Series="The Union" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="132378" Issue="840960" />
         </Book>
-        <Book Series="The Union" Number="5" Volume="2020" Year="2021">
+        <Book Series="The Union" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="132378" Issue="847517" />
         </Book>
         <Book Series="Spider-Woman" Number="9" Volume="2020" Year="2021">
@@ -70,16 +70,16 @@
         <Book Series="Black Knight: Curse of the Ebony Blade" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="134613" Issue="874558" />
         </Book>
-        <Book Series="Black Cat" Number="4" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="840952" />
         </Book>
-        <Book Series="Black Cat" Number="5" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="842900" />
         </Book>
-        <Book Series="Black Cat" Number="6" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="6" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="848847" />
         </Book>
-        <Book Series="Black Cat" Number="7" Volume="2020" Year="2021">
+        <Book Series="Black Cat" Number="7" Volume="2021" Year="2021">
             <Database Name="cv" Series="132631" Issue="857650" />
         </Book>
         <Book Series="Fantastic Four" Number="31" Volume="2018" Year="2021">

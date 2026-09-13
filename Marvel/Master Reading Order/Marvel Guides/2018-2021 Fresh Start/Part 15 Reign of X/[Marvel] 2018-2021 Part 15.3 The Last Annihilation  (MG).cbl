@@ -7,7 +7,7 @@
         <Book Series="Guardians of the Galaxy" Number="16" Volume="2020" Year="2021">
             <Database Name="cv" Series="124447" Issue="872882" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="7" Volume="2020" Year="2021">
+        <Book Series="S.W.O.R.D." Number="7" Volume="2021" Year="2021">
             <Database Name="cv" Series="132511" Issue="874522" />
         </Book>
         <Book Series="Guardians of the Galaxy" Number="17" Volume="2020" Year="2021">
@@ -16,7 +16,7 @@
         <Book Series="Cable: Reloaded" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="138527" Issue="882047" />
         </Book>
-        <Book Series="The Last Annihilation: Wiccan &#38; Hulkling" Number="1" Volume="2021"
+        <Book Series="The Last Annihilation: Wiccan &amp; Hulkling" Number="1" Volume="2021"
             Year="2021">
             <Database Name="cv" Series="138659" Issue="882901" />
         </Book>

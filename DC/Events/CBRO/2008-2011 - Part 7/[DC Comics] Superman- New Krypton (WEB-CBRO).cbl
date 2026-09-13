@@ -6,7 +6,7 @@
 <Book Series="Supergirl" Number="34" Volume="2005" Year="2008">
 <Database Name="cv" Series="18012" Issue="139678" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="23417" Issue="140459" />
 </Book>
 <Book Series="Superman: New Krypton Special" Number="1" Volume="2008" Year="2008">
@@ -129,7 +129,7 @@
 <Book Series="Superman" Number="691" Volume="1939" Year="2009">
 <Database Name="cv" Series="773" Issue="168291" />
 </Book>
-<Book Series="Superman's Pal, Jimmy Olsen Special" Number="2" Volume="2008" Year="2009">
+<Book Series="Superman&apos;s Pal, Jimmy Olsen Special" Number="2" Volume="2008" Year="2009">
 <Database Name="cv" Series="23417" Issue="168672" />
 </Book>
 <Book Series="Superman: World of New Krypton" Number="7" Volume="2009" Year="2009">

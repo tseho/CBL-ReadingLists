@@ -20,7 +20,7 @@
         <Book Series="Daredevil" Number="92" Volume="1998" Year="2007">
             <Database Name="cv" Series="6209" Issue="108626" />
         </Book>
-        <Book Series="Captain America" Number="24" Volume="2004" Year="2007">
+        <Book Series="Captain America" Number="24" Volume="2005" Year="2007">
             <Database Name="cv" Series="11499" Issue="108901" />
         </Book>
         <Book Series="Civil War: Front Line" Number="8" Volume="2006" Year="2006">
@@ -71,10 +71,10 @@
         <Book Series="Fantastic Four" Number="542" Volume="1998" Year="2007">
             <Database Name="cv" Series="6211" Issue="158368" />
         </Book>
-        <Book Series="Iron Man" Number="14" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="14" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="111399" />
         </Book>
-        <Book Series="Winter Soldier:  Winter Kills" Number="1" Volume="2007" Year="2007">
+        <Book Series="Winter Soldier: Winter Kills" Number="1" Volume="2007" Year="2007">
             <Database Name="cv" Series="18125" Issue="106186" />
         </Book>
         <Book Series="Blade" Number="5" Volume="2006" Year="2007">
@@ -98,7 +98,7 @@
         <Book Series="The Sensational Spider-Man" Number="34" Volume="2006" Year="2007">
             <Database Name="cv" Series="18177" Issue="113628" />
         </Book>
-        <Book Series="New Avengers" Number="25" Volume="2004" Year="2006">
+        <Book Series="New Avengers" Number="25" Volume="2005" Year="2006">
             <Database Name="cv" Series="11497" Issue="108040" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="537" Volume="1963" Year="2007">

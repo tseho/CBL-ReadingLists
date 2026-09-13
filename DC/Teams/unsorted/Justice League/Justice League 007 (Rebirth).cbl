@@ -270,7 +270,7 @@
     <Book Series="Justice League" Number="32" Volume="2016" Year="2018">
       <Database Name="cv" Series="92373" Issue="634517" />
     </Book>
-    <Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="32" Volume="2016" Year="2018">
+    <Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="32" Volume="2016" Year="2018">
       <Database Name="cv" Series="92557" Issue="636345" />
     </Book>
     <Book Series="Justice League" Number="33" Volume="2016" Year="2018">
@@ -606,7 +606,7 @@
     <Book Series="Justice League Dark" Number="13" Volume="2018" Year="2019">
       <Database Name="cv" Series="112455" Issue="714166" />
     </Book>
-    <Book Series="Justice League Dark Annual" Number="1" Volume="2018" Year="2019">
+    <Book Series="Justice League Dark Annual" Number="1" Volume="2019" Year="2019">
       <Database Name="cv" Series="120401" Issue="714620" />
     </Book>
     <Book Series="Justice League" Number="29" Volume="2018" Year="2019">

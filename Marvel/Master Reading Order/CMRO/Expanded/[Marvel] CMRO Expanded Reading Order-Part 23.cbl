@@ -75,7 +75,7 @@
 <Book Series="Sabretooth: Mary Shelley Overdrive" Number="4" Volume="2002" Year="2002">
 <Database Name="cv" Series="11173" Issue="97867" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="19" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="19" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114268" />
 </Book>
 <Book Series="Exiles" Number="16" Volume="2001" Year="2002">
@@ -228,13 +228,13 @@
 <Book Series="Avengers Icons: The Vision" Number="4" Volume="2002" Year="2003">
 <Database Name="cv" Series="9477" Issue="77991" />
 </Book>
-<Book Series="Craptacular B-Sides" Number="1" Volume="2002" Year="2002">
+<Book Series="B-Sides" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="25414" Issue="149999" />
 </Book>
-<Book Series="Craptacular B-Sides" Number="2" Volume="2002" Year="2002">
+<Book Series="B-Sides" Number="2" Volume="2002" Year="2002">
 <Database Name="cv" Series="25414" Issue="150000" />
 </Book>
-<Book Series="Craptacular B-Sides" Number="3" Volume="2002" Year="2003">
+<Book Series="B-Sides" Number="3" Volume="2002" Year="2003">
 <Database Name="cv" Series="25414" Issue="150003" />
 </Book>
 <Book Series="X-Men Unlimited" Number="38" Volume="1993" Year="2002">
@@ -480,7 +480,7 @@
 <Book Series="Exiles" Number="19" Volume="2001" Year="2003">
 <Database Name="cv" Series="6983" Issue="105371" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="20" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="20" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114269" />
 </Book>
 <Book Series="Captain America" Number="7" Volume="2002" Year="2002">
@@ -528,7 +528,7 @@
 <Book Series="Iron Man" Number="63" Volume="1998" Year="2003">
 <Database Name="cv" Series="6504" Issue="131905" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="21" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="21" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114270" />
 </Book>
 <Book Series="Spider-Girl" Number="54" Volume="1998" Year="2003">
@@ -1017,7 +1017,7 @@
 <Book Series="Soldier X" Number="7" Volume="2002" Year="2003">
 <Database Name="cv" Series="9959" Issue="136039" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="22" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="22" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114271" />
 </Book>
 <Book Series="Weapon X" Number="5" Volume="2002" Year="2003">
@@ -1281,13 +1281,13 @@
 <Book Series="Fantastic Four" Number="500" Volume="1998" Year="2003">
 <Database Name="cv" Series="6211" Issue="139097" />
 </Book>
-<Book Series="The Marvelous Adventures of Gus Beezer: Hulk" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvelous Adventures of Gus Beezer: Hulk" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="39872" Issue="268929" />
 </Book>
 <Book Series="Marvelous Adventures of Gus Beezer: Spider-Man" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="27262" Issue="166135" />
 </Book>
-<Book Series="The Marvelous Adventures of Gus Beezer with the X-Men" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvelous Adventures of Gus Beezer: X-Men" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="32101" Issue="201468" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="84" Volume="1995" Year="2003">
@@ -1611,7 +1611,7 @@
 <Book Series="X-Men: Ronin" Number="5" Volume="2003" Year="2003">
 <Database Name="cv" Series="22608" Issue="139308" />
 </Book>
-<Book Series="L'Uomo Ragno: Il Segreto Del Vetro" Number="1" Volume="2004" Year="2004">
+<Book Series="L&apos;Uomo Ragno: Il Segreto Del Vetro" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="58469" Issue="390748" />
 </Book>
 <Book Series="Venom" Number="1" Volume="2003" Year="2003">
@@ -2547,28 +2547,28 @@
 <Book Series="Alias" Number="28" Volume="2001" Year="2004">
 <Database Name="cv" Series="9452" Issue="105789" />
 </Book>
-<Book Series="1602" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvel 1602" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="10946" Issue="93999" />
 </Book>
-<Book Series="1602" Number="2" Volume="2003" Year="2003">
+<Book Series="Marvel 1602" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="10946" Issue="94000" />
 </Book>
-<Book Series="1602" Number="3" Volume="2003" Year="2003">
+<Book Series="Marvel 1602" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="10946" Issue="94001" />
 </Book>
-<Book Series="1602" Number="4" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="4" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94002" />
 </Book>
-<Book Series="1602" Number="5" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="5" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94003" />
 </Book>
-<Book Series="1602" Number="6" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="6" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94004" />
 </Book>
-<Book Series="1602" Number="7" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="7" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94005" />
 </Book>
-<Book Series="1602" Number="8" Volume="2003" Year="2004">
+<Book Series="Marvel 1602" Number="8" Volume="2003" Year="2004">
 <Database Name="cv" Series="10946" Issue="94006" />
 </Book>
 <Book Series="Incredible Hulk" Number="60" Volume="2000" Year="2003">
@@ -2676,7 +2676,7 @@
 <Book Series="Supreme Power" Number="18" Volume="2003" Year="2005">
 <Database Name="cv" Series="11054" Issue="107774" />
 </Book>
-<Book Series="Marvelous Adventures Of Gus Beezer: Gus Beezer &amp; Spider-Man" Number="1" Volume="2004" Year="2004">
+<Book Series="Marvelous Adventures of Gus Beezer: Gus Beezer &amp; Spider-Man" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="27176" Issue="165280" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="94" Volume="1995" Year="2004">

@@ -6,7 +6,7 @@
 <Book Series="Carnage Reigns: Alpha" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150029" Issue="987130" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="989662" />
 </Book>
 <Book Series="Carnage" Number="13" Volume="2022" Year="2023">
@@ -18,7 +18,7 @@
 <Book Series="Carnage" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="141919" Issue="994371" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2022" Year="2023">
+<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146734" Issue="996022" />
 </Book>
 <Book Series="Carnage Reigns Omega" Number="1" Volume="2023" Year="2023">

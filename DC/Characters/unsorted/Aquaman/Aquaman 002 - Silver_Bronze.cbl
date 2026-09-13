@@ -201,49 +201,49 @@
     <Book Series="Aquaman" Number="2" Volume="1962" Year="1962">
       <Database Name="cv" Series="2050" Issue="108969" />
     </Book>
-    <Book Series="World's Finest Comics" Number="125" Volume="1941" Year="1962">
+    <Book Series="World&apos;s Finest Comics" Number="125" Volume="1941" Year="1962">
       <Database Name="cv" Series="18006" Issue="123449" />
     </Book>
     <Book Series="Aquaman" Number="3" Volume="1962" Year="1962">
       <Database Name="cv" Series="2050" Issue="5855" />
     </Book>
-    <Book Series="World's Finest Comics" Number="126" Volume="1941" Year="1962">
+    <Book Series="World&apos;s Finest Comics" Number="126" Volume="1941" Year="1962">
       <Database Name="cv" Series="18006" Issue="123492" />
     </Book>
     <Book Series="Aquaman" Number="4" Volume="1962" Year="1962">
       <Database Name="cv" Series="2050" Issue="5945" />
     </Book>
-    <Book Series="World's Finest Comics" Number="127" Volume="1941" Year="1962">
+    <Book Series="World&apos;s Finest Comics" Number="127" Volume="1941" Year="1962">
       <Database Name="cv" Series="18006" Issue="109640" />
     </Book>
-    <Book Series="World's Finest Comics" Number="128" Volume="1941" Year="1962">
+    <Book Series="World&apos;s Finest Comics" Number="128" Volume="1941" Year="1962">
       <Database Name="cv" Series="18006" Issue="123575" />
     </Book>
     <Book Series="Aquaman" Number="5" Volume="1962" Year="1962">
       <Database Name="cv" Series="2050" Issue="6038" />
     </Book>
-    <Book Series="World's Finest Comics" Number="129" Volume="1941" Year="1962">
+    <Book Series="World&apos;s Finest Comics" Number="129" Volume="1941" Year="1962">
       <Database Name="cv" Series="18006" Issue="123606" />
     </Book>
     <Book Series="Aquaman" Number="6" Volume="1962" Year="1962">
       <Database Name="cv" Series="2050" Issue="6129" />
     </Book>
-    <Book Series="World's Finest Comics" Number="130" Volume="1941" Year="1962">
+    <Book Series="World&apos;s Finest Comics" Number="130" Volume="1941" Year="1962">
       <Database Name="cv" Series="18006" Issue="123650" />
     </Book>
     <Book Series="Aquaman" Number="7" Volume="1962" Year="1963">
       <Database Name="cv" Series="2050" Issue="6299" />
     </Book>
-    <Book Series="World's Finest Comics" Number="131" Volume="1941" Year="1963">
+    <Book Series="World&apos;s Finest Comics" Number="131" Volume="1941" Year="1963">
       <Database Name="cv" Series="18006" Issue="123786" />
     </Book>
-    <Book Series="World's Finest Comics" Number="132" Volume="1941" Year="1963">
+    <Book Series="World&apos;s Finest Comics" Number="132" Volume="1941" Year="1963">
       <Database Name="cv" Series="18006" Issue="123988" />
     </Book>
     <Book Series="Aquaman" Number="8" Volume="1962" Year="1963">
       <Database Name="cv" Series="2050" Issue="6395" />
     </Book>
-    <Book Series="World's Finest Comics" Number="133" Volume="1941" Year="1963">
+    <Book Series="World&apos;s Finest Comics" Number="133" Volume="1941" Year="1963">
       <Database Name="cv" Series="18006" Issue="124072" />
     </Book>
     <Book Series="Aquaman" Number="9" Volume="1962" Year="1963">
@@ -252,13 +252,13 @@
     <Book Series="Aquaman" Number="10" Volume="1962" Year="1963">
       <Database Name="cv" Series="2050" Issue="6566" />
     </Book>
-    <Book Series="World's Finest Comics" Number="135" Volume="1941" Year="1963">
+    <Book Series="World&apos;s Finest Comics" Number="135" Volume="1941" Year="1963">
       <Database Name="cv" Series="18006" Issue="124251" />
     </Book>
     <Book Series="Aquaman" Number="11" Volume="1962" Year="1963">
       <Database Name="cv" Series="2050" Issue="6657" />
     </Book>
-    <Book Series="World's Finest Comics" Number="137" Volume="1941" Year="1963">
+    <Book Series="World&apos;s Finest Comics" Number="137" Volume="1941" Year="1963">
       <Database Name="cv" Series="18006" Issue="124425" />
     </Book>
     <Book Series="Aquaman" Number="12" Volume="1962" Year="1963">
@@ -270,7 +270,7 @@
     <Book Series="Aquaman" Number="13" Volume="1962" Year="1964">
       <Database Name="cv" Series="2050" Issue="6909" />
     </Book>
-    <Book Series="World's Finest Comics" Number="139" Volume="1941" Year="1964">
+    <Book Series="World&apos;s Finest Comics" Number="139" Volume="1941" Year="1964">
       <Database Name="cv" Series="18006" Issue="124615" />
     </Book>
     <Book Series="Aquaman" Number="14" Volume="1962" Year="1964">
@@ -363,7 +363,7 @@
     <Book Series="Aquaman" Number="41" Volume="1962" Year="1968">
       <Database Name="cv" Series="2050" Issue="137571" />
     </Book>
-    <Book Series="Superman's Pal, Jimmy Olsen" Number="115" Volume="1954" Year="1968">
+    <Book Series="Superman&apos;s Pal, Jimmy Olsen" Number="115" Volume="1954" Year="1968">
       <Database Name="cv" Series="19172" Issue="130337" />
     </Book>
     <Book Series="Aquaman" Number="42" Volume="1962" Year="1968">
@@ -414,7 +414,7 @@
     <Book Series="Aquaman" Number="56" Volume="1962" Year="1971">
       <Database Name="cv" Series="2050" Issue="11303" />
     </Book>
-    <Book Series="World's Finest Comics" Number="203" Volume="1941" Year="1971">
+    <Book Series="World&apos;s Finest Comics" Number="203" Volume="1941" Year="1971">
       <Database Name="cv" Series="18006" Issue="129352" />
     </Book>
     <Book Series="The Brave and the Bold" Number="114" Volume="1955" Year="1974">
@@ -528,13 +528,13 @@
     <Book Series="Adventure Comics" Number="466" Volume="1938" Year="1979">
       <Database Name="cv" Series="3105" Issue="124393" />
     </Book>
-    <Book Series="World's Finest Comics" Number="262" Volume="1941" Year="1980">
+    <Book Series="World&apos;s Finest Comics" Number="262" Volume="1941" Year="1980">
       <Database Name="cv" Series="18006" Issue="136748" />
     </Book>
-    <Book Series="World's Finest Comics" Number="263" Volume="1941" Year="1980">
+    <Book Series="World&apos;s Finest Comics" Number="263" Volume="1941" Year="1980">
       <Database Name="cv" Series="18006" Issue="136943" />
     </Book>
-    <Book Series="World's Finest Comics" Number="264" Volume="1941" Year="1980">
+    <Book Series="World&apos;s Finest Comics" Number="264" Volume="1941" Year="1980">
       <Database Name="cv" Series="18006" Issue="137268" />
     </Book>
     <Book Series="Adventure Comics" Number="475" Volume="1938" Year="1980">

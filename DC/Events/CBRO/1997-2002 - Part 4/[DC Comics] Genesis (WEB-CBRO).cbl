@@ -51,7 +51,7 @@
 <Book Series="Adventures of Superman" Number="551" Volume="1987" Year="1997">
 <Database Name="cv" Series="3778" Issue="70936" />
 </Book>
-<Book Series="Jack Kirby's Fourth World" Number="8" Volume="1997" Year="1997">
+<Book Series="Jack Kirby&apos;s Fourth World" Number="8" Volume="1997" Year="1997">
 <Database Name="cv" Series="22114" Issue="153747" />
 </Book>
 <Book Series="Genesis" Number="3" Volume="1997" Year="1997">

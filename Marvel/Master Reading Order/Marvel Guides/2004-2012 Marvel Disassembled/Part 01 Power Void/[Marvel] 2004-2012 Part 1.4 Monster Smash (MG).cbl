@@ -82,22 +82,22 @@
         <Book Series="Doc Samson" Number="5" Volume="2006" Year="2006">
             <Database Name="cv" Series="19034" Issue="113612" />
         </Book>
-        <Book Series="Nick Fury's Howling Commandos" Number="1" Volume="2005" Year="2005">
+        <Book Series="Nick Fury&apos;s Howling Commandos" Number="1" Volume="2005" Year="2005">
             <Database Name="cv" Series="25541" Issue="150664" />
         </Book>
-        <Book Series="Nick Fury's Howling Commandos" Number="2" Volume="2005" Year="2006">
+        <Book Series="Nick Fury&apos;s Howling Commandos" Number="2" Volume="2005" Year="2006">
             <Database Name="cv" Series="25541" Issue="150666" />
         </Book>
-        <Book Series="Nick Fury's Howling Commandos" Number="3" Volume="2005" Year="2006">
+        <Book Series="Nick Fury&apos;s Howling Commandos" Number="3" Volume="2005" Year="2006">
             <Database Name="cv" Series="25541" Issue="150667" />
         </Book>
-        <Book Series="Nick Fury's Howling Commandos" Number="4" Volume="2005" Year="2006">
+        <Book Series="Nick Fury&apos;s Howling Commandos" Number="4" Volume="2005" Year="2006">
             <Database Name="cv" Series="25541" Issue="150668" />
         </Book>
-        <Book Series="Nick Fury's Howling Commandos" Number="5" Volume="2005" Year="2006">
+        <Book Series="Nick Fury&apos;s Howling Commandos" Number="5" Volume="2005" Year="2006">
             <Database Name="cv" Series="25541" Issue="150669" />
         </Book>
-        <Book Series="Nick Fury's Howling Commandos" Number="6" Volume="2005" Year="2006">
+        <Book Series="Nick Fury&apos;s Howling Commandos" Number="6" Volume="2005" Year="2006">
             <Database Name="cv" Series="25541" Issue="150670" />
         </Book>
         <Book Series="Ares" Number="1" Volume="2006" Year="2006">

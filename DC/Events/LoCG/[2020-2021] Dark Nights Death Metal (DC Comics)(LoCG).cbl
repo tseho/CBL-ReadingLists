@@ -27,7 +27,7 @@
 <Book Series="Dark Nights: Death Metal Speed Metal" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130501" Issue="802694" />
 </Book>
-<Book Series="Dark Nights: Death Metal Multiverse's End" Number="1" Volume="2020" Year="2020">
+<Book Series="Dark Nights: Death Metal Multiverse&apos;s End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130656" Issue="804749" />
 </Book>
 <Book Series="Justice League" Number="54" Volume="2018" Year="2020">

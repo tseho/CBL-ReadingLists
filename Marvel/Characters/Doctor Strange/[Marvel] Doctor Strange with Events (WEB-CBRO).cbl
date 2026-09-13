@@ -1299,19 +1299,19 @@
 <Book Series="Doctor Strange" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="111415" Issue="685841" />
 </Book>
-<Book Series="Immortal Hulk: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Immortal Hulk: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115743" Issue="694131" />
 </Book>
-<Book Series="Namor: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Namor: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115754" Issue="694141" />
 </Book>
-<Book Series="Doctor Strange: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Doctor Strange: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115877" Issue="694911" />
 </Book>
-<Book Series="Silver Surfer: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Silver Surfer: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115905" Issue="694921" />
 </Book>
-<Book Series="Defenders: The Best Defense" Number="1" Volume="2018" Year="2019">
+<Book Series="Defenders: The Best Defense" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116067" Issue="695631" />
 </Book>
 <Book Series="Doctor Strange" Number="6" Volume="2018" Year="2018">
@@ -1410,40 +1410,40 @@
 <Book Series="Doctor Strange: The End" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="124680" Issue="735520" />
 </Book>
-<Book Series="Dr. Strange" Number="1" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="731665" />
 </Book>
-<Book Series="Dr. Strange" Number="2" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="735521" />
 </Book>
-<Book Series="Dr. Strange" Number="3" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="737155" />
 </Book>
-<Book Series="Dr. Strange" Number="4" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="739557" />
 </Book>
-<Book Series="Dr. Strange" Number="5" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="775008" />
 </Book>
-<Book Series="Dr. Strange" Number="6" Volume="2019" Year="2020">
+<Book Series="Dr. Strange" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="123765" Issue="787347" />
 </Book>
-<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="820024" />
 </Book>
-<Book Series="Black Cat" Number="1" Volume="2020" Year="2021">
+<Book Series="Black Cat" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132631" Issue="821491" />
 </Book>
-<Book Series="Black Cat" Number="2" Volume="2020" Year="2021">
+<Book Series="Black Cat" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132631" Issue="825504" />
 </Book>
-<Book Series="Black Cat" Number="3" Volume="2020" Year="2021">
+<Book Series="Black Cat" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132631" Issue="830022" />
 </Book>
-<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="828857" />
 </Book>
-<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="842204" />
 </Book>
 <Book Series="Captain Marvel" Number="27" Volume="2019" Year="2021">
@@ -1482,19 +1482,19 @@
 <Book Series="Death of Doctor Strange: The Avengers" Number="1" Volume="2021" Year="2022">
 <Database Name="cv" Series="139949" Issue="892245" />
 </Book>
-<Book Series="Strange Academy Presents: The Death of Doctor Strange" Number="1" Volume="2021" Year="2022">
+<Book Series="Strange Academy Presents: The Death of Doctor Strange" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="139950" Issue="892246" />
 </Book>
 <Book Series="Death of Doctor Strange" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="139125" Issue="895343" />
 </Book>
-<Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2021" Year="2022">
+<Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140282" Issue="896132" />
 </Book>
-<Book Series="Death of Doctor Strange: White Fox" Number="1" Volume="2021" Year="2022">
+<Book Series="Death of Doctor Strange: White Fox" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140283" Issue="896133" />
 </Book>
-<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2021" Year="2022">
+<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140357" Issue="897359" />
 </Book>
 <Book Series="Death of Doctor Strange: X-Men/Black Knight" Number="1" Volume="2022" Year="2022">
@@ -1542,16 +1542,16 @@
 <Book Series="Strange" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="141784" Issue="964968" />
 </Book>
-<Book Series="Doctor Strange: Fall Sunrise" Number="1" Volume="2022" Year="2023">
+<Book Series="Doctor Strange: Fall Sunrise" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146387" Issue="956849" />
 </Book>
-<Book Series="Doctor Strange: Fall Sunrise" Number="2" Volume="2022" Year="2023">
+<Book Series="Doctor Strange: Fall Sunrise" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146387" Issue="961940" />
 </Book>
-<Book Series="Doctor Strange: Fall Sunrise" Number="3" Volume="2022" Year="2023">
+<Book Series="Doctor Strange: Fall Sunrise" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146387" Issue="966422" />
 </Book>
-<Book Series="Doctor Strange: Fall Sunrise" Number="4" Volume="2022" Year="2023">
+<Book Series="Doctor Strange: Fall Sunrise" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146387" Issue="973021" />
 </Book>
 <Book Series="Doctor Strange" Number="1" Volume="2023" Year="2023">

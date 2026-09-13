@@ -4,49 +4,49 @@
     <Name>[Marvel] 2015-2018 Part 5.2 Women of Marvel (MG)</Name>
     <NumIssues>36</NumIssues>
     <Books>
-        <Book Series="Scarlet Witch" Number="1" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="507779" />
         </Book>
-        <Book Series="Scarlet Witch" Number="2" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="510950" />
         </Book>
-        <Book Series="Scarlet Witch" Number="3" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="513655" />
         </Book>
-        <Book Series="Scarlet Witch" Number="4" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="520208" />
         </Book>
-        <Book Series="Scarlet Witch" Number="5" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="523264" />
         </Book>
-        <Book Series="Scarlet Witch" Number="6" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="528519" />
         </Book>
-        <Book Series="Scarlet Witch" Number="7" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="537246" />
         </Book>
-        <Book Series="Scarlet Witch" Number="8" Volume="2015" Year="2016">
+        <Book Series="Scarlet Witch" Number="8" Volume="2016" Year="2016">
             <Database Name="cv" Series="86552" Issue="538516" />
         </Book>
-        <Book Series="Mighty Thor" Number="6" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="526060" />
         </Book>
-        <Book Series="Mighty Thor" Number="7" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="531891" />
         </Book>
-        <Book Series="Mighty Thor" Number="8" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="8" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="537237" />
         </Book>
-        <Book Series="Mighty Thor" Number="9" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="9" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="541211" />
         </Book>
-        <Book Series="Mighty Thor" Number="10" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="544988" />
         </Book>
-        <Book Series="Mighty Thor" Number="11" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="11" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="550365" />
         </Book>
-        <Book Series="Mighty Thor" Number="12" Volume="2015" Year="2016">
+        <Book Series="Mighty Thor" Number="12" Volume="2016" Year="2016">
             <Database Name="cv" Series="86113" Issue="553961" />
         </Book>
         <Book Series="Mockingbird" Number="1" Volume="2016" Year="2016">
@@ -64,7 +64,7 @@
         <Book Series="Mockingbird" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="88764" Issue="541212" />
         </Book>
-        <Book Series="All-New Wolverine" Number="7" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="527130" />
         </Book>
         <Book Series="All-New Wolverine Annual" Number="1" Volume="2016" Year="2016">

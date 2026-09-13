@@ -39,16 +39,16 @@
         <Book Series="X-Force" Number="16" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="825509" />
         </Book>
-        <Book Series="Wolverine: Black, White &amp; Blood" Number="1" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="131734" Issue="816472" />
         </Book>
-        <Book Series="Wolverine: Black, White &amp; Blood" Number="2" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="131734" Issue="821503" />
         </Book>
-        <Book Series="Wolverine: Black, White &amp; Blood" Number="3" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="131734" Issue="828199" />
         </Book>
-        <Book Series="Wolverine: Black, White &amp; Blood" Number="4" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="131734" Issue="836307" />
         </Book>
         <Book Series="Wolverine" Number="8" Volume="2020" Year="2021">
@@ -135,7 +135,7 @@
         <Book Series="Marauders" Number="19" Volume="2019" Year="2021">
             <Database Name="cv" Series="122218" Issue="842206" />
         </Book>
-        <Book Series="S.W.O.R.D." Number="5" Volume="2020" Year="2021">
+        <Book Series="S.W.O.R.D." Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="132511" Issue="844973" />
         </Book>
         <Book Series="Children of the Atom" Number="1" Volume="2021" Year="2021">

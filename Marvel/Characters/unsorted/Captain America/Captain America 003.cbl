@@ -201,7 +201,7 @@
     <Book Series="Captain America Annual" Number="9" Volume="1971" Year="1990">
       <Database Name="cv" Series="2510" Issue="32189" />
     </Book>
-    <Book Series="Avengers West Coast Annual" Number="5" Volume="1989" Year="1990">
+    <Book Series="West Coast Avengers Annual" Number="5" Volume="1989" Year="1990">
       <Database Name="cv" Series="4219" Issue="33189" />
     </Book>
     <Book Series="The Avengers Annual" Number="19" Volume="1967" Year="1990">
@@ -555,7 +555,7 @@
     <Book Series="Captain America" Number="12" Volume="1998" Year="1998">
       <Database Name="cv" Series="6206" Issue="66217" />
     </Book>
-    <Book Series="Captain America / Citizen V '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Captain America / Citizen V &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="60452" Issue="142566" />
     </Book>
     <Book Series="Captain America" Number="13" Volume="1998" Year="1999">

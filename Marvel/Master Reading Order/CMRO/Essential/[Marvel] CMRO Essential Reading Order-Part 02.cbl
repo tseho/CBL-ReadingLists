@@ -603,7 +603,7 @@
 <Book Series="Iron Man Annual" Number="12" Volume="1970" Year="1991">
 <Database Name="cv" Series="2905" Issue="34649" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="6" Volume="1989" Year="1991">
+<Book Series="West Coast Avengers Annual" Number="6" Volume="1989" Year="1991">
 <Database Name="cv" Series="4219" Issue="34757" />
 </Book>
 <Book Series="Marvel Super-Heroes" Number="8" Volume="1990" Year="1991">
@@ -912,7 +912,7 @@
 <Book Series="Darkhawk Annual" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="25922" Issue="153170" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="7" Volume="1989" Year="1992">
+<Book Series="West Coast Avengers Annual" Number="7" Volume="1989" Year="1992">
 <Database Name="cv" Series="4219" Issue="35151" />
 </Book>
 <Book Series="Iron Man Annual" Number="13" Volume="1970" Year="1992">
@@ -1857,7 +1857,7 @@
 <Book Series="X-Calibre" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40600" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="1" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40588" />
 </Book>
 <Book Series="Generation Next" Number="1" Volume="1995" Year="1995">
@@ -1884,7 +1884,7 @@
 <Book Series="Weapon X" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5564" Issue="40733" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="2" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40728" />
 </Book>
 <Book Series="Astonishing X-Men" Number="2" Volume="1995" Year="1995">
@@ -1908,7 +1908,7 @@
 <Book Series="Amazing X-Men" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5535" Issue="40844" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="3" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40852" />
 </Book>
 <Book Series="Weapon X" Number="3" Volume="1995" Year="1995">
@@ -1938,7 +1938,7 @@
 <Book Series="X-Universe" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5572" Issue="40988" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="4" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40976" />
 </Book>
 <Book Series="Amazing X-Men" Number="4" Volume="1995" Year="1995">
@@ -2517,10 +2517,10 @@
 <Book Series="X-Men" Number="84" Volume="1991" Year="1999">
 <Database Name="cv" Series="4605" Issue="65783" />
 </Book>
-<Book Series="Avengers Forever" Number="7" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="7" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96141" />
 </Book>
-<Book Series="Avengers Forever" Number="8" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="8" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96142" />
 </Book>
 <Book Series="Wolverine" Number="133" Volume="1988" Year="1999">
@@ -2763,7 +2763,7 @@
 <Book Series="Peter Parker: Spider-Man" Number="24" Volume="1999" Year="2000">
 <Database Name="cv" Series="9142" Issue="68501" />
 </Book>
-<Book Series="Captain Marvel" Number="12" Volume="2000" Year="2000">
+<Book Series="Captain Marvel" Number="12" Volume="1999" Year="2000">
 <Database Name="cv" Series="6458" Issue="80550" />
 </Book>
 <Book Series="Incredible Hulk" Number="21" Volume="2000" Year="2000">

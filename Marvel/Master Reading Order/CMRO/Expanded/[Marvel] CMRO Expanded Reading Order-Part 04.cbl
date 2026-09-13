@@ -2220,7 +2220,7 @@
 <Book Series="Pow!" Number="50" Volume="1967" Year="1967">
 <Database Name="cv" Series="37060" Issue="247218" />
 </Book>
-<Book Series="Iron Man &#38; Sub-Mariner" Number="1" Volume="1968" Year="1968">
+<Book Series="Iron Man &amp; Sub-Mariner" Number="1" Volume="1968" Year="1968">
 <Database Name="cv" Series="18547" Issue="109024" />
 </Book>
 <Book Series="Tales of Suspense" Number="95" Volume="1959" Year="1967">

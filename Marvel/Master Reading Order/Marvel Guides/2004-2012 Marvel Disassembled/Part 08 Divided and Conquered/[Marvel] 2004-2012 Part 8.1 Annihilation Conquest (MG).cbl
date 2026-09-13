@@ -28,19 +28,19 @@
         <Book Series="Nova" Number="7" Volume="2007" Year="2007">
             <Database Name="cv" Series="18462" Issue="122799" />
         </Book>
-        <Book Series="Captain Marvel" Number="1" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="1" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="117782" />
         </Book>
-        <Book Series="Captain Marvel" Number="2" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="2" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="120875" />
         </Book>
-        <Book Series="Captain Marvel" Number="3" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="3" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="122806" />
         </Book>
-        <Book Series="Captain Marvel" Number="4" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="4" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="125718" />
         </Book>
-        <Book Series="Captain Marvel" Number="5" Volume="2007" Year="2008">
+        <Book Series="Captain Marvel" Number="5" Volume="2008" Year="2008">
             <Database Name="cv" Series="19633" Issue="127560" />
         </Book>
         <Book Series="Annihilation: Conquest - Starlord" Number="1" Volume="2007" Year="2007">

@@ -3,13 +3,13 @@
   <Name>Justice League 004 (JLA - 1996)</Name>
   <NumIssues>320</NumIssues>
   <Books>
-    <Book Series="Justice League: A Midsummer's Nightmare" Number="1" Volume="1996" Year="1996">
+    <Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="1" Volume="1996" Year="1996">
       <Database Name="cv" Series="18945" Issue="112156" />
     </Book>
-    <Book Series="Justice League: A Midsummer's Nightmare" Number="2" Volume="1996" Year="1996">
+    <Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="2" Volume="1996" Year="1996">
       <Database Name="cv" Series="18945" Issue="112202" />
     </Book>
-    <Book Series="Justice League: A Midsummer's Nightmare" Number="3" Volume="1996" Year="1996">
+    <Book Series="Justice League: A Midsummer&apos;s Nightmare" Number="3" Volume="1996" Year="1996">
       <Database Name="cv" Series="18945" Issue="112203" />
     </Book>
     <Book Series="JLA Secret Files" Number="1" Volume="1997" Year="1997">
@@ -300,7 +300,7 @@
     <Book Series="JLA/Witchblade" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="20317" Issue="121325" />
     </Book>
-    <Book Series="JLA: Heaven's Ladder" Number="1" Volume="2000" Year="2000">
+    <Book Series="JLA: Heaven&apos;s Ladder" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="27724" Issue="169587" />
     </Book>
     <Book Series="JLA Versus Predator" Number="1" Volume="2001" Year="2001">
@@ -324,7 +324,7 @@
     <Book Series="Sins of Youth: Aquaboy/Lagoon Man" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="33948" Issue="232774" />
     </Book>
-    <Book Series="Sins of Youth:  Batboy and Robin" Number="1" Volume="2000" Year="2000">
+    <Book Series="Sins of Youth: Batboy and Robin" Number="1" Volume="2000" Year="2000">
       <Database Name="cv" Series="33947" Issue="222438" />
     </Book>
     <Book Series="Sins of Youth: Kid Flash/Impulse" Number="1" Volume="2000" Year="2000">
@@ -507,7 +507,7 @@
     <Book Series="JLA: Classified" Number="15" Volume="2005" Year="2006">
       <Database Name="cv" Series="11105" Issue="110662" />
     </Book>
-    <Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
+    <Book Series="JLA/JSA Secret Files &amp; Origins" Number="1" Volume="2003" Year="2003">
       <Database Name="cv" Series="28479" Issue="175485" />
     </Book>
     <Book Series="JLA/JSA: Virtue and Vice" Number="1" Volume="2002" Year="2003">

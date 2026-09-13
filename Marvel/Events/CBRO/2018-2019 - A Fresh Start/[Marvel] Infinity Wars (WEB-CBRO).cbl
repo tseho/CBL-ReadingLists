@@ -51,10 +51,10 @@
 <Book Series="Infinity Wars: Arachknight" Number="2" Volume="2018" Year="2019">
 <Database Name="cv" Series="114715" Issue="693462" />
 </Book>
-<Book Series="Infinity Wars: Ghost Panther" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Ghost Panther" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115395" Issue="692546" />
 </Book>
-<Book Series="Infinity Wars: Ghost Panther" Number="2" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Ghost Panther" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115395" Issue="694913" />
 </Book>
 <Book Series="Infinity Wars: Sleepwalker" Number="1" Volume="2018" Year="2018">
@@ -69,10 +69,10 @@
 <Book Series="Infinity Wars: Sleepwalker" Number="4" Volume="2018" Year="2019">
 <Database Name="cv" Series="114061" Issue="694914" />
 </Book>
-<Book Series="Infinity Wars: Infinity Warps" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Infinity Warps" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115259" Issue="692069" />
 </Book>
-<Book Series="Infinity Wars: Infinity Warps" Number="2" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Infinity Warps" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115259" Issue="694132" />
 </Book>
 <Book Series="Asgardians of the Galaxy" Number="3" Volume="2018" Year="2019">
@@ -87,7 +87,7 @@
 <Book Series="Infinity Wars" Number="5" Volume="2018" Year="2019">
 <Database Name="cv" Series="112585" Issue="691382" />
 </Book>
-<Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2018" Year="2019">
+<Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116068" Issue="695637" />
 </Book>
 <Book Series="Infinity Wars" Number="6" Volume="2018" Year="2019">

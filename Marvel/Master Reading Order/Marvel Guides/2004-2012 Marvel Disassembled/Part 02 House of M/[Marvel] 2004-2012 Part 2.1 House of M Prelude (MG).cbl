@@ -73,10 +73,10 @@
         <Book Series="Excalibur" Number="14" Volume="2004" Year="2005">
             <Database Name="cv" Series="11292" Issue="117978" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="15" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="15" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="106392" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="16" Volume="2004" Year="2005">
+        <Book Series="Cable &amp; Deadpool" Number="16" Volume="2004" Year="2005">
             <Database Name="cv" Series="18070" Issue="106393" />
         </Book>
         <Book Series="New Thunderbolts" Number="8" Volume="2005" Year="2005">

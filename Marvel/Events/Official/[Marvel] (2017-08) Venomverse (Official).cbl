@@ -54,13 +54,13 @@
         <Book Series="X-Men: Blue" Number="21" Volume="2017" Year="2018">
             <Database Name="cv" Series="100712" Issue="660028" />
         </Book>
-        <Book Series="Venom" Number="162" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="162" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="660673" />
         </Book>
         <Book Series="X-Men: Blue" Number="22" Volume="2017" Year="2018">
             <Database Name="cv" Series="100712" Issue="661168" />
         </Book>
-        <Book Series="Venom" Number="163" Volume="2016" Year="2018">
+        <Book Series="Venom" Number="163" Volume="2017" Year="2018">
             <Database Name="cv" Series="95845" Issue="662102" />
         </Book>
         <!-- 

@@ -3,7 +3,7 @@
 <Name>[Marvel] Necrosha (WEB-CBRO)</Name>
 <NumIssues>14</NumIssues>
 <Books>
-<Book Series="X Necrosha: The Gathering" Number="1" Volume="2009" Year="2010">
+<Book Series="X Necrosha: The Gathering" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30314" Issue="186683" />
 </Book>
 <Book Series="X Necrosha" Number="1" Volume="2009" Year="2009">

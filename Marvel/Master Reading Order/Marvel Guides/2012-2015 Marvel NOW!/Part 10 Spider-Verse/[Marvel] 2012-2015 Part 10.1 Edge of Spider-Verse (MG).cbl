@@ -4,7 +4,7 @@
     <Name>[Marvel] 2012-2015 Part 13.1 Edge of Spider-Verse (MG)</Name>
     <NumIssues>11</NumIssues>
     <Books>
-        <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2014" Year="2015">
+        <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="78715" Issue="472898" />
         </Book>
         <Book Series="Superior Spider-Man" Number="32" Volume="2013" Year="2014">

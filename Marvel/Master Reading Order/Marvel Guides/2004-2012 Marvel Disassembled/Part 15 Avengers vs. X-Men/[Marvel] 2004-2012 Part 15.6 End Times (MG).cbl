@@ -12,7 +12,7 @@
 <Book Series="Avengers" Number="30" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="357707" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="20" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="362220" />
 </Book>
 <Book Series="New Avengers" Number="31" Volume="2010" Year="2012">

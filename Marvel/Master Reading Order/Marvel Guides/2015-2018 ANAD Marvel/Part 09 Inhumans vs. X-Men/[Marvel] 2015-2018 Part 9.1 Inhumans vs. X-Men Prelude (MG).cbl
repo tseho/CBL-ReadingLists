@@ -13,22 +13,22 @@
         <Book Series="Uncanny Inhumans" Number="17" Volume="2015" Year="2017">
             <Database Name="cv" Series="81092" Issue="571693" />
         </Book>
-        <Book Series="Ms. Marvel" Number="12" Volume="2015" Year="2016">
+        <Book Series="Ms. Marvel" Number="12" Volume="2016" Year="2016">
             <Database Name="cv" Series="86114" Issue="555532" />
         </Book>
-        <Book Series="Ms. Marvel" Number="13" Volume="2015" Year="2017">
+        <Book Series="Ms. Marvel" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="86114" Issue="562600" />
         </Book>
-        <Book Series="Ms. Marvel" Number="14" Volume="2015" Year="2017">
+        <Book Series="Ms. Marvel" Number="14" Volume="2016" Year="2017">
             <Database Name="cv" Series="86114" Issue="575876" />
         </Book>
-        <Book Series="Ms. Marvel" Number="15" Volume="2015" Year="2017">
+        <Book Series="Ms. Marvel" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="86114" Issue="580761" />
         </Book>
-        <Book Series="Ms. Marvel" Number="16" Volume="2015" Year="2017">
+        <Book Series="Ms. Marvel" Number="16" Volume="2016" Year="2017">
             <Database Name="cv" Series="86114" Issue="587413" />
         </Book>
-        <Book Series="Ms. Marvel" Number="17" Volume="2015" Year="2017">
+        <Book Series="Ms. Marvel" Number="17" Volume="2016" Year="2017">
             <Database Name="cv" Series="86114" Issue="592603" />
         </Book>
         <Book Series="Champions" Number="6" Volume="2016" Year="2017">
@@ -55,7 +55,7 @@
         <Book Series="Extraordinary X-Men Annual" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="94271" Issue="550357" />
         </Book>
-        <Book Series="All-New X-Men Annual" Number="1" Volume="2016" Year="2017">
+        <Book Series="All-New X-Men Annual" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="95807" Issue="558952" />
         </Book>
         <Book Series="Uncanny X-Men" Number="11" Volume="2016" Year="2016">
@@ -73,7 +73,7 @@
         <Book Series="Uncanny X-Men" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="87190" Issue="557381" />
         </Book>
-        <Book Series="Uncanny X-Men Annual" Number="1" Volume="2016" Year="2017">
+        <Book Series="Uncanny X-Men Annual" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="95754" Issue="558428" />
         </Book>
         <Book Series="Old Man Logan" Number="14" Volume="2016" Year="2017">

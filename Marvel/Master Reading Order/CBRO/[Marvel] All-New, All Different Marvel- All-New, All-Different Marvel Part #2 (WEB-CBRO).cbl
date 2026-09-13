@@ -3,28 +3,28 @@
 <Name>[Marvel] All-New, All Different Marvel- All-New, All-Different Marvel Part #2 (WEB-CBRO)</Name>
 <NumIssues>708</NumIssues>
 <Books>
-<Book Series="Scarlet Witch" Number="10" Volume="2015" Year="2016">
+<Book Series="Scarlet Witch" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86552" Issue="549523" />
 </Book>
-<Book Series="Scarlet Witch" Number="11" Volume="2015" Year="2016">
+<Book Series="Scarlet Witch" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86552" Issue="552168" />
 </Book>
-<Book Series="Scarlet Witch" Number="12" Volume="2015" Year="2017">
+<Book Series="Scarlet Witch" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="86552" Issue="556477" />
 </Book>
-<Book Series="Scarlet Witch" Number="13" Volume="2015" Year="2017">
+<Book Series="Scarlet Witch" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86552" Issue="563724" />
 </Book>
-<Book Series="Scarlet Witch" Number="14" Volume="2015" Year="2017">
+<Book Series="Scarlet Witch" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86552" Issue="574874" />
 </Book>
-<Book Series="Scarlet Witch" Number="15" Volume="2015" Year="2017">
+<Book Series="Scarlet Witch" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86552" Issue="582542" />
 </Book>
-<Book Series="Ms. Marvel" Number="12" Volume="2015" Year="2016">
+<Book Series="Ms. Marvel" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86114" Issue="555532" />
 </Book>
-<Book Series="Ms. Marvel" Number="13" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="562600" />
 </Book>
 <Book Series="Captain America: Sam Wilson" Number="14" Volume="2015" Year="2016">
@@ -36,13 +36,13 @@
 <Book Series="Captain America: Sam Wilson" Number="16" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="569327" />
 </Book>
-<Book Series="Squadron Supreme" Number="13" Volume="2015" Year="2017">
+<Book Series="Squadron Supreme" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86716" Issue="558423" />
 </Book>
-<Book Series="Squadron Supreme" Number="14" Volume="2015" Year="2017">
+<Book Series="Squadron Supreme" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86716" Issue="569348" />
 </Book>
-<Book Series="Squadron Supreme" Number="15" Volume="2015" Year="2017">
+<Book Series="Squadron Supreme" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86716" Issue="576635" />
 </Book>
 <Book Series="Spider-Gwen" Number="13" Volume="2015" Year="2016">
@@ -69,37 +69,37 @@
 <Book Series="Champions" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
-<Book Series="Avengers" Number="1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="556467" />
 </Book>
-<Book Series="Avengers" Number="2" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="563716" />
 </Book>
-<Book Series="Avengers" Number="3" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="574859" />
 </Book>
-<Book Series="Avengers" Number="4" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="579305" />
 </Book>
-<Book Series="Avengers" Number="5" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="583712" />
 </Book>
-<Book Series="Avengers" Number="6" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="590787" />
 </Book>
-<Book Series="Avengers" Number="1.1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="1.1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="557355" />
 </Book>
-<Book Series="Avengers" Number="2.1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="2.1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="569324" />
 </Book>
-<Book Series="Avengers" Number="3.1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="3.1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="576614" />
 </Book>
-<Book Series="Avengers" Number="4.1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="4.1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="582517" />
 </Book>
-<Book Series="Avengers" Number="5.1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="5.1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="589823" />
 </Book>
 <Book Series="Infamous Iron Man" Number="1" Volume="2016" Year="2016">
@@ -165,61 +165,61 @@
 <Book Series="The Unbelievable Gwenpool" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="89627" Issue="576640" />
 </Book>
-<Book Series="Invincible Iron Man" Number="1" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="557367" />
 </Book>
-<Book Series="Invincible Iron Man" Number="2" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="569333" />
 </Book>
-<Book Series="Invincible Iron Man" Number="3" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="576625" />
 </Book>
-<Book Series="Invincible Iron Man" Number="4" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="581560" />
 </Book>
-<Book Series="Invincible Iron Man" Number="5" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="588567" />
 </Book>
-<Book Series="Invincible Iron Man" Number="6" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="592598" />
 </Book>
-<Book Series="All-New Wolverine" Number="13" Volume="2015" Year="2016">
+<Book Series="All-New Wolverine" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="85930" Issue="552151" />
 </Book>
-<Book Series="All-New Wolverine" Number="14" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="558407" />
 </Book>
-<Book Series="All-New Wolverine" Number="15" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="563715" />
 </Book>
-<Book Series="All-New Wolverine" Number="16" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="575855" />
 </Book>
-<Book Series="All-New Wolverine" Number="17" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="580739" />
 </Book>
-<Book Series="All-New Wolverine" Number="18" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="585074" />
 </Book>
-<Book Series="Deadpool" Number="21" Volume="2015" Year="2016">
+<Book Series="Deadpool" Number="21" Volume="2016" Year="2016">
 <Database Name="cv" Series="85750" Issue="555516" />
 </Book>
-<Book Series="Deadpool" Number="22" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="558414" />
 </Book>
-<Book Series="Deadpool" Number="23" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="563720" />
 </Book>
-<Book Series="Deadpool" Number="24" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="575863" />
 </Book>
-<Book Series="Deadpool" Number="25" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="25" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="578456" />
 </Book>
-<Book Series="Deadpool" Number="26" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="26" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="579312" />
 </Book>
-<Book Series="Deadpool" Number="27" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="27" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="581552" />
 </Book>
 <Book Series="Star-Lord Annual" Number="1" Volume="2017" Year="2017">
@@ -237,16 +237,16 @@
 <Book Series="Cage!" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="94609" Issue="576617" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="11" Volume="2015" Year="2016">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86780" Issue="553964" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="12" Volume="2015" Year="2017">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="86780" Issue="558420" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="13" Volume="2015" Year="2017">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86780" Issue="569338" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="14" Volume="2015" Year="2017">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86780" Issue="576631" />
 </Book>
 <Book Series="The Punisher Annual" Number="1" Volume="2016" Year="2016">
@@ -270,19 +270,19 @@
 <Book Series="Jessica Jones" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="94643" Issue="585081" />
 </Book>
-<Book Series="Ms. Marvel" Number="14" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="575876" />
 </Book>
-<Book Series="Ms. Marvel" Number="15" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="580761" />
 </Book>
-<Book Series="Ms. Marvel" Number="16" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="587413" />
 </Book>
-<Book Series="Ms. Marvel" Number="17" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="592603" />
 </Book>
-<Book Series="Uncanny X-Men Annual" Number="1" Volume="2016" Year="2017">
+<Book Series="Uncanny X-Men Annual" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95754" Issue="558428" />
 </Book>
 <Book Series="Doctor Strange and the Sorcerers Supreme" Number="1" Volume="2016" Year="2016">
@@ -312,25 +312,25 @@
 <Book Series="Solo" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94818" Issue="582543" />
 </Book>
-<Book Series="Mighty Thor" Number="13" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="558971" />
 </Book>
-<Book Series="Mighty Thor" Number="14" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="571674" />
 </Book>
-<Book Series="Foolkiller" Number="1" Volume="2016" Year="2017">
+<Book Series="Foolkiller" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95415" Issue="556472" />
 </Book>
-<Book Series="Foolkiller" Number="2" Volume="2016" Year="2017">
+<Book Series="Foolkiller" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95415" Issue="566708" />
 </Book>
-<Book Series="Foolkiller" Number="3" Volume="2016" Year="2017">
+<Book Series="Foolkiller" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95415" Issue="575866" />
 </Book>
-<Book Series="Foolkiller" Number="4" Volume="2016" Year="2017">
+<Book Series="Foolkiller" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95415" Issue="580751" />
 </Book>
-<Book Series="Foolkiller" Number="5" Volume="2016" Year="2017">
+<Book Series="Foolkiller" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95415" Issue="588564" />
 </Book>
 <Book Series="Deadpool the Duck" Number="1" Volume="2017" Year="2017">
@@ -348,25 +348,25 @@
 <Book Series="Deadpool the Duck" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97745" Issue="587405" />
 </Book>
-<Book Series="Gwenpool Holiday Special: Merry Mix-Up" Number="1" Volume="2016" Year="2017">
+<Book Series="Gwenpool Holiday Special: Merry Mix-Up" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96660" Issue="566711" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="13" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="558972" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="14" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="571675" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="15" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="578468" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="16" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="582536" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="17" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="588570" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="18" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="593266" />
 </Book>
 <Book Series="Mosaic" Number="1" Volume="2016" Year="2016">
@@ -432,19 +432,19 @@
 <Book Series="Great Lakes Avengers" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="94801" Issue="593260" />
 </Book>
-<Book Series="Spider-Woman" Number="13" Volume="2015" Year="2017">
+<Book Series="Spider-Woman" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86127" Issue="556479" />
 </Book>
-<Book Series="Spider-Woman" Number="14" Volume="2015" Year="2017">
+<Book Series="Spider-Woman" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86127" Issue="571684" />
 </Book>
-<Book Series="Spider-Woman" Number="15" Volume="2015" Year="2017">
+<Book Series="Spider-Woman" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86127" Issue="578474" />
 </Book>
-<Book Series="Spider-Woman" Number="16" Volume="2015" Year="2017">
+<Book Series="Spider-Woman" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86127" Issue="582546" />
 </Book>
-<Book Series="Spider-Woman" Number="17" Volume="2015" Year="2017">
+<Book Series="Spider-Woman" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86127" Issue="589837" />
 </Book>
 <Book Series="Uncanny Inhumans" Number="15" Volume="2015" Year="2017">
@@ -459,55 +459,55 @@
 <Book Series="Uncanny X-Men" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="587422" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="20" Volume="2015" Year="2017">
+<Book Series="Extraordinary X-Men" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="85756" Issue="588563" />
 </Book>
-<Book Series="All-New X-Men" Number="19" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="589821" />
 </Book>
 <Book Series="Captain America: Sam Wilson" Number="17" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="574860" />
 </Book>
-<Book Series="Occupy Avengers" Number="1" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="556476" />
 </Book>
-<Book Series="Occupy Avengers" Number="2" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="569337" />
 </Book>
-<Book Series="Occupy Avengers" Number="3" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="575877" />
 </Book>
-<Book Series="Occupy Avengers" Number="4" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="582538" />
 </Book>
-<Book Series="Ghost Rider" Number="1" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="562594" />
 </Book>
-<Book Series="Ghost Rider" Number="2" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="571666" />
 </Book>
-<Book Series="Ghost Rider" Number="3" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="578460" />
 </Book>
-<Book Series="Ghost Rider" Number="4" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="582530" />
 </Book>
-<Book Series="Ghost Rider" Number="5" Volume="2016" Year="2017">
+<Book Series="Ghost Rider" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96138" Issue="589826" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="1" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="557354" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="2" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="566703" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="3" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="575856" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="4" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="580740" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="588555" />
 </Book>
 <Book Series="Old Man Logan" Number="14" Volume="2016" Year="2017">
@@ -627,82 +627,82 @@
 <Book Series="The Unbelievable Gwenpool" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="89627" Issue="594976" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="15" Volume="2015" Year="2017">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86780" Issue="581564" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="16" Volume="2015" Year="2017">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86780" Issue="587414" />
 </Book>
-<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="17" Volume="2015" Year="2017">
+<Book Series="Patsy Walker, A.K.A. Hellcat!" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86780" Issue="593270" />
 </Book>
-<Book Series="Avengers" Number="7" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="594959" />
 </Book>
-<Book Series="Avengers" Number="8" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="599857" />
 </Book>
-<Book Series="Deadpool" Number="28" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="28" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="583716" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="585093" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="9" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="589825" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="590805" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="10" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="591753" />
 </Book>
-<Book Series="Deadpool" Number="29" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="29" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="592595" />
 </Book>
-<Book Series="Thanos" Number="1" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="558425" />
 </Book>
-<Book Series="The Unworthy Thor" Number="1" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="556484" />
 </Book>
-<Book Series="The Unworthy Thor" Number="2" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="563729" />
 </Book>
-<Book Series="The Unworthy Thor" Number="3" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="574880" />
 </Book>
-<Book Series="The Unworthy Thor" Number="4" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="580767" />
 </Book>
-<Book Series="The Unworthy Thor" Number="5" Volume="2016" Year="2017">
+<Book Series="The Unworthy Thor" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95444" Issue="588579" />
 </Book>
-<Book Series="Thanos" Number="2" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="569350" />
 </Book>
-<Book Series="Thanos" Number="3" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="578477" />
 </Book>
-<Book Series="Thanos" Number="4" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="582547" />
 </Book>
-<Book Series="Thanos" Number="5" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="589839" />
 </Book>
-<Book Series="Thanos" Number="6" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="593274" />
 </Book>
-<Book Series="Hawkeye" Number="1" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="566712" />
 </Book>
-<Book Series="Hawkeye" Number="2" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="574865" />
 </Book>
-<Book Series="Hawkeye" Number="3" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="579314" />
 </Book>
-<Book Series="Hawkeye" Number="4" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="583720" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="25" Volume="2015" Year="2017">
@@ -765,37 +765,37 @@
 <Book Series="Doctor Strange" Number="20" Volume="2015" Year="2017">
 <Database Name="cv" Series="85094" Issue="599863" />
 </Book>
-<Book Series="Hulk" Number="1" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="571670" />
 </Book>
-<Book Series="Hulk" Number="2" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="578462" />
 </Book>
-<Book Series="Hulk" Number="3" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="582532" />
 </Book>
-<Book Series="Hulk" Number="4" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="588566" />
 </Book>
-<Book Series="Hulk" Number="5" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="593261" />
 </Book>
-<Book Series="Hulk" Number="6" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="598377" />
 </Book>
-<Book Series="Gamora" Number="1" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="569331" />
 </Book>
-<Book Series="Gamora" Number="2" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="576623" />
 </Book>
-<Book Series="Gamora" Number="3" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="581558" />
 </Book>
-<Book Series="Gamora" Number="4" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="588565" />
 </Book>
-<Book Series="Gamora" Number="5" Volume="2016" Year="2017">
+<Book Series="Gamora" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="97041" Issue="598373" />
 </Book>
 <Book Series="Slapstick" Number="1" Volume="2016" Year="2017">
@@ -816,40 +816,40 @@
 <Book Series="Slapstick" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="96307" Issue="594121" />
 </Book>
-<Book Series="Nova" Number="1" Volume="2016" Year="2017">
+<Book Series="Nova" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="563723" />
 </Book>
-<Book Series="Nova" Number="2" Volume="2016" Year="2017">
+<Book Series="Nova" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="574872" />
 </Book>
-<Book Series="Nova" Number="3" Volume="2016" Year="2017">
+<Book Series="Nova" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="579320" />
 </Book>
-<Book Series="Nova" Number="4" Volume="2016" Year="2017">
+<Book Series="Nova" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="585088" />
 </Book>
-<Book Series="Nova" Number="5" Volume="2016" Year="2017">
+<Book Series="Nova" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="590801" />
 </Book>
-<Book Series="Nova" Number="6" Volume="2016" Year="2017">
+<Book Series="Nova" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="594119" />
 </Book>
-<Book Series="Nova" Number="7" Volume="2016" Year="2017">
+<Book Series="Nova" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="96300" Issue="599870" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="0" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="0" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="569336" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="1" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="576628" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="2" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="582535" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="3" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="589833" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="4" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="593264" />
 </Book>
 <Book Series="Champions" Number="6" Volume="2016" Year="2017">
@@ -879,19 +879,19 @@
 <Book Series="Man-Thing" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="99444" Issue="603127" />
 </Book>
-<Book Series="Mighty Thor" Number="15" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="575875" />
 </Book>
-<Book Series="Mighty Thor" Number="16" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="581561" />
 </Book>
-<Book Series="Mighty Thor" Number="17" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="587411" />
 </Book>
-<Book Series="Mighty Thor" Number="18" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="593265" />
 </Book>
-<Book Series="Mighty Thor" Number="19" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="595694" />
 </Book>
 <Book Series="Spider-Man" Number="12" Volume="2016" Year="2017">
@@ -939,7 +939,7 @@
 <Book Series="Old Man Logan" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="87624" Issue="598382" />
 </Book>
-<Book Series="Deadpool" Number="30" Volume="2015" Year="2017">
+<Book Series="Deadpool" Number="30" Volume="2016" Year="2017">
 <Database Name="cv" Series="85750" Issue="594962" />
 </Book>
 <Book Series="Moon Knight" Number="10" Volume="2016" Year="2017">
@@ -990,22 +990,22 @@
 <Book Series="Infamous Iron Man" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="95016" Issue="625312" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="13" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="566725" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="14" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="575884" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="15" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="578479" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="16" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="580764" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="17" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="587419" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="18" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="592615" />
 </Book>
 <Book Series="Guardians of the Galaxy: Mission Breakout" Number="1" Volume="2017" Year="2017">
@@ -1095,13 +1095,13 @@
 <Book Series="Silver Surfer" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="87449" Issue="632504" />
 </Book>
-<Book Series="Occupy Avengers" Number="5" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="589834" />
 </Book>
-<Book Series="Occupy Avengers" Number="6" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="593268" />
 </Book>
-<Book Series="Occupy Avengers" Number="7" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="598381" />
 </Book>
 <Book Series="X-Men Prime" Number="1" Volume="2017" Year="2017">
@@ -1170,22 +1170,22 @@
 <Book Series="Royals" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="100590" Issue="622950" />
 </Book>
-<Book Series="All-New Wolverine" Number="19" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="590785" />
 </Book>
-<Book Series="All-New Wolverine" Number="20" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="594954" />
 </Book>
-<Book Series="All-New Wolverine" Number="21" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="601783" />
 </Book>
-<Book Series="All-New Wolverine" Number="22" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="606616" />
 </Book>
-<Book Series="All-New Wolverine" Number="23" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="613782" />
 </Book>
-<Book Series="All-New Wolverine" Number="24" Volume="2015" Year="2017">
+<Book Series="All-New Wolverine" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="85930" Issue="621655" />
 </Book>
 <Book Series="Weapon X" Number="1" Volume="2017" Year="2017">
@@ -1278,16 +1278,16 @@
 <Book Series="Old Man Logan" Number="30" Volume="2016" Year="2018">
 <Database Name="cv" Series="87624" Issue="634540" />
 </Book>
-<Book Series="Invincible Iron Man" Number="7" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="595690" />
 </Book>
-<Book Series="Invincible Iron Man" Number="8" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="603124" />
 </Book>
-<Book Series="Invincible Iron Man" Number="9" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="609347" />
 </Book>
-<Book Series="Invincible Iron Man" Number="10" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="615022" />
 </Book>
 <Book Series="America" Number="1" Volume="2017" Year="2017">
@@ -1326,22 +1326,22 @@
 <Book Series="Guardians of the Galaxy: Mother Entropy" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="101181" Issue="598375" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="19" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="597197" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="20" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="605122" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="21" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="610530" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="22" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="617848" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="23" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="625318" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="24" Volume="2015" Year="2017">
+<Book Series="Moon Girl and Devil Dinosaur" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="86245" Issue="632500" />
 </Book>
 <Book Series="Iron Fist" Number="1" Volume="2017" Year="2017">
@@ -1377,19 +1377,19 @@
 <Book Series="Nick Fury" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="100830" Issue="625319" />
 </Book>
-<Book Series="Ms. Marvel" Number="18" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="594968" />
 </Book>
-<Book Series="Ms. Marvel" Number="19" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="601798" />
 </Book>
-<Book Series="Ms. Marvel" Number="20" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="609353" />
 </Book>
-<Book Series="Ms. Marvel" Number="21" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="613797" />
 </Book>
-<Book Series="Ms. Marvel" Number="22" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="621672" />
 </Book>
 <Book Series="Rocket" Number="1" Volume="2017" Year="2017">
@@ -1485,28 +1485,28 @@
 <Book Series="Ben Reilly: Scarlet Spider" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="100966" Issue="621658" />
 </Book>
-<Book Series="Hawkeye" Number="5" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="590794" />
 </Book>
-<Book Series="Hawkeye" Number="6" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="594112" />
 </Book>
-<Book Series="Hawkeye" Number="7" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="599864" />
 </Book>
-<Book Series="Hawkeye" Number="8" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="606626" />
 </Book>
-<Book Series="Hawkeye" Number="9" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="612039" />
 </Book>
-<Book Series="Hawkeye" Number="10" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="619623" />
 </Book>
-<Book Series="Hawkeye" Number="11" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="626282" />
 </Book>
-<Book Series="Hawkeye" Number="12" Volume="2016" Year="2018">
+<Book Series="Hawkeye" Number="12" Volume="2017" Year="2018">
 <Database Name="cv" Series="96661" Issue="638597" />
 </Book>
 <Book Series="Monsters Unleashed" Number="1" Volume="2017" Year="2017">
@@ -1635,16 +1635,16 @@
 <Book Series="Spider-Man/Deadpool" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="626296" />
 </Book>
-<Book Series="Mighty Thor" Number="20" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="603128" />
 </Book>
-<Book Series="Mighty Thor" Number="21" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="609350" />
 </Book>
-<Book Series="Mighty Thor" Number="22" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="615025" />
 </Book>
-<Book Series="Mighty Thor" Number="23" Volume="2015" Year="2017">
+<Book Series="Mighty Thor" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="86113" Issue="625316" />
 </Book>
 <Book Series="Jessica Jones" Number="7" Volume="2016" Year="2017">
@@ -1665,25 +1665,25 @@
 <Book Series="Jessica Jones" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="94643" Issue="619629" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="6" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="591747" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="7" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="594956" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="8" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="601784" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="9" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="609335" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="10" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="615014" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="11" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="622932" />
 </Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="12" Volume="2016" Year="2017">
+<Book Series="Amazing Spider-Man: Renew Your Vows" Number="12" Volume="2017" Year="2017">
 <Database Name="cv" Series="95572" Issue="628576" />
 </Book>
 <Book Series="Spider-Gwen" Number="19" Volume="2015" Year="2017">
@@ -1719,7 +1719,7 @@
 <Book Series="The Unbelievable Gwenpool" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="89627" Issue="621681" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="19" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="597204" />
 </Book>
 <Book Series="Weapon X" Number="4" Volume="2017" Year="2017">
@@ -1728,19 +1728,19 @@
 <Book Series="Weapons of Mutant Destruction: Alpha" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="102287" Issue="603148" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="20" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="605135" />
 </Book>
 <Book Series="Weapon X" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="100709" Issue="608265" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="21" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="609364" />
 </Book>
 <Book Series="Weapon X" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="100709" Issue="610542" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="22" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="615034" />
 </Book>
 <Book Series="Captain America: Steve Rogers" Number="11" Volume="2016" Year="2017">
@@ -1764,22 +1764,22 @@
 <Book Series="Captain America: Sam Wilson" Number="20" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="587402" />
 </Book>
-<Book Series="Ultimates 2" Number="1" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="558977" />
 </Book>
-<Book Series="Ultimates 2" Number="2" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="569351" />
 </Book>
-<Book Series="Ultimates 2" Number="3" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="576639" />
 </Book>
-<Book Series="Ultimates 2" Number="4" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="581571" />
 </Book>
-<Book Series="Ultimates 2" Number="5" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="588575" />
 </Book>
-<Book Series="Ultimates 2" Number="6" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="593275" />
 </Book>
 <Book Series="Thunderbolts" Number="10" Volume="2016" Year="2017">
@@ -1794,52 +1794,52 @@
 <Book Series="U.S.Avengers" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="97772" Issue="622958" />
 </Book>
-<Book Series="Avengers" Number="11" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="622934" />
 </Book>
 <Book Series="Champions" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="619618" />
 </Book>
-<Book Series="Ultimates 2" Number="8" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="603146" />
 </Book>
-<Book Series="Ultimates 2" Number="9" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="609367" />
 </Book>
-<Book Series="Ultimates 2" Number="100" Volume="2016" Year="2017">
+<Book Series="Ultimates 2" Number="100" Volume="2017" Year="2017">
 <Database Name="cv" Series="95843" Issue="615036" />
 </Book>
 <Book Series="Uncanny Avengers" Number="27" Volume="2015" Year="2017">
 <Database Name="cv" Series="85318" Issue="621682" />
 </Book>
-<Book Series="Generations: Sam Wilson: Captain America &#38; Steve Rogers: Captain America" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Sam Wilson: Captain America &amp; Steve Rogers: Captain America" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104613" Issue="625307" />
 </Book>
-<Book Series="Generations: Wolverine &#38; All-New Wolverine" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Wolverine &amp; All-New Wolverine" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103514" Issue="615019" />
 </Book>
-<Book Series="Generations: The Unworthy Thor &#38; The Mighty Thor" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: The Unworthy Thor &amp; The Mighty Thor" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103605" Issue="616191" />
 </Book>
-<Book Series="Generations: Hawkeye &#38; Hawkeye" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Hawkeye &amp; Hawkeye" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103816" Issue="617842" />
 </Book>
-<Book Series="Generations: Iron Man &#38; Ironheart" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Iron Man &amp; Ironheart" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104054" Issue="619621" />
 </Book>
-<Book Series="Generations: Captain Marvel &#38; Captain Mar-vell" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Captain Marvel &amp; Captain Mar-vell" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104284" Issue="621665" />
 </Book>
-<Book Series="Generations: Ms. Marvel &#38; Ms. Marvel" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Ms. Marvel &amp; Ms. Marvel" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104475" Issue="622939" />
 </Book>
-<Book Series="Generations: Miles Morales: Spider-Man &#38; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Miles Morales: Spider-Man &amp; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104612" Issue="625306" />
 </Book>
-<Book Series="Generations: Banner Hulk &#38; Totally Awesome Hulk" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Banner Hulk &amp; Totally Awesome Hulk" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103234" Issue="612038" />
 </Book>
-<Book Series="Generations: Phoenix &#38; Jean Grey" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Phoenix &amp; Jean Grey" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103386" Issue="613790" />
 </Book>
 <Book Series="Deadpool Kills The Marvel Universe Again" Number="1" Volume="2017" Year="2017">
@@ -1908,22 +1908,22 @@
 <Book Series="Luke Cage" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="101484" Issue="622945" />
 </Book>
-<Book Series="The Mighty Captain Marvel" Number="9" Volume="2016" Year="2017">
+<Book Series="The Mighty Captain Marvel" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="97062" Issue="625315" />
 </Book>
-<Book Series="Hulk" Number="7" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="601794" />
 </Book>
-<Book Series="Hulk" Number="8" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="608246" />
 </Book>
-<Book Series="Hulk" Number="9" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="613791" />
 </Book>
-<Book Series="Hulk" Number="10" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="621666" />
 </Book>
-<Book Series="Hulk" Number="11" Volume="2016" Year="2017">
+<Book Series="Hulk" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="97422" Issue="628581" />
 </Book>
 <Book Series="X-Men: Blue" Number="10" Volume="2017" Year="2017">
@@ -1947,22 +1947,22 @@
 <Book Series="X-Men: Gold" Number="12" Volume="2017" Year="2017">
 <Database Name="cv" Series="100603" Issue="622961" />
 </Book>
-<Book Series="Thanos" Number="7" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="598389" />
 </Book>
-<Book Series="Thanos" Number="8" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="601805" />
 </Book>
-<Book Series="Thanos" Number="9" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="610538" />
 </Book>
-<Book Series="Thanos" Number="10" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="617855" />
 </Book>
-<Book Series="Thanos" Number="11" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="625328" />
 </Book>
-<Book Series="Thanos" Number="12" Volume="2016" Year="2017">
+<Book Series="Thanos" Number="12" Volume="2017" Year="2017">
 <Database Name="cv" Series="95750" Issue="632506" />
 </Book>
 <Book Series="Spider-Man" Number="20" Volume="2016" Year="2017">
@@ -2001,7 +2001,7 @@
 <Book Series="Astonishing X-Men" Number="6" Volume="2017" Year="2018">
 <Database Name="cv" Series="102882" Issue="644496" />
 </Book>
-<Book Series="The Totally Awesome Hulk" Number="23" Volume="2015" Year="2017">
+<Book Series="The Totally Awesome Hulk" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="86408" Issue="622957" />
 </Book>
 <Book Series="Iron Fist" Number="6" Volume="2017" Year="2017">
@@ -2016,16 +2016,16 @@
 <Book Series="Doctor Strange" Number="26" Volume="2015" Year="2017">
 <Database Name="cv" Series="85094" Issue="630520" />
 </Book>
-<Book Series="Invincible Iron Man" Number="11" Volume="2016" Year="2017">
+<Book Series="Invincible Iron Man" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="95596" Issue="622941" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="32" Volume="2015" Year="2017">
 <Database Name="cv" Series="85076" Issue="621656" />
 </Book>
-<Book Series="Ms. Marvel" Number="23" Volume="2015" Year="2017">
+<Book Series="Ms. Marvel" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="86114" Issue="628588" />
 </Book>
-<Book Series="Ms. Marvel" Number="24" Volume="2015" Year="2018">
+<Book Series="Ms. Marvel" Number="24" Volume="2016" Year="2018">
 <Database Name="cv" Series="86114" Issue="636378" />
 </Book>
 <Book Series="Weapon X" Number="7" Volume="2017" Year="2017">

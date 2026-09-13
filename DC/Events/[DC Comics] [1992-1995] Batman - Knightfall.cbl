@@ -93,10 +93,10 @@
 <Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108497" />
 </Book>
-<Book Series="Showcase '93" Number="7" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="7" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107456" />
 </Book>
-<Book Series="Showcase '93" Number="8" Volume="1993" Year="1993">
+<Book Series="Showcase &apos;93" Number="8" Volume="1993" Year="1993">
 <Database Name="cv" Series="18340" Issue="107494" />
 </Book>
 <Book Series="Batman" Number="498" Volume="1940" Year="1993">
@@ -207,7 +207,7 @@
 <Book Series="Detective Comics" Number="675" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="108528" />
 </Book>
-<Book Series="Showcase '94" Number="7" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="7" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="155532" />
 </Book>
 <Book Series="Justice League Task Force" Number="5" Volume="1993" Year="1993">
@@ -273,7 +273,7 @@
 <Book Series="Catwoman" Number="13" Volume="1993" Year="1994">
 <Database Name="cv" Series="4955" Issue="39458" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Book Series="Showcase &apos;94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
 </Book>
 <Book Series="Robin" Number="0" Volume="1993" Year="1994">

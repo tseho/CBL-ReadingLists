@@ -156,7 +156,7 @@
 <Book Series="All-Star Batman" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="92947" Issue="592562" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws: Rebirth" Number="1" Volume="2016" Year="2016">
+<Book Series="Red Hood &amp; the Outlaws: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92572" Issue="541173" />
 </Book>
 <Book Series="Red Hood and the Outlaws" Number="1" Volume="2011" Year="2011">

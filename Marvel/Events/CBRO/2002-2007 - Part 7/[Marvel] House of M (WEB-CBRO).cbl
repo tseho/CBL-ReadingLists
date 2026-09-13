@@ -15,19 +15,19 @@
 <Book Series="House of M" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="12049" Issue="104862" />
 </Book>
-<Book Series="House of M: Civil War" Number="1" Volume="2008" Year="2008">
+<Book Series="Civil War: House of M" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22973" Issue="138414" />
 </Book>
-<Book Series="House of M: Civil War" Number="2" Volume="2008" Year="2008">
+<Book Series="Civil War: House of M" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22973" Issue="139693" />
 </Book>
-<Book Series="House of M: Civil War" Number="3" Volume="2008" Year="2009">
+<Book Series="Civil War: House of M" Number="3" Volume="2008" Year="2009">
 <Database Name="cv" Series="22973" Issue="141552" />
 </Book>
-<Book Series="House of M: Civil War" Number="4" Volume="2008" Year="2009">
+<Book Series="Civil War: House of M" Number="4" Volume="2008" Year="2009">
 <Database Name="cv" Series="22973" Issue="145605" />
 </Book>
-<Book Series="House of M: Civil War" Number="5" Volume="2008" Year="2009">
+<Book Series="Civil War: House of M" Number="5" Volume="2008" Year="2009">
 <Database Name="cv" Series="22973" Issue="150049" />
 </Book>
 <Book Series="House of M: Masters of Evil" Number="1" Volume="2009" Year="2009">
@@ -162,7 +162,7 @@
 <Book Series="The Pulse" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="11310" Issue="105810" />
 </Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115271" />
 </Book>
 <Book Series="Black Panther" Number="7" Volume="2005" Year="2005">
@@ -177,7 +177,7 @@
 <Book Series="Exiles" Number="71" Volume="2001" Year="2005">
 <Database Name="cv" Series="6983" Issue="105981" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="17" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="17" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106394" />
 </Book>
 <Book Series="House of M" Number="6" Volume="2005" Year="2005">

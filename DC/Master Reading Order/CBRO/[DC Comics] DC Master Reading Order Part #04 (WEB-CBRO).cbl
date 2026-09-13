@@ -1683,7 +1683,7 @@
 <Book Series="JLA" Number="42" Volume="1997" Year="2000">
 <Database Name="cv" Series="5957" Issue="109449" />
 </Book>
-<Book Series="JLA: Heaven's Ladder" Number="1" Volume="2000" Year="2000">
+<Book Series="JLA: Heaven&apos;s Ladder" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="27724" Issue="169587" />
 </Book>
 <Book Series="JLA" Number="43" Volume="1997" Year="2000">
@@ -1797,10 +1797,10 @@
 <Book Series="Deadman: Dead Again" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="9398" Issue="76365" />
 </Book>
-<Book Series="Superboy's Legion" Number="1" Volume="2001" Year="2001">
+<Book Series="Superboy&apos;s Legion" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21245" Issue="127755" />
 </Book>
-<Book Series="Superboy's Legion" Number="2" Volume="2001" Year="2001">
+<Book Series="Superboy&apos;s Legion" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="21245" Issue="127881" />
 </Book>
 <Book Series="Superboy" Number="85" Volume="1994" Year="2001">

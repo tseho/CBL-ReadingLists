@@ -6,7 +6,7 @@
     <Source>2021-2024 Part 11.1 Road to Blood Hunt.txt</Source>
     <StartYear>2023</StartYear>
     <Books>
-        <Book Series="Blade: Vampire Nation" Number="1" Volume="2022" Year="2023">
+        <Book Series="Blade: Vampire Nation" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="146110" Issue="955111" />
         </Book>
         <Book Series="Blade" Number="1" Volume="2023" Year="2023">
@@ -51,19 +51,19 @@
         <Book Series="Marvel Unleashed" Number="4" Volume="2023" Year="2024">
             <Database Name="cv" Series="153120" Issue="1028629" />
         </Book>
-        <Book Series="Fantastic Four" Number="16" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="16" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1040939" />
         </Book>
-        <Book Series="Fantastic Four" Number="17" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="17" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1043836" />
         </Book>
-        <Book Series="Fantastic Four" Number="18" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="18" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1048666" />
         </Book>
-        <Book Series="Fantastic Four" Number="19" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="19" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1051122" />
         </Book>
-        <Book Series="Fantastic Four" Number="20" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="20" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1054378" />
         </Book>
         <Book Series="Giant-Size Fantastic Four" Number="1" Volume="2024" Year="2024">
@@ -279,7 +279,7 @@
         <Book Series="Doctor Strange" Number="14" Volume="2023" Year="2024">
             <Database Name="cv" Series="148962" Issue="1050569" />
         </Book>
-        <Book Series="Miles Morales: Spider-Man" Number="20" Volume="2022" Year="2024">
+        <Book Series="Miles Morales: Spider-Man" Number="20" Volume="2023" Year="2024">
             <Database Name="cv" Series="146734" Issue="1055027" />
         </Book>
         <Book Series="Free Comic Book Day 2024: Blood Hunt/X-Men" Number="1" Volume="2024"

@@ -9,7 +9,7 @@
         <!-- 
             Countdown to War
         -->
-        <Book Series="Guardians of the Galaxy" Number="150" Volume="2017" Year="2018">
+        <Book Series="Guardians of the Galaxy" Number="150" Volume="2018" Year="2018">
             <Database Name="cv" Series="105759" Issue="650916" />
         </Book>
         <Book Series="Infinity Countdown: Adam Warlock" Number="1" Volume="2018" Year="2018">
@@ -111,7 +111,7 @@
         <Book Series="Infinity Wars" Number="6" Volume="2018" Year="2019">
             <Database Name="cv" Series="112585" Issue="695636" />
         </Book>
-        <Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2018" Year="2019">
+        <Book Series="Infinity Wars: Fallen Guardian" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="116068" Issue="695637" />
         </Book>
         <Book Series="Infinity Wars: Infinity" Number="1" Volume="2019" Year="2019">
@@ -144,16 +144,16 @@
         <Book Series="Infinity Wars: Weapon Hex" Number="2" Volume="2018" Year="2019">
             <Database Name="cv" Series="114416" Issue="693463" />
         </Book>
-        <Book Series="Infinity Wars: Ghost Panther" Number="1" Volume="2018" Year="2019">
+        <Book Series="Infinity Wars: Ghost Panther" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115395" Issue="692546" />
         </Book>
-        <Book Series="Infinity Wars: Ghost Panther" Number="2" Volume="2018" Year="2019">
+        <Book Series="Infinity Wars: Ghost Panther" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115395" Issue="694913" />
         </Book>
-        <Book Series="Infinity Wars: Infinity Warps" Number="1" Volume="2018" Year="2019">
+        <Book Series="Infinity Wars: Infinity Warps" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="115259" Issue="692069" />
         </Book>
-        <Book Series="Infinity Wars: Infinity Warps" Number="2" Volume="2018" Year="2019">
+        <Book Series="Infinity Wars: Infinity Warps" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="115259" Issue="694132" />
         </Book>
     </Books>

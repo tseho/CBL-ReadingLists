@@ -18,10 +18,10 @@
 <Book Series="Young Men" Number="28" Volume="1950" Year="1954">
 <Database Name="cv" Series="1368" Issue="188768" />
 </Book>
-<Book Series="Men's Adventures" Number="27" Volume="1950" Year="1954">
+<Book Series="Men&apos;s Adventures" Number="27" Volume="1950" Year="1954">
 <Database Name="cv" Series="30573" Issue="188519" />
 </Book>
-<Book Series="Men's Adventures" Number="28" Volume="1950" Year="1954">
+<Book Series="Men&apos;s Adventures" Number="28" Volume="1950" Year="1954">
 <Database Name="cv" Series="30573" Issue="188520" />
 </Book>
 <Book Series="Captain America" Number="76" Volume="1954" Year="1954">

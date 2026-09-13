@@ -42,46 +42,46 @@
         <Book Series="Giant-Size X-Men: Storm" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="130395" Issue="799948" />
         </Book>
-        <Book Series="Deadpool" Number="1" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="728419" />
         </Book>
-        <Book Series="Deadpool" Number="2" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="732876" />
         </Book>
-        <Book Series="Deadpool" Number="3" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="737754" />
         </Book>
-        <Book Series="Deadpool" Number="4" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="742367" />
         </Book>
-        <Book Series="Deadpool" Number="5" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="767929" />
         </Book>
-        <Book Series="Deadpool" Number="6" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="787346" />
         </Book>
-        <Book Series="Deadpool" Number="7" Volume="2019" Year="2020">
+        <Book Series="Deadpool" Number="7" Volume="2020" Year="2020">
             <Database Name="cv" Series="122987" Issue="807569" />
         </Book>
-        <Book Series="Deadpool" Number="8" Volume="2019" Year="2021">
+        <Book Series="Deadpool" Number="8" Volume="2020" Year="2021">
             <Database Name="cv" Series="122987" Issue="816466" />
         </Book>
-        <Book Series="Deadpool" Number="9" Volume="2019" Year="2021">
+        <Book Series="Deadpool" Number="9" Volume="2020" Year="2021">
             <Database Name="cv" Series="122987" Issue="821493" />
         </Book>
         <Book Series="Marvel Monsters" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="120949" Issue="717521" />
         </Book>
-        <Book Series="M.O.D.O.K.: Head Games" Number="1" Volume="2020" Year="2021">
+        <Book Series="M.O.D.O.K.: Head Games" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="132377" Issue="820025" />
         </Book>
-        <Book Series="M.O.D.O.K.: Head Games" Number="2" Volume="2020" Year="2021">
+        <Book Series="M.O.D.O.K.: Head Games" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="132377" Issue="824030" />
         </Book>
-        <Book Series="M.O.D.O.K.: Head Games" Number="3" Volume="2020" Year="2021">
+        <Book Series="M.O.D.O.K.: Head Games" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="132377" Issue="828859" />
         </Book>
-        <Book Series="M.O.D.O.K.: Head Games" Number="4" Volume="2020" Year="2021">
+        <Book Series="M.O.D.O.K.: Head Games" Number="4" Volume="2021" Year="2021">
             <Database Name="cv" Series="132377" Issue="846086" />
         </Book>
         <Book Series="Hellions" Number="1" Volume="2020" Year="2020">

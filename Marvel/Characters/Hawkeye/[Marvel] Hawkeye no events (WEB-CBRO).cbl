@@ -537,22 +537,22 @@
 <Book Series="Hawkeye" Number="8" Volume="2003" Year="2004">
 <Database Name="cv" Series="23481" Issue="140804" />
 </Book>
-<Book Series="New Avengers" Number="26" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="26" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="108356" />
 </Book>
-<Book Series="New Avengers" Number="27" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="27" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="106364" />
 </Book>
-<Book Series="New Avengers" Number="28" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="28" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="106902" />
 </Book>
-<Book Series="New Avengers" Number="29" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="29" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="108360" />
 </Book>
-<Book Series="New Avengers" Number="30" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="30" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="109267" />
 </Book>
-<Book Series="New Avengers" Number="31" Volume="2004" Year="2007">
+<Book Series="New Avengers" Number="31" Volume="2005" Year="2007">
 <Database Name="cv" Series="11497" Issue="110437" />
 </Book>
 <Book Series="Hawkeye &amp; Mockingbird" Number="1" Volume="2010" Year="2010">
@@ -879,124 +879,124 @@
 <Book Series="New Avengers" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85301" Issue="528513" />
 </Book>
-<Book Series="Occupy Avengers" Number="1" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="556476" />
 </Book>
-<Book Series="Occupy Avengers" Number="2" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="569337" />
 </Book>
-<Book Series="Occupy Avengers" Number="3" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="575877" />
 </Book>
-<Book Series="Occupy Avengers" Number="4" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="582538" />
 </Book>
-<Book Series="Hawkeye" Number="1" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="566712" />
 </Book>
-<Book Series="Hawkeye" Number="2" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="574865" />
 </Book>
-<Book Series="Hawkeye" Number="3" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="579314" />
 </Book>
-<Book Series="Hawkeye" Number="4" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="583720" />
 </Book>
-<Book Series="Occupy Avengers" Number="5" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="589834" />
 </Book>
-<Book Series="Occupy Avengers" Number="6" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="593268" />
 </Book>
-<Book Series="Occupy Avengers" Number="7" Volume="2016" Year="2017">
+<Book Series="Occupy Avengers" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95431" Issue="598381" />
 </Book>
-<Book Series="Hawkeye" Number="5" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="590794" />
 </Book>
-<Book Series="Hawkeye" Number="6" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="594112" />
 </Book>
-<Book Series="Hawkeye" Number="7" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="599864" />
 </Book>
-<Book Series="Hawkeye" Number="8" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="606626" />
 </Book>
-<Book Series="Hawkeye" Number="9" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="612039" />
 </Book>
-<Book Series="Hawkeye" Number="10" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="619623" />
 </Book>
-<Book Series="Hawkeye" Number="11" Volume="2016" Year="2017">
+<Book Series="Hawkeye" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="96661" Issue="626282" />
 </Book>
-<Book Series="Hawkeye" Number="12" Volume="2016" Year="2018">
+<Book Series="Hawkeye" Number="12" Volume="2017" Year="2018">
 <Database Name="cv" Series="96661" Issue="638597" />
 </Book>
 <Book Series="Generations: Hawkeye &amp; Hawkeye" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103816" Issue="617842" />
 </Book>
-<Book Series="Hawkeye" Number="13" Volume="2016" Year="2018">
+<Book Series="Hawkeye" Number="13" Volume="2017" Year="2018">
 <Database Name="cv" Series="96661" Issue="644507" />
 </Book>
-<Book Series="Hawkeye" Number="14" Volume="2016" Year="2018">
+<Book Series="Hawkeye" Number="14" Volume="2017" Year="2018">
 <Database Name="cv" Series="96661" Issue="650917" />
 </Book>
-<Book Series="Hawkeye" Number="15" Volume="2016" Year="2018">
+<Book Series="Hawkeye" Number="15" Volume="2017" Year="2018">
 <Database Name="cv" Series="96661" Issue="658721" />
 </Book>
-<Book Series="Hawkeye" Number="16" Volume="2016" Year="2018">
+<Book Series="Hawkeye" Number="16" Volume="2017" Year="2018">
 <Database Name="cv" Series="96661" Issue="662088" />
 </Book>
-<Book Series="Avengers" Number="675" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="675" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="652621" />
 </Book>
-<Book Series="Avengers" Number="676" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="676" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="654049" />
 </Book>
-<Book Series="Avengers" Number="677" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="677" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="655499" />
 </Book>
-<Book Series="Avengers" Number="678" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="678" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="656696" />
 </Book>
-<Book Series="Avengers" Number="679" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="679" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="658716" />
 </Book>
-<Book Series="Avengers" Number="680" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="680" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="660007" />
 </Book>
-<Book Series="Avengers" Number="681" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="681" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="660654" />
 </Book>
-<Book Series="Avengers" Number="682" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="682" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="661139" />
 </Book>
-<Book Series="Avengers" Number="683" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="683" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="662081" />
 </Book>
-<Book Series="Avengers" Number="684" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="684" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="662737" />
 </Book>
-<Book Series="Avengers" Number="685" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="685" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="663566" />
 </Book>
-<Book Series="Avengers" Number="686" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="686" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="664290" />
 </Book>
-<Book Series="Avengers" Number="687" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="687" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="664907" />
 </Book>
-<Book Series="Avengers" Number="688" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="688" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="665903" />
 </Book>
-<Book Series="Avengers" Number="689" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="689" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="666800" />
 </Book>
-<Book Series="Avengers" Number="690" Volume="2016" Year="2018">
+<Book Series="Avengers" Number="690" Volume="2017" Year="2018">
 <Database Name="cv" Series="95402" Issue="667631" />
 </Book>
 <Book Series="The Punisher" Number="224" Volume="2016" Year="2018">

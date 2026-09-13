@@ -348,7 +348,7 @@
 <Book Series="X-Men Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153608" Issue="1014914" />
 </Book>
-<Book Series="X-Terminators" Number="1" Volume="2023" Year="2023">
+<Book Series="X-Terminators" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="145163" Issue="948121" />
 </Book>
 <Book Series="X-Terminators" Number="2" Volume="2022" Year="2022">
@@ -459,19 +459,19 @@
 <Book Series="Captain Marvel" Number="49" Volume="2019" Year="2023">
 <Database Name="cv" Series="116365" Issue="987103" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="1" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="954280" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="2" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="960981" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="3" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="966425" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="4" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="973028" />
 </Book>
-<Book Series="Sabretooth and the Exiles" Number="5" Volume="2022" Year="2023">
+<Book Series="Sabretooth and the Exiles" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="145971" Issue="979429" />
 </Book>
 <Book Series="Wolverine" Number="29" Volume="2020" Year="2023">
@@ -489,13 +489,13 @@
 <Book Series="X-Men: Red" Number="9" Volume="2022" Year="2023">
 <Database Name="cv" Series="142134" Issue="958991" />
 </Book>
-<Book Series="Dark Web" Number="1" Volume="2022" Year="2022">
+<Book Series="Dark Web" Number="1" Volume="2023" Year="2022">
 <Database Name="cv" Series="146735" Issue="959000" />
 </Book>
-<Book Series="Venom" Number="14" Volume="2021" Year="2023">
+<Book Series="Venom" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="961963" />
 </Book>
-<Book Series="Venom" Number="15" Volume="2021" Year="2023">
+<Book Series="Venom" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="964958" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="14" Volume="2022" Year="2023">
@@ -513,19 +513,19 @@
 <Book Series="The Amazing Spider-Man" Number="18" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="966421" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="964964" />
 </Book>
-<Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146986" Issue="960977" />
 </Book>
-<Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2022" Year="2023">
+<Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146986" Issue="963978" />
 </Book>
 <Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">
@@ -600,19 +600,19 @@
 <Book Series="X-Force" Number="39" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="984323" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="1" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="960009" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="2" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="964966" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="3" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="971889" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="4" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="979424" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="5" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="985650" />
 </Book>
 <Book Series="Immortal X-Men" Number="9" Volume="2022" Year="2023">
@@ -708,7 +708,7 @@
 <Book Series="X-Men" Number="24" Volume="2021" Year="2023">
 <Database Name="cv" Series="137402" Issue="999414" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="7" Volume="2022" Year="2023">
+<Book Series="The Invincible Iron Man" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146873" Issue="993233" />
 </Book>
 <Book Series="X-Men: Before the Fall – Mutant First Strike" Number="1" Volume="2023" Year="2023">

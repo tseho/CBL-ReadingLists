@@ -43,7 +43,7 @@
         <Book Series="Heroes for Hire" Number="13" Volume="2006" Year="2007">
             <Database Name="cv" Series="18102" Issue="114431" />
         </Book>
-        <Book Series="Iron Man" Number="19" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="19" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="110667" />
         </Book>
         <Book Series="World War Hulk: Front Line" Number="1" Volume="2007" Year="2007">

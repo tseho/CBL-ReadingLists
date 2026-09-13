@@ -4,10 +4,10 @@
     <Name>[Marvel] 2004-2012 Part 4.3 All-Out War (MG)</Name>
     <NumIssues>35</NumIssues>
     <Books>
-        <Book Series="Iron Man" Number="13" Volume="2004" Year="2006">
+        <Book Series="Iron Man" Number="13" Volume="2005" Year="2006">
             <Database Name="cv" Series="18220" Issue="108773" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="30" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="30" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106444" />
         </Book>
         <Book Series="Civil War" Number="3" Volume="2006" Year="2006">
@@ -19,19 +19,19 @@
         <Book Series="Civil War: Front Line" Number="6" Volume="2006" Year="2006">
             <Database Name="cv" Series="18245" Issue="108776" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="31" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="31" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106445" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="32" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="32" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106446" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="33" Volume="2004" Year="2006">
+        <Book Series="Cable &amp; Deadpool" Number="33" Volume="2004" Year="2006">
             <Database Name="cv" Series="18070" Issue="106447" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="34" Volume="2004" Year="2007">
+        <Book Series="Cable &amp; Deadpool" Number="34" Volume="2004" Year="2007">
             <Database Name="cv" Series="18070" Issue="106448" />
         </Book>
-        <Book Series="Cable &#38; Deadpool" Number="35" Volume="2004" Year="2007">
+        <Book Series="Cable &amp; Deadpool" Number="35" Volume="2004" Year="2007">
             <Database Name="cv" Series="18070" Issue="106075" />
         </Book>
         <Book Series="Civil War: Front Line" Number="7" Volume="2006" Year="2006">
@@ -49,10 +49,10 @@
         <Book Series="Heroes for Hire" Number="3" Volume="2006" Year="2006">
             <Database Name="cv" Series="18102" Issue="108882" />
         </Book>
-        <Book Series="Captain America" Number="22" Volume="2004" Year="2006">
+        <Book Series="Captain America" Number="22" Volume="2005" Year="2006">
             <Database Name="cv" Series="11499" Issue="108673" />
         </Book>
-        <Book Series="Captain America" Number="23" Volume="2004" Year="2006">
+        <Book Series="Captain America" Number="23" Volume="2005" Year="2006">
             <Database Name="cv" Series="11499" Issue="108891" />
         </Book>
         <Book Series="Black Panther" Number="21" Volume="2005" Year="2006">
@@ -76,10 +76,10 @@
         <Book Series="Civil War: X-Men" Number="4" Volume="2006" Year="2006">
             <Database Name="cv" Series="18528" Issue="108846" />
         </Book>
-        <Book Series="New Avengers" Number="23" Volume="2004" Year="2006">
+        <Book Series="New Avengers" Number="23" Volume="2005" Year="2006">
             <Database Name="cv" Series="11497" Issue="108038" />
         </Book>
-        <Book Series="New Avengers" Number="24" Volume="2004" Year="2006">
+        <Book Series="New Avengers" Number="24" Volume="2005" Year="2006">
             <Database Name="cv" Series="11497" Issue="108039" />
         </Book>
         <Book Series="Wolverine" Number="46" Volume="2003" Year="2006">

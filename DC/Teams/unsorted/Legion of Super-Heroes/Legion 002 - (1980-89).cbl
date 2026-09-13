@@ -87,7 +87,7 @@
     <Book Series="The Legion of Super-Heroes" Number="283" Volume="1980" Year="1982">
       <Database Name="cv" Series="3033" Issue="21833" />
     </Book>
-    <Book Series="World's Finest Comics" Number="284" Volume="1941" Year="1982">
+    <Book Series="World&apos;s Finest Comics" Number="284" Volume="1941" Year="1982">
       <Database Name="cv" Series="18006" Issue="124598" />
     </Book>
     <Book Series="The Legion of Super-Heroes" Number="284" Volume="1980" Year="1982">

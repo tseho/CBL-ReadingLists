@@ -13,10 +13,10 @@
         <Book Series="Captain Marvel" Number="10" Volume="2016" Year="2017">
             <Database Name="cv" Series="87428" Issue="558957" />
         </Book>
-        <Book Series="Ultimates" Number="10" Volume="2015" Year="2016">
+        <Book Series="Ultimates" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="85972" Issue="544996" />
         </Book>
-        <Book Series="Ultimates" Number="11" Volume="2015" Year="2016">
+        <Book Series="Ultimates" Number="11" Volume="2016" Year="2016">
             <Database Name="cv" Series="85972" Issue="551323" />
         </Book>
         <Book Series="Civil War II" Number="4" Volume="2016" Year="2016">
@@ -55,7 +55,7 @@
         <Book Series="Spider-Man" Number="10" Volume="2016" Year="2017">
             <Database Name="cv" Series="87820" Issue="566724" />
         </Book>
-        <Book Series="Ultimates" Number="12" Volume="2015" Year="2016">
+        <Book Series="Ultimates" Number="12" Volume="2016" Year="2016">
             <Database Name="cv" Series="85972" Issue="555543" />
         </Book>
     </Books>

@@ -357,31 +357,31 @@
     <Book Series="Namor" Number="12" Volume="2003" Year="2004">
       <Database Name="cv" Series="22134" Issue="133181" />
     </Book>
-    <Book Series="The New Invaders" Number="1" Volume="2004" Year="2004">
+    <Book Series="New Invaders" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="11309" Issue="99285" />
     </Book>
-    <Book Series="The New Invaders" Number="2" Volume="2004" Year="2004">
+    <Book Series="New Invaders" Number="2" Volume="2004" Year="2004">
       <Database Name="cv" Series="11309" Issue="99286" />
     </Book>
-    <Book Series="The New Invaders" Number="3" Volume="2004" Year="2004">
+    <Book Series="New Invaders" Number="3" Volume="2004" Year="2004">
       <Database Name="cv" Series="11309" Issue="99287" />
     </Book>
-    <Book Series="The New Invaders" Number="4" Volume="2004" Year="2005">
+    <Book Series="New Invaders" Number="4" Volume="2004" Year="2005">
       <Database Name="cv" Series="11309" Issue="99288" />
     </Book>
-    <Book Series="The New Invaders" Number="5" Volume="2004" Year="2005">
+    <Book Series="New Invaders" Number="5" Volume="2004" Year="2005">
       <Database Name="cv" Series="11309" Issue="99289" />
     </Book>
-    <Book Series="The New Invaders" Number="6" Volume="2004" Year="2005">
+    <Book Series="New Invaders" Number="6" Volume="2004" Year="2005">
       <Database Name="cv" Series="11309" Issue="99290" />
     </Book>
-    <Book Series="The New Invaders" Number="7" Volume="2004" Year="2005">
+    <Book Series="New Invaders" Number="7" Volume="2004" Year="2005">
       <Database Name="cv" Series="11309" Issue="127737" />
     </Book>
-    <Book Series="The New Invaders" Number="8" Volume="2004" Year="2005">
+    <Book Series="New Invaders" Number="8" Volume="2004" Year="2005">
       <Database Name="cv" Series="11309" Issue="127750" />
     </Book>
-    <Book Series="The New Invaders" Number="9" Volume="2004" Year="2005">
+    <Book Series="New Invaders" Number="9" Volume="2004" Year="2005">
       <Database Name="cv" Series="11309" Issue="127751" />
     </Book>
     <Book Series="Sub-Mariner" Number="1" Volume="2007" Year="2007">

@@ -66,19 +66,19 @@
 <Book Series="AVX: Consequences" Number="5" Volume="2012" Year="2013">
 <Database Name="cv" Series="52885" Issue="366173" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="19" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="19" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="364133" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="20" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="20" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="367699" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="21" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="21" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="369058" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="22" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="373313" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="23" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="23" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="378900" />
 </Book>
 <Book Series="X-Men: Legacy" Number="1" Volume="2013" Year="2013">
@@ -120,34 +120,34 @@
 <Book Series="Avengers Assemble Annual" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="56877" Issue="384954" />
 </Book>
-<Book Series="Indestructible Hulk" Number="1" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="369012" />
 </Book>
-<Book Series="Indestructible Hulk" Number="2" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="373303" />
 </Book>
-<Book Series="Indestructible Hulk" Number="3" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="380354" />
 </Book>
-<Book Series="Indestructible Hulk" Number="4" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="387258" />
 </Book>
-<Book Series="Indestructible Hulk" Number="5" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="394708" />
 </Book>
-<Book Series="Indestructible Hulk" Number="6" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="395702" />
 </Book>
-<Book Series="Indestructible Hulk" Number="7" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="400147" />
 </Book>
-<Book Series="Indestructible Hulk" Number="8" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="406975" />
 </Book>
-<Book Series="Indestructible Hulk" Number="9" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="411829" />
 </Book>
-<Book Series="Indestructible Hulk" Number="10" Volume="2012" Year="2013">
+<Book Series="Indestructible Hulk" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="54112" Issue="416944" />
 </Book>
 <Book Series="Secret Avengers" Number="1" Volume="2013" Year="2013">
@@ -171,19 +171,19 @@
 <Book Series="New Avengers" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="406978" />
 </Book>
-<Book Series="Avengers" Number="1" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="371103" />
 </Book>
-<Book Series="Avengers" Number="2" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="373217" />
 </Book>
-<Book Series="Avengers" Number="3" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="381411" />
 </Book>
-<Book Series="Avengers" Number="4" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="382803" />
 </Book>
-<Book Series="Avengers" Number="5" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="384953" />
 </Book>
 <Book Series="Thor: God of Thunder" Number="1" Volume="2013" Year="2013">
@@ -273,31 +273,31 @@
 <Book Series="Savage Wolverine" Number="11" Volume="2013" Year="2014">
 <Database Name="cv" Series="55802" Issue="433175" />
 </Book>
-<Book Series="All-New X-Men" Number="1" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="367691" />
 </Book>
-<Book Series="All-New X-Men" Number="2" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="370245" />
 </Book>
-<Book Series="All-New X-Men" Number="3" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="371105" />
 </Book>
-<Book Series="All-New X-Men" Number="4" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="373215" />
 </Book>
-<Book Series="All-New X-Men" Number="5" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="376661" />
 </Book>
-<Book Series="All-New X-Men" Number="6" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="380348" />
 </Book>
-<Book Series="All-New X-Men" Number="7" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="384952" />
 </Book>
-<Book Series="All-New X-Men" Number="8" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="390443" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="24" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="24" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="381421" />
 </Book>
 <Book Series="Uncanny Avengers" Number="5" Volume="2012" Year="2013">
@@ -312,25 +312,25 @@
 <Book Series="Uncanny X-Men" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="392362" />
 </Book>
-<Book Series="All-New X-Men" Number="9" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="394700" />
 </Book>
-<Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="395700" />
 </Book>
 <Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="396436" />
 </Book>
-<Book Series="All-New X-Men" Number="11" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="400145" />
 </Book>
-<Book Series="All-New X-Men" Number="12" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="408989" />
 </Book>
-<Book Series="All-New X-Men" Number="13" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="413652" />
 </Book>
-<Book Series="All-New X-Men" Number="14" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="417830" />
 </Book>
 <Book Series="Uncanny X-Men" Number="5" Volume="2013" Year="2013">
@@ -354,40 +354,40 @@
 <Book Series="Uncanny X-Men" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="423684" />
 </Book>
-<Book Series="All-New X-Men" Number="15" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="420633" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="25" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="25" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="386142" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="26" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="26" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="392363" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="27" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="27" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="395260" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="28" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="28" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="398995" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="29" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="29" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="402293" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="30" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="30" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="406982" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="31" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="31" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="410327" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="32" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="32" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="413671" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="33" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="33" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="418978" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="34" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="34" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="421701" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="35" Volume="2011" Year="2013">
+<Book Series="Wolverine &amp; the X-Men" Number="35" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="423685" />
 </Book>
 <Book Series="X-Men: Legacy" Number="10" Volume="2013" Year="2013">

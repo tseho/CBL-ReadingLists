@@ -21,10 +21,10 @@
 <Book Series="Enter The Heroic Age" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33229" Issue="214815" />
 </Book>
-<Book Series="The Heroic Age: Super Heroes" Number="1" Volume="2010" Year="2010">
+<Book Series="Heroic Age: Heroes" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35497" Issue="234657" />
 </Book>
-<Book Series="The Heroic Age: Villains" Number="1" Volume="2010" Year="2011">
+<Book Series="The Heroic Age: Villains" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36738" Issue="244977" />
 </Book>
 <Book Series="Heroic Age: One Month to Live" Number="1" Volume="2010" Year="2010">
@@ -183,19 +183,19 @@
 <Book Series="Astonishing Spider-Man &amp; Wolverine" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="271595" />
 </Book>
-<Book Series="Captain America" Number="606" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="606" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="218588" />
 </Book>
-<Book Series="Captain America" Number="607" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="607" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="222132" />
 </Book>
-<Book Series="Captain America" Number="608" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="608" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="227787" />
 </Book>
-<Book Series="Captain America" Number="609" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="609" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="231702" />
 </Book>
-<Book Series="Captain America" Number="610" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="610" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="236323" />
 </Book>
 <Book Series="Steve Rogers: Super Soldier" Number="1" Volume="2010" Year="2010">

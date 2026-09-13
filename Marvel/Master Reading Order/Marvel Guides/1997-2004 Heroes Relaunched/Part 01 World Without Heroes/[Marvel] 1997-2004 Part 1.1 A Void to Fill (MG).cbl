@@ -39,7 +39,7 @@
 <Book Series="Thunderbolts" Number="4" Volume="1997" Year="1997">
 <Database Name="cv" Series="6020" Issue="43883" />
 </Book>
-<Book Series="Thunderbolts '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Thunderbolts &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18276" Issue="107014" />
 </Book>
 <Book Series="Heroes for Hire" Number="1" Volume="1997" Year="1997">
@@ -114,7 +114,7 @@
 <Book Series="Ka-Zar" Number="14" Volume="1997" Year="1998">
 <Database Name="cv" Series="6006" Issue="45028" />
 </Book>
-<Book Series="Ka-Zar '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Ka-Zar &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="30175" Issue="186031" />
 </Book>
 </Books>

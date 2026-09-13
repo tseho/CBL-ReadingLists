@@ -135,7 +135,7 @@
     <Book Series="Superman" Number="34" Volume="1987" Year="1989">
       <Database Name="cv" Series="3816" Issue="31519" />
     </Book>
-    <Book Series="Batman and Superman: World's Finest" Number="7" Volume="1999" Year="1999">
+    <Book Series="Batman and Superman: World&apos;s Finest" Number="7" Volume="1999" Year="1999">
       <Database Name="cv" Series="27795" Issue="170215" />
     </Book>
     <Book Series="Adventures of Superman" Number="457" Volume="1987" Year="1989">

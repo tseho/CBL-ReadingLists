@@ -37,19 +37,19 @@
         <Book Series="Spider-Gwen" Number="5" Volume="2015" Year="2015">
             <Database Name="cv" Series="80298" Issue="491529" />
         </Book>
-        <Book Series="Spider-Woman" Number="5" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="5" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="481615" />
         </Book>
-        <Book Series="Spider-Woman" Number="6" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="6" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="485520" />
         </Book>
-        <Book Series="Spider-Woman" Number="7" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="7" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="487846" />
         </Book>
-        <Book Series="Spider-Woman" Number="8" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="8" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="490889" />
         </Book>
-        <Book Series="Spider-Woman" Number="9" Volume="2014" Year="2015">
+        <Book Series="Spider-Woman" Number="9" Volume="2015" Year="2015">
             <Database Name="cv" Series="78202" Issue="495808" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="16" Volume="2014" Year="2015">

@@ -330,88 +330,88 @@
 <Book Series="New Mutants" Number="25" Volume="2009" Year="2011">
 <Database Name="cv" Series="26327" Issue="269819" />
 </Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="301011" />
 </Book>
-<Book Series="Uncanny X-Men" Number="2" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="304473" />
 </Book>
-<Book Series="Uncanny X-Men" Number="3" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="308437" />
 </Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="309467" />
 </Book>
-<Book Series="Uncanny X-Men" Number="5" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="311756" />
 </Book>
-<Book Series="Uncanny X-Men" Number="6" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="6" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="313845" />
 </Book>
-<Book Series="Uncanny X-Men" Number="7" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="315783" />
 </Book>
-<Book Series="Uncanny X-Men" Number="8" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="8" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="319363" />
 </Book>
-<Book Series="Uncanny X-Men" Number="9" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="322747" />
 </Book>
-<Book Series="Uncanny X-Men" Number="10" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="329216" />
 </Book>
-<Book Series="Uncanny X-Men" Number="11" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="333449" />
 </Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="336047" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="13" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="338486" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="14" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="341738" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="15" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="344115" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="16" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="346273" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="17" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="352641" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="18" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="356777" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="19" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="360032" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2011" Year="2012">
+<Book Series="Uncanny X-Men" Number="20" Volume="2012" Year="2012">
 <Database Name="cv" Series="43785" Issue="362220" />
 </Book>
-<Book Series="All-New X-Men" Number="1" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="367691" />
 </Book>
-<Book Series="All-New X-Men" Number="2" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="370245" />
 </Book>
-<Book Series="All-New X-Men" Number="3" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="371105" />
 </Book>
-<Book Series="All-New X-Men" Number="4" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="373215" />
 </Book>
-<Book Series="All-New X-Men" Number="5" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="376661" />
 </Book>
-<Book Series="All-New X-Men" Number="6" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="380348" />
 </Book>
-<Book Series="All-New X-Men" Number="7" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="384952" />
 </Book>
-<Book Series="All-New X-Men" Number="8" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="390443" />
 </Book>
 <Book Series="Uncanny X-Men" Number="1" Volume="2013" Year="2013">
@@ -423,25 +423,25 @@
 <Book Series="Uncanny X-Men" Number="3" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="392362" />
 </Book>
-<Book Series="All-New X-Men" Number="9" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="394700" />
 </Book>
-<Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="395700" />
 </Book>
-<Book Series="All-New X-Men" Number="11" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="400145" />
 </Book>
 <Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="396436" />
 </Book>
-<Book Series="All-New X-Men" Number="12" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="408989" />
 </Book>
-<Book Series="All-New X-Men" Number="13" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="413652" />
 </Book>
-<Book Series="All-New X-Men" Number="14" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="417830" />
 </Book>
 <Book Series="Uncanny X-Men" Number="5" Volume="2013" Year="2013">
@@ -459,7 +459,7 @@
 <Book Series="Uncanny X-Men" Number="9" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="419973" />
 </Book>
-<Book Series="All-New X-Men" Number="15" Volume="2012" Year="2013">
+<Book Series="All-New X-Men" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="53919" Issue="420633" />
 </Book>
 <Book Series="Uncanny X-Men" Number="10" Volume="2013" Year="2013">
@@ -471,16 +471,16 @@
 <Book Series="Uncanny X-Men" Number="14" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="433852" />
 </Book>
-<Book Series="All-New X-Men" Number="18" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="433167" />
 </Book>
-<Book Series="All-New X-Men" Number="19" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="19" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="435047" />
 </Book>
-<Book Series="All-New X-Men" Number="20" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="437482" />
 </Book>
-<Book Series="All-New X-Men" Number="21" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="442161" />
 </Book>
 <Book Series="Uncanny X-Men" Number="15" Volume="2013" Year="2014">
@@ -492,19 +492,19 @@
 <Book Series="Uncanny X-Men" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="445823" />
 </Book>
-<Book Series="All-New X-Men" Number="25" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="450068" />
 </Book>
-<Book Series="All-New X-Men" Number="26" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="451763" />
 </Book>
-<Book Series="All-New X-Men" Number="27" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="452845" />
 </Book>
-<Book Series="All-New X-Men" Number="28" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="456017" />
 </Book>
-<Book Series="All-New X-Men" Number="29" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="29" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="459161" />
 </Book>
 <Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
@@ -519,16 +519,16 @@
 <Book Series="Uncanny X-Men" Number="22" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="456558" />
 </Book>
-<Book Series="Uncanny X-Men Annual" Number="1" Volume="2014" Year="2015">
+<Book Series="Uncanny X-Men Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78718" Issue="472914" />
 </Book>
-<Book Series="All-New X-Men Annual" Number="1" Volume="2014" Year="2015">
+<Book Series="All-New X-Men Annual" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79024" Issue="474620" />
 </Book>
 <Book Series="Uncanny X-Men" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="459685" />
 </Book>
-<Book Series="All-New X-Men" Number="30" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="30" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="462241" />
 </Book>
 <Book Series="Uncanny X-Men" Number="24" Volume="2013" Year="2014">
@@ -537,7 +537,7 @@
 <Book Series="Uncanny X-Men" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="463998" />
 </Book>
-<Book Series="All-New X-Men" Number="31" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="31" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="463476" />
 </Book>
 <Book Series="Uncanny X-Men" Number="26" Volume="2013" Year="2014">
@@ -558,19 +558,19 @@
 <Book Series="Uncanny X-Men" Number="31" Volume="2013" Year="2015">
 <Database Name="cv" Series="57181" Issue="479985" />
 </Book>
-<Book Series="All-New X-Men" Number="32" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="465836" />
 </Book>
-<Book Series="All-New X-Men" Number="33" Volume="2012" Year="2014">
+<Book Series="All-New X-Men" Number="33" Volume="2013" Year="2014">
 <Database Name="cv" Series="53919" Issue="468900" />
 </Book>
-<Book Series="All-New X-Men" Number="34" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="34" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="473638" />
 </Book>
-<Book Series="All-New X-Men" Number="35" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="35" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="476778" />
 </Book>
-<Book Series="All-New X-Men" Number="36" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="36" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="479253" />
 </Book>
 <Book Series="Uncanny X-Men" Number="32" Volume="2013" Year="2015">
@@ -585,31 +585,31 @@
 <Book Series="Uncanny X-Men" Number="35" Volume="2013" Year="2015">
 <Database Name="cv" Series="57181" Issue="495810" />
 </Book>
-<Book Series="All-New X-Men" Number="37" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="37" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="482149" />
 </Book>
-<Book Series="All-New X-Men" Number="40" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="40" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="486715" />
 </Book>
-<Book Series="All-New X-Men" Number="41" Volume="2012" Year="2015">
+<Book Series="All-New X-Men" Number="41" Volume="2013" Year="2015">
 <Database Name="cv" Series="53919" Issue="490874" />
 </Book>
 <Book Series="Uncanny X-Men" Number="600" Volume="2013" Year="2016">
 <Database Name="cv" Series="57181" Issue="504952" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="1" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="504937" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="2" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="506168" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="3" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="507180" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="4" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="508890" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="5" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="510940" />
 </Book>
 <Book Series="Doctor Strange" Number="6" Volume="2015" Year="2016">
@@ -633,40 +633,40 @@
 <Book Series="Doctor Strange" Number="10" Volume="2015" Year="2016">
 <Database Name="cv" Series="85094" Issue="542620" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="6" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="512423" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="7" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="516083" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="8" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="520201" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="9" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="526051" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="10" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="531882" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="11" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="537938" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="12" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="541202" />
 </Book>
 <Book Series="Extraordinary X-Men Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="94271" Issue="550357" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="13" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="546057" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="14" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="14" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="551305" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="15" Volume="2015" Year="2016">
+<Book Series="Extraordinary X-Men" Number="15" Volume="2016" Year="2016">
 <Database Name="cv" Series="85756" Issue="555521" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="16" Volume="2015" Year="2017">
+<Book Series="Extraordinary X-Men" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="85756" Issue="562593" />
 </Book>
 <Book Series="Civil War II" Number="1" Volume="2016" Year="2016">
@@ -705,7 +705,7 @@
 <Book Series="Civil War II" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="90521" Issue="571661" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="20" Volume="2015" Year="2017">
+<Book Series="Extraordinary X-Men" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="85756" Issue="588563" />
 </Book>
 <Book Series="X-Men Prime" Number="1" Volume="2017" Year="2017">
@@ -717,19 +717,19 @@
 <Book Series="X-Men: Gold" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="100603" Issue="619646" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="649740" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="650922" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="652635" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="655510" />
 </Book>
-<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2017" Year="2018">
+<Book Series="Phoenix Resurrection: The Return of Jean Grey" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="107368" Issue="656712" />
 </Book>
 <Book Series="X-Men: Gold" Number="23" Volume="2017" Year="2018">
@@ -762,40 +762,40 @@
 <Book Series="Uncanny X-Men Annual" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116708" Issue="698618" />
 </Book>
-<Book Series="Uncanny X-Men" Number="11" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="11" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="700153" />
 </Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="12" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="701327" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="13" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="702477" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="14" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="703956" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="15" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="705488" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="16" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="706426" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="17" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="707533" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="18" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="709217" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="19" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="710699" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="20" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="711963" />
 </Book>
-<Book Series="Uncanny X-Men" Number="21" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="21" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="713087" />
 </Book>
-<Book Series="Uncanny X-Men" Number="22" Volume="2018" Year="2019">
+<Book Series="Uncanny X-Men" Number="22" Volume="2019" Year="2019">
 <Database Name="cv" Series="115285" Issue="713870" />
 </Book>
 <Book Series="New Mutants" Number="1" Volume="2020" Year="2020">
@@ -927,16 +927,16 @@
 <Book Series="Midnight Suns" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145040" Issue="966423" />
 </Book>
-<Book Series="Dark Web" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146735" Issue="959000" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
 </Book>
-<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Book Series="Dark Web: X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146875" Issue="964964" />
 </Book>
 <Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">

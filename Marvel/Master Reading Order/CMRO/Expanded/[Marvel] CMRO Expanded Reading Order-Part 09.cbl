@@ -93,7 +93,7 @@
 <Book Series="Fantastic Four Annual" Number="14" Volume="1963" Year="1979">
 <Database Name="cv" Series="2129" Issue="19113" />
 </Book>
-<Book Series="Exclusive Collectors' Edition: Spider-man" Number="1" Volume="1980" Year="1980">
+<Book Series="Exclusive Collectors&apos; Edition: Spider-man" Number="1" Volume="1980" Year="1980">
 <Database Name="cv" Series="34467" Issue="224964" />
 </Book>
 <Book Series="Marvel Spotlight" Number="4" Volume="1979" Year="1980">
@@ -207,13 +207,13 @@
 <Book Series="Fantastic Four Annual" Number="1980" Volume="1969" Year="1980">
 <Database Name="cv" Series="53647" Issue="364873" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="11" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="11" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="19437" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="12" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="12" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="19645" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="13" Volume="1977" Year="1979">
+<Book Series="Marvel Super Special" Number="13" Volume="1978" Year="1979">
 <Database Name="cv" Series="2909" Issue="19849" />
 </Book>
 <Book Series="Master of Kung Fu" Number="80" Volume="1974" Year="1979">
@@ -2169,7 +2169,7 @@
 <Book Series="Moon Knight" Number="16" Volume="1980" Year="1982">
 <Database Name="cv" Series="3052" Issue="21940" />
 </Book>
-<Book Series="Captain America &#38; The Incredible Hulk" Number="1" Volume="1981" Year="1981">
+<Book Series="Captain America &amp; The Incredible Hulk" Number="1" Volume="1981" Year="1981">
 <Database Name="cv" Series="62320" Issue="406784" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="76" Volume="1978" Year="1981">
@@ -2508,7 +2508,7 @@
 <Book Series="Spider-Woman" Number="44" Volume="1978" Year="1982">
 <Database Name="cv" Series="2960" Issue="22245" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="21" Volume="1977" Year="1982">
+<Book Series="Marvel Super Special" Number="21" Volume="1978" Year="1982">
 <Database Name="cv" Series="2909" Issue="21805" />
 </Book>
 <Book Series="Iron Man" Number="157" Volume="1968" Year="1982">

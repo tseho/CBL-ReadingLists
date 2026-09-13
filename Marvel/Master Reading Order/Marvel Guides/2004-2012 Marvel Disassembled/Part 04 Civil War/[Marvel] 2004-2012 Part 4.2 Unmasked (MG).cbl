@@ -19,7 +19,7 @@
         <Book Series="She-Hulk" Number="9" Volume="2005" Year="2006">
             <Database Name="cv" Series="18293" Issue="107246" />
         </Book>
-        <Book Series="New Avengers" Number="22" Volume="2004" Year="2006">
+        <Book Series="New Avengers" Number="22" Volume="2005" Year="2006">
             <Database Name="cv" Series="11497" Issue="107895" />
         </Book>
         <Book Series="Blade" Number="4" Volume="2006" Year="2007">
@@ -61,16 +61,16 @@
         <Book Series="Heroes for Hire" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="18102" Issue="108695" />
         </Book>
-        <Book Series="Civil War: Young Avengers &#38; Runaways" Number="1" Volume="2006" Year="2006">
+        <Book Series="Civil War: Young Avengers &amp; Runaways" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="17991" Issue="105339" />
         </Book>
-        <Book Series="Civil War: Young Avengers &#38; Runaways" Number="2" Volume="2006" Year="2006">
+        <Book Series="Civil War: Young Avengers &amp; Runaways" Number="2" Volume="2006" Year="2006">
             <Database Name="cv" Series="17991" Issue="105344" />
         </Book>
-        <Book Series="Civil War: Young Avengers &#38; Runaways" Number="3" Volume="2006" Year="2006">
+        <Book Series="Civil War: Young Avengers &amp; Runaways" Number="3" Volume="2006" Year="2006">
             <Database Name="cv" Series="17991" Issue="105345" />
         </Book>
-        <Book Series="Civil War: Young Avengers &#38; Runaways" Number="4" Volume="2006" Year="2006">
+        <Book Series="Civil War: Young Avengers &amp; Runaways" Number="4" Volume="2006" Year="2006">
             <Database Name="cv" Series="17991" Issue="105346" />
         </Book>
         <Book Series="Thunderbolts" Number="104" Volume="2006" Year="2006">

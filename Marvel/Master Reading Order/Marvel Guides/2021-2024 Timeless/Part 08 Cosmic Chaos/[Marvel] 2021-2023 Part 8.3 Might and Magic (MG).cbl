@@ -54,10 +54,10 @@
         <Book Series="Avengers" Number="2" Volume="2023" Year="2023">
             <Database Name="cv" Series="150431" Issue="996013" />
         </Book>
-        <Book Series="Fantastic Four" Number="12" Volume="2022" Year="2023">
+        <Book Series="Fantastic Four" Number="12" Volume="2023" Year="2023">
             <Database Name="cv" Series="145912" Issue="1020534" />
         </Book>
-        <Book Series="Fantastic Four" Number="13" Volume="2022" Year="2024">
+        <Book Series="Fantastic Four" Number="13" Volume="2023" Year="2024">
             <Database Name="cv" Series="145912" Issue="1029683" />
         </Book>
         <Book Series="Thor Annual" Number="1" Volume="2023" Year="2023">

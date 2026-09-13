@@ -204,7 +204,7 @@
 <Book Series="Guy Gardner: Warrior" Number="37" Volume="1994" Year="1995">
 <Database Name="cv" Series="11894" Issue="104105" />
 </Book>
-<Book Series="Underworld Unleashed: Abyss - Hell's Sentinel" Number="1" Volume="1995" Year="1995">
+<Book Series="Underworld Unleashed: Abyss - Hell&apos;s Sentinel" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22671" Issue="135963" />
 </Book>
 <Book Series="Green Lantern" Number="68" Volume="1990" Year="1995">
@@ -252,10 +252,10 @@
 <Book Series="Green Lantern" Number="75" Volume="1990" Year="1996">
 <Database Name="cv" Series="4363" Issue="42575" />
 </Book>
-<Book Series="Showcase '96" Number="1" Volume="1996" Year="1996">
+<Book Series="Showcase &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="22889" Issue="137445" />
 </Book>
-<Book Series="Showcase '96" Number="2" Volume="1996" Year="1996">
+<Book Series="Showcase &apos;96" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="22889" Issue="137446" />
 </Book>
 <Book Series="Guy Gardner: Warrior" Number="40" Volume="1994" Year="1996">
@@ -519,7 +519,7 @@
 <Book Series="Day of Judgment" Number="5" Volume="1999" Year="1999">
 <Database Name="cv" Series="6604" Issue="47233" />
 </Book>
-<Book Series="Day of Judgment: Secret Files and Origins" Number="1" Volume="1999" Year="1999">
+<Book Series="Day of Judgment Secret Files" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="19899" Issue="119121" />
 </Book>
 <Book Series="JLA" Number="35" Volume="1997" Year="1999">

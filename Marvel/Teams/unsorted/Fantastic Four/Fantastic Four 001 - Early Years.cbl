@@ -780,7 +780,7 @@
     <Book Series="Fantastic Four Annual" Number="14" Volume="1963" Year="1979">
       <Database Name="cv" Series="2129" Issue="19113" />
     </Book>
-    <Book Series="The Fantastic Four: The Secret Story of Marvel's Cosmic Quartet" Number="1" Volume="1981" Year="1980">
+    <Book Series="The Fantastic Four: The Secret Story of Marvel&apos;s Cosmic Quartet" Number="1" Volume="1981" Year="1980">
       <Database Name="cv" Series="62696" Issue="407737" />
     </Book>
     <Book Series="Fantastic Four" Number="218" Volume="1961" Year="1980">

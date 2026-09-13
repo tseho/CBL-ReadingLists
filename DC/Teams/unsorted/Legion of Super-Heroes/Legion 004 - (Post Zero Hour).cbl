@@ -597,10 +597,10 @@
     <Book Series="Teen Titans/Legion Special" Number="1" Volume="2004" Year="2004">
       <Database Name="cv" Series="21506" Issue="129765" />
     </Book>
-    <Book Series="Superboy's Legion" Number="1" Volume="2001" Year="2001">
+    <Book Series="Superboy&apos;s Legion" Number="1" Volume="2001" Year="2001">
       <Database Name="cv" Series="21245" Issue="127755" />
     </Book>
-    <Book Series="Superboy's Legion" Number="2" Volume="2001" Year="2001">
+    <Book Series="Superboy&apos;s Legion" Number="2" Volume="2001" Year="2001">
       <Database Name="cv" Series="21245" Issue="127881" />
     </Book>
   </Books>

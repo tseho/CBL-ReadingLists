@@ -18,7 +18,7 @@
 <Book Series="X-Men" Number="30" Volume="2021" Year="2024">
 <Database Name="cv" Series="137402" Issue="1040949" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="14" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="14" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1040941" />
 </Book>
 <Book Series="Resurrection of Magneto" Number="1" Volume="2024" Year="2024">
@@ -57,7 +57,7 @@
 <Book Series="Resurrection of Magneto" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="156369" Issue="1046272" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="15" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="15" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1046268" />
 </Book>
 <Book Series="Wolverine" Number="44" Volume="2020" Year="2024">
@@ -84,7 +84,7 @@
 <Book Series="Resurrection of Magneto" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="156369" Issue="1048669" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="16" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="16" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1048667" />
 </Book>
 <Book Series="Wolverine" Number="46" Volume="2020" Year="2024">
@@ -117,7 +117,7 @@
 <Book Series="Resurrection of Magneto" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156369" Issue="1051126" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="17" Volume="2022" Year="2024">
+<Book Series="The Invincible Iron Man" Number="17" Volume="2023" Year="2024">
 <Database Name="cv" Series="146873" Issue="1051124" />
 </Book>
 <Book Series="Wolverine" Number="47" Volume="2020" Year="2024">

@@ -3,7 +3,7 @@
 <Name>[Spider-Man] 76 - Absolute Carnage</Name>
 <NumIssues>33</NumIssues>
 <Books>
-<Book Series="Web of Venom: Carnage Born" Number="1" Volume="2018" Year="2019">
+<Book Series="Web of Venom: Carnage Born" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115418" Issue="692566" />
 </Book>
 <Book Series="Web of Venom: Cult of Carnage" Number="1" Volume="2019" Year="2019">
@@ -15,7 +15,7 @@
 <Book Series="Absolute Carnage: Symbiote of Vengeance" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121221" Issue="718743" />
 </Book>
-<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122664" Issue="726199" />
 </Book>
 <Book Series="Web of Venom: Funeral Pyre" Number="1" Volume="2019" Year="2019">
@@ -93,7 +93,7 @@
 <Book Series="The Amazing Spider-Man" Number="31" Volume="2018" Year="2019">
 <Database Name="cv" Series="112161" Issue="721778" />
 </Book>
-<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2019" Year="2020">
+<Book Series="Absolute Carnage: Captain Marvel" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122985" Issue="728410" />
 </Book>
 <Book Series="Absolute Carnage" Number="5" Volume="2019" Year="2020">

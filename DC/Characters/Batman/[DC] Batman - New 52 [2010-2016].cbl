@@ -336,7 +336,7 @@
 <Book Series="Catwoman" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42722" Issue="394652" />
 </Book>
-<Book Series="Worlds' Finest" Number="10" Volume="2012" Year="2013">
+<Book Series="Worlds&apos; Finest" Number="10" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="390405" />
 </Book>
 <Book Series="Batman, Incorporated" Number="9" Volume="2012" Year="2013">

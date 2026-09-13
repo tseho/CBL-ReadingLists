@@ -115,22 +115,22 @@
         <Book Series="The Immortal Iron Fists" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="103011" Issue="628582" />
         </Book>
-        <Book Series="All-New Wolverine" Number="1" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="505513" />
         </Book>
-        <Book Series="All-New Wolverine" Number="2" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="506646" />
         </Book>
-        <Book Series="All-New Wolverine" Number="3" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="509695" />
         </Book>
-        <Book Series="All-New Wolverine" Number="4" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="510934" />
         </Book>
-        <Book Series="All-New Wolverine" Number="5" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="514430" />
         </Book>
-        <Book Series="All-New Wolverine" Number="6" Volume="2015" Year="2016">
+        <Book Series="All-New Wolverine" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="85930" Issue="518850" />
         </Book>
         <Book Series="Daredevil" Number="1" Volume="2016" Year="2016">

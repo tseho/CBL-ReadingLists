@@ -99,16 +99,16 @@
 <Book Series="New X-Men" Number="43" Volume="2004" Year="2007">
 <Database Name="cv" Series="18078" Issue="116391" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="36" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="36" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="107058" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="37" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="37" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="107253" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="38" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="38" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="107252" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="39" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="39" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="108553" />
 </Book>
 <Book Series="X-Men" Number="194" Volume="2004" Year="2007">
@@ -126,19 +126,19 @@
 <Book Series="X-Men" Number="198" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="108555" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="40" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="40" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="109608" />
 </Book>
 <Book Series="X-Men" Number="199" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="109821" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="41" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="41" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="110433" />
 </Book>
 <Book Series="X-Men" Number="200" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="111032" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="42" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="42" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="111382" />
 </Book>
 <Book Series="X-Men" Number="201" Volume="2004" Year="2007">
@@ -288,28 +288,28 @@
 <Book Series="The Uncanny X-Men" Number="491" Volume="1981" Year="2007">
 <Database Name="cv" Series="3092" Issue="115143" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="43" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="43" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="113260" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="44" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="44" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="113776" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="45" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="45" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="115029" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="46" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="46" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="115850" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="47" Volume="2004" Year="2008">
+<Book Series="Cable &amp; Deadpool" Number="47" Volume="2004" Year="2008">
 <Database Name="cv" Series="18070" Issue="118643" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="48" Volume="2004" Year="2008">
+<Book Series="Cable &amp; Deadpool" Number="48" Volume="2004" Year="2008">
 <Database Name="cv" Series="18070" Issue="120276" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="49" Volume="2004" Year="2008">
+<Book Series="Cable &amp; Deadpool" Number="49" Volume="2004" Year="2008">
 <Database Name="cv" Series="18070" Issue="121623" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="50" Volume="2004" Year="2008">
+<Book Series="Cable &amp; Deadpool" Number="50" Volume="2004" Year="2008">
 <Database Name="cv" Series="18070" Issue="123541" />
 </Book>
 <Book Series="Wolverine" Number="50" Volume="2003" Year="2007">

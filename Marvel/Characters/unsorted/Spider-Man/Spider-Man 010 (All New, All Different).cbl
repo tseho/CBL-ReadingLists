@@ -9,13 +9,13 @@
     <Book Series="Spider-Man" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="87820" Issue="517835" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="1" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="505511" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="2" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="507173" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="3" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="510932" />
     </Book>
     <Book Series="Spider-Man" Number="3" Volume="2016" Year="2016">
@@ -27,55 +27,55 @@
     <Book Series="Spider-Man" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="87820" Issue="537945" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="4" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="512415" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="5" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="514428" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="6" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="516944" />
     </Book>
-    <Book Series="Silk" Number="1" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="506662" />
     </Book>
-    <Book Series="Silk" Number="2" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="508436" />
     </Book>
-    <Book Series="Silk" Number="3" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="510952" />
     </Book>
-    <Book Series="Silk" Number="4" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="514449" />
     </Book>
-    <Book Series="Silk" Number="5" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="516965" />
     </Book>
-    <Book Series="Silk" Number="6" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="520210" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="511725" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="2" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="513809" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="3" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="516296" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="4" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="517961" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="5" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="520426" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="6" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="523513" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="7" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="7" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="526461" />
     </Book>
-    <Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
+    <Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="87477" Issue="529004" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2015" Year="2015">
@@ -147,34 +147,34 @@
     <Book Series="Spider-Gwen" Number="6" Volume="2015" Year="2016">
       <Database Name="cv" Series="85311" Issue="518865" />
     </Book>
-    <Book Series="Spider-Woman" Number="1" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="506182" />
     </Book>
-    <Book Series="Spider-Woman" Number="2" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="508899" />
     </Book>
-    <Book Series="Spider-Woman" Number="3" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="512434" />
     </Book>
-    <Book Series="Spider-Woman" Number="4" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="516090" />
     </Book>
-    <Book Series="Spider-Woman" Number="5" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="520211" />
     </Book>
-    <Book Series="Web Warriors" Number="1" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="505531" />
     </Book>
-    <Book Series="Web Warriors" Number="2" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="508443" />
     </Book>
-    <Book Series="Web Warriors" Number="3" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="510958" />
     </Book>
-    <Book Series="Web Warriors" Number="4" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="516097" />
     </Book>
-    <Book Series="Web Warriors" Number="5" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="520216" />
     </Book>
     <Book Series="Spider-Man 2099" Number="1" Volume="2015" Year="2015">
@@ -192,19 +192,19 @@
     <Book Series="Spider-Man 2099" Number="5" Volume="2015" Year="2016">
       <Database Name="cv" Series="85312" Issue="510104" />
     </Book>
-    <Book Series="Carnage" Number="1" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="505515" />
     </Book>
-    <Book Series="Carnage" Number="2" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="506648" />
     </Book>
-    <Book Series="Carnage" Number="3" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="509698" />
     </Book>
-    <Book Series="Carnage" Number="4" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="512420" />
     </Book>
-    <Book Series="Carnage" Number="5" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="516079" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="1" Volume="2016" Year="2016">
@@ -225,22 +225,22 @@
     <Book Series="Spider-Man/Deadpool" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="87182" Issue="537946" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="8" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="525016" />
     </Book>
     <Book Series="Avengers Standoff: Assault On Pleasant Hill Omega" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="89915" Issue="527134" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="9" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="9" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="529647" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="10" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="10" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="533024" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="11" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="11" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="537928" />
     </Book>
-    <Book Series="All-New, All-Different Avengers" Number="12" Volume="2015" Year="2016">
+    <Book Series="All-New, All-Different Avengers" Number="12" Volume="2016" Year="2016">
       <Database Name="cv" Series="85928" Issue="541193" />
     </Book>
     <Book Series="Spider-Women Alpha" Number="1" Volume="2016" Year="2016">
@@ -249,25 +249,25 @@
     <Book Series="Spider-Gwen" Number="7" Volume="2015" Year="2016">
       <Database Name="cv" Series="85311" Issue="525037" />
     </Book>
-    <Book Series="Silk" Number="7" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="7" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="526066" />
     </Book>
-    <Book Series="Spider-Woman" Number="6" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="527153" />
     </Book>
     <Book Series="Spider-Gwen" Number="8" Volume="2015" Year="2016">
       <Database Name="cv" Series="85311" Issue="528520" />
     </Book>
-    <Book Series="Silk" Number="8" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="529661" />
     </Book>
-    <Book Series="Spider-Woman" Number="7" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="7" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="530739" />
     </Book>
     <Book Series="Spider-Women Omega" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="90891" Issue="533039" />
     </Book>
-    <Book Series="Spider-Woman" Number="8" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="533037" />
     </Book>
     <Book Series="Spider-Gwen" Number="9" Volume="2015" Year="2016">
@@ -285,19 +285,19 @@
     <Book Series="Spider-Gwen" Number="13" Volume="2015" Year="2016">
       <Database Name="cv" Series="85311" Issue="553969" />
     </Book>
-    <Book Series="Silk" Number="9" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="9" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="537943" />
     </Book>
-    <Book Series="Silk" Number="10" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="10" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="539251" />
     </Book>
-    <Book Series="Silk" Number="11" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="11" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="542628" />
     </Book>
-    <Book Series="Silk" Number="12" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="12" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="548582" />
     </Book>
-    <Book Series="Silk" Number="13" Volume="2015" Year="2016">
+    <Book Series="Silk" Number="13" Volume="2016" Year="2016">
       <Database Name="cv" Series="86251" Issue="553966" />
     </Book>
     <Book Series="Spider-Man 2099" Number="6" Volume="2015" Year="2016">
@@ -315,37 +315,37 @@
     <Book Series="Spider-Man 2099" Number="10" Volume="2015" Year="2016">
       <Database Name="cv" Series="85312" Issue="528521" />
     </Book>
-    <Book Series="Carnage" Number="6" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="521330" />
     </Book>
-    <Book Series="Carnage" Number="7" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="7" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="527135" />
     </Book>
-    <Book Series="Carnage" Number="8" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="531876" />
     </Book>
-    <Book Series="Carnage" Number="9" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="9" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="537228" />
     </Book>
-    <Book Series="Carnage" Number="10" Volume="2015" Year="2016">
+    <Book Series="Carnage" Number="10" Volume="2016" Year="2016">
       <Database Name="cv" Series="85938" Issue="541198" />
     </Book>
-    <Book Series="Web Warriors" Number="6" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="525042" />
     </Book>
-    <Book Series="Web Warriors" Number="7" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="7" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="529669" />
     </Book>
-    <Book Series="Web Warriors" Number="8" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="537253" />
     </Book>
-    <Book Series="Web Warriors" Number="9" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="9" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="539260" />
     </Book>
-    <Book Series="Web Warriors" Number="10" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="10" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="544999" />
     </Book>
-    <Book Series="Web Warriors" Number="11" Volume="2015" Year="2016">
+    <Book Series="Web Warriors" Number="11" Volume="2016" Year="2016">
       <Database Name="cv" Series="85976" Issue="551326" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="12" Volume="2015" Year="2016">
@@ -360,16 +360,16 @@
     <Book Series="The Amazing Spider-Man" Number="15" Volume="2015" Year="2016">
       <Database Name="cv" Series="85076" Issue="538500" />
     </Book>
-    <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2016" Year="2017">
+    <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="95808" Issue="558953" />
     </Book>
-    <Book Series="The Totally Awesome Hulk" Number="8" Volume="2015" Year="2016">
+    <Book Series="The Totally Awesome Hulk" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="86408" Issue="538523" />
     </Book>
     <Book Series="Civil War II" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="90521" Issue="533027" />
     </Book>
-    <Book Series="Spider-Woman" Number="9" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="9" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="538520" />
     </Book>
     <Book Series="Spider-Man" Number="6" Volume="2016" Year="2016">
@@ -399,10 +399,10 @@
     <Book Series="Spider-Man" Number="8" Volume="2016" Year="2016">
       <Database Name="cv" Series="87820" Issue="549524" />
     </Book>
-    <Book Series="Spider-Woman" Number="10" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="10" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="544992" />
     </Book>
-    <Book Series="Spider-Woman" Number="11" Volume="2015" Year="2016">
+    <Book Series="Spider-Woman" Number="11" Volume="2016" Year="2016">
       <Database Name="cv" Series="86127" Issue="551318" />
     </Book>
     <Book Series="Civil War II" Number="4" Volume="2016" Year="2016">
@@ -474,7 +474,7 @@
     <Book Series="The Amazing Spider-Man" Number="21" Volume="2015" Year="2017">
       <Database Name="cv" Series="85076" Issue="558408" />
     </Book>
-    <Book Series="Silk" Number="14" Volume="2015" Year="2017">
+    <Book Series="Silk" Number="14" Volume="2016" Year="2017">
       <Database Name="cv" Series="86251" Issue="558421" />
     </Book>
     <Book Series="The Clone Conspiracy" Number="3" Volume="2016" Year="2017">
@@ -483,7 +483,7 @@
     <Book Series="The Amazing Spider-Man" Number="22" Volume="2015" Year="2017">
       <Database Name="cv" Series="85076" Issue="569323" />
     </Book>
-    <Book Series="Silk" Number="15" Volume="2015" Year="2017">
+    <Book Series="Silk" Number="15" Volume="2016" Year="2017">
       <Database Name="cv" Series="86251" Issue="566723" />
     </Book>
     <Book Series="The Clone Conspiracy" Number="4" Volume="2016" Year="2017">
@@ -492,7 +492,7 @@
     <Book Series="The Amazing Spider-Man" Number="23" Volume="2015" Year="2017">
       <Database Name="cv" Series="85076" Issue="576613" />
     </Book>
-    <Book Series="Silk" Number="16" Volume="2015" Year="2017">
+    <Book Series="Silk" Number="16" Volume="2016" Year="2017">
       <Database Name="cv" Series="86251" Issue="575881" />
     </Book>
     <Book Series="Prowler" Number="1" Volume="2016" Year="2016">
@@ -513,7 +513,7 @@
     <Book Series="The Amazing Spider-Man" Number="24" Volume="2015" Year="2017">
       <Database Name="cv" Series="85076" Issue="582516" />
     </Book>
-    <Book Series="Silk" Number="17" Volume="2015" Year="2017">
+    <Book Series="Silk" Number="17" Volume="2016" Year="2017">
       <Database Name="cv" Series="86251" Issue="581567" />
     </Book>
     <Book Series="Prowler" Number="5" Volume="2016" Year="2017">
@@ -525,10 +525,10 @@
     <Book Series="Prowler" Number="6" Volume="2016" Year="2017">
       <Database Name="cv" Series="95232" Issue="588572" />
     </Book>
-    <Book Series="Silk" Number="18" Volume="2015" Year="2017">
+    <Book Series="Silk" Number="18" Volume="2016" Year="2017">
       <Database Name="cv" Series="86251" Issue="583727" />
     </Book>
-    <Book Series="Silk" Number="19" Volume="2015" Year="2017">
+    <Book Series="Silk" Number="19" Volume="2016" Year="2017">
       <Database Name="cv" Series="86251" Issue="592610" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="7" Volume="2016" Year="2016">
@@ -573,46 +573,46 @@
     <Book Series="Champions" Number="6" Volume="2016" Year="2017">
       <Database Name="cv" Series="94612" Issue="583714" />
     </Book>
-    <Book Series="Avengers" Number="1" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="556467" />
     </Book>
-    <Book Series="Avengers" Number="2" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="2" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="563716" />
     </Book>
-    <Book Series="Avengers" Number="3" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="3" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="574859" />
     </Book>
-    <Book Series="Avengers" Number="4" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="4" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="579305" />
     </Book>
-    <Book Series="Avengers" Number="5" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="5" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="583712" />
     </Book>
-    <Book Series="Spider-Woman" Number="14" Volume="2015" Year="2017">
+    <Book Series="Spider-Woman" Number="14" Volume="2016" Year="2017">
       <Database Name="cv" Series="86127" Issue="571684" />
     </Book>
-    <Book Series="Spider-Woman" Number="15" Volume="2015" Year="2017">
+    <Book Series="Spider-Woman" Number="15" Volume="2016" Year="2017">
       <Database Name="cv" Series="86127" Issue="578474" />
     </Book>
-    <Book Series="Spider-Woman" Number="16" Volume="2015" Year="2017">
+    <Book Series="Spider-Woman" Number="16" Volume="2016" Year="2017">
       <Database Name="cv" Series="86127" Issue="582546" />
     </Book>
-    <Book Series="Spider-Woman" Number="17" Volume="2015" Year="2017">
+    <Book Series="Spider-Woman" Number="17" Volume="2016" Year="2017">
       <Database Name="cv" Series="86127" Issue="589837" />
     </Book>
-    <Book Series="Venom" Number="1" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="1" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="558979" />
     </Book>
-    <Book Series="Venom" Number="2" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="2" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="569355" />
     </Book>
-    <Book Series="Venom" Number="3" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="3" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="576642" />
     </Book>
-    <Book Series="Venom" Number="5" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="5" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="587423" />
     </Book>
-    <Book Series="Venom" Number="6" Volume="2016" Year="2017">
+    <Book Series="Venom" Number="6" Volume="2017" Year="2017">
       <Database Name="cv" Series="95845" Issue="592617" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="25" Volume="2015" Year="2017">
@@ -672,22 +672,22 @@
     <Book Series="Spider-Gwen" Number="23" Volume="2015" Year="2017">
       <Database Name="cv" Series="85311" Issue="617850" />
     </Book>
-    <Book Series="Deadpool" Number="28" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="28" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="583716" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="15" Volume="2016" Year="2017">
       <Database Name="cv" Series="87182" Issue="585093" />
     </Book>
-    <Book Series="Deadpool &#38; The Mercs For Money" Number="9" Volume="2016" Year="2017">
+    <Book Series="Deadpool &amp; The Mercs For Money" Number="9" Volume="2016" Year="2017">
       <Database Name="cv" Series="92360" Issue="589825" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="16" Volume="2016" Year="2017">
       <Database Name="cv" Series="87182" Issue="590805" />
     </Book>
-    <Book Series="Deadpool &#38; The Mercs For Money" Number="10" Volume="2016" Year="2017">
+    <Book Series="Deadpool &amp; The Mercs For Money" Number="10" Volume="2016" Year="2017">
       <Database Name="cv" Series="92360" Issue="591753" />
     </Book>
-    <Book Series="Deadpool" Number="29" Volume="2015" Year="2017">
+    <Book Series="Deadpool" Number="29" Volume="2016" Year="2017">
       <Database Name="cv" Series="85750" Issue="592595" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="17" Volume="2016" Year="2017">
@@ -726,7 +726,7 @@
     <Book Series="Spider-Man 2099" Number="25" Volume="2015" Year="2017">
       <Database Name="cv" Series="85312" Issue="609361" />
     </Book>
-    <Book Series="Avengers" Number="1.MU" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="1.MU" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="578450" />
     </Book>
     <Book Series="Spider-Man/Deadpool" Number="1.MU" Volume="2016" Year="2017">
@@ -744,10 +744,10 @@
     <Book Series="Champions" Number="9" Volume="2016" Year="2017">
       <Database Name="cv" Series="94612" Issue="599860" />
     </Book>
-    <Book Series="Avengers" Number="7" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="7" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="594959" />
     </Book>
-    <Book Series="Avengers" Number="8" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="8" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="599857" />
     </Book>
     <Book Series="Peter Parker: The Spectacular Spider-Man" Number="1" Volume="2017" Year="2017">
@@ -879,7 +879,7 @@
     <Book Series="Secret Empire" Number="10" Volume="2017" Year="2017">
       <Database Name="cv" Series="100840" Issue="617849" />
     </Book>
-    <Book Series="Avengers" Number="11" Volume="2016" Year="2017">
+    <Book Series="Avengers" Number="11" Volume="2017" Year="2017">
       <Database Name="cv" Series="95402" Issue="622934" />
     </Book>
     <Book Series="Champions" Number="12" Volume="2016" Year="2017">

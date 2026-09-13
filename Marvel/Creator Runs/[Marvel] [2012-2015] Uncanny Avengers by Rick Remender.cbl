@@ -69,7 +69,7 @@
 <Book Series="Uncanny Avengers" Number="22" Volume="2012" Year="2014">
 <Database Name="cv" Series="52880" Issue="460973" />
 </Book>
-<Book Series="Uncanny Avengers Annual" Number="1" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86135" Issue="506186" />
 </Book>
 <Book Series="Uncanny Avengers" Number="23" Volume="2012" Year="2014">
@@ -81,31 +81,31 @@
 <Book Series="Uncanny Avengers" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="52880" Issue="467043" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="1" Volume="2014" Year="2014">
+<Book Series="Avengers &amp; X-Men: Axis" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77424" Issue="467648" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="2" Volume="2014" Year="2014">
+<Book Series="Avengers &amp; X-Men: Axis" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="77424" Issue="468072" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="3" Volume="2014" Year="2014">
+<Book Series="Avengers &amp; X-Men: Axis" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="77424" Issue="468458" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="4" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="4" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="469488" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="5" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="5" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="469826" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="6" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="6" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="470419" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="7" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="7" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="472901" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="8" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="473639" />
 </Book>
-<Book Series="Avengers &#38; X-Men: Axis" Number="9" Volume="2014" Year="2015">
+<Book Series="Avengers &amp; X-Men: Axis" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="77424" Issue="474621" />
 </Book>
 <Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">

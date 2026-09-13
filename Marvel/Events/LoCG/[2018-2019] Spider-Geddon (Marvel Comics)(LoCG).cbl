@@ -69,7 +69,7 @@
 <Book Series="Spider-Geddon" Number="4" Volume="2018" Year="2019">
 <Database Name="cv" Series="113899" Issue="692557" />
 </Book>
-<Book Series="Spider-Geddon Handbook" Number="1" Volume="2018" Year="2019">
+<Book Series="Spider-Geddon Handbook" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115762" Issue="694143" />
 </Book>
 <Book Series="Spider-Gwen: Ghost-Spider" Number="3" Volume="2018" Year="2019">

@@ -159,22 +159,22 @@
     <Book Series="New Suicide Squad" Number="16" Volume="2014" Year="2016">
       <Database Name="cv" Series="75537" Issue="510921" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="1" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="87635" Issue="512402" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="2" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="87635" Issue="516935" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="3" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="87635" Issue="521316" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="4" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="4" Volume="2016" Year="2016">
       <Database Name="cv" Series="87635" Issue="527122" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="5" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="5" Volume="2016" Year="2016">
       <Database Name="cv" Series="87635" Issue="531861" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="6" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="6" Volume="2016" Year="2016">
       <Database Name="cv" Series="87635" Issue="537221" />
     </Book>
     <Book Series="Deathstroke" Number="11" Volume="2014" Year="2015">
@@ -216,22 +216,22 @@
     <Book Series="New Suicide Squad" Number="22" Volume="2014" Year="2016">
       <Database Name="cv" Series="75537" Issue="540056" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="1" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="1" Volume="2016" Year="2016">
       <Database Name="cv" Series="92974" Issue="543732" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="2" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="2" Volume="2016" Year="2016">
       <Database Name="cv" Series="92974" Issue="550335" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="3" Volume="2016" Year="2016">
+    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="3" Volume="2016" Year="2016">
       <Database Name="cv" Series="92974" Issue="553932" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="4" Volume="2016" Year="2017">
+    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="4" Volume="2016" Year="2017">
       <Database Name="cv" Series="92974" Issue="558401" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="5" Volume="2016" Year="2017">
+    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="5" Volume="2016" Year="2017">
       <Database Name="cv" Series="92974" Issue="569315" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="6" Volume="2016" Year="2017">
+    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="6" Volume="2016" Year="2017">
       <Database Name="cv" Series="92974" Issue="576603" />
     </Book>
     <Book Series="Suicide Squad Special: War Crimes" Number="1" Volume="2016" Year="2016">

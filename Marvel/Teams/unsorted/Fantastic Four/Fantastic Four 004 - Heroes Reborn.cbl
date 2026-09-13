@@ -99,7 +99,7 @@
     <Book Series="Fantastic Four" Number="8" Volume="1998" Year="1998">
       <Database Name="cv" Series="6211" Issue="45265" />
     </Book>
-    <Book Series="Uncanny X-Men / Fantastic Four '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Uncanny X-Men / Fantastic Four &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="30468" Issue="187571" />
     </Book>
     <Book Series="Fantastic Four" Number="9" Volume="1998" Year="1998">
@@ -114,7 +114,7 @@
     <Book Series="Fantastic Four" Number="12" Volume="1998" Year="1998">
       <Database Name="cv" Series="6211" Issue="45553" />
     </Book>
-    <Book Series="Fantastic Four / Fantastic 4 '98" Number="1" Volume="1998" Year="1998">
+    <Book Series="Fantastic Four / Fantastic 4 &apos;98" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="60493" Issue="138969" />
     </Book>
     <Book Series="Fantastic Four" Number="13" Volume="1998" Year="1999">
@@ -366,7 +366,7 @@
     <Book Series="Thing: Freakshow" Number="4" Volume="2002" Year="2002">
       <Database Name="cv" Series="9474" Issue="77985" />
     </Book>
-    <Book Series="Thing &#38; She-Hulk: The Long Night" Number="1" Volume="2002" Year="2002">
+    <Book Series="Thing &amp; She-Hulk: The Long Night" Number="1" Volume="2002" Year="2002">
       <Database Name="cv" Series="28195" Issue="173346" />
     </Book>
     <Book Series="Fantastic Four" Number="60" Volume="1998" Year="2002">

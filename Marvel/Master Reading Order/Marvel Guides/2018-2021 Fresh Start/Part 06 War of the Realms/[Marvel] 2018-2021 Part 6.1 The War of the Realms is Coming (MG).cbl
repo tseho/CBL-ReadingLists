@@ -127,7 +127,7 @@
         <Book Series="Captain Marvel" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="116365" Issue="708129" />
         </Book>
-        <Book Series="Captain Marvel: Braver &#38; Mightier" Number="1" Volume="2019" Year="2019">
+        <Book Series="Captain Marvel: Braver &amp; Mightier" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="117340" Issue="701932" />
         </Book>
         <Book Series="Avengers" Number="12" Volume="2018" Year="2019">
@@ -181,25 +181,25 @@
         <Book Series="Champions" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="116243" Issue="705468" />
         </Book>
-        <Book Series="Ironheart" Number="6" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="6" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="709204" />
         </Book>
-        <Book Series="Ironheart" Number="7" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="7" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="711322" />
         </Book>
-        <Book Series="Ironheart" Number="8" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="8" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="713506" />
         </Book>
-        <Book Series="Ironheart" Number="9" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="9" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="716363" />
         </Book>
-        <Book Series="Ironheart" Number="10" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="10" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="718756" />
         </Book>
-        <Book Series="Ironheart" Number="11" Volume="2018" Year="2019">
+        <Book Series="Ironheart" Number="11" Volume="2019" Year="2019">
             <Database Name="cv" Series="115575" Issue="725250" />
         </Book>
-        <Book Series="Ironheart" Number="12" Volume="2018" Year="2020">
+        <Book Series="Ironheart" Number="12" Volume="2019" Year="2020">
             <Database Name="cv" Series="115575" Issue="728976" />
         </Book>
         <Book Series="Asgardians of the Galaxy" Number="6" Volume="2018" Year="2019">

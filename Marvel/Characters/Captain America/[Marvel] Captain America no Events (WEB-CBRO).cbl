@@ -444,229 +444,229 @@
 <Book Series="Captain America" Number="23" Volume="1998" Year="1999">
 <Database Name="cv" Series="6206" Issue="66228" />
 </Book>
-<Book Series="Captain America" Number="1" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101412" />
 </Book>
-<Book Series="Captain America" Number="2" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101413" />
 </Book>
-<Book Series="Captain America" Number="3" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101414" />
 </Book>
-<Book Series="Captain America" Number="4" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="101415" />
 </Book>
-<Book Series="Captain America" Number="5" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115184" />
 </Book>
-<Book Series="Captain America" Number="6" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115187" />
 </Book>
-<Book Series="Captain America" Number="7" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115267" />
 </Book>
-<Book Series="Captain America" Number="8" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115268" />
 </Book>
-<Book Series="Captain America" Number="9" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115269" />
 </Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115271" />
 </Book>
-<Book Series="Captain America" Number="11" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="11" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115273" />
 </Book>
-<Book Series="Captain America" Number="12" Volume="2004" Year="2005">
+<Book Series="Captain America" Number="12" Volume="2005" Year="2005">
 <Database Name="cv" Series="11499" Issue="115303" />
 </Book>
-<Book Series="Captain America" Number="13" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="115308" />
 </Book>
-<Book Series="Captain America" Number="14" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="14" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="113175" />
 </Book>
-<Book Series="Captain America" Number="15" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="15" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="113174" />
 </Book>
-<Book Series="Captain America" Number="16" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="105970" />
 </Book>
-<Book Series="Captain America" Number="17" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="17" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="105957" />
 </Book>
 <Book Series="Captain America: 65th Anniversary Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="25339" Issue="149557" />
 </Book>
-<Book Series="Captain America" Number="18" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="107025" />
 </Book>
-<Book Series="Captain America" Number="19" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="19" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="107026" />
 </Book>
-<Book Series="Captain America" Number="20" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="20" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="108405" />
 </Book>
-<Book Series="Captain America" Number="21" Volume="2004" Year="2006">
+<Book Series="Captain America" Number="21" Volume="2005" Year="2006">
 <Database Name="cv" Series="11499" Issue="109859" />
 </Book>
-<Book Series="Captain America" Number="25" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="25" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="106788" />
 </Book>
-<Book Series="Captain America" Number="26" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="26" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="109835" />
 </Book>
-<Book Series="Captain America" Number="27" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="27" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="110669" />
 </Book>
-<Book Series="Captain America" Number="28" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="28" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="111671" />
 </Book>
-<Book Series="Captain America" Number="29" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="29" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="113543" />
 </Book>
-<Book Series="Captain America" Number="30" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="30" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="114665" />
 </Book>
-<Book Series="Captain America" Number="31" Volume="2004" Year="2007">
+<Book Series="Captain America" Number="31" Volume="2005" Year="2007">
 <Database Name="cv" Series="11499" Issue="115675" />
 </Book>
-<Book Series="Captain America" Number="32" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="32" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="118235" />
 </Book>
-<Book Series="Captain America" Number="33" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="33" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="120541" />
 </Book>
-<Book Series="Captain America" Number="34" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="34" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="122069" />
 </Book>
-<Book Series="Captain America" Number="35" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="35" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="124075" />
 </Book>
-<Book Series="Captain America" Number="36" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="36" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="125669" />
 </Book>
-<Book Series="Captain America" Number="37" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="37" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="127500" />
 </Book>
-<Book Series="Captain America" Number="38" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="38" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="130594" />
 </Book>
-<Book Series="Captain America" Number="39" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="39" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="131810" />
 </Book>
-<Book Series="Captain America" Number="40" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="40" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="133665" />
 </Book>
-<Book Series="Captain America" Number="41" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="41" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="135981" />
 </Book>
-<Book Series="Captain America" Number="42" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="42" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="139326" />
 </Book>
-<Book Series="Captain America" Number="43" Volume="2004" Year="2008">
+<Book Series="Captain America" Number="43" Volume="2005" Year="2008">
 <Database Name="cv" Series="11499" Issue="140845" />
 </Book>
-<Book Series="Captain America" Number="44" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="44" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="143155" />
 </Book>
-<Book Series="Captain America" Number="45" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="45" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="149286" />
 </Book>
-<Book Series="Captain America" Number="46" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="46" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="150591" />
 </Book>
-<Book Series="Captain America" Number="47" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="47" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="152714" />
 </Book>
-<Book Series="Captain America" Number="48" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="48" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="153957" />
 </Book>
-<Book Series="Captain America" Number="49" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="49" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="155509" />
 </Book>
-<Book Series="Captain America" Number="50" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="50" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="157737" />
 </Book>
-<Book Series="Captain America" Number="600" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="600" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="160412" />
 </Book>
-<Book Series="Captain America" Number="601" Volume="2004" Year="2009">
+<Book Series="Captain America" Number="601" Volume="2005" Year="2009">
 <Database Name="cv" Series="11499" Issue="164034" />
 </Book>
-<Book Series="Captain America: Reborn" Number="1" Volume="2009" Year="2009">
+<Book Series="Captain America: Reborn" Number="1" Volume="2010" Year="2009">
 <Database Name="cv" Series="26966" Issue="162615" />
 </Book>
-<Book Series="Captain America: Reborn" Number="2" Volume="2009" Year="2009">
+<Book Series="Captain America: Reborn" Number="2" Volume="2010" Year="2009">
 <Database Name="cv" Series="26966" Issue="166223" />
 </Book>
-<Book Series="Captain America: Reborn" Number="3" Volume="2009" Year="2009">
+<Book Series="Captain America: Reborn" Number="3" Volume="2010" Year="2009">
 <Database Name="cv" Series="26966" Issue="171208" />
 </Book>
-<Book Series="Captain America: Reborn" Number="4" Volume="2009" Year="2010">
+<Book Series="Captain America: Reborn" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="26966" Issue="181437" />
 </Book>
-<Book Series="Captain America: Reborn" Number="5" Volume="2009" Year="2010">
+<Book Series="Captain America: Reborn" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="26966" Issue="187627" />
 </Book>
-<Book Series="Captain America: Reborn" Number="6" Volume="2009" Year="2010">
+<Book Series="Captain America: Reborn" Number="6" Volume="2010" Year="2010">
 <Database Name="cv" Series="26966" Issue="194589" />
 </Book>
-<Book Series="Captain America Reborn: Who Will Wield The Shield?" Number="1" Volume="2009" Year="2010">
+<Book Series="Captain America Reborn: Who Will Wield The Shield?" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30678" Issue="189493" />
 </Book>
-<Book Series="Captain America" Number="602" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="602" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="193414" />
 </Book>
-<Book Series="Captain America" Number="603" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="603" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="197668" />
 </Book>
-<Book Series="Captain America" Number="604" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="604" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="201710" />
 </Book>
-<Book Series="Captain America" Number="605" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="605" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="210223" />
 </Book>
-<Book Series="Captain America" Number="606" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="606" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="218588" />
 </Book>
-<Book Series="Captain America" Number="607" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="607" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="222132" />
 </Book>
-<Book Series="Captain America" Number="608" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="608" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="227787" />
 </Book>
-<Book Series="Captain America" Number="609" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="609" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="231702" />
 </Book>
-<Book Series="Captain America" Number="610" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="610" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="236323" />
 </Book>
-<Book Series="Captain America" Number="611" Volume="2004" Year="2010">
+<Book Series="Captain America" Number="611" Volume="2005" Year="2010">
 <Database Name="cv" Series="11499" Issue="238923" />
 </Book>
-<Book Series="Captain America" Number="612" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="612" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="246465" />
 </Book>
-<Book Series="Captain America" Number="613" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="613" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="253003" />
 </Book>
-<Book Series="Captain America" Number="614" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="614" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="259190" />
 </Book>
-<Book Series="Captain America" Number="615" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="615" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="263731" />
 </Book>
-<Book Series="Captain America" Number="616" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="616" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="267208" />
 </Book>
-<Book Series="Captain America" Number="617" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="617" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="269012" />
 </Book>
-<Book Series="Captain America" Number="618" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="618" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="271548" />
 </Book>
-<Book Series="Captain America" Number="619" Volume="2004" Year="2011">
+<Book Series="Captain America" Number="619" Volume="2005" Year="2011">
 <Database Name="cv" Series="11499" Issue="275794" />
 </Book>
 <Book Series="Captain America" Number="1" Volume="2011" Year="2011">
@@ -831,49 +831,55 @@
 <Book Series="Captain America" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="54110" Issue="455485" />
 </Book>
-<Book Series="Captain America &amp; the Mighty Avengers" Number="4" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="476782" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="478603" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469227" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="479251" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469228" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="479966" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469230" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="480665" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469670" />
 </Book>
-<Book Series="Captain America &amp; the Mighty Avengers" Number="5" Volume="2014" Year="2015">
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="5" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469671" />
+</Book>
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="6" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469672" />
+</Book>
+<Book Series="Captain America &amp; the Mighty Avengers" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="479969" />
 </Book>
-<Book Series="Captain America &amp; the Mighty Avengers" Number="6" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="482682" />
 </Book>
-<Book Series="Captain America &amp; the Mighty Avengers" Number="7" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="7" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="486146" />
 </Book>
-<Book Series="All-New Captain America" Number="1" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="469824" />
 </Book>
-<Book Series="All-New Captain America" Number="2" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="473637" />
 </Book>
-<Book Series="All-New Captain America" Number="3" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="475927" />
 </Book>
-<Book Series="All-New Captain America" Number="4" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="479965" />
 </Book>
-<Book Series="All-New Captain America" Number="5" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="482677" />
 </Book>
-<Book Series="All-New Captain America" Number="6" Volume="2014" Year="2015">
+<Book Series="All-New Captain America" Number="6" Volume="2015" Year="2015">
 <Database Name="cv" Series="78044" Issue="487200" />
 </Book>
-<Book Series="Captain America &amp; the Mighty Avengers" Number="8" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="8" Volume="2015" Year="2015">
 <Database Name="cv" Series="78045" Issue="488644" />
 </Book>
 <Book Series="Avengers" Number="0" Volume="2015" Year="2015">
@@ -885,13 +891,13 @@
 <Book Series="Captain America: Sam Wilson" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="85274" Issue="504334" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="1" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="505511" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="2" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="507173" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="3" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="510932" />
 </Book>
 <Book Series="Free Comic Book Day 2015 (Avengers)" Number="1" Volume="2015" Year="2015">
@@ -909,7 +915,7 @@
 <Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="85318" Issue="510957" />
 </Book>
-<Book Series="Uncanny Avengers Annual" Number="1" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86135" Issue="506186" />
 </Book>
 <Book Series="The Astonishing Ant-Man" Number="3" Volume="2015" Year="2016">
@@ -927,13 +933,13 @@
 <Book Series="Captain America: Sam Wilson" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="85274" Issue="513641" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="4" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="512415" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="5" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="514428" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="6" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="516944" />
 </Book>
 <Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2016">
@@ -951,16 +957,16 @@
 <Book Series="Captain America: Steve Rogers" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="90698" Issue="541196" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="9" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="529647" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="10" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="533024" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="11" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="537928" />
 </Book>
-<Book Series="All-New, All-Different Avengers" Number="12" Volume="2015" Year="2016">
+<Book Series="All-New, All-Different Avengers" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="85928" Issue="541193" />
 </Book>
 <Book Series="Uncanny Avengers" Number="9" Volume="2015" Year="2016">
@@ -999,31 +1005,31 @@
 <Book Series="Captain America: Sam Wilson" Number="16" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="569327" />
 </Book>
-<Book Series="Avengers" Number="1" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="556467" />
 </Book>
-<Book Series="Avengers" Number="2" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="563716" />
 </Book>
-<Book Series="Avengers" Number="3" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="574859" />
 </Book>
-<Book Series="Avengers" Number="4" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="579305" />
 </Book>
-<Book Series="Avengers" Number="5" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="583712" />
 </Book>
-<Book Series="Avengers" Number="6" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="590787" />
 </Book>
 <Book Series="Captain America: Sam Wilson" Number="17" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="574860" />
 </Book>
-<Book Series="Avengers" Number="7" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="594959" />
 </Book>
-<Book Series="Avengers" Number="8" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="599857" />
 </Book>
 <Book Series="Uncanny Avengers" Number="22" Volume="2015" Year="2017">
@@ -1050,7 +1056,7 @@
 <Book Series="Captain America: Sam Wilson" Number="20" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="587402" />
 </Book>
-<Book Series="Avengers" Number="11" Volume="2016" Year="2017">
+<Book Series="Avengers" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="95402" Issue="622934" />
 </Book>
 <Book Series="Generations: Sam Wilson: Captain America &amp; Steve Rogers: Captain America" Number="1" Volume="2017" Year="2017">
@@ -1266,7 +1272,7 @@
 <Book Series="Avengers" Number="44" Volume="2018" Year="2021">
 <Database Name="cv" Series="110496" Issue="842200" />
 </Book>
-<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="820024" />
 </Book>
 <Book Series="Black Cat" Number="1" Volume="2019" Year="2019">
@@ -1275,19 +1281,19 @@
 <Book Series="Venom" Number="31" Volume="2018" Year="2021">
 <Database Name="cv" Series="110770" Issue="820751" />
 </Book>
-<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="822349" />
 </Book>
 <Book Series="Venom" Number="32" Volume="2018" Year="2021">
 <Database Name="cv" Series="110770" Issue="824035" />
 </Book>
-<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="825507" />
 </Book>
 <Book Series="Venom" Number="33" Volume="2018" Year="2021">
 <Database Name="cv" Series="110770" Issue="827531" />
 </Book>
-<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="828857" />
 </Book>
 <Book Series="King In Black: Captain America" Number="1" Volume="2021" Year="2021">
@@ -1299,7 +1305,7 @@
 <Book Series="Avengers" Number="45" Volume="2018" Year="2021">
 <Database Name="cv" Series="110496" Issue="844966" />
 </Book>
-<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="842204" />
 </Book>
 <Book Series="Venom" Number="35" Volume="2018" Year="2021">
@@ -1356,37 +1362,37 @@
 <Book Series="The United States of Captain America" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="137256" Issue="890615" />
 </Book>
-<Book Series="Captain America/Iron Man" Number="1" Volume="2021" Year="2022">
+<Book Series="Captain America/Iron Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140358" Issue="897362" />
 </Book>
-<Book Series="Captain America/Iron Man" Number="2" Volume="2021" Year="2022">
+<Book Series="Captain America/Iron Man" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140358" Issue="901343" />
 </Book>
-<Book Series="Captain America/Iron Man" Number="3" Volume="2021" Year="2022">
+<Book Series="Captain America/Iron Man" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140358" Issue="904773" />
 </Book>
-<Book Series="Captain America/Iron Man" Number="4" Volume="2021" Year="2022">
+<Book Series="Captain America/Iron Man" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140358" Issue="909680" />
 </Book>
-<Book Series="Captain America/Iron Man" Number="5" Volume="2021" Year="2022">
+<Book Series="Captain America/Iron Man" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140358" Issue="912253" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="1" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="897325" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="2" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="900390" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="3" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="904775" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="4" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="906630" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="5" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="910627" />
 </Book>
-<Book Series="Devil&apos;s Reign" Number="6" Volume="2021" Year="2022">
+<Book Series="Devil&apos;s Reign" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140354" Issue="914649" />
 </Book>
 <Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">
@@ -1509,7 +1515,7 @@
 <Book Series="Black Panther" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="975705" />
 </Book>
-<Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2022" Year="2023">
+<Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146087" Issue="954939" />
 </Book>
 <Book Series="Captain America: Sentinel of Liberty" Number="7" Volume="2022" Year="2023">

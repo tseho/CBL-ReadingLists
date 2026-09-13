@@ -66,19 +66,19 @@
 <Book Series="The Uncanny X-Men" Number="471" Volume="1981" Year="2006">
 <Database Name="cv" Series="3092" Issue="106194" />
 </Book>
-<Book Series="New Avengers" Number="16" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105969" />
 </Book>
-<Book Series="New Avengers" Number="17" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="17" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105956" />
 </Book>
-<Book Series="New Avengers" Number="18" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="106195" />
 </Book>
-<Book Series="New Avengers" Number="19" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="19" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="106196" />
 </Book>
-<Book Series="New Avengers" Number="20" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="20" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107001" />
 </Book>
 <Book Series="Generation M" Number="1" Volume="2006" Year="2006">
@@ -507,13 +507,13 @@
 <Book Series="X-Men" Number="198" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="108555" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="40" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="40" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="109608" />
 </Book>
 <Book Series="X-Men" Number="199" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="109821" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="41" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="41" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="110433" />
 </Book>
 <Book Series="World War Hulk: X-Men" Number="1" Volume="2007" Year="2007">
@@ -546,7 +546,7 @@
 <Book Series="X-Men" Number="200" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="111032" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="42" Volume="2004" Year="2007">
+<Book Series="Cable &amp; Deadpool" Number="42" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="111382" />
 </Book>
 <Book Series="X-Men" Number="201" Volume="2004" Year="2007">

@@ -15,7 +15,7 @@
 <Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1053535" />
 </Book>
-<Book Series="Fantastic Four" Number="21" Volume="2022" Year="2024">
+<Book Series="Fantastic Four" Number="21" Volume="2023" Year="2024">
 <Database Name="cv" Series="145912" Issue="1059113" />
 </Book>
 <Book Series="Blood Hunters" Number="1" Volume="2024" Year="2024">
@@ -72,10 +72,10 @@
 <Book Series="X-Men: Blood Hunt - Laura Kinney the Wolverine" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158869" Issue="1063238" />
 </Book>
-<Book Series="Venom" Number="33" Volume="2021" Year="2024">
+<Book Series="Venom" Number="33" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1054384" />
 </Book>
-<Book Series="Venom" Number="34" Volume="2021" Year="2024">
+<Book Series="Venom" Number="34" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1058721" />
 </Book>
 <Book Series="Union Jack the Ripper: Blood Hunt" Number="1" Volume="2024" Year="2024">
@@ -105,7 +105,7 @@
 <Book Series="Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1059110" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1059267" />
 </Book>
 <Book Series="Dracula: Blood Hunt" Number="2" Volume="2024" Year="2024">
@@ -114,7 +114,7 @@
 <Book Series="Dracula: Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158069" Issue="1063349" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1061873" />
 </Book>
 <Book Series="Doctor Strange" Number="16" Volume="2023" Year="2024">
@@ -159,7 +159,7 @@
 <Book Series="Strange Academy: Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158074" Issue="1064207" />
 </Book>
-<Book Series="Fantastic Four" Number="22" Volume="2022" Year="2024">
+<Book Series="Fantastic Four" Number="22" Volume="2023" Year="2024">
 <Database Name="cv" Series="145912" Issue="1065058" />
 </Book>
 <Book Series="Midnight Sons: Blood Hunt" Number="3" Volume="2024" Year="2024">

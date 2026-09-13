@@ -4,22 +4,22 @@
     <Name>[Marvel] 2012-2015 Part 2.2 Aftermath of Ultron (MG)</Name>
     <NumIssues>104</NumIssues>
     <Books>
-        <Book Series="Indestructible Hulk" Number="11" Volume="2012" Year="2013">
+        <Book Series="Indestructible Hulk" Number="11" Volume="2013" Year="2013">
             <Database Name="cv" Series="54112" Issue="419970" />
         </Book>
-        <Book Series="Indestructible Hulk" Number="12" Volume="2012" Year="2013">
+        <Book Series="Indestructible Hulk" Number="12" Volume="2013" Year="2013">
             <Database Name="cv" Series="54112" Issue="422498" />
         </Book>
-        <Book Series="Indestructible Hulk" Number="13" Volume="2012" Year="2013">
+        <Book Series="Indestructible Hulk" Number="13" Volume="2013" Year="2013">
             <Database Name="cv" Series="54112" Issue="425028" />
         </Book>
-        <Book Series="Indestructible Hulk" Number="14" Volume="2012" Year="2013">
+        <Book Series="Indestructible Hulk" Number="14" Volume="2013" Year="2013">
             <Database Name="cv" Series="54112" Issue="430754" />
         </Book>
-        <Book Series="Indestructible Hulk" Number="15" Volume="2012" Year="2014">
+        <Book Series="Indestructible Hulk" Number="15" Volume="2013" Year="2014">
             <Database Name="cv" Series="54112" Issue="433846" />
         </Book>
-        <Book Series="Indestructible Hulk" Number="16" Volume="2012" Year="2014">
+        <Book Series="Indestructible Hulk" Number="16" Volume="2013" Year="2014">
             <Database Name="cv" Series="54112" Issue="435054" />
         </Book>
         <Book Series="Fantastic Four" Number="6" Volume="2014" Year="2014">
@@ -34,22 +34,22 @@
         <Book Series="Fantastic Four" Number="9" Volume="2014" Year="2014">
             <Database Name="cv" Series="71949" Issue="463481" />
         </Book>
-        <Book Series="Avengers" Number="6" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="6" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="387252" />
         </Book>
-        <Book Series="Avengers" Number="7" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="7" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="390444" />
         </Book>
-        <Book Series="Avengers" Number="8" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="8" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="394701" />
         </Book>
-        <Book Series="Avengers" Number="9" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="9" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="396422" />
         </Book>
-        <Book Series="Avengers" Number="10" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="10" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="398979" />
         </Book>
-        <Book Series="Avengers" Number="11" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="11" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="401202" />
         </Book>
         <Book Series="Iron Man" Number="1" Volume="2013" Year="2013">
@@ -106,10 +106,10 @@
         <Book Series="Avengers A.I." Number="6" Volume="2013" Year="2014">
             <Database Name="cv" Series="64683" Issue="433841" />
         </Book>
-        <Book Series="Avengers" Number="12" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="12" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="404693" />
         </Book>
-        <Book Series="Avengers" Number="13" Volume="2012" Year="2013">
+        <Book Series="Avengers" Number="13" Volume="2013" Year="2013">
             <Database Name="cv" Series="54428" Issue="408990" />
         </Book>
         <Book Series="Hawkeye" Number="8" Volume="2012" Year="2013">
@@ -184,13 +184,13 @@
         <Book Series="Secret Avengers" Number="9" Volume="2014" Year="2014">
             <Database Name="cv" Series="72274" Issue="468464" />
         </Book>
-        <Book Series="Avenging Spider-Man" Number="20" Volume="2011" Year="2013">
+        <Book Series="Avenging Spider-Man" Number="20" Volume="2012" Year="2013">
             <Database Name="cv" Series="43884" Issue="401204" />
         </Book>
-        <Book Series="Avenging Spider-Man" Number="21" Volume="2011" Year="2013">
+        <Book Series="Avenging Spider-Man" Number="21" Volume="2012" Year="2013">
             <Database Name="cv" Series="43884" Issue="406971" />
         </Book>
-        <Book Series="Avenging Spider-Man" Number="22" Volume="2011" Year="2013">
+        <Book Series="Avenging Spider-Man" Number="22" Volume="2012" Year="2013">
             <Database Name="cv" Series="43884" Issue="410784" />
         </Book>
         <Book Series="New Avengers" Number="7" Volume="2013" Year="2013">

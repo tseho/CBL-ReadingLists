@@ -231,7 +231,7 @@
     <Book Series="Justice League of America" Number="71" Volume="1960" Year="1969">
       <Database Name="cv" Series="2014" Issue="10184" />
     </Book>
-    <Book Series="World's Finest Comics" Number="212" Volume="1941" Year="1972">
+    <Book Series="World&apos;s Finest Comics" Number="212" Volume="1941" Year="1972">
       <Database Name="cv" Series="18006" Issue="130193" />
     </Book>
     <Book Series="Justice League of America" Number="72" Volume="1960" Year="1969">
@@ -435,7 +435,7 @@
     <Book Series="Wonder Woman" Number="221" Volume="1942" Year="1976">
       <Database Name="cv" Series="18525" Issue="109520" />
     </Book>
-    <Book Series="DC Retroactive: JLA - The '70s" Number="1" Volume="2011" Year="2011">
+    <Book Series="DC Retroactive: JLA - The &apos;70s" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41531" Issue="281524" />
     </Book>
     <Book Series="Justice League of America" Number="127" Volume="1960" Year="1976">
@@ -807,7 +807,7 @@
     <Book Series="Justice League of America" Number="232" Volume="1960" Year="1984">
       <Database Name="cv" Series="2014" Issue="24847" />
     </Book>
-    <Book Series="DC Retroactive: JLA - The '80s" Number="1" Volume="2011" Year="2011">
+    <Book Series="DC Retroactive: JLA - The &apos;80s" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="41927" Issue="285341" />
     </Book>
     <Book Series="Justice League of America" Number="233" Volume="1960" Year="1984">

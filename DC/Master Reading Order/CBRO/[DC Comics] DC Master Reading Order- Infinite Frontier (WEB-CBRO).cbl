@@ -1389,22 +1389,22 @@
 <Book Series="Batman: Urban Legends" Number="23" Volume="2021" Year="2023">
 <Database Name="cv" Series="134303" Issue="963629" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="1" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="911243" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="2" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="917881" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="3" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="924593" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="4" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="931577" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="5" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="937276" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="6" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="942692" />
 </Book>
 <Book Series="The Flash" Number="781" Volume="2016" Year="2022">
@@ -1614,22 +1614,22 @@
 <Book Series="Harley Quinn" Number="17" Volume="2021" Year="2022">
 <Database Name="cv" Series="134718" Issue="939078" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="7" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="7" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="947956" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="8" Volume="2022" Year="2022">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="141907" Issue="951233" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="9" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="9" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="954931" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="10" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="960840" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="11" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="964798" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="12" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="12" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="973007" />
 </Book>
 <Book Series="Nubia: Queen of the Amazons" Number="1" Volume="2022" Year="2022">
@@ -2397,46 +2397,46 @@
 <Book Series="The Joker: The Man Who Stopped Laughing" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="145345" Issue="1011770" />
 </Book>
-<Book Series="G'nort's Swimsuit Edition" Number="1" Volume="2023" Year="2023">
+<Book Series="G&apos;nort&apos;s Swimsuit Edition" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153248" Issue="1011016" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="13" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="978305" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="14" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="983602" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="15" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="989644" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="16" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="16" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="995977" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="17" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="17" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="1001511" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="18" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="18" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="1008981" />
 </Book>
-<Book Series="Batman/Superman: World’s Finest" Number="19" Volume="2022" Year="2023">
+<Book Series="Batman/Superman: World&apos;s Finest" Number="19" Volume="2022" Year="2023">
 <Database Name="cv" Series="141907" Issue="1014939" />
 </Book>
-<Book Series="World's Finest: Teen Titans" Number="1" Volume="2023" Year="2023">
+<Book Series="World&apos;s Finest: Teen Titans" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152099" Issue="1000094" />
 </Book>
-<Book Series="World's Finest: Teen Titans" Number="2" Volume="2023" Year="2023">
+<Book Series="World&apos;s Finest: Teen Titans" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="152099" Issue="1006984" />
 </Book>
-<Book Series="World's Finest: Teen Titans" Number="3" Volume="2023" Year="2023">
+<Book Series="World&apos;s Finest: Teen Titans" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="152099" Issue="1013487" />
 </Book>
-<Book Series="World's Finest: Teen Titans" Number="4" Volume="2023" Year="2023">
+<Book Series="World&apos;s Finest: Teen Titans" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="152099" Issue="1024039" />
 </Book>
-<Book Series="World's Finest: Teen Titans" Number="5" Volume="2023" Year="2024">
+<Book Series="World&apos;s Finest: Teen Titans" Number="5" Volume="2023" Year="2024">
 <Database Name="cv" Series="152099" Issue="1029544" />
 </Book>
-<Book Series="World's Finest: Teen Titans" Number="6" Volume="2023" Year="2024">
+<Book Series="World&apos;s Finest: Teen Titans" Number="6" Volume="2023" Year="2024">
 <Database Name="cv" Series="152099" Issue="1034142" />
 </Book>
 <Book Series="Batman Beyond: Neo-Gothic" Number="1" Volume="2023" Year="2023">

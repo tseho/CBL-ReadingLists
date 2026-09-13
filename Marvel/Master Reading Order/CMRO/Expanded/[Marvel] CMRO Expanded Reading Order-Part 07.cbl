@@ -183,10 +183,10 @@
 <Book Series="Marvel Classics Comics" Number="3" Volume="1976" Year="1976">
 <Database Name="cv" Series="6938" Issue="49248" />
 </Book>
-<Book Series="Howard the Duck" Number="4" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="4" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16531" />
 </Book>
-<Book Series="Howard the Duck" Number="5" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="5" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16709" />
 </Book>
 <Book Series="Marvel Two-in-One" Number="11" Volume="1974" Year="1975">
@@ -300,28 +300,28 @@
 <Book Series="Iron Fist" Number="1" Volume="1975" Year="1975">
 <Database Name="cv" Series="2766" Issue="15784" />
 </Book>
-<Book Series="Skull the Slayer" Number="1" Volume="1975" Year="1975">
+<Book Series="Skull, The Slayer" Number="1" Volume="1975" Year="1975">
 <Database Name="cv" Series="2780" Issue="15498" />
 </Book>
-<Book Series="Skull the Slayer" Number="2" Volume="1975" Year="1975">
+<Book Series="Skull, The Slayer" Number="2" Volume="1975" Year="1975">
 <Database Name="cv" Series="2780" Issue="15796" />
 </Book>
-<Book Series="Skull the Slayer" Number="3" Volume="1975" Year="1976">
+<Book Series="Skull, The Slayer" Number="3" Volume="1975" Year="1976">
 <Database Name="cv" Series="2780" Issue="16016" />
 </Book>
-<Book Series="Skull the Slayer" Number="4" Volume="1975" Year="1976">
+<Book Series="Skull, The Slayer" Number="4" Volume="1975" Year="1976">
 <Database Name="cv" Series="2780" Issue="16181" />
 </Book>
-<Book Series="Skull the Slayer" Number="5" Volume="1975" Year="1976">
+<Book Series="Skull, The Slayer" Number="5" Volume="1975" Year="1976">
 <Database Name="cv" Series="2780" Issue="16355" />
 </Book>
-<Book Series="Skull the Slayer" Number="6" Volume="1975" Year="1976">
+<Book Series="Skull, The Slayer" Number="6" Volume="1975" Year="1976">
 <Database Name="cv" Series="2780" Issue="16523" />
 </Book>
-<Book Series="Skull the Slayer" Number="7" Volume="1975" Year="1976">
+<Book Series="Skull, The Slayer" Number="7" Volume="1975" Year="1976">
 <Database Name="cv" Series="2780" Issue="16701" />
 </Book>
-<Book Series="Skull the Slayer" Number="8" Volume="1975" Year="1976">
+<Book Series="Skull, The Slayer" Number="8" Volume="1975" Year="1976">
 <Database Name="cv" Series="2780" Issue="16889" />
 </Book>
 <Book Series="Thor" Number="237" Volume="1966" Year="1975">
@@ -1416,10 +1416,10 @@
 <Book Series="Daredevil" Number="140" Volume="1964" Year="1976">
 <Database Name="cv" Series="2190" Issue="16949" />
 </Book>
-<Book Series="Howard the Duck" Number="6" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="6" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16897" />
 </Book>
-<Book Series="Howard the Duck" Number="7" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="7" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16983" />
 </Book>
 <Book Series="Marvel Treasury Edition" Number="12" Volume="1974" Year="1976">
@@ -1431,13 +1431,13 @@
 <Book Series="Marvel Spotlight" Number="31" Volume="1971" Year="1976">
 <Database Name="cv" Series="2516" Issue="16967" />
 </Book>
-<Book Series="Howard the Duck" Number="8" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="8" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17128" />
 </Book>
-<Book Series="Howard the Duck" Number="9" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="9" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17213" />
 </Book>
-<Book Series="Howard the Duck" Number="10" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="10" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17290" />
 </Book>
 <Book Series="Nova" Number="1" Volume="1976" Year="1976">
@@ -1896,7 +1896,7 @@
 <Book Series="Spidey Super Stories" Number="21" Volume="1974" Year="1977">
 <Database Name="cv" Series="2702" Issue="67506" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="1" Volume="1977" Year="1977">
+<Book Series="Marvel Super Special" Number="1" Volume="1978" Year="1977">
 <Database Name="cv" Series="2909" Issue="17010" />
 </Book>
 <Book Series="Captain Marvel" Number="47" Volume="1968" Year="1976">
@@ -2028,16 +2028,16 @@
 <Book Series="The Defenders" Number="56" Volume="1972" Year="1978">
 <Database Name="cv" Series="2569" Issue="18242" />
 </Book>
-<Book Series="Howard the Duck" Number="11" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="11" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17375" />
 </Book>
-<Book Series="Howard the Duck" Number="12" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="12" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17452" />
 </Book>
-<Book Series="Howard the Duck" Number="13" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="13" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17532" />
 </Book>
-<Book Series="Howard the Duck" Number="14" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="14" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17622" />
 </Book>
 <Book Series="The Invaders" Number="23" Volume="1975" Year="1977">
@@ -2520,7 +2520,7 @@
 <Book Series="The Incredible Hulk" Number="221" Volume="1968" Year="1978">
 <Database Name="cv" Series="2406" Issue="18329" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="2" Volume="1977" Year="1978">
+<Book Series="Marvel Super Special" Number="2" Volume="1978" Year="1978">
 <Database Name="cv" Series="2909" Issue="17014" />
 </Book>
 <Book Series="Iron Fist" Number="15" Volume="1975" Year="1977">
@@ -2562,7 +2562,7 @@
 <Book Series="The Savage Sword of Conan" Number="23" Volume="1974" Year="1977">
 <Database Name="cv" Series="2701" Issue="17888" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="4" Volume="1977" Year="1978">
+<Book Series="Marvel Super Special" Number="4" Volume="1978" Year="1978">
 <Database Name="cv" Series="2909" Issue="18090" />
 </Book>
 <Book Series="Tarzan" Number="1" Volume="1977" Year="1977">
@@ -2610,25 +2610,25 @@
 <Book Series="Marvel Team-Up" Number="58" Volume="1972" Year="1977">
 <Database Name="cv" Series="2576" Issue="17512" />
 </Book>
-<Book Series="Howard the Duck" Number="15" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="15" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17711" />
 </Book>
-<Book Series="Howard the Duck" Number="16" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="16" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17804" />
 </Book>
-<Book Series="Howard the Duck" Number="17" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="17" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17901" />
 </Book>
-<Book Series="Howard the Duck" Number="18" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="18" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="17984" />
 </Book>
-<Book Series="Howard the Duck" Number="19" Volume="1975" Year="1977">
+<Book Series="Howard the Duck" Number="19" Volume="1976" Year="1977">
 <Database Name="cv" Series="2859" Issue="18068" />
 </Book>
-<Book Series="Howard the Duck" Number="20" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="20" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18188" />
 </Book>
-<Book Series="Howard the Duck" Number="21" Volume="1975" Year="1978">
+<Book Series="Howard the Duck" Number="21" Volume="1976" Year="1978">
 <Database Name="cv" Series="2859" Issue="18270" />
 </Book>
 <Book Series="Nova" Number="13" Volume="1976" Year="1977">
@@ -2694,7 +2694,7 @@
 <Book Series="Spidey Super Stories" Number="24" Volume="1974" Year="1977">
 <Database Name="cv" Series="2702" Issue="67509" />
 </Book>
-<Book Series="Logan's Run" Number="6" Volume="1977" Year="1977">
+<Book Series="Logan&apos;s Run" Number="6" Volume="1977" Year="1977">
 <Database Name="cv" Series="18344" Issue="107529" />
 </Book>
 <Book Series="Conan the Barbarian" Number="72" Volume="1970" Year="1977">

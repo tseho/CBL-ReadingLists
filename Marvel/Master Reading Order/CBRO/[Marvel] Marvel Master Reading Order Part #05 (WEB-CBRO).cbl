@@ -1329,7 +1329,7 @@
 <Book Series="Thunderbolts" Number="5" Volume="1997" Year="1997">
 <Database Name="cv" Series="6020" Issue="43981" />
 </Book>
-<Book Series="Thunderbolts '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Thunderbolts &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18276" Issue="107014" />
 </Book>
 <Book Series="Thunderbolts" Number="6" Volume="1997" Year="1997">
@@ -1431,7 +1431,7 @@
 <Book Series="Deadpool" Number="7" Volume="1997" Year="1997">
 <Database Name="cv" Series="6000" Issue="44005" />
 </Book>
-<Book Series="Daredevil / Deadpool '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Daredevil / Deadpool &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="26448" Issue="157856" />
 </Book>
 <Book Series="Deadpool" Number="8" Volume="1997" Year="1997">
@@ -1671,7 +1671,7 @@
 <Book Series="Deadpool" Number="17" Volume="1997" Year="1998">
 <Database Name="cv" Series="6000" Issue="45064" />
 </Book>
-<Book Series="Deadpool / Death '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Deadpool / Death &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="18606" Issue="109777" />
 </Book>
 <Book Series="Heroes for Hire" Number="10" Volume="1997" Year="1998">
@@ -1701,7 +1701,7 @@
 <Book Series="Iron Man" Number="6" Volume="1998" Year="1998">
 <Database Name="cv" Series="6504" Issue="131881" />
 </Book>
-<Book Series="Hawkeye: Earth's Mightiest Marksman" Number="1" Volume="1998" Year="1998">
+<Book Series="Hawkeye: Earth&apos;s Mightiest Marksman" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="31099" Issue="192969" />
 </Book>
 <Book Series="Iron Man" Number="7" Volume="1998" Year="1998">
@@ -1872,7 +1872,7 @@
 <Book Series="Quicksilver" Number="12" Volume="1997" Year="1998">
 <Database Name="cv" Series="6013" Issue="45393" />
 </Book>
-<Book Series="Heroes for Hire / Quicksilver '98" Number="1" Volume="1998" Year="1998">
+<Book Series="Heroes for Hire / Quicksilver &apos;98" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="19807" Issue="118824" />
 </Book>
 <Book Series="Deadpool" Number="18" Volume="1997" Year="1998">
@@ -2004,40 +2004,40 @@
 <Book Series="Heroes for Hire" Number="19" Volume="1997" Year="1999">
 <Database Name="cv" Series="6003" Issue="45633" />
 </Book>
-<Book Series="Avengers Forever" Number="1" Volume="1998" Year="1998">
+<Book Series="Avengers: Forever" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="11015" Issue="96135" />
 </Book>
-<Book Series="Avengers Forever" Number="2" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="2" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96136" />
 </Book>
-<Book Series="Avengers Forever" Number="3" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="3" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96137" />
 </Book>
-<Book Series="Avengers Forever" Number="4" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="4" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96138" />
 </Book>
-<Book Series="Avengers Forever" Number="5" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="5" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96139" />
 </Book>
-<Book Series="Avengers Forever" Number="6" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="6" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96140" />
 </Book>
-<Book Series="Avengers Forever" Number="7" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="7" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96141" />
 </Book>
-<Book Series="Avengers Forever" Number="8" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="8" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96142" />
 </Book>
-<Book Series="Avengers Forever" Number="9" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="9" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96143" />
 </Book>
-<Book Series="Avengers Forever" Number="10" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="10" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96144" />
 </Book>
-<Book Series="Avengers Forever" Number="11" Volume="1998" Year="1999">
+<Book Series="Avengers: Forever" Number="11" Volume="1998" Year="1999">
 <Database Name="cv" Series="11015" Issue="96145" />
 </Book>
-<Book Series="Avengers Forever" Number="12" Volume="1998" Year="2000">
+<Book Series="Avengers: Forever" Number="12" Volume="1998" Year="2000">
 <Database Name="cv" Series="11015" Issue="96146" />
 </Book>
 <Book Series="Wolverine" Number="129" Volume="1988" Year="1998">

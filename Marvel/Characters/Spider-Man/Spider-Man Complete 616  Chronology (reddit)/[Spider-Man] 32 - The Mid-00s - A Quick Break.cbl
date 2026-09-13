@@ -3,19 +3,19 @@
 <Name>[Spider-Man] 32 - The Mid-00s - A Quick Break</Name>
 <NumIssues>17</NumIssues>
 <Books>
-<Book Series="New Avengers" Number="11" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="11" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108314" />
 </Book>
-<Book Series="New Avengers" Number="12" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="12" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108315" />
 </Book>
-<Book Series="New Avengers" Number="13" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108316" />
 </Book>
-<Book Series="New Avengers" Number="14" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="14" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108317" />
 </Book>
-<Book Series="New Avengers" Number="15" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="15" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108318" />
 </Book>
 <Book Series="Toxin" Number="1" Volume="2005" Year="2005">

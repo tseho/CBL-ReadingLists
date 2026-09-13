@@ -42,7 +42,7 @@
 <Book Series="The Amazing Spider-Man" Number="421" Volume="1963" Year="1997">
 <Database Name="cv" Series="2127" Issue="64457" />
 </Book>
-<Book Series="The Amazing Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="The Amazing Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60438" Issue="143309" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="242" Volume="1976" Year="1997">
@@ -123,7 +123,7 @@
 <Book Series="The Sensational Spider-Man" Number="21" Volume="1996" Year="1997">
 <Database Name="cv" Series="5788" Issue="44301" />
 </Book>
-<Book Series="Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20609" Issue="181104" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="249" Volume="1976" Year="1997">

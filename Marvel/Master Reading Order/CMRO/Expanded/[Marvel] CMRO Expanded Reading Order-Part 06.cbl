@@ -1893,19 +1893,19 @@
 <Book Series="Spidey Super Stories" Number="7" Volume="1974" Year="1975">
 <Database Name="cv" Series="2702" Issue="144086" />
 </Book>
-<Book Series="Adventure into Fear" Number="20" Volume="1970" Year="1974">
+<Book Series="Fear" Number="20" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14057" />
 </Book>
-<Book Series="Adventure into Fear" Number="21" Volume="1970" Year="1974">
+<Book Series="Fear" Number="21" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14194" />
 </Book>
-<Book Series="Adventure into Fear" Number="22" Volume="1970" Year="1974">
+<Book Series="Fear" Number="22" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14336" />
 </Book>
-<Book Series="Adventure into Fear" Number="23" Volume="1970" Year="1974">
+<Book Series="Fear" Number="23" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14488" />
 </Book>
-<Book Series="Adventure into Fear" Number="24" Volume="1970" Year="1974">
+<Book Series="Fear" Number="24" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14662" />
 </Book>
 <Book Series="Thor" Number="229" Volume="1966" Year="1974">
@@ -1953,10 +1953,10 @@
 <Book Series="Spidey Super Stories" Number="8" Volume="1974" Year="1975">
 <Database Name="cv" Series="2702" Issue="15197" />
 </Book>
-<Book Series="Adventure into Fear" Number="25" Volume="1970" Year="1974">
+<Book Series="Fear" Number="25" Volume="1970" Year="1974">
 <Database Name="cv" Series="2472" Issue="14836" />
 </Book>
-<Book Series="Adventure into Fear" Number="26" Volume="1970" Year="1975">
+<Book Series="Fear" Number="26" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="15055" />
 </Book>
 <Book Series="Power Man" Number="24" Volume="1974" Year="1975">
@@ -2397,13 +2397,13 @@
 <Book Series="Super-Villain Team-Up" Number="4" Volume="1975" Year="1976">
 <Database Name="cv" Series="2782" Issue="16096" />
 </Book>
-<Book Series="Howard the Duck" Number="1" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="1" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16023" />
 </Book>
-<Book Series="Howard the Duck" Number="2" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="2" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16190" />
 </Book>
-<Book Series="Howard the Duck" Number="3" Volume="1975" Year="1976">
+<Book Series="Howard the Duck" Number="3" Volume="1976" Year="1976">
 <Database Name="cv" Series="2859" Issue="16362" />
 </Book>
 <Book Series="Marvel Super Action" Number="1" Volume="1976" Year="1976">
@@ -2532,19 +2532,19 @@
 <Book Series="Giant-Size Werewolf" Number="4" Volume="1974" Year="1975">
 <Database Name="cv" Series="2689" Issue="138640" />
 </Book>
-<Book Series="Adventure into Fear" Number="27" Volume="1970" Year="1975">
+<Book Series="Fear" Number="27" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="162793" />
 </Book>
-<Book Series="Adventure into Fear" Number="28" Volume="1970" Year="1975">
+<Book Series="Fear" Number="28" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="15268" />
 </Book>
-<Book Series="Adventure into Fear" Number="29" Volume="1970" Year="1975">
+<Book Series="Fear" Number="29" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="15479" />
 </Book>
-<Book Series="Adventure into Fear" Number="30" Volume="1970" Year="1975">
+<Book Series="Fear" Number="30" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="15679" />
 </Book>
-<Book Series="Adventure into Fear" Number="31" Volume="1970" Year="1975">
+<Book Series="Fear" Number="31" Volume="1970" Year="1975">
 <Database Name="cv" Series="2472" Issue="15863" />
 </Book>
 </Books>

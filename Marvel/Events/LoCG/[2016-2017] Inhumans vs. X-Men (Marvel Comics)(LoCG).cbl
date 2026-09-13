@@ -15,19 +15,19 @@
 <Book Series="Death of X" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="94620" Issue="558962" />
 </Book>
-<Book Series="IvX" Number="0" Volume="2016" Year="2017">
+<Book Series="IvX" Number="0" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="562597" />
 </Book>
-<Book Series="IvX" Number="1" Volume="2016" Year="2017">
+<Book Series="IvX" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="566713" />
 </Book>
 <Book Series="Uncanny X-Men" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="569354" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="17" Volume="2015" Year="2017">
+<Book Series="Extraordinary X-Men" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="85756" Issue="571665" />
 </Book>
-<Book Series="IvX" Number="2" Volume="2016" Year="2017">
+<Book Series="IvX" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="575870" />
 </Book>
 <Book Series="Uncanny X-Men" Number="17" Volume="2016" Year="2017">
@@ -36,25 +36,25 @@
 <Book Series="Uncanny Inhumans" Number="18" Volume="2015" Year="2017">
 <Database Name="cv" Series="81092" Issue="576641" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="7" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="576620" />
 </Book>
-<Book Series="All-New X-Men" Number="17" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="576612" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="18" Volume="2015" Year="2017">
+<Book Series="Extraordinary X-Men" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="85756" Issue="578459" />
 </Book>
-<Book Series="IvX" Number="3" Volume="2016" Year="2017">
+<Book Series="IvX" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="578465" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="8" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="579313" />
 </Book>
-<Book Series="All-New X-Men" Number="18" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="579303" />
 </Book>
-<Book Series="IvX" Number="4" Volume="2016" Year="2017">
+<Book Series="IvX" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="580755" />
 </Book>
 <Book Series="Uncanny Inhumans" Number="19" Volume="2015" Year="2017">
@@ -63,13 +63,13 @@
 <Book Series="Uncanny X-Men" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="581574" />
 </Book>
-<Book Series="IvX" Number="5" Volume="2016" Year="2017">
+<Book Series="IvX" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="582534" />
 </Book>
-<Book Series="Extraordinary X-Men" Number="19" Volume="2015" Year="2017">
+<Book Series="Extraordinary X-Men" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="85756" Issue="582529" />
 </Book>
-<Book Series="IvX" Number="6" Volume="2016" Year="2017">
+<Book Series="IvX" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="96144" Issue="585080" />
 </Book>
 <Book Series="Uncanny Inhumans" Number="20" Volume="2015" Year="2017">

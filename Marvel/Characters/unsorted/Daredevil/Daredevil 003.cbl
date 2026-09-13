@@ -429,16 +429,16 @@
     <Book Series="Daredevil" Number="99" Volume="1998" Year="2007">
       <Database Name="cv" Series="6209" Issue="113105" />
     </Book>
-    <Book Series="Daredevil: Battlin' Jack Murdock" Number="1" Volume="2007" Year="2007">
+    <Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="1" Volume="2007" Year="2007">
       <Database Name="cv" Series="18672" Issue="110276" />
     </Book>
-    <Book Series="Daredevil: Battlin' Jack Murdock" Number="2" Volume="2007" Year="2007">
+    <Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="2" Volume="2007" Year="2007">
       <Database Name="cv" Series="18672" Issue="111444" />
     </Book>
-    <Book Series="Daredevil: Battlin' Jack Murdock" Number="3" Volume="2007" Year="2007">
+    <Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="3" Volume="2007" Year="2007">
       <Database Name="cv" Series="18672" Issue="113103" />
     </Book>
-    <Book Series="Daredevil: Battlin' Jack Murdock" Number="4" Volume="2007" Year="2007">
+    <Book Series="Daredevil: Battlin&apos; Jack Murdock" Number="4" Volume="2007" Year="2007">
       <Database Name="cv" Series="18672" Issue="114242" />
     </Book>
     <Book Series="Daredevil" Number="100" Volume="1998" Year="2007">
@@ -474,7 +474,7 @@
     <Book Series="Daredevil" Number="110" Volume="1998" Year="2008">
       <Database Name="cv" Series="6209" Issue="136626" />
     </Book>
-    <Book Series="Daredevil &#38; Captain America: Dead On Arrival" Number="1" Volume="2009" Year="2009">
+    <Book Series="Daredevil &amp; Captain America: Dead On Arrival" Number="1" Volume="2009" Year="2009">
       <Database Name="cv" Series="23671" Issue="141799" />
     </Book>
     <Book Series="Daredevil" Number="111" Volume="1998" Year="2008">
@@ -618,7 +618,7 @@
     <Book Series="Daredevil" Number="10.1" Volume="2011" Year="2012">
       <Database Name="cv" Series="41410" Issue="326824" />
     </Book>
-    <Book Series="Avenging Spider-Man" Number="6" Volume="2011" Year="2012">
+    <Book Series="Avenging Spider-Man" Number="6" Volume="2012" Year="2012">
       <Database Name="cv" Series="43884" Issue="329213" />
     </Book>
     <Book Series="The Punisher" Number="10" Volume="2011" Year="2012">

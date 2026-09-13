@@ -165,7 +165,7 @@
         <Book Series="X-Men" Number="26" Volume="2021" Year="2023">
             <Database Name="cv" Series="137402" Issue="1011788" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="10" Volume="2022" Year="2023">
+        <Book Series="The Invincible Iron Man" Number="10" Volume="2023" Year="2023">
             <Database Name="cv" Series="146873" Issue="1018021" />
         </Book>
         <Book Series="Ms. Marvel: The New Mutant" Number="2" Volume="2023" Year="2023">
@@ -177,7 +177,7 @@
         <Book Series="Ms. Marvel: The New Mutant" Number="4" Volume="2023" Year="2024">
             <Database Name="cv" Series="153238" Issue="1031695" />
         </Book>
-        <Book Series="Venom" Number="23" Volume="2021" Year="2023">
+        <Book Series="Venom" Number="23" Volume="2022" Year="2023">
             <Database Name="cv" Series="140084" Issue="1003591" />
         </Book>
         <Book Series="Thunderbolts" Number="1" Volume="2024" Year="2024">
@@ -342,13 +342,13 @@
         <Book Series="Realm of X" Number="4" Volume="2023" Year="2024">
             <Database Name="cv" Series="153121" Issue="1031697" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="11" Volume="2022" Year="2023">
+        <Book Series="The Invincible Iron Man" Number="11" Volume="2023" Year="2023">
             <Database Name="cv" Series="146873" Issue="1025158" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="12" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="12" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1030786" />
         </Book>
-        <Book Series="The Invincible Iron Man" Number="13" Volume="2022" Year="2024">
+        <Book Series="The Invincible Iron Man" Number="13" Volume="2023" Year="2024">
             <Database Name="cv" Series="146873" Issue="1033204" />
         </Book>
         <Book Series="X-Men" Number="27" Volume="2021" Year="2023">

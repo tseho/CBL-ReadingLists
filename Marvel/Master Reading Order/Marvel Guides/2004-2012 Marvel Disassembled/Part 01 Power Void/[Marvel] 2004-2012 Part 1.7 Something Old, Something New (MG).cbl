@@ -4,49 +4,49 @@
     <Name>[Marvel] 2004-2012 Part 1.7 Something Old, Something New (MG)</Name>
     <NumIssues>84</NumIssues>
     <Books>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="1" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="1" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118075" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="2" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="2" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118080" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="3" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="3" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118082" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="4" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="4" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118084" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="5" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="5" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118085" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="6" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="6" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118086" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="7" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="7" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118087" />
         </Book>
-        <Book Series="Avengers: Earth's Mightiest Heroes" Number="8" Volume="2005" Year="2005">
+        <Book Series="Avengers: Earth&apos;s Mightiest Heroes" Number="8" Volume="2005" Year="2005">
             <Database Name="cv" Series="19690" Issue="118089" />
         </Book>
-        <Book Series="New Avengers" Number="1" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="1" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="101407" />
         </Book>
-        <Book Series="New Avengers" Number="2" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="2" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="101408" />
         </Book>
-        <Book Series="New Avengers" Number="3" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="3" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="101409" />
         </Book>
-        <Book Series="New Avengers" Number="4" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="4" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108304" />
         </Book>
-        <Book Series="New Avengers" Number="5" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="5" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108305" />
         </Book>
-        <Book Series="New Avengers" Number="6" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="6" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108306" />
         </Book>
-        <Book Series="The New Avengers: Most Wanted Files" Number="1" Volume="2005" Year="2006">
+        <Book Series="The New Avengers: Most Wanted Files" Number="1" Volume="2006" Year="2006">
             <Database Name="cv" Series="18211" Issue="106679" />
         </Book>
         <Book Series="Spider-Man: Breakout" Number="1" Volume="2005" Year="2005">
@@ -175,16 +175,16 @@
         <Book Series="Spider-Man Unlimited" Number="15" Volume="2004" Year="2006">
             <Database Name="cv" Series="11306" Issue="114320" />
         </Book>
-        <Book Series="New Avengers" Number="7" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="7" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108307" />
         </Book>
-        <Book Series="New Avengers" Number="8" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="8" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108308" />
         </Book>
-        <Book Series="New Avengers" Number="9" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="9" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108309" />
         </Book>
-        <Book Series="New Avengers" Number="10" Volume="2004" Year="2005">
+        <Book Series="New Avengers" Number="10" Volume="2005" Year="2005">
             <Database Name="cv" Series="11497" Issue="108312" />
         </Book>
         <Book Series="Young Avengers" Number="7" Volume="2005" Year="2005">
@@ -220,22 +220,22 @@
         <Book Series="Spider-Man/Human Torch" Number="5" Volume="2005" Year="2005">
             <Database Name="cv" Series="11800" Issue="103524" />
         </Book>
-        <Book Series="Iron Man" Number="1" Volume="2004" Year="2005">
+        <Book Series="Iron Man" Number="1" Volume="2005" Year="2005">
             <Database Name="cv" Series="18220" Issue="108913" />
         </Book>
-        <Book Series="Iron Man" Number="2" Volume="2004" Year="2005">
+        <Book Series="Iron Man" Number="2" Volume="2005" Year="2005">
             <Database Name="cv" Series="18220" Issue="108914" />
         </Book>
-        <Book Series="Iron Man" Number="3" Volume="2004" Year="2005">
+        <Book Series="Iron Man" Number="3" Volume="2005" Year="2005">
             <Database Name="cv" Series="18220" Issue="111259" />
         </Book>
-        <Book Series="Iron Man" Number="4" Volume="2004" Year="2005">
+        <Book Series="Iron Man" Number="4" Volume="2005" Year="2005">
             <Database Name="cv" Series="18220" Issue="111395" />
         </Book>
-        <Book Series="Iron Man" Number="5" Volume="2004" Year="2006">
+        <Book Series="Iron Man" Number="5" Volume="2005" Year="2006">
             <Database Name="cv" Series="18220" Issue="111396" />
         </Book>
-        <Book Series="Iron Man" Number="6" Volume="2004" Year="2006">
+        <Book Series="Iron Man" Number="6" Volume="2005" Year="2006">
             <Database Name="cv" Series="18220" Issue="111397" />
         </Book>
         <Book Series="Iron Man: The Inevitable" Number="1" Volume="2006" Year="2006">

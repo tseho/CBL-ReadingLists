@@ -46,19 +46,19 @@
         <Book Series="Venom" Number="21" Volume="2018" Year="2020">
             <Database Name="cv" Series="110770" Issue="731669" />
         </Book>
-        <Book Series="Scream: Curse of Carnage" Number="1" Volume="2019" Year="2020">
+        <Book Series="Scream: Curse of Carnage" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="123125" Issue="728979" />
         </Book>
-        <Book Series="Scream: Curse of Carnage" Number="2" Volume="2019" Year="2020">
+        <Book Series="Scream: Curse of Carnage" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="123125" Issue="731525" />
         </Book>
-        <Book Series="Scream: Curse of Carnage" Number="3" Volume="2019" Year="2020">
+        <Book Series="Scream: Curse of Carnage" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="123125" Issue="735528" />
         </Book>
-        <Book Series="Scream: Curse of Carnage" Number="4" Volume="2019" Year="2020">
+        <Book Series="Scream: Curse of Carnage" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="123125" Issue="738617" />
         </Book>
-        <Book Series="Scream: Curse of Carnage" Number="5" Volume="2019" Year="2020">
+        <Book Series="Scream: Curse of Carnage" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="123125" Issue="743448" />
         </Book>
         <Book Series="Venom" Number="22" Volume="2018" Year="2020">

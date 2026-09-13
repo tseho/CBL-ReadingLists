@@ -30,7 +30,7 @@
 <Book Series="Batman: Ego" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="20592" Issue="123427" />
 </Book>
-<Book Series="Catwoman: Selina's Big Score" Number="1" Volume="2002" Year="2002">
+<Book Series="Catwoman: Selina&apos;s Big Score" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="34842" Issue="228853" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="23" Volume="2000" Year="2002">
@@ -153,13 +153,13 @@
 <Book Series="Black Orchid" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="3982" Issue="32118" />
 </Book>
-<Book Series="World's Finest" Number="1" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199247" />
 </Book>
-<Book Series="World's Finest" Number="2" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="2" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199248" />
 </Book>
-<Book Series="World's Finest" Number="3" Volume="1990" Year="1990">
+<Book Series="World&apos;s Finest" Number="3" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199249" />
 </Book>
 <Book Series="Detective Comics" Number="618" Volume="1937" Year="1990">
@@ -246,13 +246,13 @@
 <Book Series="Batman: Birth of the Demon" Number="1" Volume="1992" Year="1993">
 <Database Name="cv" Series="34993" Issue="230752" />
 </Book>
-<Book Series="Legends of the World's Finest" Number="1" Volume="1994" Year="1994">
+<Book Series="Legends of the World&apos;s Finest" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199202" />
 </Book>
-<Book Series="Legends of the World's Finest" Number="2" Volume="1994" Year="1994">
+<Book Series="Legends of the World&apos;s Finest" Number="2" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199203" />
 </Book>
-<Book Series="Legends of the World's Finest" Number="3" Volume="1994" Year="1994">
+<Book Series="Legends of the World&apos;s Finest" Number="3" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199204" />
 </Book>
 <!-- The issues for these following arcs are listed incorrectly in the original source and have been corrected -->

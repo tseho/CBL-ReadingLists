@@ -36,16 +36,16 @@
 <Book Series="Thor: God of Thunder" Number="24" Volume="2013" Year="2014">
 <Database Name="cv" Series="53920" Issue="458624" />
 </Book>
-<Book Series="Avengers" Number="25" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="25" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="442913" />
 </Book>
-<Book Series="Avengers" Number="26" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="26" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="445176" />
 </Book>
-<Book Series="Avengers" Number="27" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="27" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="448962" />
 </Book>
-<Book Series="Avengers" Number="28" Volume="2012" Year="2014">
+<Book Series="Avengers" Number="28" Volume="2013" Year="2014">
 <Database Name="cv" Series="54428" Issue="451765" />
 </Book>
 <Book Series="Avengers Undercover" Number="1" Volume="2014" Year="2014">

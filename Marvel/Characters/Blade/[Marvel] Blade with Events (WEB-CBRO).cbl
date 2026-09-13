@@ -315,13 +315,13 @@
 <Book Series="War of the Realms Strikeforce: The Land of Giants" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119315" Issue="709738" />
 </Book>
-<Book Series="Superior Spider-Man" Number="7" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="711332" />
 </Book>
-<Book Series="Superior Spider-Man" Number="8" Volume="2018" Year="2019">
+<Book Series="Superior Spider-Man" Number="8" Volume="2019" Year="2019">
 <Database Name="cv" Series="116160" Issue="712551" />
 </Book>
-<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2015" Year="2019">
+<Book Series="Moon Girl and Devil Dinosaur" Number="43" Volume="2016" Year="2019">
 <Database Name="cv" Series="86245" Issue="709720" />
 </Book>
 <Book Series="War of the Realms: Journey Into Mystery" Number="2" Volume="2019" Year="2019">
@@ -393,13 +393,13 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="712558" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">
@@ -501,7 +501,7 @@
 <Book Series="The Darkhold Omega" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140788" Issue="901413" />
 </Book>
-<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2021" Year="2022">
+<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140357" Issue="897359" />
 </Book>
 <Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">
@@ -534,7 +534,7 @@
 <Book Series="Midnight Suns" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145040" Issue="966423" />
 </Book>
-<Book Series="Blade: Vampire Nation" Number="1" Volume="2022" Year="2023">
+<Book Series="Blade: Vampire Nation" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146110" Issue="955111" />
 </Book>
 <Book Series="Bloodline: Daughter of Blade" Number="1" Volume="2023" Year="2023">
@@ -594,7 +594,7 @@
 <Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1053535" />
 </Book>
-<Book Series="Fantastic Four" Number="21" Volume="2022" Year="2024">
+<Book Series="Fantastic Four" Number="21" Volume="2023" Year="2024">
 <Database Name="cv" Series="145912" Issue="1059113" />
 </Book>
 <Book Series="Blood Hunters" Number="1" Volume="2024" Year="2024">
@@ -651,10 +651,10 @@
 <Book Series="X-Men: Blood Hunt - Laura Kinney the Wolverine" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158869" Issue="1063238" />
 </Book>
-<Book Series="Venom" Number="33" Volume="2021" Year="2024">
+<Book Series="Venom" Number="33" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1054384" />
 </Book>
-<Book Series="Venom" Number="34" Volume="2021" Year="2024">
+<Book Series="Venom" Number="34" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1058721" />
 </Book>
 <Book Series="Union Jack the Ripper: Blood Hunt" Number="1" Volume="2024" Year="2024">
@@ -684,7 +684,7 @@
 <Book Series="Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1059110" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1059267" />
 </Book>
 <Book Series="Dracula: Blood Hunt" Number="2" Volume="2024" Year="2024">
@@ -693,7 +693,7 @@
 <Book Series="Dracula: Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158069" Issue="1063349" />
 </Book>
-<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2022" Year="2024">
+<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2023" Year="2024">
 <Database Name="cv" Series="146734" Issue="1061873" />
 </Book>
 <Book Series="Doctor Strange" Number="16" Volume="2023" Year="2024">
@@ -738,7 +738,7 @@
 <Book Series="Strange Academy: Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158074" Issue="1064207" />
 </Book>
-<Book Series="Fantastic Four" Number="22" Volume="2022" Year="2024">
+<Book Series="Fantastic Four" Number="22" Volume="2023" Year="2024">
 <Database Name="cv" Series="145912" Issue="1065058" />
 </Book>
 <Book Series="Midnight Sons: Blood Hunt" Number="3" Volume="2024" Year="2024">

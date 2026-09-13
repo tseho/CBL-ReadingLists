@@ -4,13 +4,13 @@
     <Name>[Marvel] 2015-2018 Part 8.4 Spider-Man and Deadpool (MG)</Name>
     <NumIssues>48</NumIssues>
     <Books>
-        <Book Series="Deadpool &#38; The Mercs For Money" Number="4" Volume="2016" Year="2016">
+        <Book Series="Deadpool &amp; The Mercs For Money" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="92360" Issue="552156" />
         </Book>
-        <Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2017">
+        <Book Series="Deadpool &amp; The Mercs For Money" Number="5" Volume="2016" Year="2017">
             <Database Name="cv" Series="92360" Issue="556470" />
         </Book>
-        <Book Series="Deadpool &#38; The Mercs For Money" Number="6" Volume="2016" Year="2017">
+        <Book Series="Deadpool &amp; The Mercs For Money" Number="6" Volume="2016" Year="2017">
             <Database Name="cv" Series="92360" Issue="569328" />
         </Book>
         <Book Series="Spider-Man/Deadpool" Number="1" Volume="2016" Year="2016">
@@ -61,28 +61,28 @@
         <Book Series="Spider-Man/Deadpool" Number="18" Volume="2016" Year="2017">
             <Database Name="cv" Series="87182" Issue="599875" />
         </Book>
-        <Book Series="Deadpool" Number="19" Volume="2015" Year="2016">
+        <Book Series="Deadpool" Number="19" Volume="2016" Year="2016">
             <Database Name="cv" Series="85750" Issue="551301" />
         </Book>
-        <Book Series="Deadpool" Number="20" Volume="2015" Year="2016">
+        <Book Series="Deadpool" Number="20" Volume="2016" Year="2016">
             <Database Name="cv" Series="85750" Issue="553007" />
         </Book>
-        <Book Series="Deadpool" Number="21" Volume="2015" Year="2016">
+        <Book Series="Deadpool" Number="21" Volume="2016" Year="2016">
             <Database Name="cv" Series="85750" Issue="555516" />
         </Book>
-        <Book Series="Deadpool" Number="22" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="22" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="558414" />
         </Book>
-        <Book Series="Deadpool" Number="23" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="23" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="563720" />
         </Book>
-        <Book Series="Deadpool" Number="24" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="24" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="575863" />
         </Book>
-        <Book Series="Deadpool" Number="25" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="25" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="578456" />
         </Book>
-        <Book Series="Deadpool" Number="26" Volume="2015" Year="2017">
+        <Book Series="Deadpool" Number="26" Volume="2016" Year="2017">
             <Database Name="cv" Series="85750" Issue="579312" />
         </Book>
         <Book Series="Deadpool the Duck" Number="1" Volume="2017" Year="2017">
@@ -100,19 +100,19 @@
         <Book Series="Deadpool the Duck" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="97745" Issue="587405" />
         </Book>
-        <Book Series="Foolkiller" Number="1" Volume="2016" Year="2017">
+        <Book Series="Foolkiller" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="95415" Issue="556472" />
         </Book>
-        <Book Series="Foolkiller" Number="2" Volume="2016" Year="2017">
+        <Book Series="Foolkiller" Number="2" Volume="2017" Year="2017">
             <Database Name="cv" Series="95415" Issue="566708" />
         </Book>
-        <Book Series="Foolkiller" Number="3" Volume="2016" Year="2017">
+        <Book Series="Foolkiller" Number="3" Volume="2017" Year="2017">
             <Database Name="cv" Series="95415" Issue="575866" />
         </Book>
-        <Book Series="Foolkiller" Number="4" Volume="2016" Year="2017">
+        <Book Series="Foolkiller" Number="4" Volume="2017" Year="2017">
             <Database Name="cv" Series="95415" Issue="580751" />
         </Book>
-        <Book Series="Foolkiller" Number="5" Volume="2016" Year="2017">
+        <Book Series="Foolkiller" Number="5" Volume="2017" Year="2017">
             <Database Name="cv" Series="95415" Issue="588564" />
         </Book>
         <Book Series="Solo" Number="1" Volume="2016" Year="2016">

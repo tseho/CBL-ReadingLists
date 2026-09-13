@@ -27,7 +27,7 @@
 <Book Series="Star Wars: Bounty Hunters" Number="14" Volume="2020" Year="2021">
 <Database Name="cv" Series="125679" Issue="868595" />
 </Book>
-<Book Series="Star Wars: War of the Bounty Hunters: 4-Lom &#38; Zuckuss" Number="1" Volume="2021" Year="2021">
+<Book Series="Star Wars: War of the Bounty Hunters: 4-Lom &amp; Zuckuss" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138048" Issue="877057" />
 </Book>
 <Book Series="Star Wars: Doctor Aphra" Number="10" Volume="2020" Year="2021">

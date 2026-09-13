@@ -3,16 +3,16 @@
 <Name>[Spider-Man] 30 - The Early 2000s - Marvel Knights - Part 2</Name>
 <NumIssues>29</NumIssues>
 <Books>
-<Book Series="New Avengers" Number="7" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108307" />
 </Book>
-<Book Series="New Avengers" Number="8" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108308" />
 </Book>
-<Book Series="New Avengers" Number="9" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108309" />
 </Book>
-<Book Series="New Avengers" Number="10" Volume="2004" Year="2005">
+<Book Series="New Avengers" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11497" Issue="108312" />
 </Book>
 <Book Series="Spider-Man Unlimited" Number="12" Volume="2004" Year="2006">

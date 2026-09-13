@@ -3,28 +3,28 @@
 <Name>Green Lantern 07 - DC Rebirth</Name>
 <NumIssues>153</NumIssues>
 <Books>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps: Rebirth" Number="1" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92182" Issue="539217" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="1" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="541166" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="2" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="543728" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="3" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="546033" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="4" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="549493" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="5" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="551276" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="6" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="552978" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="7" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="92557" Issue="555493" />
 </Book>
 <Book Series="Green Lanterns: Rebirth" Number="1" Volume="2016" Year="2016">
@@ -48,22 +48,22 @@
 <Book Series="Green Lanterns" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="91285" Issue="549492" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="8" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="557341" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="9" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="558938" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="10" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="566683" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="11" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="11" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="571637" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="12" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="575837" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="13" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="578431" />
 </Book>
 <Book Series="Green Lanterns" Number="7" Volume="2016" Year="2016">
@@ -90,28 +90,28 @@
 <Book Series="Green Lanterns" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="91285" Issue="574844" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="14" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="580719" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="15" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="582500" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="16" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="585061" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="17" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="588541" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="18" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="591729" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="19" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="593231" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="20" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="20" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="594936" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="21" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="597166" />
 </Book>
 <Book Series="Green Lanterns" Number="15" Volume="2016" Year="2017">
@@ -135,28 +135,28 @@
 <Book Series="Green Lanterns" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="91285" Issue="592571" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="22" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="601763" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="23" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="605060" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="24" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="608180" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="25" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="25" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="610466" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="26" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="26" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="613740" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="27" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="27" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="616143" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="28" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="28" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="621588" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="29" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="29" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="625282" />
 </Book>
 <Book Series="Green Lanterns" Number="22" Volume="2016" Year="2017">
@@ -189,28 +189,28 @@
 <Book Series="Green Lanterns" Number="31" Volume="2016" Year="2017">
 <Database Name="cv" Series="91285" Issue="622882" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="30" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="30" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="628555" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="31" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="31" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="632464" />
 </Book>
 <Book Series="Batman: The Dawnbreaker" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104774" Issue="626248" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="32" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="32" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="636345" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="33" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="33" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="643014" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="34" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="34" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="646160" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="35" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="35" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="649705" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="36" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="36" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="652599" />
 </Book>
 <Book Series="Green Lanterns" Number="32" Volume="2016" Year="2017">
@@ -237,19 +237,19 @@
 <Book Series="Green Lanterns" Number="39" Volume="2016" Year="2018">
 <Database Name="cv" Series="91285" Issue="654035" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="37" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="37" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="655477" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="38" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="38" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="659984" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="39" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="39" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="661116" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="40" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="40" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="662715" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="41" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="41" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="664267" />
 </Book>
 <Book Series="Green Lanterns" Number="40" Volume="2016" Year="2018">
@@ -279,31 +279,31 @@
 <Book Series="Green Lanterns" Number="47" Volume="2016" Year="2018">
 <Database Name="cv" Series="91285" Issue="670091" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="42" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="42" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="665878" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="43" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="43" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="667606" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="44" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="44" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="669431" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="45" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="45" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="670718" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="46" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="46" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="672994" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="47" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="47" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="675119" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="48" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="48" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="676670" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="49" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="49" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="677948" />
 </Book>
-<Book Series="Hal Jordan &#38; The Green Lantern Corps" Number="50" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="50" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="679389" />
 </Book>
 <Book Series="Green Lanterns" Number="48" Volume="2016" Year="2018">

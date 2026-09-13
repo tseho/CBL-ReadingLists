@@ -3,7 +3,7 @@
 <Name>[Spider-Man] 56 - Superior Spider-Man - Part 2</Name>
 <NumIssues>50</NumIssues>
 <Books>
-<Book Series="Avenging Spider-Man" Number="19" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="19" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="396425" />
 </Book>
 <Book Series="Superior Spider-Man" Number="7" Volume="2013" Year="2013">
@@ -24,10 +24,10 @@
 <Book Series="Superior Spider-Man" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="55552" Issue="404702" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="20" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="20" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="401204" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="21" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="21" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="406971" />
 </Book>
 <Book Series="Superior Spider-Man" Number="11" Volume="2013" Year="2013">
@@ -54,7 +54,7 @@
 <Book Series="Superior Spider-Man" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="55552" Issue="416946" />
 </Book>
-<Book Series="Avenging Spider-Man" Number="22" Volume="2011" Year="2013">
+<Book Series="Avenging Spider-Man" Number="22" Volume="2012" Year="2013">
 <Database Name="cv" Series="43884" Issue="410784" />
 </Book>
 <Book Series="Superior Spider-Man" Number="14" Volume="2013" Year="2013">
@@ -93,16 +93,16 @@
 <Book Series="Superior Spider-Man Team-Up Special" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68721" Issue="431445" />
 </Book>
-<Book Series="Avengers" Number="14" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="411825" />
 </Book>
-<Book Series="Avengers" Number="15" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="15" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="415233" />
 </Book>
-<Book Series="Avengers" Number="16" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="16" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="417831" />
 </Book>
-<Book Series="Avengers" Number="17" Volume="2012" Year="2013">
+<Book Series="Avengers" Number="17" Volume="2013" Year="2013">
 <Database Name="cv" Series="54428" Issue="420634" />
 </Book>
 <Book Series="Mighty Avengers" Number="1" Volume="2013" Year="2013">
@@ -135,7 +135,7 @@
 <Book Series="Superior Spider-Man" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="55552" Issue="433177" />
 </Book>
-<Book Series="Superior Spider-Man Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Superior Spider-Man Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="69348" Issue="433849" />
 </Book>
 <Book Series="Superior Spider-Man Team-Up" Number="8" Volume="2013" Year="2014">

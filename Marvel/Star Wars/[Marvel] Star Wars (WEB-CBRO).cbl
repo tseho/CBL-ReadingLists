@@ -186,7 +186,7 @@
 <Book Series="Star Wars: Mace Windu" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156646" Issue="1055030" />
 </Book>
-<Book Series="Star Wars: Age of Republic - Qui-Gon Jinn" Number="1" Volume="2018" Year="2019">
+<Book Series="Star Wars: Age of Republic - Qui-Gon Jinn" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115764" Issue="694146" />
 </Book>
 <Book Series="Star Wars: Jedi Knights" Number="1" Volume="2025" Year="2025">
@@ -258,7 +258,7 @@
 <Book Series="Star Wars: Darth Maul" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="98517" Issue="609362" />
 </Book>
-<Book Series="Star Wars: Age of Republic - Darth Maul" Number="1" Volume="2018" Year="2019">
+<Book Series="Star Wars: Age of Republic - Darth Maul" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115909" Issue="694926" />
 </Book>
 <Book Series="Star Wars: Phantom Menace 25th Anniversary Special" Number="1" Volume="2024" Year="2024">
@@ -267,19 +267,19 @@
 <Book Series="Star Wars: Age of Republic - Obi-Wan Kenobi" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="116265" Issue="696367" />
 </Book>
-<Book Series="Obi-Wan and Anakin" Number="1" Volume="2015" Year="2016">
+<Book Series="Obi-Wan and Anakin" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86986" Issue="509706" />
 </Book>
-<Book Series="Obi-Wan and Anakin" Number="2" Volume="2015" Year="2016">
+<Book Series="Obi-Wan and Anakin" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86986" Issue="513653" />
 </Book>
-<Book Series="Obi-Wan and Anakin" Number="3" Volume="2015" Year="2016">
+<Book Series="Obi-Wan and Anakin" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86986" Issue="521340" />
 </Book>
-<Book Series="Obi-Wan and Anakin" Number="4" Volume="2015" Year="2016">
+<Book Series="Obi-Wan and Anakin" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86986" Issue="526064" />
 </Book>
-<Book Series="Obi-Wan and Anakin" Number="5" Volume="2015" Year="2016">
+<Book Series="Obi-Wan and Anakin" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86986" Issue="531896" />
 </Book>
 <Book Series="Star Wars: Age of Republic - Count Dooku" Number="1" Volume="2019" Year="2019">
@@ -381,7 +381,7 @@
 <Book Series="Darth Vader" Number="17" Volume="2017" Year="2018">
 <Database Name="cv" Series="101960" Issue="673014" />
 </Book>
-<Book Series="Darth Vader Annual" Number="2" Volume="2015" Year="2018">
+<Book Series="Darth Vader Annual" Number="2" Volume="2016" Year="2018">
 <Database Name="cv" Series="86684" Issue="677276" />
 </Book>
 <Book Series="Darth Vader" Number="18" Volume="2017" Year="2018">
@@ -426,19 +426,19 @@
 <Book Series="Star Wars: Beckett" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112825" Issue="680003" />
 </Book>
-<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="1" Volume="2018" Year="2019">
+<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115082" Issue="691393" />
 </Book>
-<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="2" Volume="2018" Year="2019">
+<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="115082" Issue="694928" />
 </Book>
-<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="3" Volume="2018" Year="2019">
+<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="115082" Issue="696368" />
 </Book>
-<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="4" Volume="2018" Year="2019">
+<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="115082" Issue="700687" />
 </Book>
-<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="5" Volume="2018" Year="2019">
+<Book Series="Star Wars: Han Solo - Imperial Cadet" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="115082" Issue="703066" />
 </Book>
 <Book Series="Star Wars: Lando: Double Or Nothing" Number="1" Volume="2018" Year="2018">
@@ -690,7 +690,7 @@
 <Book Series="Chewbacca" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="85275" Issue="509699" />
 </Book>
-<Book Series="Star Wars Annual" Number="4" Volume="2015" Year="2018">
+<Book Series="Star Wars Annual" Number="4" Volume="2016" Year="2018">
 <Database Name="cv" Series="86555" Issue="670757" />
 </Book>
 <Book Series="Han Solo" Number="1" Volume="2016" Year="2016">
@@ -795,13 +795,13 @@
 <Book Series="Darth Vader" Number="12" Volume="2015" Year="2016">
 <Database Name="cv" Series="79990" Issue="505517" />
 </Book>
-<Book Series="Star Wars Annual" Number="1" Volume="2015" Year="2016">
+<Book Series="Star Wars Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86555" Issue="507784" />
 </Book>
-<Book Series="Darth Vader Annual" Number="1" Volume="2015" Year="2016">
+<Book Series="Darth Vader Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86684" Issue="508426" />
 </Book>
-<Book Series="Star Wars: Vader Down" Number="1" Volume="2015" Year="2016">
+<Book Series="Star Wars: Vader Down" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86131" Issue="506185" />
 </Book>
 <Book Series="Darth Vader" Number="13" Volume="2015" Year="2016">
@@ -897,25 +897,25 @@
 <Book Series="Star Wars" Number="30" Volume="2015" Year="2017">
 <Database Name="cv" Series="79398" Issue="590807" />
 </Book>
-<Book Series="Star Wars Annual" Number="2" Volume="2015" Year="2017">
+<Book Series="Star Wars Annual" Number="2" Volume="2016" Year="2017">
 <Database Name="cv" Series="86555" Issue="562604" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="1" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="563721" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="2" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="569329" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="3" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="576622" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="4" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="580747" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="5" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="585077" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="6" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="591755" />
 </Book>
 <Book Series="Star Wars: Screaming Citadel" Number="1" Volume="2017" Year="2017">
@@ -924,31 +924,31 @@
 <Book Series="Star Wars" Number="31" Volume="2015" Year="2017">
 <Database Name="cv" Series="79398" Issue="595703" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="7" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="7" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="598388" />
 </Book>
 <Book Series="Star Wars" Number="32" Volume="2015" Year="2017">
 <Database Name="cv" Series="79398" Issue="601804" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="8" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="8" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="605130" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra Annual" Number="1" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra Annual" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103626" Issue="616201" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="9" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="608257" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="10" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="610537" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="11" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="11" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="613806" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="12" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="12" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="621679" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="13" Volume="2016" Year="2017">
+<Book Series="Star Wars: Doctor Aphra" Number="13" Volume="2017" Year="2017">
 <Database Name="cv" Series="96284" Issue="628593" />
 </Book>
 <Book Series="Star Wars" Number="33" Volume="2015" Year="2017">
@@ -966,64 +966,64 @@
 <Book Series="Star Wars" Number="37" Volume="2015" Year="2017">
 <Database Name="cv" Series="79398" Issue="626298" />
 </Book>
-<Book Series="Star Wars Annual" Number="3" Volume="2015" Year="2017">
+<Book Series="Star Wars Annual" Number="3" Volume="2016" Year="2017">
 <Database Name="cv" Series="86555" Issue="622952" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="14" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="14" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="638608" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="15" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="15" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="647954" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="16" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="16" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="656716" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="17" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="17" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="660671" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="18" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="18" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="664310" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="19" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="19" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="667657" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="20" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="20" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="670758" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="21" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="21" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="675154" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="22" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="22" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="677978" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="23" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="23" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="680737" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="24" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="24" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="686394" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="25" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra" Number="25" Volume="2017" Year="2018">
 <Database Name="cv" Series="96284" Issue="689877" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="26" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="26" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="692083" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="27" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="27" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="694927" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="28" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="28" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="699410" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="29" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="29" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="701947" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="30" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="30" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="704829" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="31" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="31" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="706962" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra Annual" Number="2" Volume="2016" Year="2018">
+<Book Series="Star Wars: Doctor Aphra Annual" Number="2" Volume="2017" Year="2018">
 <Database Name="cv" Series="103626" Issue="683838" />
 </Book>
 <Book Series="Star Wars" Number="38" Volume="2015" Year="2018">
@@ -1044,7 +1044,7 @@
 <Book Series="Star Wars" Number="43" Volume="2015" Year="2018">
 <Database Name="cv" Series="79398" Issue="658734" />
 </Book>
-<Book Series="Star Wars: The Last Jedi - The Storms of Crait" Number="1" Volume="2017" Year="2018">
+<Book Series="Star Wars: The Last Jedi - The Storms of Crait" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107371" Issue="649745" />
 </Book>
 <Book Series="Star Wars" Number="44" Volume="2015" Year="2018">
@@ -1122,22 +1122,22 @@
 <Book Series="Star Wars: A New Legacy" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="162195" Issue="1093010" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="32" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="32" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="708142" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="33" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="33" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="711957" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="34" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="34" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="713865" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="35" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="35" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="716971" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="36" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="36" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="719446" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra Annual" Number="3" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra Annual" Number="3" Volume="2017" Year="2019">
 <Database Name="cv" Series="103626" Issue="725257" />
 </Book>
 <Book Series="Star Wars: Age of Rebellion - Lando Calrissian" Number="1" Volume="2019" Year="2019">
@@ -1161,16 +1161,16 @@
 <Book Series="Star Wars: Target Vader" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="120030" Issue="730347" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="37" Volume="2016" Year="2019">
+<Book Series="Star Wars: Doctor Aphra" Number="37" Volume="2017" Year="2019">
 <Database Name="cv" Series="96284" Issue="721163" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="38" Volume="2016" Year="2020">
+<Book Series="Star Wars: Doctor Aphra" Number="38" Volume="2017" Year="2020">
 <Database Name="cv" Series="96284" Issue="726214" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="39" Volume="2016" Year="2020">
+<Book Series="Star Wars: Doctor Aphra" Number="39" Volume="2017" Year="2020">
 <Database Name="cv" Series="96284" Issue="728980" />
 </Book>
-<Book Series="Star Wars: Doctor Aphra" Number="40" Volume="2016" Year="2020">
+<Book Series="Star Wars: Doctor Aphra" Number="40" Volume="2017" Year="2020">
 <Database Name="cv" Series="96284" Issue="730346" />
 </Book>
 <Book Series="Star Wars" Number="68" Volume="2015" Year="2019">
@@ -1203,40 +1203,40 @@
 <Book Series="Star Wars: Age of Rebellion - Jabba the Hutt" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119308" Issue="709726" />
 </Book>
-<Book Series="Star Wars: Empire Ascendant" Number="1" Volume="2019" Year="2020">
+<Book Series="Star Wars: Empire Ascendant" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123713" Issue="731527" />
 </Book>
 <Book Series="Star Wars: Age of Rebellion Special" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="118395" Issue="706419" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="1" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="956847" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="2" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="961961" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="3" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="966429" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="4" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="973033" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="5" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="976912" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="6" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="6" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="984262" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="7" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="987262" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="8" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="8" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="993239" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="9" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="9" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="998581" />
 </Book>
-<Book Series="Star Wars: Yoda" Number="10" Volume="2022" Year="2023">
+<Book Series="Star Wars: Yoda" Number="10" Volume="2023" Year="2023">
 <Database Name="cv" Series="146385" Issue="1004339" />
 </Book>
 <Book Series="Star Wars" Number="1" Volume="2020" Year="2020">
@@ -1575,7 +1575,7 @@
 <Book Series="Star Wars: Darth Vader" Number="27" Volume="2020" Year="2022">
 <Database Name="cv" Series="124821" Issue="948114" />
 </Book>
-<Book Series="Star Wars: Revelations" Number="1" Volume="2022" Year="2023">
+<Book Series="Star Wars: Revelations" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146386" Issue="956848" />
 </Book>
 <Book Series="Star Wars: Darth Vader" Number="28" Volume="2020" Year="2022">
@@ -1596,7 +1596,7 @@
 <Book Series="Star Wars: Doctor Aphra" Number="26" Volume="2020" Year="2023">
 <Database Name="cv" Series="126644" Issue="955115" />
 </Book>
-<Book Series="Star Wars: Hidden Empire" Number="1" Volume="2022" Year="2023">
+<Book Series="Star Wars: Hidden Empire" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146111" Issue="955113" />
 </Book>
 <Book Series="Star Wars: Bounty Hunters" Number="27" Volume="2020" Year="2022">
@@ -1608,10 +1608,10 @@
 <Book Series="Star Wars: Doctor Aphra" Number="27" Volume="2020" Year="2023">
 <Database Name="cv" Series="126644" Issue="961954" />
 </Book>
-<Book Series="Star Wars: Hidden Empire" Number="2" Volume="2022" Year="2023">
+<Book Series="Star Wars: Hidden Empire" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146111" Issue="958996" />
 </Book>
-<Book Series="Star Wars: Hidden Empire" Number="3" Volume="2022" Year="2023">
+<Book Series="Star Wars: Hidden Empire" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146111" Issue="969393" />
 </Book>
 <Book Series="Star Wars: Bounty Hunters" Number="29" Volume="2020" Year="2023">
@@ -1629,10 +1629,10 @@
 <Book Series="Star Wars: Doctor Aphra" Number="29" Volume="2020" Year="2023">
 <Database Name="cv" Series="126644" Issue="973032" />
 </Book>
-<Book Series="Star Wars: Hidden Empire" Number="4" Volume="2022" Year="2023">
+<Book Series="Star Wars: Hidden Empire" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146111" Issue="974101" />
 </Book>
-<Book Series="Star Wars: Hidden Empire" Number="5" Volume="2022" Year="2023">
+<Book Series="Star Wars: Hidden Empire" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146111" Issue="981435" />
 </Book>
 <Book Series="Star Wars: Darth Vader" Number="29" Volume="2020" Year="2023">
@@ -2088,16 +2088,16 @@
 <Book Series="Star Wars" Number="50" Volume="2020" Year="2024">
 <Database Name="cv" Series="123860" Issue="1069419" />
 </Book>
-<Book Series="Star Wars: The Rise of Kylo Ren" Number="1" Volume="2019" Year="2020">
+<Book Series="Star Wars: The Rise of Kylo Ren" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="123714" Issue="731528" />
 </Book>
-<Book Series="Star Wars: The Rise of Kylo Ren" Number="2" Volume="2019" Year="2020">
+<Book Series="Star Wars: The Rise of Kylo Ren" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="123714" Issue="732891" />
 </Book>
-<Book Series="Star Wars: The Rise of Kylo Ren" Number="3" Volume="2019" Year="2020">
+<Book Series="Star Wars: The Rise of Kylo Ren" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="123714" Issue="737168" />
 </Book>
-<Book Series="Star Wars: The Rise of Kylo Ren" Number="4" Volume="2019" Year="2020">
+<Book Series="Star Wars: The Rise of Kylo Ren" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="123714" Issue="740827" />
 </Book>
 <Book Series="Star Wars: Age of Resistance - Supreme Leader Snoke" Number="1" Volume="2019" Year="2019">

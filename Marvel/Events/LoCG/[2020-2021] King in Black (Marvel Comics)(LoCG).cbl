@@ -6,25 +6,25 @@
 <Book Series="Free Comic Book Day 2020 (Spider-Man/Venom)" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="128901" Issue="781609" />
 </Book>
-<Book Series="Web of Venom: Empyre's End" Number="1" Volume="2020" Year="2021">
+<Book Series="Web of Venom: Empyre&apos;s End" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="131733" Issue="816471" />
 </Book>
-<Book Series="Symbiote Spider-Man: King In Black" Number="1" Volume="2020" Year="2021">
+<Book Series="Symbiote Spider-Man: King in Black" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132130" Issue="819124" />
 </Book>
-<Book Series="Symbiote Spider-Man: King In Black" Number="2" Volume="2020" Year="2021">
+<Book Series="Symbiote Spider-Man: King in Black" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132130" Issue="821501" />
 </Book>
-<Book Series="Symbiote Spider-Man: King In Black" Number="3" Volume="2020" Year="2021">
+<Book Series="Symbiote Spider-Man: King in Black" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132130" Issue="824033" />
 </Book>
-<Book Series="Symbiote Spider-Man: King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="Symbiote Spider-Man: King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132130" Issue="830032" />
 </Book>
-<Book Series="Symbiote Spider-Man: King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="Symbiote Spider-Man: King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132130" Issue="840958" />
 </Book>
-<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="820024" />
 </Book>
 <Book Series="King In Black Handbook" Number="1" Volume="2021" Year="2021">
@@ -39,25 +39,25 @@
 <Book Series="Atlantis Attacks" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="124446" Issue="820017" />
 </Book>
-<Book Series="The Union" Number="1" Volume="2020" Year="2021">
+<Book Series="The Union" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132378" Issue="820029" />
 </Book>
-<Book Series="King In Black: Namor" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black: Namor" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132510" Issue="820746" />
 </Book>
-<Book Series="King In Black: Namor" Number="2" Volume="2020" Year="2021">
+<Book Series="King in Black: Namor" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132510" Issue="823346" />
 </Book>
-<Book Series="King In Black: Namor" Number="3" Volume="2020" Year="2021">
+<Book Series="King in Black: Namor" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132510" Issue="826558" />
 </Book>
-<Book Series="King In Black: Namor" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black: Namor" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132510" Issue="830026" />
 </Book>
-<Book Series="King In Black: Namor" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black: Namor" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132510" Issue="842964" />
 </Book>
-<Book Series="King In Black: Immortal Hulk" Number="1" Volume="2020" Year="2021">
+<Book Series="King in Black: Immortal Hulk" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132632" Issue="821497" />
 </Book>
 <Book Series="Spider-Woman" Number="7" Volume="2020" Year="2021">
@@ -66,7 +66,7 @@
 <Book Series="Spider-Woman" Number="8" Volume="2020" Year="2021">
 <Database Name="cv" Series="125812" Issue="824032" />
 </Book>
-<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="822349" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="10" Volume="2019" Year="2019">
@@ -90,10 +90,10 @@
 <Book Series="King in Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="832864" />
 </Book>
-<Book Series="S.W.O.R.D." Number="2" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="824453" />
 </Book>
-<Book Series="S.W.O.R.D." Number="3" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="828197" />
 </Book>
 <Book Series="King In Black: Thunderbolts" Number="1" Volume="2021" Year="2021">
@@ -105,7 +105,7 @@
 <Book Series="King In Black: Thunderbolts" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133197" Issue="832866" />
 </Book>
-<Book Series="The Union" Number="2" Volume="2020" Year="2021">
+<Book Series="The Union" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132378" Issue="824454" />
 </Book>
 <Book Series="King In Black: Planet of the Symbiotes" Number="1" Volume="2021" Year="2021">
@@ -114,7 +114,7 @@
 <Book Series="King In Black: Planet of the Symbiotes" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="133196" Issue="828858" />
 </Book>
-<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="825507" />
 </Book>
 <Book Series="King In Black: Black Knight" Number="1" Volume="2021" Year="2021">
@@ -180,10 +180,10 @@
 <Book Series="Venom" Number="33" Volume="2018" Year="2021">
 <Database Name="cv" Series="110770" Issue="827531" />
 </Book>
-<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="828857" />
 </Book>
-<Book Series="S.W.O.R.D." Number="4" Volume="2020" Year="2021">
+<Book Series="S.W.O.R.D." Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132511" Issue="838885" />
 </Book>
 <Book Series="King In Black: Scream" Number="1" Volume="2021" Year="2021">
@@ -204,7 +204,7 @@
 <Book Series="Venom" Number="34" Volume="2018" Year="2021">
 <Database Name="cv" Series="110770" Issue="842208" />
 </Book>
-<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Book Series="King in Black" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132376" Issue="842204" />
 </Book>
 <Book Series="Venom" Number="35" Volume="2018" Year="2021">

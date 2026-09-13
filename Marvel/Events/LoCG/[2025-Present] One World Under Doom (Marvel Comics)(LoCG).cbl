@@ -3,7 +3,7 @@
 <Name>[2025-Present] One World Under Doom (Marvel Comics)(LoCG)</Name>
 <NumIssues>82</NumIssues>
 <Books>
-<Book Series="Fantastic Four" Number="28" Volume="2022" Year="2025">
+<Book Series="Fantastic Four" Number="28" Volume="2023" Year="2025">
 <Database Name="cv" Series="145912" Issue="1091207" />
 </Book>
 <Book Series="One World Under Doom" Number="1" Volume="2025" Year="2025">
@@ -24,7 +24,7 @@
 <Book Series="Storm" Number="5" Volume="2024" Year="2025">
 <Database Name="cv" Series="160203" Issue="1096485" />
 </Book>
-<Book Series="Fantastic Four" Number="29" Volume="2022" Year="2025">
+<Book Series="Fantastic Four" Number="29" Volume="2023" Year="2025">
 <Database Name="cv" Series="145912" Issue="1096997" />
 </Book>
 <Book Series="Red Hulk" Number="1" Volume="2025" Year="2025">
@@ -48,7 +48,7 @@
 <Book Series="Doom Academy" Number="2" Volume="2025" Year="2025">
 <Database Name="cv" Series="162480" Issue="1100281" />
 </Book>
-<Book Series="Doom's Division" Number="1" Volume="2025" Year="2025">
+<Book Series="Doom&apos;s Division" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="163009" Issue="1100282" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="70" Volume="2022" Year="2025">
@@ -60,7 +60,7 @@
 <Book Series="Thunderbolts: Doomstrike" Number="2" Volume="2025" Year="2025">
 <Database Name="cv" Series="162487" Issue="1100292" />
 </Book>
-<Book Series="Fantastic Four" Number="30" Volume="2022" Year="2025">
+<Book Series="Fantastic Four" Number="30" Volume="2023" Year="2025">
 <Database Name="cv" Series="145912" Issue="1100283" />
 </Book>
 <Book Series="Doctor Strange of Asgard" Number="2" Volume="2025" Year="2025">
@@ -75,16 +75,16 @@
 <Book Series="One World Under Doom" Number="3" Volume="2025" Year="2025">
 <Database Name="cv" Series="162403" Issue="1106062" />
 </Book>
-<Book Series="The Avengers" Number="25" Volume="2023" Year="2025">
+<Book Series="Avengers" Number="25" Volume="2023" Year="2025">
 <Database Name="cv" Series="150431" Issue="1106052" />
 </Book>
 <Book Series="Doom Academy" Number="3" Volume="2025" Year="2025">
 <Database Name="cv" Series="162480" Issue="1107182" />
 </Book>
-<Book Series="Doom's Division" Number="2" Volume="2025" Year="2025">
+<Book Series="Doom&apos;s Division" Number="2" Volume="2025" Year="2025">
 <Database Name="cv" Series="163009" Issue="1107183" />
 </Book>
-<Book Series="Fantastic Four" Number="31" Volume="2022" Year="2025">
+<Book Series="Fantastic Four" Number="31" Volume="2023" Year="2025">
 <Database Name="cv" Series="145912" Issue="1107184" />
 </Book>
 <Book Series="Red Hulk" Number="3" Volume="2025" Year="2025">
@@ -96,7 +96,7 @@
 <Book Series="One World Under Doom" Number="4" Volume="2025" Year="2025">
 <Database Name="cv" Series="162403" Issue="1109655" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="43" Volume="2024" Year="2025">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="43" Volume="2024" Year="2025">
 <Database Name="cv" Series="158642" Issue="1109691" />
 </Book>
 <Book Series="Doctor Strange of Asgard" Number="3" Volume="2025" Year="2025">
@@ -111,10 +111,10 @@
 <Book Series="Thunderbolts: Doomstrike" Number="4" Volume="2025" Year="2025">
 <Database Name="cv" Series="162487" Issue="1109661" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="44" Volume="2024" Year="2025">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="44" Volume="2024" Year="2025">
 <Database Name="cv" Series="158642" Issue="1111785" />
 </Book>
-<Book Series="Fantastic Four" Number="32" Volume="2022" Year="2025">
+<Book Series="Fantastic Four" Number="32" Volume="2023" Year="2025">
 <Database Name="cv" Series="145912" Issue="1111718" />
 </Book>
 <Book Series="Superior Avengers" Number="2" Volume="2025" Year="2025">
@@ -123,13 +123,13 @@
 <Book Series="Thunderbolts: Doomstrike" Number="5" Volume="2025" Year="2025">
 <Database Name="cv" Series="162487" Issue="1111726" />
 </Book>
-<Book Series="The Avengers" Number="26" Volume="2023" Year="2025">
+<Book Series="Avengers" Number="26" Volume="2023" Year="2025">
 <Database Name="cv" Series="150431" Issue="1112949" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="45" Volume="2024" Year="2025">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="45" Volume="2024" Year="2025">
 <Database Name="cv" Series="158642" Issue="1112987" />
 </Book>
-<Book Series="Doom's Division" Number="3" Volume="2025" Year="2025">
+<Book Series="Doom&apos;s Division" Number="3" Volume="2025" Year="2025">
 <Database Name="cv" Series="163009" Issue="1112953" />
 </Book>
 <Book Series="Iron Man" Number="8" Volume="2024" Year="2025">
@@ -147,10 +147,10 @@
 <Book Series="Runaways" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="165025" Issue="1115828" />
 </Book>
-<Book Series="The Avengers" Number="27" Volume="2023" Year="2025">
+<Book Series="Avengers" Number="27" Volume="2023" Year="2025">
 <Database Name="cv" Series="150431" Issue="1116295" />
 </Book>
-<Book Series="Doom's Division" Number="4" Volume="2025" Year="2025">
+<Book Series="Doom&apos;s Division" Number="4" Volume="2025" Year="2025">
 <Database Name="cv" Series="163009" Issue="1116298" />
 </Book>
 <Book Series="Iron Man" Number="9" Volume="2024" Year="2025">
@@ -159,13 +159,13 @@
 <Book Series="Doom Academy" Number="5" Volume="2025" Year="2025">
 <Database Name="cv" Series="162480" Issue="1116809" />
 </Book>
-<Book Series="Fantastic Four" Number="33" Volume="2022" Year="2025">
+<Book Series="Fantastic Four" Number="33" Volume="2023" Year="2025">
 <Database Name="cv" Series="145912" Issue="1116810" />
 </Book>
 <Book Series="Superior Avengers" Number="3" Volume="2025" Year="2025">
 <Database Name="cv" Series="163531" Issue="1116819" />
 </Book>
-<Book Series="The Avengers" Number="28" Volume="2023" Year="2025">
+<Book Series="Avengers" Number="28" Volume="2023" Year="2025">
 <Database Name="cv" Series="150431" Issue="1117432" />
 </Book>
 <Book Series="Doctor Strange of Asgard" Number="5" Volume="2025" Year="2025">
@@ -180,7 +180,7 @@
 <Book Series="Runaways" Number="2" Volume="2025" Year="2025">
 <Database Name="cv" Series="165025" Issue="1121728" />
 </Book>
-<Book Series="Doom's Division" Number="5" Volume="2025" Year="2025">
+<Book Series="Doom&apos;s Division" Number="5" Volume="2025" Year="2025">
 <Database Name="cv" Series="163009" Issue="1121717" />
 </Book>
 <Book Series="Iron Man" Number="10" Volume="2024" Year="2025">

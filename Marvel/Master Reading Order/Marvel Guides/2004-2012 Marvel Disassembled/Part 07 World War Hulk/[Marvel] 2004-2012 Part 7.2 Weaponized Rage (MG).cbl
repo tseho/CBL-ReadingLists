@@ -10,7 +10,7 @@
         <Book Series="Incredible Hulk" Number="108" Volume="2000" Year="2007">
             <Database Name="cv" Series="6558" Issue="111938" />
         </Book>
-        <Book Series="Iron Man" Number="20" Volume="2004" Year="2007">
+        <Book Series="Iron Man" Number="20" Volume="2005" Year="2007">
             <Database Name="cv" Series="18220" Issue="111936" />
         </Book>
         <Book Series="World War Hulk: Front Line" Number="3" Volume="2007" Year="2007">

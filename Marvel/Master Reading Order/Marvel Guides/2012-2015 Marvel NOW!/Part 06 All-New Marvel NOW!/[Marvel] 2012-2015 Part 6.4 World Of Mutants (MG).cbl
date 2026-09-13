@@ -42,31 +42,31 @@
 <Book Series="Amazing X-Men" Number="13" Volume="2014" Year="2015">
 <Database Name="cv" Series="68919" Issue="471312" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="446927" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="448008" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="3" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="450561" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="4" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="453423" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="5" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="456559" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="6" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="460319" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="7" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="462262" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="8" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="8" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="463491" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2014" Year="2014">
+<Book Series="Wolverine &amp; the X-Men" Number="9" Volume="2014" Year="2014">
 <Database Name="cv" Series="72113" Issue="465854" />
 </Book>
 <Book Series="All-New X-Factor" Number="1" Volume="2014" Year="2014">

@@ -438,13 +438,13 @@
 <Book Series="All-Star Batman" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="92947" Issue="626245" />
 </Book>
-<Book Series="Batman &#38; the Signal" Number="1" Volume="2018" Year="2018">
+<Book Series="Batman &amp; the Signal" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107493" Issue="650887" />
 </Book>
-<Book Series="Batman &#38; the Signal" Number="2" Volume="2018" Year="2018">
+<Book Series="Batman &amp; the Signal" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="107493" Issue="660621" />
 </Book>
-<Book Series="Batman &#38; the Signal" Number="3" Volume="2018" Year="2018">
+<Book Series="Batman &amp; the Signal" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="107493" Issue="667597" />
 </Book>
 <Book Series="Batman/Shadow" Number="1" Volume="2017" Year="2017">

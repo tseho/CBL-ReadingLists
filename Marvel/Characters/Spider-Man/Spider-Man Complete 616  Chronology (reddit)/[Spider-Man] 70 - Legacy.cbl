@@ -36,19 +36,19 @@
 <Book Series="Spider-Man/Deadpool" Number="29" Volume="2016" Year="2018">
 <Database Name="cv" Series="87182" Issue="662753" />
 </Book>
-<Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2017" Year="2018">
+<Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="106662" Issue="644495" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="792" Volume="2015" Year="2018">
 <Database Name="cv" Series="85076" Issue="646179" />
 </Book>
-<Book Series="Venom" Number="159" Volume="2016" Year="2018">
+<Book Series="Venom" Number="159" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="647962" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="793" Volume="2015" Year="2018">
 <Database Name="cv" Series="85076" Issue="649722" />
 </Book>
-<Book Series="Venom" Number="160" Volume="2016" Year="2018">
+<Book Series="Venom" Number="160" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="652644" />
 </Book>
 <Book Series="Amazing Spider-Man: Venom Inc. Omega" Number="1" Volume="2018" Year="2018">
@@ -174,7 +174,7 @@
 <Book Series="The Amazing Spider-Man" Number="795" Volume="2015" Year="2018">
 <Database Name="cv" Series="85076" Issue="658715" />
 </Book>
-<Book Series="Amazing Spider-Man Annual" Number="42" Volume="2016" Year="2018">
+<Book Series="Amazing Spider-Man Annual" Number="42" Volume="2017" Year="2018">
 <Database Name="cv" Series="95808" Issue="660005" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="796" Volume="2015" Year="2018">

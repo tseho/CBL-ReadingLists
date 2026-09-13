@@ -72,7 +72,7 @@
         <Book Series="X-Men" Number="15" Volume="2019" Year="2021">
             <Database Name="cv" Series="122077" Issue="819479" />
         </Book>
-        <Book Series="X of Swords: Destruction" Number="1" Volume="2020" Year="2021">
+        <Book Series="X of Swords: Destruction" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="132228" Issue="819480" />
         </Book>
     </Books>

@@ -1047,7 +1047,7 @@
 <Book Series="Daredevil" Number="612" Volume="2016" Year="2019">
 <Database Name="cv" Series="86343" Issue="693458" />
 </Book>
-<Book Series="Daredevil Annual" Number="1" Volume="2019" Year="2020">
+<Book Series="Daredevil Annual" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="129886" Issue="796294" />
 </Book>
 <Book Series="Man Without Fear" Number="1" Volume="2019" Year="2019">

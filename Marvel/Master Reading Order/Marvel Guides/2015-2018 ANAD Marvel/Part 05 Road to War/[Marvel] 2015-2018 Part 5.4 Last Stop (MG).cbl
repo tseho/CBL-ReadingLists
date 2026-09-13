@@ -40,7 +40,7 @@
         <Book Series="Vision" Number="12" Volume="2016" Year="2016">
             <Database Name="cv" Series="85793" Issue="555545" />
         </Book>
-        <Book Series="Deadpool" Number="13" Volume="2015" Year="2016">
+        <Book Series="Deadpool" Number="13" Volume="2016" Year="2016">
             <Database Name="cv" Series="85750" Issue="533029" />
         </Book>
         <Book Series="Old Man Logan" Number="5" Volume="2016" Year="2016">
@@ -70,10 +70,10 @@
         <Book Series="Old Man Logan" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="87624" Issue="558419" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="5" Volume="2015" Year="2016">
+        <Book Series="The Totally Awesome Hulk" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="86408" Issue="526070" />
         </Book>
-        <Book Series="The Totally Awesome Hulk" Number="6" Volume="2015" Year="2016">
+        <Book Series="The Totally Awesome Hulk" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="86408" Issue="531904" />
         </Book>
         <Book Series="Spider-Man 2099" Number="1" Volume="2015" Year="2015">
@@ -112,7 +112,7 @@
         <Book Series="Spider-Man 2099" Number="12" Volume="2015" Year="2016">
             <Database Name="cv" Series="85312" Issue="538519" />
         </Book>
-        <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2016" Year="2017">
+        <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="95808" Issue="558953" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="12" Volume="2015" Year="2016">
@@ -136,37 +136,37 @@
         <Book Series="The Amazing Spider-Man" Number="18" Volume="2015" Year="2016">
             <Database Name="cv" Series="85076" Issue="550344" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="1" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="506665" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="2" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="2" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="508901" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="3" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="3" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="512437" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="4" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="4" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="516969" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="5" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="5" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="521348" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="6" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="6" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="527160" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="7" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="529667" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="8" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="8" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="534299" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="9" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="9" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="537958" />
         </Book>
-        <Book Series="Venom: Space Knight" Number="10" Volume="2015" Year="2016">
+        <Book Series="Venom: Space Knight" Number="10" Volume="2016" Year="2016">
             <Database Name="cv" Series="86263" Issue="541226" />
         </Book>
-        <Book Series="Ultimates" Number="7" Volume="2015" Year="2016">
+        <Book Series="Ultimates" Number="7" Volume="2016" Year="2016">
             <Database Name="cv" Series="85972" Issue="529664" />
         </Book>
         <Book Series="A-Force" Number="1" Volume="2016" Year="2016">

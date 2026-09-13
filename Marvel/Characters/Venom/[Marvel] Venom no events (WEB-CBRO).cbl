@@ -423,7 +423,7 @@
 <Book Series="Thunderbolts" Number="13" Volume="2013" Year="2013">
 <Database Name="cv" Series="54429" Issue="417846" />
 </Book>
-<Book Series="Thunderbolts Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Thunderbolts Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="70061" Issue="437498" />
 </Book>
 <Book Series="Thunderbolts" Number="14" Volume="2013" Year="2013">
@@ -501,22 +501,22 @@
 <Book Series="Guardians of the Galaxy" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="514437" />
 </Book>
-<Book Series="Venom: Space Knight" Number="1" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="506665" />
 </Book>
-<Book Series="Venom: Space Knight" Number="2" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="508901" />
 </Book>
-<Book Series="Venom: Space Knight" Number="3" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="512437" />
 </Book>
-<Book Series="Venom: Space Knight" Number="4" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="516969" />
 </Book>
-<Book Series="Venom: Space Knight" Number="5" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="521348" />
 </Book>
-<Book Series="Venom: Space Knight" Number="6" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="527160" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="6" Volume="2015" Year="2016">
@@ -534,16 +534,16 @@
 <Book Series="Guardians of the Galaxy" Number="10" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="539242" />
 </Book>
-<Book Series="Venom: Space Knight" Number="7" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="529667" />
 </Book>
-<Book Series="Venom: Space Knight" Number="8" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="534299" />
 </Book>
-<Book Series="Venom: Space Knight" Number="9" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="537958" />
 </Book>
-<Book Series="Venom: Space Knight" Number="10" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="541226" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
@@ -552,61 +552,61 @@
 <Book Series="Guardians of the Galaxy" Number="12" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="550359" />
 </Book>
-<Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="546069" />
 </Book>
-<Book Series="Venom: Space Knight" Number="12" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="550371" />
 </Book>
-<Book Series="Venom: Space Knight" Number="13" Volume="2015" Year="2016">
+<Book Series="Venom: Space Knight" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="86263" Issue="555544" />
 </Book>
-<Book Series="Venom" Number="1" Volume="2016" Year="2017">
+<Book Series="Venom" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="558979" />
 </Book>
-<Book Series="Venom" Number="2" Volume="2016" Year="2017">
+<Book Series="Venom" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="569355" />
 </Book>
-<Book Series="Venom" Number="3" Volume="2016" Year="2017">
+<Book Series="Venom" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="576642" />
 </Book>
-<Book Series="Venom" Number="4" Volume="2016" Year="2017">
+<Book Series="Venom" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="581575" />
 </Book>
-<Book Series="Venom" Number="5" Volume="2016" Year="2017">
+<Book Series="Venom" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="587423" />
 </Book>
-<Book Series="Venom" Number="6" Volume="2016" Year="2017">
+<Book Series="Venom" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="592617" />
 </Book>
-<Book Series="Venom" Number="150" Volume="2016" Year="2017">
+<Book Series="Venom" Number="150" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="597207" />
 </Book>
-<Book Series="Venom" Number="151" Volume="2016" Year="2017">
+<Book Series="Venom" Number="151" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="601809" />
 </Book>
-<Book Series="Venom" Number="152" Volume="2016" Year="2017">
+<Book Series="Venom" Number="152" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="608263" />
 </Book>
-<Book Series="Venom" Number="153" Volume="2016" Year="2017">
+<Book Series="Venom" Number="153" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="613809" />
 </Book>
-<Book Series="Venom" Number="154" Volume="2016" Year="2017">
+<Book Series="Venom" Number="154" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="622959" />
 </Book>
-<Book Series="Venom" Number="155" Volume="2016" Year="2017">
+<Book Series="Venom" Number="155" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="626303" />
 </Book>
-<Book Series="Venom" Number="156" Volume="2016" Year="2017">
+<Book Series="Venom" Number="156" Volume="2017" Year="2017">
 <Database Name="cv" Series="95845" Issue="630539" />
 </Book>
-<Book Series="Venom" Number="157" Volume="2016" Year="2018">
+<Book Series="Venom" Number="157" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="636390" />
 </Book>
-<Book Series="Venom" Number="158" Volume="2016" Year="2018">
+<Book Series="Venom" Number="158" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="643047" />
 </Book>
-<Book Series="Venom" Number="161" Volume="2016" Year="2018">
+<Book Series="Venom" Number="161" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="658736" />
 </Book>
 <Book Series="X-Men Blue Annual" Number="1" Volume="2018" Year="2018">
@@ -615,13 +615,13 @@
 <Book Series="X-Men: Blue" Number="21" Volume="2017" Year="2018">
 <Database Name="cv" Series="100712" Issue="660028" />
 </Book>
-<Book Series="Venom" Number="162" Volume="2016" Year="2018">
+<Book Series="Venom" Number="162" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="660673" />
 </Book>
 <Book Series="X-Men: Blue" Number="22" Volume="2017" Year="2018">
 <Database Name="cv" Series="100712" Issue="661168" />
 </Book>
-<Book Series="Venom" Number="163" Volume="2016" Year="2018">
+<Book Series="Venom" Number="163" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="662102" />
 </Book>
 <Book Series="Venomized" Number="1" Volume="2018" Year="2018">
@@ -639,10 +639,10 @@
 <Book Series="Venomized" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="109637" Issue="668788" />
 </Book>
-<Book Series="Venom" Number="164" Volume="2016" Year="2018">
+<Book Series="Venom" Number="164" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="664929" />
 </Book>
-<Book Series="Venom" Number="165" Volume="2016" Year="2018">
+<Book Series="Venom" Number="165" Volume="2017" Year="2018">
 <Database Name="cv" Series="95845" Issue="667664" />
 </Book>
 <Book Series="Venom: First Host" Number="1" Volume="2018" Year="2018">
@@ -690,7 +690,7 @@
 <Book Series="Venom" Number="8" Volume="2018" Year="2019">
 <Database Name="cv" Series="110770" Issue="692091" />
 </Book>
-<Book Series="Web of Venom: Carnage Born" Number="1" Volume="2018" Year="2019">
+<Book Series="Web of Venom: Carnage Born" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="115418" Issue="692566" />
 </Book>
 <Book Series="Venom" Number="9" Volume="2018" Year="2019">
@@ -732,16 +732,16 @@
 <Book Series="Web of Venom: Wraith" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="130189" Issue="797985" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="1" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="726213" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="2" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="729685" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="3" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="731977" />
 </Book>
-<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="4" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="122667" Issue="736496" />
 </Book>
 <Book Series="Venom" Number="21" Volume="2018" Year="2020">
@@ -783,19 +783,19 @@
 <Book Series="Free Comic Book Day 2021: Spider-Man/Venom" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138341" Issue="880889" />
 </Book>
-<Book Series="Venom" Number="1" Volume="2021" Year="2022">
+<Book Series="Venom" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="893910" />
 </Book>
-<Book Series="Venom" Number="2" Volume="2021" Year="2022">
+<Book Series="Venom" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="896095" />
 </Book>
-<Book Series="Venom" Number="3" Volume="2021" Year="2022">
+<Book Series="Venom" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="899169" />
 </Book>
-<Book Series="Venom" Number="4" Volume="2021" Year="2022">
+<Book Series="Venom" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="903919" />
 </Book>
-<Book Series="Venom" Number="5" Volume="2021" Year="2022">
+<Book Series="Venom" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="907434" />
 </Book>
 <Book Series="Venom: Lethal Protector" Number="1" Volume="2022" Year="2022">
@@ -813,28 +813,28 @@
 <Book Series="Venom: Lethal Protector" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="141992" Issue="941572" />
 </Book>
-<Book Series="Venom" Number="6" Volume="2021" Year="2022">
+<Book Series="Venom" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="910623" />
 </Book>
-<Book Series="Venom" Number="7" Volume="2021" Year="2022">
+<Book Series="Venom" Number="7" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="916413" />
 </Book>
-<Book Series="Venom" Number="8" Volume="2021" Year="2022">
+<Book Series="Venom" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="929644" />
 </Book>
-<Book Series="Venom" Number="9" Volume="2021" Year="2022">
+<Book Series="Venom" Number="9" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="939095" />
 </Book>
-<Book Series="Venom" Number="10" Volume="2021" Year="2022">
+<Book Series="Venom" Number="10" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="946723" />
 </Book>
-<Book Series="Venom" Number="11" Volume="2021" Year="2022">
+<Book Series="Venom" Number="11" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="950377" />
 </Book>
-<Book Series="Venom" Number="12" Volume="2021" Year="2022">
+<Book Series="Venom" Number="12" Volume="2022" Year="2022">
 <Database Name="cv" Series="140084" Issue="952299" />
 </Book>
-<Book Series="Venom" Number="13" Volume="2021" Year="2023">
+<Book Series="Venom" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
 <Book Series="Venom: Lethal Protector II" Number="1" Volume="2023" Year="2023">
@@ -855,25 +855,25 @@
 <Book Series="Free Comic Book Day 2023: Spider-Man/Venom" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150032" Issue="987194" />
 </Book>
-<Book Series="Venom" Number="17" Volume="2021" Year="2023">
+<Book Series="Venom" Number="17" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="974097" />
 </Book>
-<Book Series="Venom" Number="18" Volume="2021" Year="2023">
+<Book Series="Venom" Number="18" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="981386" />
 </Book>
-<Book Series="Venom" Number="19" Volume="2021" Year="2023">
+<Book Series="Venom" Number="19" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="989669" />
 </Book>
-<Book Series="Venom" Number="20" Volume="2021" Year="2023">
+<Book Series="Venom" Number="20" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="993240" />
 </Book>
-<Book Series="Venom" Number="21" Volume="2021" Year="2023">
+<Book Series="Venom" Number="21" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="996034" />
 </Book>
-<Book Series="Venom" Number="22" Volume="2021" Year="2023">
+<Book Series="Venom" Number="22" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="998585" />
 </Book>
-<Book Series="Venom" Number="23" Volume="2021" Year="2023">
+<Book Series="Venom" Number="23" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1003591" />
 </Book>
 <Book Series="What If...? Dark: Venom" Number="1" Volume="2023" Year="2023">
@@ -894,10 +894,10 @@
 <Book Series="Extreme Venomverse" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="150177" Issue="1002006" />
 </Book>
-<Book Series="Venom" Number="24" Volume="2021" Year="2023">
+<Book Series="Venom" Number="24" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1010056" />
 </Book>
-<Book Series="Venom" Number="25" Volume="2021" Year="2023">
+<Book Series="Venom" Number="25" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1013500" />
 </Book>
 <Book Series="Death of the Venomverse" Number="1" Volume="2023" Year="2023">
@@ -915,28 +915,28 @@
 <Book Series="Death of the Venomverse" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="152650" Issue="1018019" />
 </Book>
-<Book Series="Venom" Number="26" Volume="2021" Year="2023">
+<Book Series="Venom" Number="26" Volume="2022" Year="2023">
 <Database Name="cv" Series="140084" Issue="1024059" />
 </Book>
-<Book Series="Venom" Number="27" Volume="2021" Year="2024">
+<Book Series="Venom" Number="27" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1027603" />
 </Book>
-<Book Series="Venom" Number="28" Volume="2021" Year="2024">
+<Book Series="Venom" Number="28" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1033213" />
 </Book>
-<Book Series="Venom" Number="29" Volume="2021" Year="2024">
+<Book Series="Venom" Number="29" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1038981" />
 </Book>
-<Book Series="Venom" Number="30" Volume="2021" Year="2024">
+<Book Series="Venom" Number="30" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1043842" />
 </Book>
-<Book Series="Venom" Number="31" Volume="2021" Year="2024">
+<Book Series="Venom" Number="31" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1047093" />
 </Book>
 <Book Series="Carnage" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="154836" Issue="1047945" />
 </Book>
-<Book Series="Venom" Number="32" Volume="2021" Year="2024">
+<Book Series="Venom" Number="32" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1050578" />
 </Book>
 <Book Series="Carnage" Number="6" Volume="2024" Year="2024">
@@ -957,10 +957,10 @@
 <Book Series="What If...? Venom" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="157037" Issue="1058724" />
 </Book>
-<Book Series="Venom" Number="33" Volume="2021" Year="2024">
+<Book Series="Venom" Number="33" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1054384" />
 </Book>
-<Book Series="Venom" Number="34" Volume="2021" Year="2024">
+<Book Series="Venom" Number="34" Volume="2022" Year="2024">
 <Database Name="cv" Series="140084" Issue="1058721" />
 </Book>
 <Book Series="Edge of Venomverse" Number="1" Volume="2025" Year="2025">

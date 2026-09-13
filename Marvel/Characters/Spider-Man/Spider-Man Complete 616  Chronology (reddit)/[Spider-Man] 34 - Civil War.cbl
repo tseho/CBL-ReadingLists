@@ -15,7 +15,7 @@
 <Book Series="The Sensational Spider-Man" Number="25" Volume="2006" Year="2006">
 <Database Name="cv" Series="18177" Issue="106728" />
 </Book>
-<Book Series="New Avengers" Number="16" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105969" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="529" Volume="1963" Year="2006">
@@ -45,16 +45,16 @@
 <Book Series="Spider-Man Unlimited" Number="15" Volume="2004" Year="2006">
 <Database Name="cv" Series="11306" Issue="114320" />
 </Book>
-<Book Series="New Avengers" Number="17" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="17" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="105956" />
 </Book>
-<Book Series="New Avengers" Number="18" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="106195" />
 </Book>
-<Book Series="New Avengers" Number="19" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="19" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="106196" />
 </Book>
-<Book Series="New Avengers" Number="20" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="20" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107001" />
 </Book>
 <Book Series="New Avengers Annual" Number="1" Volume="2006" Year="2006">
@@ -81,7 +81,7 @@
 <Book Series="The Amazing Spider-Man" Number="533" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="106137" />
 </Book>
-<Book Series="New Avengers" Number="21" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="21" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107893" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="28" Volume="2006" Year="2006">
@@ -96,7 +96,7 @@
 <Book Series="Friendly Neighborhood Spider-Man" Number="13" Volume="2005" Year="2006">
 <Database Name="cv" Series="17998" Issue="105386" />
 </Book>
-<Book Series="New Avengers" Number="22" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="22" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="107895" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="29" Volume="2006" Year="2006">
@@ -111,7 +111,7 @@
 <Book Series="The Amazing Spider-Man" Number="534" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="105614" />
 </Book>
-<Book Series="New Avengers" Number="23" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="23" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108038" />
 </Book>
 <Book Series="Civil War" Number="3" Volume="2006" Year="2006">
@@ -123,13 +123,13 @@
 <Book Series="The Amazing Spider-Man" Number="535" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="105556" />
 </Book>
-<Book Series="New Avengers" Number="24" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="24" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108039" />
 </Book>
 <Book Series="Civil War" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18023" Issue="106999" />
 </Book>
-<Book Series="New Avengers" Number="25" Volume="2004" Year="2006">
+<Book Series="New Avengers" Number="25" Volume="2005" Year="2006">
 <Database Name="cv" Series="11497" Issue="108040" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="536" Volume="1963" Year="2006">
@@ -144,7 +144,7 @@
 <Book Series="The Sensational Spider-Man" Number="34" Volume="2006" Year="2007">
 <Database Name="cv" Series="18177" Issue="113628" />
 </Book>
-<Book Series="Iron Man" Number="14" Volume="2004" Year="2007">
+<Book Series="Iron Man" Number="14" Volume="2005" Year="2007">
 <Database Name="cv" Series="18220" Issue="111399" />
 </Book>
 <Book Series="Friendly Neighborhood Spider-Man" Number="14" Volume="2005" Year="2007">

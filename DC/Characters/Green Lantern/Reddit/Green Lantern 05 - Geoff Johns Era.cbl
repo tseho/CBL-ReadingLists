@@ -450,7 +450,7 @@
 <Book Series="Blackest Night: Batman" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="27386" Issue="170525" />
 </Book>
-<Book Series="The Question" Number="37" Volume="1986" Year="2010">
+<Book Series="The Question" Number="37" Volume="1987" Year="2010">
 <Database Name="cv" Series="3805" Issue="195384" />
 </Book>
 <Book Series="Blackest Night" Number="3" Volume="2009" Year="2009">
@@ -501,13 +501,13 @@
 <Book Series="Blackest Night: The Flash" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30162" Issue="185677" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="1" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="189478" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="194482" />
 </Book>
-<Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
+<Book Series="Blackest Night: JSA" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30673" Issue="198358" />
 </Book>
 <Book Series="Green Lantern Corps" Number="42" Volume="2006" Year="2010">
@@ -552,7 +552,7 @@
 <Book Series="Green Lantern" Number="50" Volume="2005" Year="2010">
 <Database Name="cv" Series="18216" Issue="194620" />
 </Book>
-<Book Series="The Atom &#38; Hawkman" Number="46" Volume="1968" Year="2010">
+<Book Series="The Atom &amp; Hawkman" Number="46" Volume="1968" Year="2010">
 <Database Name="cv" Series="2387" Issue="194433" />
 </Book>
 <Book Series="Adventure Comics" Number="7" Volume="2009" Year="2010">
